@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
+	"io"
 	"io/ioutil"
 	"log"
 	"math/big"
@@ -22,7 +23,8 @@ var (
 )
 
 type Config struct {
-	Root Subdir
+	Root     Subdir
+	MediaDir string `yaml:"media_dir"`
 }
 
 type Subdir struct {
@@ -98,6 +100,7 @@ type ThreadState struct {
 type RequestConfig struct {
 	Expansions  []string `json:",omitempty"`
 	TweetFields []string `json:",omitempty"`
+	MediaFields []string `json:",omitempty"`
 	CustomFlags []string `json:",omitmepty"`
 }
 
@@ -108,7 +111,9 @@ func (c RequestConfig) QueryParams() url.Values {
 	}
 	if len(c.TweetFields) > 0 {
 		params.Set("tweet.fields", strings.Join(c.TweetFields, ","))
-
+	}
+	if len(c.MediaFields) > 0 {
+		params.Set("media.fields", strings.Join(c.MediaFields, ","))
 	}
 	return params
 }
@@ -145,8 +150,16 @@ type TwitterUser struct {
 	Username string `json:"username"`
 }
 
+type Media struct {
+	Type       string `json:"type"`
+	Key        string `json:"media_key"`
+	URL        string `json:"url,omitempty"`
+	PreviewURL string `json:"preview_image_url,omitempty"`
+}
+
 type TweetIncludes struct {
 	Users []TwitterUser `json:"users,omitempty"`
+	Media []Media       `json:"media,omitempty"`
 }
 
 type Entities struct {
@@ -163,6 +176,10 @@ type EntityURL struct {
 	Title       string `json:"title,omitempty"`
 }
 
+type Attachments struct {
+	MediaKeys []string `json:"media_keys,omitempty"`
+}
+
 type Tweet struct {
 	ID               string            `json:"id"`
 	Text             string            `json:"text"`
@@ -171,6 +188,7 @@ type Tweet struct {
 	ReferencedTweets []ReferencedTweet `json:"referenced_tweets,omitempty"`
 	Includes         TweetIncludes     `json:"includes,omitempty"`
 	Entities         Entities          `json:"entities,omitempty"`
+	Attachments      Attachments       `json:"attachments,omitempty"`
 
 	RequestConfig RequestConfig
 }
@@ -245,13 +263,23 @@ func (state *State) Update(cfg *Config) error {
 }
 
 var requestCfg = RequestConfig{
-	Expansions: []string{"author_id"},
+	Expansions: []string{
+		"author_id",
+		"attachments.media_keys",
+	},
 	TweetFields: []string{
 		"author_id",
 		"conversation_id",
 		"entities",
 		"referenced_tweets",
 		"text",
+		"attachments",
+	},
+	MediaFields: []string{
+		"media_key",
+		"type",
+		"url",
+		"preview_image_url",
 	},
 }
 
@@ -431,14 +459,18 @@ func fetchTweet(id string, config RequestConfig) (Tweet, error) {
 		return Tweet{}, fmt.Errorf("request failed with code %d: %s", resp.StatusCode, body)
 	}
 
+	body, err := io.ReadAll(resp.Body)
+	if err != nil {
+		return Tweet{}, fmt.Errorf("reading response: %w", err)
+	}
+	log.Printf("%s", string(body))
 	d := struct {
 		Data     Tweet         `json:"data"`
 		Includes TweetIncludes `json:"includes"`
 	}{}
-	if err := json.NewDecoder(resp.Body).Decode(&d); err != nil {
+	if err := json.Unmarshal(body, &d); err != nil {
 		return Tweet{}, fmt.Errorf("decoding response: %w", err)
 	}
-	log.Printf("%#v", d)
 	t := d.Data
 	t.RequestConfig = config
 	t.Includes = d.Includes
@@ -490,6 +522,12 @@ func fetchUserTimeline(userID string, config RequestConfig, sinceID string) ([]T
 			return r, fmt.Errorf("request failed with code %d: %s", resp.StatusCode, body)
 		}
 
+		body, err := io.ReadAll(resp.Body)
+		if err != nil {
+			return r, fmt.Errorf("reading response: %w", err)
+		}
+		resp.Body.Close()
+		log.Printf("%s", string(body))
 		d := struct {
 			Data     []Tweet       `json:"data"`
 			Includes TweetIncludes `json:"includes"`
@@ -497,11 +535,9 @@ func fetchUserTimeline(userID string, config RequestConfig, sinceID string) ([]T
 				NextToken string `json:"next_token"`
 			} `json:"meta"`
 		}{}
-		if err := json.NewDecoder(resp.Body).Decode(&d); err != nil {
-			resp.Body.Close()
+		if err := json.Unmarshal(body, &d); err != nil {
 			return r, fmt.Errorf("decoding response: %w", err)
 		}
-		resp.Body.Close()
 
 		log.Printf("%#v", d)
 		for _, t := range d.Data {
