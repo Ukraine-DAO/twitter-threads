@@ -57,9 +57,9 @@ type Media struct {
 }
 
 type TweetIncludes struct {
-	Users  []TwitterUser     `json:"users,omitempty"`
-	Media  []Media           `json:"media,omitempty"`
-	Tweets []TweetNoIncludes `json:"tweets,omitempty"`
+	Users  []TwitterUser `json:"users,omitempty"`
+	Media  []Media       `json:"media,omitempty"`
+	Tweets []Tweet       `json:"tweets,omitempty"`
 }
 
 type Entities struct {
@@ -80,7 +80,7 @@ type Attachments struct {
 	MediaKeys []string `json:"media_keys,omitempty"`
 }
 
-type TweetNoIncludes struct {
+type Tweet struct {
 	ID               string            `json:"id"`
 	Text             string            `json:"text"`
 	ConversationID   string            `json:"conversation_id"`
@@ -88,11 +88,7 @@ type TweetNoIncludes struct {
 	ReferencedTweets []ReferencedTweet `json:"referenced_tweets,omitempty"`
 	Entities         Entities          `json:"entities,omitempty"`
 	Attachments      Attachments       `json:"attachments,omitempty"`
-}
-
-type Tweet struct {
-	TweetNoIncludes
-	Includes TweetIncludes `json:"includes,omitempty"`
+	Includes         TweetIncludes     `json:"includes,omitempty"`
 
 	RequestConfig common.RequestConfig
 }
