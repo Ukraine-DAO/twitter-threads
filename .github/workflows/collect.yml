@@ -1,0 +1,52 @@
+name: Collect tweets
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["main"]
+    paths:
+      - 'collect/**'
+      - 'common/**'
+      - 'state/**'
+      - 'twitter/**'
+      - 'config.yml'
+      - 'go.*'
+
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  schedule:
+    - cron: "24 4/6 * * *"
+
+# Allow one concurrent deployment
+concurrency:
+  group: "collect"
+  cancel-in-progress: true
+
+jobs:
+  collect:
+    permissions:
+      id-token: write
+      pages: write
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Go compiler
+        uses: actions/setup-go@v3
+        with:
+          go-version: '>=1.17.0'
+      - name: Collect tweets
+        run: |
+          go run ./collect --config config.yml --state state.json
+      # TODO: fetch media
+      - name: Commit updated state
+        run: |
+          git config user.name automation
+          git config user.email github-actions@github.com
+          git add state.json
+          if ! git diff-index --quiet HEAD; then
+            git commit -m 'Update state'
+            git push
+          fi
