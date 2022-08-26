@@ -1,4 +1,4 @@
 [submodule "generated"]
 	path = generated
-	url = https://github.com/rusni-pyzda/twitter-threads.git
+	url = git@github.com:rusni-pyzda/twitter-threads.git
 	branch = generated
