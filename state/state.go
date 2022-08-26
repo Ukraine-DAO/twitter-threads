@@ -50,10 +50,6 @@ func New() *State {
 	}
 }
 
-type ThreadState struct {
-	Tweets []twitter.Tweet
-}
-
 func (state *State) Update(cfg *common.Config) error {
 	newThreads := []string{}
 	for _, id := range cfg.ThreadIDs() {

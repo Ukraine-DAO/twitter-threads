@@ -1,6 +1,7 @@
 package common
 
 import (
+	"path"
 	"sort"
 
 	"gopkg.in/yaml.v3"
@@ -62,4 +63,21 @@ func (cfg *Config) ThreadIDs() []string {
 	}
 	sort.Strings(r)
 	return r
+}
+
+func (s *Subdir) ThreadPages() map[string]Thread {
+	r := map[string]Thread{}
+	for name, t := range s.Pages {
+		r[name] = t.Thread
+	}
+	for name, subdir := range s.Subdirs {
+		for sname, t := range subdir.ThreadPages() {
+			r[path.Join(name, sname)] = t
+		}
+	}
+	return r
+}
+
+func (cfg *Config) ThreadPages() map[string]Thread {
+	return cfg.Root.ThreadPages()
 }
