@@ -9,76 +9,17 @@ import (
 	"log"
 	"math/big"
 	"net/http"
-	"net/url"
 	"os"
-	"sort"
-	"strings"
 
 	"gopkg.in/yaml.v3"
+
+	"github.com/rusni-pyzda/twitter-threads/common"
 )
 
 var (
 	configPath = flag.String("config", "", "Path to the config file")
 	statePath  = flag.String("state", "", "Path to the state file")
 )
-
-type Config struct {
-	Root     Subdir
-	MediaDir string `yaml:"media_dir"`
-}
-
-type Subdir struct {
-	Subdirs map[string]Subdir     `yaml:",omitempty"`
-	Pages   map[string]YamlThread `yaml:",inline,omitempty"`
-}
-
-type Thread struct {
-	ThreadID string `yaml:"thread_id"`
-}
-
-type YamlThread struct {
-	Thread `yaml:",inline"`
-}
-
-func (t *YamlThread) UnmarshalYAML(value *yaml.Node) error {
-	if value.Kind == yaml.ScalarNode {
-		return value.Decode(&t.ThreadID)
-	}
-	return value.Decode(&t.Thread)
-}
-
-func (t YamlThread) MarshalYAML() (interface{}, error) {
-	if true {
-		return t.ThreadID, nil
-	}
-	return t.Thread, nil
-}
-
-func (s *Subdir) ThreadIDs() []string {
-	r := []string{}
-	for _, v := range s.Pages {
-		r = append(r, v.ThreadID)
-	}
-	for _, sd := range s.Subdirs {
-		r = append(r, sd.ThreadIDs()...)
-	}
-	return r
-}
-
-func (cfg *Config) ThreadIDs() []string {
-	id_list := cfg.Root.ThreadIDs()
-	present := map[string]bool{}
-	r := []string{}
-	for _, id := range id_list {
-		if present[id] {
-			continue
-		}
-		present[id] = true
-		r = append(r, id)
-	}
-	sort.Strings(r)
-	return r
-}
 
 type State struct {
 	Threads map[string]ThreadState
@@ -95,48 +36,6 @@ func NewState() *State {
 
 type ThreadState struct {
 	Tweets []Tweet
-}
-
-type RequestConfig struct {
-	Expansions  []string `json:",omitempty"`
-	TweetFields []string `json:",omitempty"`
-	MediaFields []string `json:",omitempty"`
-	CustomFlags []string `json:",omitmepty"`
-}
-
-func (c RequestConfig) QueryParams() url.Values {
-	params := url.Values{}
-	if len(c.Expansions) > 0 {
-		params.Set("expansions", strings.Join(c.Expansions, ","))
-	}
-	if len(c.TweetFields) > 0 {
-		params.Set("tweet.fields", strings.Join(c.TweetFields, ","))
-	}
-	if len(c.MediaFields) > 0 {
-		params.Set("media.fields", strings.Join(c.MediaFields, ","))
-	}
-	return params
-}
-
-func (c RequestConfig) Equal(other RequestConfig) bool {
-	setEqual := func(a []string, b []string) bool {
-		if len(a) != len(b) {
-			return false
-		}
-		as := map[string]bool{}
-		for _, aa := range a {
-			as[aa] = true
-		}
-		for _, bb := range b {
-			if !as[bb] {
-				return false
-			}
-		}
-		return true
-	}
-	return setEqual(c.Expansions, other.Expansions) &&
-		setEqual(c.TweetFields, other.TweetFields) &&
-		setEqual(c.CustomFlags, other.CustomFlags)
 }
 
 type ReferencedTweet struct {
@@ -158,8 +57,9 @@ type Media struct {
 }
 
 type TweetIncludes struct {
-	Users []TwitterUser `json:"users,omitempty"`
-	Media []Media       `json:"media,omitempty"`
+	Users  []TwitterUser     `json:"users,omitempty"`
+	Media  []Media           `json:"media,omitempty"`
+	Tweets []TweetNoIncludes `json:"tweets,omitempty"`
 }
 
 type Entities struct {
@@ -180,17 +80,21 @@ type Attachments struct {
 	MediaKeys []string `json:"media_keys,omitempty"`
 }
 
-type Tweet struct {
+type TweetNoIncludes struct {
 	ID               string            `json:"id"`
 	Text             string            `json:"text"`
 	ConversationID   string            `json:"conversation_id"`
 	AuthorID         string            `json:"author_id"`
 	ReferencedTweets []ReferencedTweet `json:"referenced_tweets,omitempty"`
-	Includes         TweetIncludes     `json:"includes,omitempty"`
 	Entities         Entities          `json:"entities,omitempty"`
 	Attachments      Attachments       `json:"attachments,omitempty"`
+}
 
-	RequestConfig RequestConfig
+type Tweet struct {
+	TweetNoIncludes
+	Includes TweetIncludes `json:"includes,omitempty"`
+
+	RequestConfig common.RequestConfig
 }
 
 func (t *Tweet) InReplyTo() string {
@@ -211,7 +115,7 @@ func errIfNotThrottled(err error) error {
 	return err
 }
 
-func (state *State) Update(cfg *Config) error {
+func (state *State) Update(cfg *common.Config) error {
 	newThreads := []string{}
 	for _, id := range cfg.ThreadIDs() {
 		if _, ok := state.Threads[id]; !ok {
@@ -262,10 +166,11 @@ func (state *State) Update(cfg *Config) error {
 	return nil
 }
 
-var requestCfg = RequestConfig{
+var requestCfg = common.RequestConfig{
 	Expansions: []string{
 		"author_id",
 		"attachments.media_keys",
+		"referenced_tweets.id",
 	},
 	TweetFields: []string{
 		"author_id",
@@ -283,7 +188,7 @@ var requestCfg = RequestConfig{
 	},
 }
 
-func (state *State) WalkThreadsUp(cfg *Config) error {
+func (state *State) WalkThreadsUp(cfg *common.Config) error {
 	for _, id := range cfg.ThreadIDs() {
 		gotHead := false
 		for _, t := range state.Threads[id].Tweets {
@@ -425,7 +330,7 @@ func (ts *ThreadState) Update(tweets []Tweet) {
 	}
 }
 
-func fetchTweet(id string, config RequestConfig) (Tweet, error) {
+func fetchTweet(id string, config common.RequestConfig) (Tweet, error) {
 	token := os.Getenv("TWITTER_BEARER_TOKEN")
 	if token == "" {
 		return Tweet{}, fmt.Errorf("missing twitter bearer token")
@@ -479,7 +384,7 @@ func fetchTweet(id string, config RequestConfig) (Tweet, error) {
 
 // fetchUserTimeline fetches all tweets written by a user after tweet sinceID.
 // Returns valid []Tweet even along with an error.
-func fetchUserTimeline(userID string, config RequestConfig, sinceID string) ([]Tweet, error) {
+func fetchUserTimeline(userID string, config common.RequestConfig, sinceID string) ([]Tweet, error) {
 	token := os.Getenv("TWITTER_BEARER_TOKEN")
 	if token == "" {
 		return nil, fmt.Errorf("missing twitter bearer token")
@@ -539,7 +444,6 @@ func fetchUserTimeline(userID string, config RequestConfig, sinceID string) ([]T
 			return r, fmt.Errorf("decoding response: %w", err)
 		}
 
-		log.Printf("%#v", d)
 		for _, t := range d.Data {
 			t.RequestConfig = config
 			t.Includes = d.Includes
@@ -565,7 +469,7 @@ func main() {
 		log.Fatalf("Failed to read config file: %s", err)
 	}
 
-	cfg := &Config{}
+	cfg := &common.Config{}
 	if err := yaml.Unmarshal(b, cfg); err != nil {
 		log.Fatalf("Failed to unmarshal config: %s", err)
 	}
