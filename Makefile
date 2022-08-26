@@ -13,4 +13,4 @@ render/render: render/*.go common/*.go state/*.go twitter/*.go
 	go build -o "$@" ./render
 
 render: render/render config.yml state.json
-	$< --config config.yml --state state.json --output_dir output
+	$< --config config.yml --state state.json --output_dir generated
