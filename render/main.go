@@ -104,6 +104,9 @@ func tweetTextToMarkdown(t twitter.Tweet, cfg common.RenderConfig) string {
 		if strings.HasPrefix(u.ExpandedURL, "https://twitter.com/") && strings.HasSuffix(u.ExpandedURL, "/"+quotedID) {
 			// Link to quoted tweet, simply remove.
 			repls = append(repls, replacement{u.Start, u.End, ""})
+		} else if strings.HasPrefix(u.ExpandedURL, "https://twitter.com/") && strings.Contains(u.ExpandedURL, "/status/"+t.ID+"/photo/") {
+			// Link to the attached picture.
+			repls = append(repls, replacement{u.Start, u.End, ""})
 		} else {
 			linkText := u.DisplayURL
 			if u.Title != "" {
