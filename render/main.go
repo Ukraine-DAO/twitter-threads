@@ -11,6 +11,7 @@ import (
 	"os"
 	"path"
 	"path/filepath"
+	"regexp"
 	"strings"
 	text_template "text/template"
 
@@ -55,6 +56,20 @@ type Block struct {
 	QuotedTweet string
 }
 
+var (
+	prefixThreadCounter = regexp.MustCompile("^[0-9]{1,2}/([xn]|[0-9]{1,2})?")
+	suffixThreadCounter = regexp.MustCompile("[0-9]{1,2}/([xn]|[0-9]{1,2})?$")
+)
+
+func tweetTextToMarkdown(t twitter.Tweet, cfg common.RenderConfig) string {
+	txt := t.Text
+	txt = prefixThreadCounter.ReplaceAllLiteralString(txt, "")
+	txt = suffixThreadCounter.ReplaceAllLiteralString(txt, "")
+	txt = strings.TrimLeft(txt, " ")
+	txt = strings.TrimRight(txt, " ")
+	return html.UnescapeString(txt)
+}
+
 func parseThread(name string, thread common.Thread, state state.ThreadState) Thread {
 	chain := state.TweetChain()
 	r := Thread{
@@ -65,7 +80,7 @@ func parseThread(name string, thread common.Thread, state state.ThreadState) Thr
 	}
 	add := func(b Block) { r.Blocks = append(r.Blocks, b) }
 	for _, t := range chain {
-		add(Block{Paragraph: html.UnescapeString(t.Text)})
+		add(Block{Paragraph: tweetTextToMarkdown(t, thread.Config)})
 
 		if len(t.Attachments.MediaKeys) > 0 {
 			imgs := []string{}
