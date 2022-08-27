@@ -12,6 +12,7 @@ import (
 	"path"
 	"path/filepath"
 	"regexp"
+	"sort"
 	"strings"
 	text_template "text/template"
 
@@ -46,8 +47,10 @@ var (
 )
 
 type Thread struct {
-	Title  string
-	Blocks []Block
+	Title          string
+	ConversationID string
+	AuthorUsername string
+	Blocks         []Block
 }
 
 type Block struct {
@@ -62,7 +65,28 @@ var (
 )
 
 func tweetTextToMarkdown(t twitter.Tweet, cfg common.RenderConfig) string {
+	quotedID := ""
+	for _, rt := range t.ReferencedTweets {
+		if rt.Type == "quoted" {
+			quotedID = rt.ID
+		}
+	}
 	txt := t.Text
+	sort.Slice(t.Entities.URLs, func(i, j int) bool {
+		return t.Entities.URLs[i].Start > t.Entities.URLs[j].Start
+	})
+	for _, u := range t.Entities.URLs {
+		if strings.HasPrefix(u.ExpandedURL, "https://twitter.com/") && strings.HasSuffix(u.ExpandedURL, "/"+quotedID) {
+			// Link to quoted tweet, simply remove.
+			txt = strings.ReplaceAll(txt, u.URL, "")
+		} else {
+			linkText := u.DisplayURL
+			if u.Title != "" {
+				linkText = u.Title
+			}
+			txt = strings.ReplaceAll(txt, u.URL, fmt.Sprintf("[%s](%s)", linkText, u.ExpandedURL))
+		}
+	}
 	txt = prefixThreadCounter.ReplaceAllLiteralString(txt, "")
 	txt = suffixThreadCounter.ReplaceAllLiteralString(txt, "")
 	txt = strings.TrimLeft(txt, " ")
@@ -73,11 +97,18 @@ func tweetTextToMarkdown(t twitter.Tweet, cfg common.RenderConfig) string {
 func parseThread(name string, thread common.Thread, state state.ThreadState) Thread {
 	chain := state.TweetChain()
 	r := Thread{
-		Title: thread.Title,
+		Title:          thread.Title,
+		ConversationID: state.Tweets[0].ConversationID,
 	}
 	if r.Title == "" {
 		r.Title = cases.Title(language.English).String(strings.ReplaceAll(name, "_", " "))
 	}
+	for _, u := range state.Tweets[0].Includes.Users {
+		if u.ID == state.Tweets[0].AuthorID {
+			r.AuthorUsername = u.Username
+		}
+	}
+
 	add := func(b Block) { r.Blocks = append(r.Blocks, b) }
 	for _, t := range chain {
 		add(Block{Paragraph: tweetTextToMarkdown(t, thread.Config)})
