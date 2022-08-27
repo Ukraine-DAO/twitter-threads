@@ -6,6 +6,9 @@ I have substantial amount of evidence but will be grateful for additional info �
 
 Please share the truth about who they are with others instead of their 🇷🇺 propaganda. https://t.co/w1ZBrVikfq
 
+| [![](https://pbs.twimg.com/media/FTKwR6DWABMDYi4.jpg)](https://pbs.twimg.com/media/FTKwR6DWABMDYi4.jpg) |
+| :-: |
+
 2/ I was wondering if they would stop spreading #russianLies about Ukraine after the genocidal invasion started. Not even that stopped them. 
 
 Here&#39;s one of my favourite examples of @Reuters &#34;journalism&#34; 👏 https://t.co/sdizdWWzSm
@@ -66,6 +69,9 @@ But it’s worse than that. Reuters amplifies Russian propaganda and falsifies t
 </blockquote>
 
 7/ 19 Feb 2022 @reuters https://t.co/EpSO7X45n1
+
+| [![](https://pbs.twimg.com/media/FT5CR2ZX0AAIO4y.jpg)](https://pbs.twimg.com/media/FT5CR2ZX0AAIO4y.jpg) |
+| :-: |
 
 8/ Completely forgot about this, thank you for sharing @wireout @reuters 
 https://t.co/9iUvFhkLop
@@ -147,6 +153,9 @@ https://t.co/5ixExV5OuX
 
 15/ I&#39;m patiently waiting for @felix_light to explain to us this nonsense he wrote for @Reuters. Felix, check your DMs. I&#39;m in the UK too so if you need medical attention please let me know, I&#39;ll organise. https://t.co/HQl5QRk6RZ https://t.co/NnF3d1sBSK
 
+| [![](https://pbs.twimg.com/media/FUBKCZzXEAAV9gw.jpg)](https://pbs.twimg.com/media/FUBKCZzXEAAV9gw.jpg) |
+| :-: |
+
 <blockquote class="twitter-tweet" data-dnt="true" data-theme="dark">
 	<p lang="en" dir="ltr">
     Micro-scooplet: a top official in Kherson&#39;s pro-Russian administration told me today no decisions on joining Russia until the end of the year - because Russian defeats around Mykolaiv mean Ukrainian troops are still too close to the city.
@@ -169,7 +178,13 @@ https://t.co/PPwWjlKRcE
 
 18/ Let&#39;s make @reuters memes! @felix_light https://t.co/tSaHHg6Ipq
 
+| [![](https://pbs.twimg.com/media/FUBdzr3WQAMoFyt.jpg)](https://pbs.twimg.com/media/FUBdzr3WQAMoFyt.jpg) |
+| :-: |
+
 19/ Attaching this useful diagram for @reuters journalists who struggle to make sense of what ruscists are saying. @felix_light, you are welcome. https://t.co/3DuqB9f4W2
+
+| [![](https://pbs.twimg.com/media/FUCCEu2XsAISMOQ.jpg)](https://pbs.twimg.com/media/FUCCEu2XsAISMOQ.jpg) |
+| :-: |
 
 20/ https://t.co/vAsPxHoQFq
 
@@ -368,6 +383,9 @@ These are fair questions:
 
 Shame on you @Reuters @GuyReuters #ReutersLies #ArmUkraineNow https://t.co/ZxhMJx5Inm
 
+| [![](https://pbs.twimg.com/media/FUJ3ZbWWIAAWf7-.jpg)](https://pbs.twimg.com/media/FUJ3ZbWWIAAWf7-.jpg) | [![](https://pbs.twimg.com/media/FUJ3ljgWQAAqAjA.jpg)](https://pbs.twimg.com/media/FUJ3ljgWQAAqAjA.jpg) |
+| :-: | :-: |
+
 38/ @reuters #ReuterLies
 
 #GenocideOfUkrainians https://t.co/y4MMBQaq7h
@@ -434,3 +452,6 @@ https://t.co/FlJqHsrIqb
 43/ @tuvangumrukcu @Orhan__Coskun  - brought you guys some useful materials you can use for your reference next time you write about russia. You are welcome. 
 
 @reuters #ReutersLies @GuyReuters https://t.co/irmHZrYRKH
+
+| [![](https://pbs.twimg.com/media/FUWA3AFXEAA9bh2.jpg)](https://pbs.twimg.com/media/FUWA3AFXEAA9bh2.jpg) | [![](https://pbs.twimg.com/media/FUWA9IGX0AE5ass.jpg)](https://pbs.twimg.com/media/FUWA9IGX0AE5ass.jpg) |
+| :-: | :-: |

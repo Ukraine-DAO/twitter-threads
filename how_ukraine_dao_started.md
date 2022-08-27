@@ -21,6 +21,9 @@ The Telegram chat that turned into @Ukraine_DAO was set up on 21 Feb - 3 days be
 
 We help to make that #russiaNGMI https://t.co/4i3AKWcF9s
 
+| [![](https://pbs.twimg.com/media/FSrlc42WYAAQ5hv.jpg)](https://pbs.twimg.com/media/FSrlc42WYAAQ5hv.jpg) |
+| :-: |
+
 3/ @Ukraine_DAO broke the perception of NFTs as just silly cartoon images, to show how they can solve real life problems. 
 
 ✨ At some point, contributions were being received at an average rate of $1000 per minute, along with a 500 ETH donation from @onlyfans 
@@ -56,6 +59,9 @@ We help to make that #russiaNGMI https://t.co/4i3AKWcF9s
 
 The trucks are partially powered by ETH donations - huge thank you to @kmets_ for being their big supporter ❤️ https://t.co/GXefO3f2QW https://t.co/elTPNPkzJo
 
+| [![](https://pbs.twimg.com/media/FSrolu1X0AAaBtU.jpg)](https://pbs.twimg.com/media/FSrolu1X0AAaBtU.jpg) | [![](https://pbs.twimg.com/media/FSrolu2WUAAVfV-.jpg)](https://pbs.twimg.com/media/FSrolu2WUAAVfV-.jpg) |
+| :-: | :-: |
+
 <blockquote class="twitter-tweet" data-dnt="true" data-theme="dark">
 	<p lang="en" dir="ltr">
     I couldn&#39;t speak about this before for safety reasons but a @Ukraine_DAO truck and its driver Oleksandr made a heroic decision to deliver food to the Kharkiv region a few days ago. A nerve wrecking few days for us but he made it out! 💙💛 https://t.co/mmcERnpTcR
@@ -67,6 +73,9 @@ The trucks are partially powered by ETH donations - huge thank you to @kmets_ fo
 
 It&#39;s a huge privilege for all of us to be able to help Ukraine, and also its defenders - through @BackAndAlive. 
 #StandWithUkraine 🇺🇦 https://t.co/QQYSYKIwgF
+
+| [![](https://pbs.twimg.com/media/FSrpin9XsAMX2vh.jpg)](https://pbs.twimg.com/media/FSrpin9XsAMX2vh.jpg) |
+| :-: |
 
 7/ Forever grateful for all the love we get - not sure where I would be right now without the mentorship &amp;amp; support 8of @BlockGeekDima. He gave me the most valuable advice at some point - to remain authentic, just the way I am. Very happy I have followed this advice so far. https://t.co/GtS4PpRCWP
 
@@ -119,6 +128,9 @@ Each and every Ukrainian had to become a fighter - different frontlines for each
 We are under attack from every front. 
 
 But we are together ❤️ https://t.co/nWywtcQvib
+
+| [![](https://pbs.twimg.com/media/FSrwd-nWYAAH7zl.jpg)](https://pbs.twimg.com/media/FSrwd-nWYAAH7zl.jpg) |
+| :-: |
 
 11/ &#34;Real empowerment requires boundaries and clear expectations via common law or governance.&#34; @drosewritings 
 
