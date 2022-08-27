@@ -14,7 +14,6 @@ The Telegram chat that turned into @Ukraine_DAO was set up on 21 Feb - 3 days be
     </p>
     &mdash; <a href="https://twitter.com/Ukraine_DAO/status/1525267890852749312">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 2/ It was just @zencephalon, @DefiHope and me in the beginning. 
 
@@ -41,7 +40,6 @@ We help to make that #russiaNGMI https://t.co/4i3AKWcF9s
     </p>
     &mdash; <a href="https://twitter.com/Ukraine_DAO/status/1522459077628026880">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 4/ We organized both online and offline to serve @Ukraine and show how charity, war relief and evacuation efforts can be organized through DAOs - decentralized autonomous organizations. 
  
@@ -53,7 +51,6 @@ We help to make that #russiaNGMI https://t.co/4i3AKWcF9s
     </p>
     &mdash; <a href="https://twitter.com/EricCMack/status/1512167184058908673">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 5/ @Ukraine_DAO Trucks went into an actual warzone to deliver food to civilians in the Kharkiv region. This has literally never been done before by a DAO.
 
@@ -65,7 +62,6 @@ The trucks are partially powered by ETH donations - huge thank you to @kmets_ fo
     </p>
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1513951427617509378">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 6/ @Ukraine_DAO is now supported by @mintsyfra of @Ukraine - first DAO in the world to have support at a state level.
 
@@ -83,7 +79,6 @@ It&#39;s a huge privilege for all of us to be able to help Ukraine, and also its
     </p>
     &mdash; <a href="https://twitter.com/BlockGeekDima/status/1524835462132682772">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 8/ @VitalikButerin is an actual legend too. He found the time and empathy to call me on day 1, to really hear me, and to show unapologetic support even if it was going to piss off a million people. 
 
@@ -95,7 +90,6 @@ Super grateful to each and every kind human supporting us ❤️ https://t.co/yP
     </p>
     &mdash; <a href="https://twitter.com/VitalikButerin/status/1498012161439932430">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 9/ Also want to say a very big thank you to this actual queen - @drosewritings ✨
 
@@ -117,7 +111,6 @@ Thank you for being a great leader, @drosewritings ❤️😭 https://t.co/jwsQC
     </p>
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1524555866149691392">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 10/ But the real heroes in this story are the Ukrainian people. Their unity and a sense of dignity still amaze me every day. 
 
@@ -141,7 +134,6 @@ That&#39;s what a DAO is 🇺🇦 https://t.co/Z1HGGTBmb6
     </p>
     &mdash; <a href="https://twitter.com/yermolenko_v/status/1513978970047401991">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 12/ Our curent focus at @Ukraine_DAO is to help #ArmUkraineNow &#43; counter russian propaganda. 
 
@@ -157,7 +149,6 @@ Hit 🔔 to receive notifications about our tweets - we seem to be shadow banned
     </p>
     &mdash; <a href="https://twitter.com/Ukraine_DAO/status/1518280483318161412">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 13/ Thank you again everyone ❤️
 

@@ -16,7 +16,6 @@ Here&#39;s one of my favourite examples of @Reuters &#34;journalism&#34; 👏 ht
     </p>
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1495034230799224837">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 3/ This is what @Reuters had the audacity to publish when Azov&#39;s heroes who showed superhuman courage and resilience while defending Mariupol in inhumane conditions ended up in ruscists hands.
 
@@ -30,7 +29,6 @@ Btw, @New_Narrative, that article should be titled &#34;Nonsense about Azov Regi
     </p>
     &mdash; <a href="https://twitter.com/New_Narrative/status/1526573549141598208">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 4/ I collect accurate info about Azov Regiment in @Ukraine_DAO Notion. #ꑭ  
 @Reuters you guys should check it out since Azov is your favourite thing to talk about 💞 https://t.co/ZHV4z4hd6p
@@ -44,7 +42,6 @@ https://t.co/803JvUf8T3
     </p>
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1526198056647008257">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 5/ This is @reuters take on Medvedchuk. Here&#39;s a little info on who he is:
 https://t.co/CH7stJ6i2O https://t.co/BL1eu5f9pp
@@ -56,7 +53,6 @@ They are not planning to stop with that as I can see. https://t.co/ygprPXGRqv
     </p>
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1515317110288883715">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 6/ Huge thank you to @mhmck for stating the obvious. I&#39;m amazed by how many people are not aware of @Reuters being a rascist propaganda platform even though all the evidence is right there, in plain sight. https://t.co/Lsu6mzAM20
 
@@ -68,7 +64,6 @@ But it’s worse than that. Reuters amplifies Russian propaganda and falsifies t
     </p>
     &mdash; <a href="https://twitter.com/mhmck/status/1527495314126553102">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 7/ 19 Feb 2022 @reuters https://t.co/EpSO7X45n1
 
@@ -81,7 +76,6 @@ https://t.co/9iUvFhkLop
     </p>
     &mdash; <a href="https://twitter.com/wireout/status/1530838648098267136">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 9/ @john_sipher @Reuters https://t.co/ocv1wiNt0U
 
@@ -91,7 +85,6 @@ https://t.co/9iUvFhkLop
     </p>
     &mdash; <a href="https://twitter.com/john_sipher/status/1500833586244734982">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 10/ @AlexKokcharov @Reuters https://t.co/iujGOWlws4
 
@@ -109,7 +102,6 @@ https://t.co/kkl979iL3F
     </p>
     &mdash; <a href="https://twitter.com/AlexKokcharov/status/1531194798635360256">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 11/ 
 @GuyReuters @Reuters https://t.co/lvhy15orsi
@@ -120,7 +112,6 @@ https://t.co/kkl979iL3F
     </p>
     &mdash; <a href="https://twitter.com/igorsushko/status/1526992343710060544">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 12/ @Reuters https://t.co/YTX0IgPcMJ
 
@@ -131,7 +122,6 @@ https://t.co/zDZr0M2Mqf
     </p>
     &mdash; <a href="https://twitter.com/igorsushko/status/1518159717482131457">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 13/ @Reuters https://t.co/e87HbL1dtq
 
@@ -144,7 +134,6 @@ https://t.co/wMLVzxHjN7
     </p>
     &mdash; <a href="https://twitter.com/igorsushko/status/1516281848116092931">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 14/  I was told the other day that @Reuters is the most reliable news agency according to some studies. If that&#39;s the most reliable one, we are screwed. https://t.co/cDRs9IWjdG
 
@@ -155,7 +144,6 @@ https://t.co/5ixExV5OuX
     </p>
     &mdash; <a href="https://twitter.com/igorsushko/status/1516384481589964800">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 15/ I&#39;m patiently waiting for @felix_light to explain to us this nonsense he wrote for @Reuters. Felix, check your DMs. I&#39;m in the UK too so if you need medical attention please let me know, I&#39;ll organise. https://t.co/HQl5QRk6RZ https://t.co/NnF3d1sBSK
 
@@ -167,7 +155,6 @@ https://t.co/eQSn62iotX
     </p>
     &mdash; <a href="https://twitter.com/felix_light/status/1530596932346945537">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 16/ The @politico article I just mentioned in WR. @Reuters 
 https://t.co/x2LLErA8yf
@@ -193,7 +180,6 @@ Does anyone know where it&#39;s located? I&#39;ve never been there. https://t.co
     </p>
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1531369631562219530">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 21/ @Reuters guys, your license should be &#34;exported&#34; for publishing this. Disgrace. 
 
@@ -208,7 +194,6 @@ https://t.co/qRUmAdGD1J
     </p>
     &mdash; <a href="https://twitter.com/EuromaidanPR/status/1531372850329927680">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 22/ As @saver_ag highlighted, @Reuters misspelled  &#34;russian invasion&#34; which is very unfortunate. russia is only mentioned in passing for some reason.
 Also, there is no &#34;crisis&#34;. Crisis is what @reuters are having - integrity crisis.
@@ -222,7 +207,6 @@ https://t.co/22vB305Ti4
     </p>
     &mdash; <a href="https://twitter.com/Reuters/status/1531213954265108480">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 23/ https://t.co/Rxsv2H77PZ
 
@@ -234,7 +218,6 @@ https://t.co/22vB305Ti4
     </p>
     &mdash; <a href="https://twitter.com/gujingc/status/1531390402015612929">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 24/ https://t.co/HzxrSjl1Fr
 
@@ -252,7 +235,6 @@ A footnote for Standards seems unconvincing. https://t.co/SQplGJiF9z
     </p>
     &mdash; <a href="https://twitter.com/OlegNikolenko_/status/1531288473591853057">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 25/ russian propaganda finds subtle ways to infect the minds of Western audience, it&#39;s not always as obnoxious as Russia Today. @reuters
 
@@ -266,7 +248,6 @@ It can be done with media channels like RT, but far more effective if done with 
     </p>
     &mdash; <a href="https://twitter.com/gujingc/status/1531417678761496576">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 26/ @nemapovnovazhen https://t.co/KxBS9mtD2N
 
@@ -278,7 +259,6 @@ For years of Russian invasion to Ukraine Reuters was OFFICIALY working in partne
     </p>
     &mdash; <a href="https://twitter.com/nemapovnovazhen/status/1531327844583972870">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 27/ @Euan_MacDonald @Reuters #ReutersLies https://t.co/x94B5atrwk
 
@@ -290,7 +270,6 @@ Unbelievable. They&#39;re doing Kremlin propaganda agency TASS&#39;s work for it
     </p>
     &mdash; <a href="https://twitter.com/Euan_MacDonald/status/1531528484589297664">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 28/ @NataliaAntonova @Reuters #ReutersLies https://t.co/x0OPMlWyMW
 
@@ -300,7 +279,6 @@ Unbelievable. They&#39;re doing Kremlin propaganda agency TASS&#39;s work for it
     </p>
     &mdash; <a href="https://twitter.com/NataliaAntonova/status/1531303481830686722">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 29/ @KremlinTrolls @reuters #ReutersLies https://t.co/HyfpLZyimg
 
@@ -312,7 +290,6 @@ Have you still not broken your partbership with Russian FSB outfit TASS? @Reuter
     </p>
     &mdash; <a href="https://twitter.com/KremlinTrolls/status/1531372349815136258">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 30/ @olex_scherba @Reuters #ReutersLies https://t.co/W0nEFcRniu
 
@@ -324,7 +301,6 @@ Have you still not broken your partbership with Russian FSB outfit TASS? @Reuter
     </p>
     &mdash; <a href="https://twitter.com/olex_scherba/status/1531309105129955335">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 31/ @Mariana_Betsa @reuters #ReutersLies @Ukraine_DAO https://t.co/rkFlhzKstZ
 
@@ -336,7 +312,6 @@ https://t.co/DQEFHBpI88
     </p>
     &mdash; <a href="https://twitter.com/Mariana_Betsa/status/1531213785385549825">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 32/ @amandarivkin @Reuters #ReutersLies https://t.co/PZYtIj29Ot
 
@@ -346,7 +321,6 @@ https://t.co/DQEFHBpI88
     </p>
     &mdash; <a href="https://twitter.com/amandarivkin/status/1531539027756720129">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 33/ @gujingc @reuters #ReutersLies https://t.co/kC6cp1Y5c7
 
@@ -361,7 +335,6 @@ These are fair questions:
     </p>
     &mdash; <a href="https://twitter.com/gujingc/status/1531527859222634496">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 34/ @maksymeristavi 
 
@@ -373,7 +346,6 @@ These are fair questions:
     </p>
     &mdash; <a href="https://twitter.com/maksymeristavi/status/1531530374630756352">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 35/ @mhmck #ReutersLies @Ukraine_DAO 
 
@@ -385,7 +357,6 @@ These are fair questions:
     </p>
     &mdash; <a href="https://twitter.com/mhmck/status/1531484550756552704">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 36/ @MFA_Ukraine urged @reuters to stop spreading russian propaganda and pointed out mistakes. @Ukraine 
 
@@ -407,7 +378,6 @@ Shame on you @Reuters @GuyReuters #ReutersLies #ArmUkraineNow https://t.co/ZxhMJ
     </p>
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1494362496421044225">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 29/ 🤦‍♀️🤦‍♀️🤦‍♀️ @Reuters @GuyReuters #ReutersLies #GenocideOfUkrainians https://t.co/G1NHWs8Ld8
 
@@ -417,7 +387,6 @@ Shame on you @Reuters @GuyReuters #ReutersLies #ArmUkraineNow https://t.co/ZxhMJ
     </p>
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1494840667658403840">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 the tweet above was meant to be 39*/
 
@@ -431,7 +400,6 @@ https://t.co/GrY8c2DTjV
     </p>
     &mdash; <a href="https://twitter.com/AFP/status/1532756399805145089">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 41/  Dear @AFP, @reuters etc - there are no &#34;separatists&#34; in Ukraine, repeating again: https://t.co/kKwzzHg2zD
 
@@ -447,7 +415,6 @@ The agency added that their vehicle was provided by Russian-backed separatists a
     </p>
     &mdash; <a href="https://twitter.com/AFP/status/1532764149842862080">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 42/ Meanwhile @reuters continues to legitimise a genocidal country looting Ukrainian grain.
 
@@ -463,7 +430,6 @@ https://t.co/FlJqHsrIqb
     </p>
     &mdash; <a href="https://twitter.com/Reuters/status/1532754109153042432">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 43/ @tuvangumrukcu @Orhan__Coskun  - brought you guys some useful materials you can use for your reference next time you write about russia. You are welcome. 
 
