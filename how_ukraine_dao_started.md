@@ -1,10 +1,12 @@
 # How Ukraine DAO started
 
+*Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1525282533037965315), [PingThread](https://pingthread.com/thread/1525282533037965315), [ThreadReader](https://threadreaderapp.com/thread/1525282533037965315.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1525282533037965315)*
+
 “Never doubt that a small group of thoughtful, committed citizens can change the world: indeed, it’s the only thing that ever has.”
 
 Trying to process this tonight. 
 
-The Telegram chat that turned into @Ukraine_DAO was set up on 21 Feb - 3 days before the genocidal invasion 💔 https://t.co/S6Uo909e9Y
+The Telegram chat that turned into @Ukraine_DAO was set up on 21 Feb - 3 days before the genocidal invasion 💔
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -19,7 +21,7 @@ It was just @zencephalon, @DefiHope and me in the beginning.
 
 @Ukraine_DAO remains a product of love for 🇺🇦 & conviction that it has agency and the right to defend itself from unprovoked russian aggression. 
 
-We help to make that #russiaNGMI https://t.co/4i3AKWcF9s
+We help to make that #russiaNGMI [pic.twitter.com/4i3AKWcF9s](https://twitter.com/cryptodrftng/status/1525283712019091461/photo/1)
 
 | [![](https://pbs.twimg.com/media/FSrlc42WYAAQ5hv.jpg)](https://pbs.twimg.com/media/FSrlc42WYAAQ5hv.jpg) |
 | :-: |
@@ -28,7 +30,7 @@ We help to make that #russiaNGMI https://t.co/4i3AKWcF9s
 
 ✨ At some point, contributions were being received at an average rate of $1000 per minute, along with a 500 ETH donation from @onlyfans 
 
-#Web3ForGood 🇺🇦 https://t.co/fjxTPTBESt
+#Web3ForGood 🇺🇦
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -46,7 +48,7 @@ We help to make that #russiaNGMI https://t.co/4i3AKWcF9s
 
 We organized both online and offline to serve @Ukraine and show how charity, war relief and evacuation efforts can be organized through DAOs - decentralized autonomous organizations. 
  
-#StandWithUkraine 🇺🇦 https://t.co/1syoQcC1ki
+#StandWithUkraine 🇺🇦
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -57,7 +59,7 @@ We organized both online and offline to serve @Ukraine and show how charity, war
 
 @Ukraine_DAO Trucks went into an actual warzone to deliver food to civilians in the Kharkiv region. This has literally never been done before by a DAO.
 
-The trucks are partially powered by ETH donations - huge thank you to @kmets_ for being their big supporter ❤️ https://t.co/GXefO3f2QW https://t.co/elTPNPkzJo
+The trucks are partially powered by ETH donations - huge thank you to @kmets_ for being their big supporter ❤️ [pic.twitter.com/GXefO3f2QW](https://twitter.com/cryptodrftng/status/1525287162882756613/photo/1)
 
 | [![](https://pbs.twimg.com/media/FSrolu1X0AAaBtU.jpg)](https://pbs.twimg.com/media/FSrolu1X0AAaBtU.jpg) | [![](https://pbs.twimg.com/media/FSrolu2WUAAVfV-.jpg)](https://pbs.twimg.com/media/FSrolu2WUAAVfV-.jpg) |
 | :-: | :-: |
@@ -72,12 +74,12 @@ The trucks are partially powered by ETH donations - huge thank you to @kmets_ fo
 @Ukraine_DAO is now supported by @mintsyfra of @Ukraine - first DAO in the world to have support at a state level.
 
 It's a huge privilege for all of us to be able to help Ukraine, and also its defenders - through @BackAndAlive. 
-#StandWithUkraine 🇺🇦 https://t.co/QQYSYKIwgF
+#StandWithUkraine 🇺🇦 [pic.twitter.com/QQYSYKIwgF](https://twitter.com/cryptodrftng/status/1525288208849838082/photo/1)
 
 | [![](https://pbs.twimg.com/media/FSrpin9XsAMX2vh.jpg)](https://pbs.twimg.com/media/FSrpin9XsAMX2vh.jpg) |
 | :-: |
 
-Forever grateful for all the love we get - not sure where I would be right now without the mentorship & support 8of @BlockGeekDima. He gave me the most valuable advice at some point - to remain authentic, just the way I am. Very happy I have followed this advice so far. https://t.co/GtS4PpRCWP
+Forever grateful for all the love we get - not sure where I would be right now without the mentorship & support 8of @BlockGeekDima. He gave me the most valuable advice at some point - to remain authentic, just the way I am. Very happy I have followed this advice so far.
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -91,7 +93,7 @@ Forever grateful for all the love we get - not sure where I would be right now w
 
 @VitalikButerin is an actual legend too. He found the time and empathy to call me on day 1, to really hear me, and to show unapologetic support even if it was going to piss off a million people. 
 
-Super grateful to each and every kind human supporting us ❤️ https://t.co/yPoBVA8U6G
+Super grateful to each and every kind human supporting us ❤️
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -104,7 +106,7 @@ Also want to say a very big thank you to this actual queen - @drosewritings ✨
 
 🌱 Her excellent article "What Can DAOs Learn from Holacracy?" (shared with us by @dimka_eth) had a huge impact on @Ukraine_DAO development:
 
-https://t.co/YmY0IZ8V1P https://t.co/YH0cd9kkYY
+[What Can DAOs Learn from Holacracy? (Part I)](https://mirror.xyz/0x7dcbac92cce015a97BAc8f1116595d223722F0a1/Cw5icmYmjoAnJsxPPGMRXCM9051RYiIduV6naxlFCIc)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -127,7 +129,7 @@ Each and every Ukrainian had to become a fighter - different frontlines for each
 
 We are under attack from every front. 
 
-But we are together ❤️ https://t.co/nWywtcQvib
+But we are together ❤️ [pic.twitter.com/nWywtcQvib](https://twitter.com/cryptodrftng/status/1525295824808382464/photo/1)
 
 | [![](https://pbs.twimg.com/media/FSrwd-nWYAAH7zl.jpg)](https://pbs.twimg.com/media/FSrwd-nWYAAH7zl.jpg) |
 | :-: |
@@ -138,7 +140,7 @@ Ukraine right now is really amazing; it’s operating as an offline DAO.
 
 Everyone is doing whatever they can towards the same mission. 
 
-That's what a DAO is 🇺🇦 https://t.co/Z1HGGTBmb6
+That's what a DAO is 🇺🇦
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -151,7 +153,7 @@ Our curent focus at @Ukraine_DAO is to help #ArmUkraineNow + counter russian pro
 
 The reason for that is because that's what Ukraine needs the most and we work around the clock to provide support and stop #russianLies. 
 
-I share more about how we work in this  AMA: https://t.co/6Y9QHHGIHR
+I share more about how we work in this  AMA:
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -167,4 +169,4 @@ Thank you again everyone ❤️
 GN, have a great weekend! See you at @MindfulWebz Twitter Spaces on Sunday 😘
 
 #StandWithUkraine 🇺🇦 #russiaNGMI 
-https://t.co/pEvjwmgBCJ
+[10 ways to get involved with Ukraine DAO](https://ukraine-dao.notion.site/10-ways-to-get-involved-with-Ukraine-DAO-b048044541ad4e1eb73b9d443b2b9a99)
