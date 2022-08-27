@@ -1,0 +1,9 @@
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    {{ $lines := .Text | lines -}}
+    {{ range $i, $l := $lines -}}
+    {{ $l }}{{ if le $i (len $lines) }}<br />{{ end }}
+    {{ end -}}
+    </p>
+    &mdash; <a href="https://twitter.com/{{ (index .Includes.Users 0).Username }}/status/{{ .ID }}">Link</a>
+</blockquote>

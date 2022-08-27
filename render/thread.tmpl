@@ -2,13 +2,8 @@
 {{ range .Blocks }}{{ if .Paragraph }}
 {{ .Paragraph }}
 {{ else if .QuotedTweet }}
-<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark">
-	<p lang="en" dir="ltr">
-    {{ .QuotedTweet.Text }}
-    </p>
-    &mdash; <a href="https://twitter.com/{{ (index .QuotedTweet.Includes.Users 0).Username }}/status/{{ .QuotedTweet.ID }}">Link</a>
-</blockquote>
-{{ else if .Images }}
+{{ .QuotedTweet }}
+{{- else if .Images }}
 |{{ range .Images }} [![]({{ . }})]({{ . }}) |{{ end }}
 |{{ range .Images }} :-: |{{ end }}
 {{ end }}

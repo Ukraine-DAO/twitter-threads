@@ -5,12 +5,14 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
-	"html/template"
+	"html"
+	html_template "html/template"
 	"log"
 	"os"
 	"path"
 	"path/filepath"
 	"strings"
+	text_template "text/template"
 
 	"golang.org/x/text/cases"
 	"golang.org/x/text/language"
@@ -30,7 +32,17 @@ var (
 //go:embed thread.tmpl
 var threadTmplText string
 
-var threadTmpl = template.Must(template.New("thread").Parse(threadTmplText))
+//go:embed quoted_tweet.html.tmpl
+var quotedTweetTmplText string
+
+var (
+	threadTmpl      = text_template.Must(text_template.New("thread").Parse(threadTmplText))
+	quotedTweetTmpl = html_template.Must(html_template.New("quoted").Funcs(
+		map[string]any{
+			"lines": func(s string) []string { return strings.Split(s, "\n") },
+		},
+	).Parse(quotedTweetTmplText))
+)
 
 type Thread struct {
 	Title  string
@@ -40,7 +52,7 @@ type Thread struct {
 type Block struct {
 	Paragraph   string
 	Images      []string
-	QuotedTweet *twitter.Tweet
+	QuotedTweet string
 }
 
 func parseThread(name string, thread common.Thread, state state.ThreadState) Thread {
@@ -53,7 +65,7 @@ func parseThread(name string, thread common.Thread, state state.ThreadState) Thr
 	}
 	add := func(b Block) { r.Blocks = append(r.Blocks, b) }
 	for _, t := range chain {
-		add(Block{Paragraph: t.Text})
+		add(Block{Paragraph: html.UnescapeString(t.Text)})
 
 		if len(t.Attachments.MediaKeys) > 0 {
 			imgs := []string{}
@@ -82,7 +94,14 @@ func parseThread(name string, thread common.Thread, state state.ThreadState) Thr
 						copied.Includes.Users = []twitter.TwitterUser{u}
 					}
 				}
-				add(Block{QuotedTweet: &copied})
+				copied.Text = html.UnescapeString(copied.Text)
+
+				var value strings.Builder
+				if err := quotedTweetTmpl.Execute(&value, copied); err != nil {
+					log.Printf("executing quoted tweet template: %s", err)
+					break
+				}
+				add(Block{QuotedTweet: value.String()})
 			}
 		}
 	}
