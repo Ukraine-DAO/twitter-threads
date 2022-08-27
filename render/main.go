@@ -7,6 +7,7 @@ import (
 	"fmt"
 	"html"
 	html_template "html/template"
+	"io"
 	"log"
 	"net/url"
 	"os"
@@ -192,7 +193,33 @@ func parseThread(name string, thread common.Thread, state state.ThreadState) Thr
 	return r
 }
 
+func writeIndexSubtree(f io.Writer, dir common.Subdir, fileToThread map[string]Thread, prefix string, indent string) error {
+	// TODO: iterate in deterministic order
+	for name, sd := range dir.Subdirs {
+		fmt.Fprintf(f, "%s* %s\n", indent, name)
+		if err := writeIndexSubtree(f, sd, fileToThread, filepath.Join(prefix, name), indent+"  "); err != nil {
+			return err
+		}
+	}
+	for name := range dir.Pages {
+		fname := fmt.Sprintf("%s.md", filepath.Join(*outputDir, prefix, name))
+		fmt.Fprintf(f, "%s* [%s](%s) (by [%s](https://twitter.com/%s))\n", indent, fileToThread[fname].Title, filepath.Join(prefix, name)+".md", fileToThread[fname].AuthorName, fileToThread[fname].AuthorUsername)
+	}
+	return nil
+}
+
+func writeIndex(cfg *common.Config, fileToThread map[string]Thread) error {
+	f, err := os.Create(filepath.Join(*outputDir, "index.md"))
+	if err != nil {
+		return fmt.Errorf("opening index.md: %w", err)
+	}
+	defer f.Close()
+	fmt.Fprintf(f, "# Twitter threads\n\n")
+	return writeIndexSubtree(f, cfg.Root, fileToThread, "", "")
+}
+
 func run(cfg *common.Config, state *state.State) error {
+	fileToThread := map[string]Thread{}
 	for name, thread := range cfg.ThreadPages() {
 		t := parseThread(path.Base(name), thread, state.Threads[thread.ThreadID])
 		fname := fmt.Sprintf("%s.md", filepath.Join(*outputDir, name))
@@ -207,6 +234,12 @@ func run(cfg *common.Config, state *state.State) error {
 			return fmt.Errorf("executing template: %w", err)
 		}
 		f.Close()
+
+		fileToThread[fname] = t
+	}
+
+	if err := writeIndex(cfg, fileToThread); err != nil {
+		return err
 	}
 	return nil
 }
