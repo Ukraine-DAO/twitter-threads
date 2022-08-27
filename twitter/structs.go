@@ -29,17 +29,33 @@ type TweetIncludes struct {
 }
 
 type Entities struct {
-	URLs []EntityURL `json:"urls,omitempty"`
+	URLs     []EntityURL     `json:"urls,omitempty"`
+	Hashtags []EntityHashtag `json:"hashtags,omitempty"`
+	Mentions []EntityMention `json:"mentions,omitempty"`
+}
+
+type TextEntity struct {
+	Start uint `json:"start"`
+	End   uint `json:"end"`
 }
 
 type EntityURL struct {
-	Start       uint   `json:"start"`
-	End         uint   `json:"end"`
+	TextEntity
 	URL         string `json:"url,omitempty"`
 	ExpandedURL string `json:"expanded_url,omitempty"`
 	DisplayURL  string `json:"display_url,omitempty"`
 	UnwoundURL  string `json:"unwound_url,omitempty"`
 	Title       string `json:"title,omitempty"`
+}
+
+type EntityHashtag struct {
+	TextEntity
+	Tag string `json:"tag,omitempty"`
+}
+
+type EntityMention struct {
+	TextEntity
+	Username string `json:"username,omitempty"`
 }
 
 type Attachments struct {

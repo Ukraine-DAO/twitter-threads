@@ -29,6 +29,7 @@ var requestCfg = common.RequestConfig{
 		"url",
 		"preview_image_url",
 	},
+	CustomFlags: []string{"1"},
 }
 
 func errIfNotThrottled(err error) error {
