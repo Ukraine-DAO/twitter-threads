@@ -51,6 +51,7 @@ type Thread struct {
 	Title          string
 	ConversationID string
 	AuthorUsername string
+	AuthorName     string
 	Blocks         []Block
 }
 
@@ -142,6 +143,7 @@ func parseThread(name string, thread common.Thread, state state.ThreadState) Thr
 	for _, u := range state.Tweets[0].Includes.Users {
 		if u.ID == state.Tweets[0].AuthorID {
 			r.AuthorUsername = u.Username
+			r.AuthorName = u.Name
 		}
 	}
 

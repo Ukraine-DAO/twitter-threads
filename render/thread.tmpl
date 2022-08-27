@@ -1,5 +1,6 @@
 # {{ .Title }}
 
+Author: [{{.AuthorName}}](https://twitter.com/{{.AuthorUsername}})  
 *Links to this thread: [Twitter](https://twitter.com/{{.AuthorUsername}}/status/{{.ConversationID}}), [PingThread](https://pingthread.com/thread/{{.ConversationID}}), [ThreadReader](https://threadreaderapp.com/thread/{{.ConversationID}}.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/{{.AuthorUsername}}/status/{{.ConversationID}})*
 {{ range .Blocks }}{{ if .Paragraph }}
 {{ .Paragraph }}
