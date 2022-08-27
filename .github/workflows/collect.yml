@@ -34,6 +34,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      - name: Fetch submodules
+        run: git submodule update --remote --init --recursive
       - name: Setup Go compiler
         uses: actions/setup-go@v3
         with:
@@ -42,10 +44,11 @@ jobs:
         env:
           TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
         run: |
-          go run ./collect --config config.yml --state state.json
+          go run ./collect --config config.yml --state stored-state/state.json
       # TODO: fetch media
       - name: Commit updated state
         run: |
+          cd stored-state
           git config user.name automation
           git config user.email github-actions@github.com
           git add state.json

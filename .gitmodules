@@ -1,0 +1,8 @@
+[submodule "stored-state"]
+	path = stored-state
+	url = git@github.com:rusni-pyzda/twitter-threads.git
+	branch = state
+[submodule "generated"]
+	path = generated
+	url = git@github.com:rusni-pyzda/twitter-threads.git
+	branch = generated
