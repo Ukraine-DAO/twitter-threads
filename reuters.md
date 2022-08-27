@@ -6,7 +6,7 @@
 
 I have substantial amount of evidence but will be grateful for additional info 💅 
 
-Please share the truth about who they are with others instead of their 🇷🇺 propaganda. [pic.twitter.com/w1ZBrVikfq](https://twitter.com/cryptodrftng/status/1527477049438371841/photo/1)
+Please share the truth about who they are with others instead of their 🇷🇺 propaganda.
 
 | [![](https://pbs.twimg.com/media/FTKwR6DWABMDYi4.jpg)](https://pbs.twimg.com/media/FTKwR6DWABMDYi4.jpg) |
 | :-: |
@@ -70,7 +70,7 @@ Huge thank you to [@mhmck](https://twitter.com/mhmck) for stating the obvious. I
     &mdash; <a href="https://twitter.com/mhmck/status/1527495314126553102">Link</a>
 </blockquote>
 
-19 Feb 2022 [@Reuters](https://twitter.com/Reuters) [pic.twitter.com/EpSO7X45n1](https://twitter.com/cryptodrftng/status/1530733804943462402/photo/1)
+19 Feb 2022 [@Reuters](https://twitter.com/Reuters)
 
 | [![](https://pbs.twimg.com/media/FT5CR2ZX0AAIO4y.jpg)](https://pbs.twimg.com/media/FT5CR2ZX0AAIO4y.jpg) |
 | :-: |
@@ -153,7 +153,7 @@ I was told the other day that [@Reuters](https://twitter.com/Reuters) is the mos
     &mdash; <a href="https://twitter.com/igorsushko/status/1516384481589964800">Link</a>
 </blockquote>
 
-I'm patiently waiting for [@felix_light](https://twitter.com/felix_light) to explain to us this nonsense he wrote for [@Reuters](https://twitter.com/Reuters). Felix, check your DMs. I'm in the UK too so if you need medical attention please let me know, I'll organise. [pic.twitter.com/HQl5QRk6RZ](https://twitter.com/cryptodrftng/status/1531305282663481349/photo/1)
+I'm patiently waiting for [@felix_light](https://twitter.com/felix_light) to explain to us this nonsense he wrote for [@Reuters](https://twitter.com/Reuters). Felix, check your DMs. I'm in the UK too so if you need medical attention please let me know, I'll organise.
 
 | [![](https://pbs.twimg.com/media/FUBKCZzXEAAV9gw.jpg)](https://pbs.twimg.com/media/FUBKCZzXEAAV9gw.jpg) |
 | :-: |
@@ -178,12 +178,12 @@ Their continued spread of lies is testimony to that.
 
 [Reuters removes Russian state news agency TASS from its content marketplace](https://www.politico.eu/article/reuters-removes-russian-state-agency-tass-from-its-content-marketplace/)
 
-Let's make [@Reuters](https://twitter.com/Reuters) memes! [@felix_light](https://twitter.com/felix_light) [pic.twitter.com/tSaHHg6Ipq](https://twitter.com/cryptodrftng/status/1531327020457775104/photo/1)
+Let's make [@Reuters](https://twitter.com/Reuters) memes! [@felix_light](https://twitter.com/felix_light)
 
 | [![](https://pbs.twimg.com/media/FUBdzr3WQAMoFyt.jpg)](https://pbs.twimg.com/media/FUBdzr3WQAMoFyt.jpg) |
 | :-: |
 
-Attaching this useful diagram for [@Reuters](https://twitter.com/Reuters) journalists who struggle to make sense of what ruscists are saying. [@felix_light](https://twitter.com/felix_light), you are welcome. [pic.twitter.com/3DuqB9f4W2](https://twitter.com/cryptodrftng/status/1531366897710678018/photo/1)
+Attaching this useful diagram for [@Reuters](https://twitter.com/Reuters) journalists who struggle to make sense of what ruscists are saying. [@felix_light](https://twitter.com/felix_light), you are welcome.
 
 | [![](https://pbs.twimg.com/media/FUCCEu2XsAISMOQ.jpg)](https://pbs.twimg.com/media/FUCCEu2XsAISMOQ.jpg) |
 | :-: |
@@ -379,7 +379,7 @@ russian propaganda finds subtle ways to infect the minds of Western audience, it
 
 [@ghostofkebab](https://twitter.com/ghostofkebab) I am Ukrainian and Kherson is not a pro-r*ssian region. We don't have any pro-r*ssian regions because no one wants to live like russians.
 
-Shame on you [@Reuters](https://twitter.com/Reuters) [@GuyReuters](https://twitter.com/GuyReuters) [#ReutersLies](https://twitter.com/hashtag/ReutersLies) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow) [pic.twitter.com/ZxhMJx5Inm](https://twitter.com/cryptodrftng/status/1531918974904156160/photo/1)
+Shame on you [@Reuters](https://twitter.com/Reuters) [@GuyReuters](https://twitter.com/GuyReuters) [#ReutersLies](https://twitter.com/hashtag/ReutersLies) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow)
 
 | [![](https://pbs.twimg.com/media/FUJ3ZbWWIAAWf7-.jpg)](https://pbs.twimg.com/media/FUJ3ZbWWIAAWf7-.jpg) | [![](https://pbs.twimg.com/media/FUJ3ljgWQAAqAjA.jpg)](https://pbs.twimg.com/media/FUJ3ljgWQAAqAjA.jpg) |
 | :-: | :-: |
@@ -449,7 +449,7 @@ This is some the lowest I've seen "journalists" go and I've watched RU propagand
 
 [@tuvangumrukcu](https://twitter.com/tuvangumrukcu) [@Orhan__Coskun](https://twitter.com/Orhan__Coskun)  - brought you guys some useful materials you can use for your reference next time you write about russia. You are welcome. 
 
-[@Reuters](https://twitter.com/Reuters) [#ReutersLies](https://twitter.com/hashtag/ReutersLies) [@GuyReuters](https://twitter.com/GuyReuters) [pic.twitter.com/irmHZrYRKH](https://twitter.com/cryptodrftng/status/1532773363051028481/photo/1)
+[@Reuters](https://twitter.com/Reuters) [#ReutersLies](https://twitter.com/hashtag/ReutersLies) [@GuyReuters](https://twitter.com/GuyReuters)
 
 | [![](https://pbs.twimg.com/media/FUWA3AFXEAA9bh2.jpg)](https://pbs.twimg.com/media/FUWA3AFXEAA9bh2.jpg) | [![](https://pbs.twimg.com/media/FUWA9IGX0AE5ass.jpg)](https://pbs.twimg.com/media/FUWA9IGX0AE5ass.jpg) |
 | :-: | :-: |

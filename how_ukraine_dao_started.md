@@ -21,7 +21,7 @@ It was just [@zencephalon](https://twitter.com/zencephalon), [@DefiHope](https:/
 
 [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) remains a product of love for 🇺🇦 & conviction that it has agency and the right to defend itself from unprovoked russian aggression. 
 
-We help to make that [#russiaNGMI](https://twitter.com/hashtag/russiaNGMI) [pic.twitter.com/4i3AKWcF9s](https://twitter.com/cryptodrftng/status/1525283712019091461/photo/1)
+We help to make that [#russiaNGMI](https://twitter.com/hashtag/russiaNGMI)
 
 | [![](https://pbs.twimg.com/media/FSrlc42WYAAQ5hv.jpg)](https://pbs.twimg.com/media/FSrlc42WYAAQ5hv.jpg) |
 | :-: |
@@ -59,7 +59,7 @@ We organized both online and offline to serve [@Ukraine](https://twitter.com/Ukr
 
 [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) Trucks went into an actual warzone to deliver food to civilians in the Kharkiv region. This has literally never been done before by a DAO.
 
-The trucks are partially powered by ETH donations - huge thank you to [@kmets_](https://twitter.com/kmets_) for being their big supporter ❤️ [pic.twitter.com/GXefO3f2QW](https://twitter.com/cryptodrftng/status/1525287162882756613/photo/1)
+The trucks are partially powered by ETH donations - huge thank you to [@kmets_](https://twitter.com/kmets_) for being their big supporter ❤️
 
 | [![](https://pbs.twimg.com/media/FSrolu1X0AAaBtU.jpg)](https://pbs.twimg.com/media/FSrolu1X0AAaBtU.jpg) | [![](https://pbs.twimg.com/media/FSrolu2WUAAVfV-.jpg)](https://pbs.twimg.com/media/FSrolu2WUAAVfV-.jpg) |
 | :-: | :-: |
@@ -74,7 +74,7 @@ The trucks are partially powered by ETH donations - huge thank you to [@kmets_](
 [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) is now supported by [@mintsyfra](https://twitter.com/mintsyfra) of [@Ukraine](https://twitter.com/Ukraine) - first DAO in the world to have support at a state level.
 
 It's a huge privilege for all of us to be able to help Ukraine, and also its defenders - through [@BackAndAlive](https://twitter.com/BackAndAlive). 
-[#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine) 🇺🇦 [pic.twitter.com/QQYSYKIwgF](https://twitter.com/cryptodrftng/status/1525288208849838082/photo/1)
+[#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine) 🇺🇦
 
 | [![](https://pbs.twimg.com/media/FSrpin9XsAMX2vh.jpg)](https://pbs.twimg.com/media/FSrpin9XsAMX2vh.jpg) |
 | :-: |
@@ -129,7 +129,7 @@ Each and every Ukrainian had to become a fighter - different frontlines for each
 
 We are under attack from every front. 
 
-But we are together ❤️ [pic.twitter.com/nWywtcQvib](https://twitter.com/cryptodrftng/status/1525295824808382464/photo/1)
+But we are together ❤️
 
 | [![](https://pbs.twimg.com/media/FSrwd-nWYAAH7zl.jpg)](https://pbs.twimg.com/media/FSrwd-nWYAAH7zl.jpg) |
 | :-: |
