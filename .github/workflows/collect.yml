@@ -37,6 +37,7 @@ jobs:
       - name: Fetch submodules
         run: |
           git submodule update --remote --init --recursive
+          git submodule foreach --recursive git config --local http.https://github.com/.extraheader "$(git config --local http.https://github.com/.extraheader)"
           cd stored-state && git checkout state
       - name: Setup Go compiler
         uses: actions/setup-go@v3
