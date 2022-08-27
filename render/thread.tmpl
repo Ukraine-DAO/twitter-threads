@@ -8,7 +8,6 @@
     </p>
     &mdash; <a href="https://twitter.com/{{ (index .QuotedTweet.Includes.Users 0).Username }}/status/{{ .QuotedTweet.ID }}">Link</a>
 </blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {{ else if .Images }}
 {{ end }}
 {{- end -}}
