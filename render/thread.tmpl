@@ -9,5 +9,7 @@
     &mdash; <a href="https://twitter.com/{{ (index .QuotedTweet.Includes.Users 0).Username }}/status/{{ .QuotedTweet.ID }}">Link</a>
 </blockquote>
 {{ else if .Images }}
+|{{ range .Images }} [![]({{ . }})]({{ . }}) |{{ end }}
+|{{ range .Images }} :-: |{{ end }}
 {{ end }}
 {{- end -}}

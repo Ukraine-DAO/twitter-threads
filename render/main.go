@@ -54,6 +54,20 @@ func parseThread(name string, thread common.Thread, state state.ThreadState) Thr
 	add := func(b Block) { r.Blocks = append(r.Blocks, b) }
 	for _, t := range chain {
 		add(Block{Paragraph: t.Text})
+
+		if len(t.Attachments.MediaKeys) > 0 {
+			imgs := []string{}
+			for _, k := range t.Attachments.MediaKeys {
+				for _, m := range t.Includes.Media {
+					if m.Key == k && m.Type == "photo" {
+						imgs = append(imgs, m.URL)
+						break
+					}
+				}
+			}
+			add(Block{Images: imgs})
+		}
+
 		for _, rt := range t.ReferencedTweets {
 			if rt.Type != "quoted" {
 				continue
