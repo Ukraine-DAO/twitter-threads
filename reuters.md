@@ -2,7 +2,7 @@
 
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1527477049438371841), [PingThread](https://pingthread.com/thread/1527477049438371841), [ThreadReader](https://threadreaderapp.com/thread/1527477049438371841.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1527477049438371841)*
 
-⚡️Preparing a material about the largest russian propaganda news agency - @Reuters 
+⚡️Preparing a material about the largest russian propaganda news agency - [@Reuters](https://twitter.com/Reuters) 
 
 I have substantial amount of evidence but will be grateful for additional info 💅 
 
@@ -11,9 +11,9 @@ Please share the truth about who they are with others instead of their 🇷🇺 
 | [![](https://pbs.twimg.com/media/FTKwR6DWABMDYi4.jpg)](https://pbs.twimg.com/media/FTKwR6DWABMDYi4.jpg) |
 | :-: |
 
-I was wondering if they would stop spreading #russianLies about Ukraine after the genocidal invasion started. Not even that stopped them. 
+I was wondering if they would stop spreading [#russianLies](https://twitter.com/hashtag/russianLies) about Ukraine after the genocidal invasion started. Not even that stopped them. 
 
-Here's one of my favourite examples of @Reuters "journalism" 👏
+Here's one of my favourite examples of [@Reuters](https://twitter.com/Reuters) "journalism" 👏
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -22,9 +22,9 @@ Here's one of my favourite examples of @Reuters "journalism" 👏
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1495034230799224837">Link</a>
 </blockquote>
 
-This is what @Reuters had the audacity to publish when Azov's heroes who showed superhuman courage and resilience while defending Mariupol in inhumane conditions ended up in ruscists hands.
+This is what [@Reuters](https://twitter.com/Reuters) had the audacity to publish when Azov's heroes who showed superhuman courage and resilience while defending Mariupol in inhumane conditions ended up in ruscists hands.
 
-Btw, @New_Narrative, that article should be titled "Nonsense about Azov Regiment".
+Btw, [@New_Narrative](https://twitter.com/New_Narrative), that article should be titled "Nonsense about Azov Regiment".
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -35,8 +35,8 @@ Btw, @New_Narrative, that article should be titled "Nonsense about Azov Regiment
     &mdash; <a href="https://twitter.com/New_Narrative/status/1526573549141598208">Link</a>
 </blockquote>
 
-I collect accurate info about Azov Regiment in @Ukraine_DAO Notion. #ꑭ  
-@Reuters you guys should check it out since Azov is your favourite thing to talk about 💞
+I collect accurate info about Azov Regiment in [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) Notion. [#ꑭ](https://twitter.com/hashtag/%EA%91%AD)  
+[@Reuters](https://twitter.com/Reuters) you guys should check it out since Azov is your favourite thing to talk about 💞
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -48,7 +48,7 @@ I collect accurate info about Azov Regiment in @Ukraine_DAO Notion. #ꑭ
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1526198056647008257">Link</a>
 </blockquote>
 
-This is @reuters take on Medvedchuk. Here's a little info on who he is:
+This is [@Reuters](https://twitter.com/Reuters) take on Medvedchuk. Here's a little info on who he is:
 [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1515317110288883715?s=21&t=MmQCdBww9wi8DX_4OBPPIw)
 
 <blockquote class="twitter-tweet">
@@ -59,7 +59,7 @@ This is @reuters take on Medvedchuk. Here's a little info on who he is:
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1515317110288883715">Link</a>
 </blockquote>
 
-Huge thank you to @mhmck for stating the obvious. I'm amazed by how many people are not aware of @Reuters being a rascist propaganda platform even though all the evidence is right there, in plain sight.
+Huge thank you to [@mhmck](https://twitter.com/mhmck) for stating the obvious. I'm amazed by how many people are not aware of [@Reuters](https://twitter.com/Reuters) being a rascist propaganda platform even though all the evidence is right there, in plain sight.
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -70,12 +70,12 @@ Huge thank you to @mhmck for stating the obvious. I'm amazed by how many people 
     &mdash; <a href="https://twitter.com/mhmck/status/1527495314126553102">Link</a>
 </blockquote>
 
-19 Feb 2022 @reuters [pic.twitter.com/EpSO7X45n1](https://twitter.com/cryptodrftng/status/1530733804943462402/photo/1)
+19 Feb 2022 [@Reuters](https://twitter.com/Reuters) [pic.twitter.com/EpSO7X45n1](https://twitter.com/cryptodrftng/status/1530733804943462402/photo/1)
 
 | [![](https://pbs.twimg.com/media/FT5CR2ZX0AAIO4y.jpg)](https://pbs.twimg.com/media/FT5CR2ZX0AAIO4y.jpg) |
 | :-: |
 
-Completely forgot about this, thank you for sharing @wireout @reuters 
+Completely forgot about this, thank you for sharing [@wireout](https://twitter.com/wireout) [@Reuters](https://twitter.com/Reuters) 
 
 
 <blockquote class="twitter-tweet">
@@ -85,7 +85,7 @@ Completely forgot about this, thank you for sharing @wireout @reuters
     &mdash; <a href="https://twitter.com/wireout/status/1530838648098267136">Link</a>
 </blockquote>
 
-@john_sipher @Reuters
+[@john_sipher](https://twitter.com/john_sipher) [@Reuters](https://twitter.com/Reuters)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -94,7 +94,7 @@ Completely forgot about this, thank you for sharing @wireout @reuters
     &mdash; <a href="https://twitter.com/john_sipher/status/1500833586244734982">Link</a>
 </blockquote>
 
-@AlexKokcharov @Reuters
+[@AlexKokcharov](https://twitter.com/AlexKokcharov) [@Reuters](https://twitter.com/Reuters)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -112,7 +112,7 @@ Completely forgot about this, thank you for sharing @wireout @reuters
 </blockquote>
 
 
-@GuyReuters @Reuters
+[@GuyReuters](https://twitter.com/GuyReuters) [@Reuters](https://twitter.com/Reuters)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -121,7 +121,7 @@ Completely forgot about this, thank you for sharing @wireout @reuters
     &mdash; <a href="https://twitter.com/igorsushko/status/1526992343710060544">Link</a>
 </blockquote>
 
-@Reuters
+[@Reuters](https://twitter.com/Reuters)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -131,7 +131,7 @@ Completely forgot about this, thank you for sharing @wireout @reuters
     &mdash; <a href="https://twitter.com/igorsushko/status/1518159717482131457">Link</a>
 </blockquote>
 
-@Reuters
+[@Reuters](https://twitter.com/Reuters)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -143,7 +143,7 @@ Completely forgot about this, thank you for sharing @wireout @reuters
     &mdash; <a href="https://twitter.com/igorsushko/status/1516281848116092931">Link</a>
 </blockquote>
 
-I was told the other day that @Reuters is the most reliable news agency according to some studies. If that's the most reliable one, we are screwed.
+I was told the other day that [@Reuters](https://twitter.com/Reuters) is the most reliable news agency according to some studies. If that's the most reliable one, we are screwed.
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -153,7 +153,7 @@ I was told the other day that @Reuters is the most reliable news agency accordin
     &mdash; <a href="https://twitter.com/igorsushko/status/1516384481589964800">Link</a>
 </blockquote>
 
-I'm patiently waiting for @felix_light to explain to us this nonsense he wrote for @Reuters. Felix, check your DMs. I'm in the UK too so if you need medical attention please let me know, I'll organise. [pic.twitter.com/HQl5QRk6RZ](https://twitter.com/cryptodrftng/status/1531305282663481349/photo/1)
+I'm patiently waiting for [@felix_light](https://twitter.com/felix_light) to explain to us this nonsense he wrote for [@Reuters](https://twitter.com/Reuters). Felix, check your DMs. I'm in the UK too so if you need medical attention please let me know, I'll organise. [pic.twitter.com/HQl5QRk6RZ](https://twitter.com/cryptodrftng/status/1531305282663481349/photo/1)
 
 | [![](https://pbs.twimg.com/media/FUBKCZzXEAAV9gw.jpg)](https://pbs.twimg.com/media/FUBKCZzXEAAV9gw.jpg) |
 | :-: |
@@ -167,23 +167,23 @@ I'm patiently waiting for @felix_light to explain to us this nonsense he wrote f
     &mdash; <a href="https://twitter.com/felix_light/status/1530596932346945537">Link</a>
 </blockquote>
 
-The @politico article I just mentioned in WR. @Reuters 
+The [@politico](https://twitter.com/politico) article I just mentioned in WR. [@Reuters](https://twitter.com/Reuters) 
 [Reuters staff raise alarms over partnership with Russian-owned wire service](https://www.politico.com/news/2022/03/20/reuters-staff-partnership-russian-wire-service-00018779)
 
 I am aware of this statement they made,  but unless 
-@reuters
+[@Reuters](https://twitter.com/Reuters)
  stops to spread russian propaganda there's no reason to consider Reuters aren't compromised anymore. 
 
 Their continued spread of lies is testimony to that.
 
 [Reuters removes Russian state news agency TASS from its content marketplace](https://www.politico.eu/article/reuters-removes-russian-state-agency-tass-from-its-content-marketplace/)
 
-Let's make @reuters memes! @felix_light [pic.twitter.com/tSaHHg6Ipq](https://twitter.com/cryptodrftng/status/1531327020457775104/photo/1)
+Let's make [@Reuters](https://twitter.com/Reuters) memes! [@felix_light](https://twitter.com/felix_light) [pic.twitter.com/tSaHHg6Ipq](https://twitter.com/cryptodrftng/status/1531327020457775104/photo/1)
 
 | [![](https://pbs.twimg.com/media/FUBdzr3WQAMoFyt.jpg)](https://pbs.twimg.com/media/FUBdzr3WQAMoFyt.jpg) |
 | :-: |
 
-Attaching this useful diagram for @reuters journalists who struggle to make sense of what ruscists are saying. @felix_light, you are welcome. [pic.twitter.com/3DuqB9f4W2](https://twitter.com/cryptodrftng/status/1531366897710678018/photo/1)
+Attaching this useful diagram for [@Reuters](https://twitter.com/Reuters) journalists who struggle to make sense of what ruscists are saying. [@felix_light](https://twitter.com/felix_light), you are welcome. [pic.twitter.com/3DuqB9f4W2](https://twitter.com/cryptodrftng/status/1531366897710678018/photo/1)
 
 | [![](https://pbs.twimg.com/media/FUCCEu2XsAISMOQ.jpg)](https://pbs.twimg.com/media/FUCCEu2XsAISMOQ.jpg) |
 | :-: |
@@ -198,9 +198,9 @@ Attaching this useful diagram for @reuters journalists who struggle to make sens
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1531369631562219530">Link</a>
 </blockquote>
 
-@Reuters guys, your license should be "exported" for publishing this. Disgrace. 
+[@Reuters](https://twitter.com/Reuters) guys, your license should be "exported" for publishing this. Disgrace. 
 
- @Ofcom 
+ [@Ofcom](https://twitter.com/Ofcom) 
 
 [twitter.com/EuromaidanPR/s…](https://twitter.com/EuromaidanPR/status/1531372850329927680?s=20&t=c1Y59YFSwZ9HmqDuyTQL-g)
 
@@ -212,9 +212,9 @@ Attaching this useful diagram for @reuters journalists who struggle to make sens
     &mdash; <a href="https://twitter.com/EuromaidanPR/status/1531372850329927680">Link</a>
 </blockquote>
 
-As @saver_ag highlighted, @Reuters misspelled  "russian invasion" which is very unfortunate. russia is only mentioned in passing for some reason.
-Also, there is no "crisis". Crisis is what @reuters are having - integrity crisis.
-#ReutersLies 
+As [@saver_ag](https://twitter.com/saver_ag) highlighted, [@Reuters](https://twitter.com/Reuters) misspelled  "russian invasion" which is very unfortunate. russia is only mentioned in passing for some reason.
+Also, there is no "crisis". Crisis is what [@Reuters](https://twitter.com/Reuters) are having - integrity crisis.
+[#ReutersLies](https://twitter.com/hashtag/ReutersLies) 
 
 [twitter.com/reuters/status…](https://twitter.com/reuters/status/1531213954265108480?s=21&t=yoT3FGhKN_fVoUATzDbL2Q)
 
@@ -249,7 +249,7 @@ Also, there is no "crisis". Crisis is what @reuters are having - integrity crisi
     &mdash; <a href="https://twitter.com/OlegNikolenko_/status/1531288473591853057">Link</a>
 </blockquote>
 
-russian propaganda finds subtle ways to infect the minds of Western audience, it's not always as obnoxious as Russia Today. @reuters
+russian propaganda finds subtle ways to infect the minds of Western audience, it's not always as obnoxious as Russia Today. [@Reuters](https://twitter.com/Reuters)
 
 
 
@@ -262,7 +262,7 @@ russian propaganda finds subtle ways to infect the minds of Western audience, it
     &mdash; <a href="https://twitter.com/gujingc/status/1531417678761496576">Link</a>
 </blockquote>
 
-@nemapovnovazhen
+[@nemapovnovazhen](https://twitter.com/nemapovnovazhen)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -273,7 +273,7 @@ russian propaganda finds subtle ways to infect the minds of Western audience, it
     &mdash; <a href="https://twitter.com/nemapovnovazhen/status/1531327844583972870">Link</a>
 </blockquote>
 
-@Euan_MacDonald @Reuters #ReutersLies
+[@Euan_MacDonald](https://twitter.com/Euan_MacDonald) [@Reuters](https://twitter.com/Reuters) [#ReutersLies](https://twitter.com/hashtag/ReutersLies)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -284,7 +284,7 @@ russian propaganda finds subtle ways to infect the minds of Western audience, it
     &mdash; <a href="https://twitter.com/Euan_MacDonald/status/1531528484589297664">Link</a>
 </blockquote>
 
-@NataliaAntonova @Reuters #ReutersLies
+[@NataliaAntonova](https://twitter.com/NataliaAntonova) [@Reuters](https://twitter.com/Reuters) [#ReutersLies](https://twitter.com/hashtag/ReutersLies)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -293,7 +293,7 @@ russian propaganda finds subtle ways to infect the minds of Western audience, it
     &mdash; <a href="https://twitter.com/NataliaAntonova/status/1531303481830686722">Link</a>
 </blockquote>
 
-@KremlinTrolls @reuters #ReutersLies
+[@KremlinTrolls](https://twitter.com/KremlinTrolls) [@Reuters](https://twitter.com/Reuters) [#ReutersLies](https://twitter.com/hashtag/ReutersLies)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -304,7 +304,7 @@ russian propaganda finds subtle ways to infect the minds of Western audience, it
     &mdash; <a href="https://twitter.com/KremlinTrolls/status/1531372349815136258">Link</a>
 </blockquote>
 
-@olex_scherba @Reuters #ReutersLies
+[@olex_scherba](https://twitter.com/olex_scherba) [@Reuters](https://twitter.com/Reuters) [#ReutersLies](https://twitter.com/hashtag/ReutersLies)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -315,7 +315,7 @@ russian propaganda finds subtle ways to infect the minds of Western audience, it
     &mdash; <a href="https://twitter.com/olex_scherba/status/1531309105129955335">Link</a>
 </blockquote>
 
-@Mariana_Betsa @reuters #ReutersLies @Ukraine_DAO
+[@Mariana_Betsa](https://twitter.com/Mariana_Betsa) [@Reuters](https://twitter.com/Reuters) [#ReutersLies](https://twitter.com/hashtag/ReutersLies) [@Ukraine_DAO](https://twitter.com/Ukraine_DAO)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -326,7 +326,7 @@ russian propaganda finds subtle ways to infect the minds of Western audience, it
     &mdash; <a href="https://twitter.com/Mariana_Betsa/status/1531213785385549825">Link</a>
 </blockquote>
 
-@amandarivkin @Reuters #ReutersLies
+[@amandarivkin](https://twitter.com/amandarivkin) [@Reuters](https://twitter.com/Reuters) [#ReutersLies](https://twitter.com/hashtag/ReutersLies)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -335,7 +335,7 @@ russian propaganda finds subtle ways to infect the minds of Western audience, it
     &mdash; <a href="https://twitter.com/amandarivkin/status/1531539027756720129">Link</a>
 </blockquote>
 
-@gujingc @reuters #ReutersLies
+[@gujingc](https://twitter.com/gujingc) [@Reuters](https://twitter.com/Reuters) [#ReutersLies](https://twitter.com/hashtag/ReutersLies)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -349,9 +349,9 @@ russian propaganda finds subtle ways to infect the minds of Western audience, it
     &mdash; <a href="https://twitter.com/gujingc/status/1531527859222634496">Link</a>
 </blockquote>
 
-@maksymeristavi 
+[@maksymeristavi](https://twitter.com/maksymeristavi) 
 
-@reuters #ReutersLies @Ukraine_DAO
+[@Reuters](https://twitter.com/Reuters) [#ReutersLies](https://twitter.com/hashtag/ReutersLies) [@Ukraine_DAO](https://twitter.com/Ukraine_DAO)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -360,9 +360,9 @@ russian propaganda finds subtle ways to infect the minds of Western audience, it
     &mdash; <a href="https://twitter.com/maksymeristavi/status/1531530374630756352">Link</a>
 </blockquote>
 
-@mhmck #ReutersLies @Ukraine_DAO 
+[@mhmck](https://twitter.com/mhmck) [#ReutersLies](https://twitter.com/hashtag/ReutersLies) [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) 
 
-🧵 about @reuters: [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1527477049438371841?s=21&t=GJkwgW9W7tk0plQj2nGBJA)
+🧵 about [@Reuters](https://twitter.com/Reuters): [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1527477049438371841?s=21&t=GJkwgW9W7tk0plQj2nGBJA)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -371,22 +371,22 @@ russian propaganda finds subtle ways to infect the minds of Western audience, it
     &mdash; <a href="https://twitter.com/mhmck/status/1531484550756552704">Link</a>
 </blockquote>
 
-@MFA_Ukraine urged @reuters to stop spreading russian propaganda and pointed out mistakes. @Ukraine 
+[@MFA_Ukraine](https://twitter.com/MFA_Ukraine) urged [@Reuters](https://twitter.com/Reuters) to stop spreading russian propaganda and pointed out mistakes. [@Ukraine](https://twitter.com/Ukraine) 
 
 МЗС закликало Reuters не просувати російську пропаганду та вказало на помилки [МЗС закликало Reuters не просувати російську пропаганду та вказало на помилки](https://www.rbc.ua/ukr/news/mid-prizval-reuters-prodvigat-rossiyskuyu-1653925190.html)
 
-#ReutersLies @Ukraine_DAO
+[#ReutersLies](https://twitter.com/hashtag/ReutersLies) [@Ukraine_DAO](https://twitter.com/Ukraine_DAO)
 
-@ghostofkebab I am Ukrainian and Kherson is not a pro-r*ssian region. We don't have any pro-r*ssian regions because no one wants to live like russians.
+[@ghostofkebab](https://twitter.com/ghostofkebab) I am Ukrainian and Kherson is not a pro-r*ssian region. We don't have any pro-r*ssian regions because no one wants to live like russians.
 
-Shame on you @Reuters @GuyReuters #ReutersLies #ArmUkraineNow [pic.twitter.com/ZxhMJx5Inm](https://twitter.com/cryptodrftng/status/1531918974904156160/photo/1)
+Shame on you [@Reuters](https://twitter.com/Reuters) [@GuyReuters](https://twitter.com/GuyReuters) [#ReutersLies](https://twitter.com/hashtag/ReutersLies) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow) [pic.twitter.com/ZxhMJx5Inm](https://twitter.com/cryptodrftng/status/1531918974904156160/photo/1)
 
 | [![](https://pbs.twimg.com/media/FUJ3ZbWWIAAWf7-.jpg)](https://pbs.twimg.com/media/FUJ3ZbWWIAAWf7-.jpg) | [![](https://pbs.twimg.com/media/FUJ3ljgWQAAqAjA.jpg)](https://pbs.twimg.com/media/FUJ3ljgWQAAqAjA.jpg) |
 | :-: | :-: |
 
-@reuters #ReuterLies
+[@Reuters](https://twitter.com/Reuters) [#ReuterLies](https://twitter.com/hashtag/ReuterLies)
 
-#GenocideOfUkrainians
+[#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -395,7 +395,7 @@ Shame on you @Reuters @GuyReuters #ReutersLies #ArmUkraineNow [pic.twitter.com/Z
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1494362496421044225">Link</a>
 </blockquote>
 
-🤦‍♀️🤦‍♀️🤦‍♀️ @Reuters @GuyReuters #ReutersLies #GenocideOfUkrainians
+🤦‍♀️🤦‍♀️🤦‍♀️ [@Reuters](https://twitter.com/Reuters) [@GuyReuters](https://twitter.com/GuyReuters) [#ReutersLies](https://twitter.com/hashtag/ReutersLies) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -406,7 +406,7 @@ Shame on you @Reuters @GuyReuters #ReutersLies #ArmUkraineNow [pic.twitter.com/Z
 
 the tweet above was meant to be 39*/
 
-40/ @reuters 
+40/ [@Reuters](https://twitter.com/Reuters) 
 
 
 
@@ -417,9 +417,9 @@ the tweet above was meant to be 39*/
     &mdash; <a href="https://twitter.com/AFP/status/1532756399805145089">Link</a>
 </blockquote>
 
-Dear @AFP, @reuters etc - there are no "separatists" in Ukraine, repeating again: [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1521028424105697280)
+Dear [@AFP](https://twitter.com/AFP), [@Reuters](https://twitter.com/Reuters) etc - there are no "separatists" in Ukraine, repeating again: [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1521028424105697280)
 
- These are terrorists "imported" to Ukraine from russia, not sure what @reuters journalists were doing in the car with them.
+ These are terrorists "imported" to Ukraine from russia, not sure what [@Reuters](https://twitter.com/Reuters) journalists were doing in the car with them.
 
 
 
@@ -432,11 +432,11 @@ Dear @AFP, @reuters etc - there are no "separatists" in Ukraine, repeating again
     &mdash; <a href="https://twitter.com/AFP/status/1532764149842862080">Link</a>
 </blockquote>
 
-Meanwhile @reuters continues to legitimise a genocidal country looting Ukrainian grain.
+Meanwhile [@Reuters](https://twitter.com/Reuters) continues to legitimise a genocidal country looting Ukrainian grain.
 
 This is some the lowest I've seen "journalists" go and I've watched RU propaganda for years. 
 
-@tuvangumrukcu @Orhan__Coskun are you proud of yourselves? 
+[@tuvangumrukcu](https://twitter.com/tuvangumrukcu) [@Orhan__Coskun](https://twitter.com/Orhan__Coskun) are you proud of yourselves? 
 
 [twitter.com/reuters/status…](https://twitter.com/reuters/status/1532754109153042432?s=21&t=nmbnWKAC5hdrAq2eyUG1aQ)
 
@@ -447,9 +447,9 @@ This is some the lowest I've seen "journalists" go and I've watched RU propagand
     &mdash; <a href="https://twitter.com/Reuters/status/1532754109153042432">Link</a>
 </blockquote>
 
-@tuvangumrukcu @Orhan__Coskun  - brought you guys some useful materials you can use for your reference next time you write about russia. You are welcome. 
+[@tuvangumrukcu](https://twitter.com/tuvangumrukcu) [@Orhan__Coskun](https://twitter.com/Orhan__Coskun)  - brought you guys some useful materials you can use for your reference next time you write about russia. You are welcome. 
 
-@reuters #ReutersLies @GuyReuters [pic.twitter.com/irmHZrYRKH](https://twitter.com/cryptodrftng/status/1532773363051028481/photo/1)
+[@Reuters](https://twitter.com/Reuters) [#ReutersLies](https://twitter.com/hashtag/ReutersLies) [@GuyReuters](https://twitter.com/GuyReuters) [pic.twitter.com/irmHZrYRKH](https://twitter.com/cryptodrftng/status/1532773363051028481/photo/1)
 
 | [![](https://pbs.twimg.com/media/FUWA3AFXEAA9bh2.jpg)](https://pbs.twimg.com/media/FUWA3AFXEAA9bh2.jpg) | [![](https://pbs.twimg.com/media/FUWA9IGX0AE5ass.jpg)](https://pbs.twimg.com/media/FUWA9IGX0AE5ass.jpg) |
 | :-: | :-: |
