@@ -8,6 +8,7 @@ import (
 	"html"
 	html_template "html/template"
 	"log"
+	"net/url"
 	"os"
 	"path"
 	"path/filepath"
@@ -64,6 +65,32 @@ var (
 	suffixThreadCounter = regexp.MustCompile("[0-9]{1,2}/([xn]|[0-9]{1,2})?$")
 )
 
+type replacement struct {
+	start uint
+	end   uint
+	text  string
+}
+
+func applyReplacements(s string, rs []replacement) string {
+	var r strings.Builder
+	sort.Slice(rs, func(i, j int) bool {
+		return rs[i].start < rs[j].start
+	})
+	ss := strings.Split(s, "")
+	prev := uint(0)
+	for _, repl := range rs {
+		if repl.start < prev {
+			// Either a duplicate or some bug
+			continue
+		}
+		r.WriteString(strings.Join(ss[prev:repl.start], ""))
+		r.WriteString(repl.text)
+		prev = repl.end
+	}
+	r.WriteString(strings.Join(ss[prev:], ""))
+	return r.String()
+}
+
 func tweetTextToMarkdown(t twitter.Tweet, cfg common.RenderConfig) string {
 	quotedID := ""
 	for _, rt := range t.ReferencedTweets {
@@ -72,21 +99,27 @@ func tweetTextToMarkdown(t twitter.Tweet, cfg common.RenderConfig) string {
 		}
 	}
 	txt := t.Text
-	sort.Slice(t.Entities.URLs, func(i, j int) bool {
-		return t.Entities.URLs[i].Start > t.Entities.URLs[j].Start
-	})
+	repls := []replacement{}
 	for _, u := range t.Entities.URLs {
 		if strings.HasPrefix(u.ExpandedURL, "https://twitter.com/") && strings.HasSuffix(u.ExpandedURL, "/"+quotedID) {
 			// Link to quoted tweet, simply remove.
-			txt = strings.ReplaceAll(txt, u.URL, "")
+			repls = append(repls, replacement{u.Start, u.End, ""})
 		} else {
 			linkText := u.DisplayURL
 			if u.Title != "" {
 				linkText = u.Title
 			}
-			txt = strings.ReplaceAll(txt, u.URL, fmt.Sprintf("[%s](%s)", linkText, u.ExpandedURL))
+			repls = append(repls, replacement{u.Start, u.End, fmt.Sprintf("[%s](%s)", linkText, u.ExpandedURL)})
 		}
 	}
+	for _, m := range t.Entities.Mentions {
+		repls = append(repls, replacement{m.Start, m.End, fmt.Sprintf("[@%s](https://twitter.com/%s)", m.Username, url.PathEscape(m.Username))})
+	}
+	for _, h := range t.Entities.Hashtags {
+		repls = append(repls, replacement{h.Start, h.End, fmt.Sprintf("[#%s](https://twitter.com/hashtag/%s)", h.Tag, url.PathEscape(h.Tag))})
+	}
+
+	txt = applyReplacements(txt, repls)
 	txt = prefixThreadCounter.ReplaceAllLiteralString(txt, "")
 	txt = suffixThreadCounter.ReplaceAllLiteralString(txt, "")
 	txt = strings.TrimLeft(txt, " ")
