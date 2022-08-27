@@ -1,4 +1,6 @@
 media_dir: media
 root:
-  how_ukraine_dao_started: 1525299116636622850
+  how_ukraine_dao_started:
+    thread_id: 1525299116636622850
+    title: How Ukraine DAO started
   reuters: 1532773363051028481

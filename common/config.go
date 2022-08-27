@@ -19,10 +19,15 @@ type Subdir struct {
 
 type Thread struct {
 	ThreadID string `yaml:"thread_id"`
+	Title    string
+	Config   RenderConfig
 }
 
 type YamlThread struct {
 	Thread `yaml:",inline"`
+}
+
+type RenderConfig struct {
 }
 
 func (t *YamlThread) UnmarshalYAML(value *yaml.Node) error {

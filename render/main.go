@@ -8,8 +8,12 @@ import (
 	"html/template"
 	"log"
 	"os"
+	"path"
 	"path/filepath"
+	"strings"
 
+	"golang.org/x/text/cases"
+	"golang.org/x/text/language"
 	"gopkg.in/yaml.v3"
 
 	"github.com/rusni-pyzda/twitter-threads/common"
@@ -29,6 +33,7 @@ var threadTmplText string
 var threadTmpl = template.Must(template.New("thread").Parse(threadTmplText))
 
 type Thread struct {
+	Title  string
 	Blocks []Block
 }
 
@@ -38,9 +43,14 @@ type Block struct {
 	QuotedTweet *twitter.Tweet
 }
 
-func parseThread(thread common.Thread, state state.ThreadState) Thread {
+func parseThread(name string, thread common.Thread, state state.ThreadState) Thread {
 	chain := state.TweetChain()
-	r := Thread{}
+	r := Thread{
+		Title: thread.Title,
+	}
+	if r.Title == "" {
+		r.Title = cases.Title(language.English).String(strings.ReplaceAll(name, "_", " "))
+	}
 	for _, t := range chain {
 		r.Blocks = append(r.Blocks, Block{Paragraph: t.Text})
 	}
@@ -49,7 +59,7 @@ func parseThread(thread common.Thread, state state.ThreadState) Thread {
 
 func run(cfg *common.Config, state *state.State) error {
 	for name, thread := range cfg.ThreadPages() {
-		t := parseThread(thread, state.Threads[thread.ThreadID])
+		t := parseThread(path.Base(name), thread, state.Threads[thread.ThreadID])
 		fname := fmt.Sprintf("%s.md", filepath.Join(*outputDir, name))
 		if err := os.MkdirAll(filepath.Dir(fname), 0755); err != nil {
 			return fmt.Errorf("creating directories for %q: %w", fname, err)
