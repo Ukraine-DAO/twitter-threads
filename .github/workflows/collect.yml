@@ -35,7 +35,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Fetch submodules
-        run: git submodule update --remote --init --recursive
+        run: |
+          git submodule update --remote --init --recursive
+          cd stored-state && git checkout state
       - name: Setup Go compiler
         uses: actions/setup-go@v3
         with:
