@@ -51,8 +51,26 @@ func parseThread(name string, thread common.Thread, state state.ThreadState) Thr
 	if r.Title == "" {
 		r.Title = cases.Title(language.English).String(strings.ReplaceAll(name, "_", " "))
 	}
+	add := func(b Block) { r.Blocks = append(r.Blocks, b) }
 	for _, t := range chain {
-		r.Blocks = append(r.Blocks, Block{Paragraph: t.Text})
+		add(Block{Paragraph: t.Text})
+		for _, rt := range t.ReferencedTweets {
+			if rt.Type != "quoted" {
+				continue
+			}
+			for _, qt := range t.Includes.Tweets {
+				if qt.ID != rt.ID {
+					continue
+				}
+				copied := qt
+				for _, u := range t.Includes.Users {
+					if u.ID == copied.AuthorID {
+						copied.Includes.Users = []twitter.TwitterUser{u}
+					}
+				}
+				add(Block{QuotedTweet: &copied})
+			}
+		}
 	}
 	return r
 }

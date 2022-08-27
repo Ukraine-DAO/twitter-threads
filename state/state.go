@@ -13,6 +13,7 @@ var requestCfg = common.RequestConfig{
 		"author_id",
 		"attachments.media_keys",
 		"referenced_tweets.id",
+		"referenced_tweets.id.author_id",
 	},
 	TweetFields: []string{
 		"author_id",

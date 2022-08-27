@@ -1,5 +1,14 @@
 # {{ .Title }}
-
-{{ range .Blocks }}
-{{.Paragraph}}
+{{ range .Blocks }}{{ if .Paragraph }}
+{{ .Paragraph }}
+{{ else if .QuotedTweet }}
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark">
+	<p lang="en" dir="ltr">
+    {{ .QuotedTweet.Text }}
+    </p>
+    &mdash; <a href="https://twitter.com/{{ (index .QuotedTweet.Includes.Users 0).Username }}/status/{{ .QuotedTweet.ID }}">Link</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{ else if .Images }}
 {{ end }}
+{{- end -}}
