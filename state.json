@@ -31,6 +31,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "1496213000809857032",
+                "name": "UkraineDAO.eth",
+                "username": "Ukraine_DAO"
               }
             ],
             "tweets": [
@@ -68,7 +73,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -164,7 +170,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -216,6 +223,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "1496213000809857032",
+                "name": "UkraineDAO.eth",
+                "username": "Ukraine_DAO"
               }
             ],
             "tweets": [
@@ -279,7 +291,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -331,6 +344,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "15534684",
+                "name": "EricMack.eth",
+                "username": "EricCMack"
               }
             ],
             "tweets": [
@@ -396,7 +414,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -548,7 +567,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -667,7 +687,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -719,6 +740,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "14628341",
+                "name": "dima.eth",
+                "username": "BlockGeekDima"
               }
             ],
             "tweets": [
@@ -786,7 +812,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -838,6 +865,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "295218901",
+                "name": "vitalik.eth",
+                "username": "VitalikButerin"
               }
             ],
             "tweets": [
@@ -897,7 +929,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -1038,7 +1071,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -1147,7 +1181,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -1199,6 +1234,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "3833059037",
+                "name": "Volodymyr Yermolenko",
+                "username": "yermolenko_v"
               }
             ],
             "tweets": [
@@ -1258,7 +1298,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -1310,6 +1351,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "1496213000809857032",
+                "name": "UkraineDAO.eth",
+                "username": "Ukraine_DAO"
               }
             ],
             "tweets": [
@@ -1390,7 +1436,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -1481,7 +1528,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -1545,7 +1593,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -1660,7 +1709,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -1712,6 +1762,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "241983890",
+                "name": "Mike Walker",
+                "username": "New_Narrative"
               }
             ],
             "tweets": [
@@ -1777,7 +1832,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -1900,7 +1956,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -2034,7 +2091,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -2086,6 +2144,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "2415072836",
+                "name": "Michael MacKay",
+                "username": "mhmck"
               }
             ],
             "tweets": [
@@ -2162,7 +2225,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -2262,7 +2326,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -2314,6 +2379,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "70668446",
+                "name": "Wireout",
+                "username": "wireout"
               }
             ],
             "tweets": [
@@ -2395,7 +2465,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -2447,6 +2518,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "884578187392544769",
+                "name": "John Sipher",
+                "username": "john_sipher"
               }
             ],
             "tweets": [
@@ -2516,7 +2592,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -2568,6 +2645,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "2420267570",
+                "name": "Alex Kokcharov",
+                "username": "AlexKokcharov"
               }
             ],
             "tweets": [
@@ -2633,7 +2715,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -2685,6 +2768,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "19536434",
+                "name": "Igor Sushko",
+                "username": "igorsushko"
               }
             ],
             "tweets": [
@@ -2754,7 +2842,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -2806,6 +2895,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "19536434",
+                "name": "Igor Sushko",
+                "username": "igorsushko"
               }
             ],
             "tweets": [
@@ -2877,7 +2971,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -2929,6 +3024,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "19536434",
+                "name": "Igor Sushko",
+                "username": "igorsushko"
               }
             ],
             "tweets": [
@@ -3002,7 +3102,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -3054,6 +3155,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "19536434",
+                "name": "Igor Sushko",
+                "username": "igorsushko"
               }
             ],
             "tweets": [
@@ -3127,7 +3233,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -3190,6 +3297,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "1912180616",
+                "name": "Felix Light",
+                "username": "felix_light"
               }
             ],
             "media": [
@@ -3262,7 +3374,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -3364,7 +3477,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -3453,7 +3567,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -3551,7 +3666,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -3651,7 +3767,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -3779,7 +3896,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -3831,6 +3949,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "2288308578",
+                "name": "Ukraine Front Lines",
+                "username": "EuromaidanPR"
               }
             ],
             "tweets": [
@@ -3898,7 +4021,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -3950,6 +4074,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "1652541",
+                "name": "Reuters",
+                "username": "Reuters"
               }
             ],
             "tweets": [
@@ -4026,7 +4155,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -4078,6 +4208,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "1703765509",
+                "name": "Jing Gu",
+                "username": "gujingc"
               }
             ],
             "tweets": [
@@ -4137,7 +4272,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -4189,6 +4325,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "1187055258712924162",
+                "name": "Oleg Nikolenko",
+                "username": "OlegNikolenko_"
               }
             ],
             "tweets": [
@@ -4256,7 +4397,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -4308,6 +4450,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "1703765509",
+                "name": "Jing Gu",
+                "username": "gujingc"
               }
             ],
             "tweets": [
@@ -4367,7 +4514,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -4419,6 +4567,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "4613459542",
+                "name": "Vyacheslav Rushnyk",
+                "username": "nemapovnovazhen"
               }
             ],
             "tweets": [
@@ -4488,7 +4641,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -4540,6 +4694,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "16185879",
+                "name": "Euan MacDonald",
+                "username": "Euan_MacDonald"
               }
             ],
             "tweets": [
@@ -4607,7 +4766,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -4659,6 +4819,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "20581923",
+                "name": "Natalia Antonova 🇺🇸🇺🇦",
+                "username": "NataliaAntonova"
               }
             ],
             "tweets": [
@@ -4728,7 +4893,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -4780,6 +4946,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "4361001253",
+                "name": "KT \"Special Intelligence Operation\"",
+                "username": "KremlinTrolls"
               }
             ],
             "tweets": [
@@ -4839,7 +5010,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -4891,6 +5063,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "163018653",
+                "name": "olexander scherba🇺🇦",
+                "username": "olex_scherba"
               }
             ],
             "tweets": [
@@ -4960,7 +5137,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -5012,6 +5190,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "3362160970",
+                "name": "Mariana Betsa",
+                "username": "Mariana_Betsa"
               }
             ],
             "tweets": [
@@ -5077,7 +5260,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -5129,6 +5313,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "197178640",
+                "name": "Amanda Rivkin",
+                "username": "amandarivkin"
               }
             ],
             "tweets": [
@@ -5188,7 +5377,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -5240,6 +5430,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "1703765509",
+                "name": "Jing Gu",
+                "username": "gujingc"
               }
             ],
             "tweets": [
@@ -5299,7 +5494,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -5351,6 +5547,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "19500405",
+                "name": "maksym.eristavi 🇺🇦🏳️‍🌈",
+                "username": "maksymeristavi"
               }
             ],
             "tweets": [
@@ -5420,7 +5621,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -5479,6 +5681,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "2415072836",
+                "name": "Michael MacKay",
+                "username": "mhmck"
               }
             ],
             "tweets": [
@@ -5546,7 +5753,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -5644,7 +5852,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -5755,7 +5964,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -5884,7 +6094,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -6005,7 +6216,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -6057,6 +6269,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "380648579",
+                "name": "AFP News Agency",
+                "username": "AFP"
               }
             ],
             "tweets": [
@@ -6124,7 +6341,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -6183,6 +6401,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "380648579",
+                "name": "AFP News Agency",
+                "username": "AFP"
               }
             ],
             "tweets": [
@@ -6242,7 +6465,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -6294,6 +6518,11 @@
                 "id": "950108795820302336",
                 "name": "Альона ꑭ Шевченко",
                 "username": "cryptodrftng"
+              },
+              {
+                "id": "1652541",
+                "name": "Reuters",
+                "username": "Reuters"
               }
             ],
             "tweets": [
@@ -6377,7 +6606,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -6490,7 +6720,8 @@
             "Expansions": [
               "author_id",
               "attachments.media_keys",
-              "referenced_tweets.id"
+              "referenced_tweets.id",
+              "referenced_tweets.id.author_id"
             ],
             "TweetFields": [
               "author_id",
@@ -6513,6 +6744,6 @@
     }
   },
   "UserTimelineTail": {
-    "950108795820302336": "1563428400366497793"
+    "950108795820302336": "1563442393789399042"
   }
 }
