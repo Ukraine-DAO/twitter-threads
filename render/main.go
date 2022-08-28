@@ -194,16 +194,15 @@ func parseThread(name string, thread common.Thread, state state.ThreadState) Thr
 }
 
 func writeIndexSubtree(f io.Writer, dir common.Subdir, fileToThread map[string]Thread, prefix string, indent string) error {
-	// TODO: iterate in deterministic order
-	for name, sd := range dir.Subdirs {
-		fmt.Fprintf(f, "%s* %s\n", indent, name)
-		if err := writeIndexSubtree(f, sd, fileToThread, filepath.Join(prefix, name), indent+"  "); err != nil {
+	for _, e := range dir.Subdirs {
+		fmt.Fprintf(f, "%s* %s\n", indent, e.Name)
+		if err := writeIndexSubtree(f, e.Subdir, fileToThread, filepath.Join(prefix, e.Name), indent+"  "); err != nil {
 			return err
 		}
 	}
-	for name := range dir.Pages {
-		fname := fmt.Sprintf("%s.md", filepath.Join(*outputDir, prefix, name))
-		fmt.Fprintf(f, "%s* [%s](%s) (by [%s](https://twitter.com/%s))\n", indent, fileToThread[fname].Title, filepath.Join(prefix, name)+".md", fileToThread[fname].AuthorName, fileToThread[fname].AuthorUsername)
+	for _, e := range dir.Pages.Entries {
+		fname := fmt.Sprintf("%s.md", filepath.Join(*outputDir, prefix, e.Name))
+		fmt.Fprintf(f, "%s* [%s](%s) (by [%s](https://twitter.com/%s))\n", indent, fileToThread[fname].Title, filepath.Join(prefix, e.Name)+".md", fileToThread[fname].AuthorName, fileToThread[fname].AuthorUsername)
 	}
 	return nil
 }

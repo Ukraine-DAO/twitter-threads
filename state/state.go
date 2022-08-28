@@ -143,7 +143,7 @@ func (state *State) WalkThreadsUp(cfg *common.Config) error {
 func (state *State) CreateThread(id string) error {
 	t, err := twitter.FetchTweet(id, requestCfg)
 	if err != nil {
-		return err
+		return fmt.Errorf("while creating thread %q: %w", id, err)
 	}
 	state.Threads[id] = ThreadState{Tweets: []twitter.Tweet{t}}
 	if state.UserTimelineTail[t.AuthorID] == "" {

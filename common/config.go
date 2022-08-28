@@ -1,6 +1,7 @@
 package common
 
 import (
+	"fmt"
 	"path"
 	"sort"
 
@@ -12,9 +13,63 @@ type Config struct {
 	MediaDir string `yaml:"media_dir"`
 }
 
+type SubdirMapEntry struct {
+	Name   string
+	Subdir Subdir
+}
+type YamlSubdirMap []SubdirMapEntry
+
+func (m *YamlSubdirMap) UnmarshalYAML(value *yaml.Node) error {
+	if value.Kind != yaml.MappingNode {
+		return fmt.Errorf("expected MappingNode value kind, got %d", value.Kind)
+	}
+	for i := 0; i < len(value.Content); i += 2 {
+		entry := SubdirMapEntry{}
+		if err := value.Content[i].Decode(&entry.Name); err != nil {
+			return fmt.Errorf("decoding key at index %d: %w", i, err)
+		}
+		if err := value.Content[i+1].Decode(&entry.Subdir); err != nil {
+			return fmt.Errorf("decoding value at index %d: %w", i+1, err)
+		}
+		*m = append(*m, entry)
+	}
+	return nil
+}
+
+type PageMapEntry struct {
+	Name string
+	Page YamlThread
+}
+type YamlPageMap struct {
+	Entries []PageMapEntry
+}
+
+func (m *YamlPageMap) UnmarshalYAML(value *yaml.Node) error {
+	if value.Kind != yaml.MappingNode {
+		return fmt.Errorf("expected MappingNode value kind, got %d", value.Kind)
+	}
+	for i := 0; i < len(value.Content); i += 2 {
+		entry := PageMapEntry{}
+		if err := value.Content[i].Decode(&entry.Name); err != nil {
+			return fmt.Errorf("decoding key at index %d: %w", i, err)
+		}
+		if entry.Name == "subdirs" {
+			// Not sure how Unmarshaler on an inline field was intended to work,
+			// but it seems we need to filter out all known fields of Subdir
+			// struct ourselves.
+			continue
+		}
+		if err := value.Content[i+1].Decode(&entry.Page); err != nil {
+			return fmt.Errorf("decoding value at index %d: %w", i+1, err)
+		}
+		m.Entries = append(m.Entries, entry)
+	}
+	return nil
+}
+
 type Subdir struct {
-	Subdirs map[string]Subdir     `yaml:",omitempty"`
-	Pages   map[string]YamlThread `yaml:",inline,omitempty"`
+	Subdirs YamlSubdirMap `yaml:",omitempty"`
+	Pages   YamlPageMap   `yaml:",inline,omitempty"`
 }
 
 type Thread struct {
@@ -46,11 +101,11 @@ func (t YamlThread) MarshalYAML() (interface{}, error) {
 
 func (s *Subdir) ThreadIDs() []string {
 	r := []string{}
-	for _, v := range s.Pages {
-		r = append(r, v.ThreadID)
+	for _, e := range s.Pages.Entries {
+		r = append(r, e.Page.ThreadID)
 	}
-	for _, sd := range s.Subdirs {
-		r = append(r, sd.ThreadIDs()...)
+	for _, e := range s.Subdirs {
+		r = append(r, e.Subdir.ThreadIDs()...)
 	}
 	return r
 }
@@ -72,12 +127,12 @@ func (cfg *Config) ThreadIDs() []string {
 
 func (s *Subdir) ThreadPages() map[string]Thread {
 	r := map[string]Thread{}
-	for name, t := range s.Pages {
-		r[name] = t.Thread
+	for _, e := range s.Pages.Entries {
+		r[e.Name] = e.Page.Thread
 	}
-	for name, subdir := range s.Subdirs {
-		for sname, t := range subdir.ThreadPages() {
-			r[path.Join(name, sname)] = t
+	for _, e := range s.Subdirs {
+		for sname, t := range e.Subdir.ThreadPages() {
+			r[path.Join(e.Name, sname)] = t
 		}
 	}
 	return r
