@@ -2,7 +2,7 @@ media_dir: media
 root:
   subdirs:
     reuters:
-      main:
+      main: # 9
         thread_id: 1532773363051028481
         title: Reuters is russian propaganda agency
       memes:
@@ -11,22 +11,73 @@ root:
       from_igor_sushko:
         thread_id: 1515750062839648256
         title: From Igor Sushko
-  how_ukraine_dao_started:
+  how_ukraine_dao_started: # 2
     thread_id: 1525299116636622850
     title: How Ukraine DAO started
-  1000_cuts:
+  1000_cuts: # 3
     thread_id: 1536666333940789251
     title: Each of us has been in agony from 1000s propaganda cuts
-  about_azov: 1544350476224925696
-  lectured_during_genocide:
+  about_azov: 1544350476224925696 # 4
+  lectured_during_genocide: # 5
     thread_id: 1544059306563325953
     title: "About Ukrainians being lectured during #GenocideOfUkrainians"
-  open_letter: 1502208168260157442
-  since_2014:
+  open_letter: 1502208168260157442 # 6
+  since_2014: # 7
     thread_id: 1499208998280568833
     title: "One of main reasons for what's happening in Ukraine right now is the weak response to the russian aggression back in 2014"
-  generalizing: 1529066163434622977
-  does_it_make_sense: 1517241275409387522
-  imperial_reboot: 1509991598595223554
-  tankgirljunkie: 1557108429193461761
-  christopher_j_m: 1560671494950506496
+  generalizing: 1529066163434622977 # 8
+  does_it_make_sense: 1517241275409387522 # 10
+  imperial_reboot: 1509991598595223554 # 15
+  tankgirljunkie: 1557108429193461761 # 217
+  christopher_j_m: 1560671494950506496 # 242
+  silenced_1: # 11
+    thread_id: 1506185499077193731
+    title: On Ukrainian voices not being heard I
+  silenced_2: # 12
+    thread_id: 1560688716859031552
+    title: On Ukrainian voices not being heard II
+  silenced_3: # 13
+    thread_id: 1531566747689558018
+    title: On Ukrainian voices not being heard III
+  on_ukrainian_neo_nazis: # 14
+    thread_id: 1545770257171861504
+    title: On Ukrainian "neo-Nazis" that everyone loves talking about these days
+  translating_macron: # 16
+    thread_id: 1563422043311288321
+    title: My translations of Emmanuel Macron statements
+  darvo: # 17
+    thread_id: 1527913316957446144
+    title: DARVO
+  ukraine_dao_trucks: # 20
+    thread_id: 1532560059300978688
+    title: Ukraine DAO Trucks
+  on_genocide_denial: # 28
+    thread_id: 1530435099849895936
+    title: On denial of genocide of Ukrainians
+  on_war_in_donbass_since_2014:
+    thread_id: 1535494455393918976
+    title: For those wondering why there has been war in Donbas since 2014
+  on_speaking_russian: # 32
+    thread_id: 1516521730541776896
+    title: On speaking russian
+  ukraine_has_agency: # 33
+    thread_id: 1527415283601788951
+    title: "This is at the core of everything I do: has agency and the right to defend itself against the genocidal russian aggression"
+  first_encounter_with_propagandist: # 34
+    thread_id: 1505429104572653568
+    title: My first encounter with a russian propagandist, 2014 🕊
+  mastodon: 1529854934358933504 # 36
+  twitter_block_for_12_hours: 1517686615174434816 # 37
+  it_is_genocide: # 40
+    thread_id: 1530586056805974016
+    title: How to check if it's really genocide and whether peace in Ukraine can be reached through diplomatic negotiations with russia.
+  what_russia_should_do_with_ukraine: # 42
+    thread_id: 1530577568226848768
+    title: "“What russia should do with Ukraine”. German, French, Annotated version"
+  trident: # 43
+    thread_id: 1527926357283508225
+    title: Scary extremist/terrorist symbol that I have on my forearm AKA a trident - the Ukrainian Coat of Arms & emblem of the Armed Forces of Ukraine.
+  fragile_russia: # 44
+    thread_id: 1530639217272926208
+    title: How fragile russia is
+
