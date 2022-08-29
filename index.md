@@ -33,3 +33,4 @@
 * [“What russia should do with Ukraine”. German, French, Annotated version](what_russia_should_do_with_ukraine.md) (by [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng))
 * [Scary extremist/terrorist symbol that I have on my forearm AKA a trident - the Ukrainian Coat of Arms & emblem of the Armed Forces of Ukraine.](trident.md) (by [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng))
 * [How fragile russia is](fragile_russia.md) (by [Kamil Galeev](https://twitter.com/kamilkazani))
+* [If you're feeling helpless/useless today, here's a reason to cheer up - at least you are not Olaf Scholz](if_youre_feeling_useless.md) (by [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng))
