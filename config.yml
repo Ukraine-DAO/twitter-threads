@@ -33,6 +33,8 @@ root:
   silenced_1: # 11
     thread_id: 1506185499077193731
     title: On Ukrainian voices not being heard I
+    config:
+      merge_upper_case_after_ellipsis: true
   silenced_2: # 12
     thread_id: 1560688716859031552
     title: On Ukrainian voices not being heard II

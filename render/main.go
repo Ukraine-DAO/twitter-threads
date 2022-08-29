@@ -17,6 +17,7 @@ import (
 	"sort"
 	"strings"
 	text_template "text/template"
+	"unicode"
 
 	"golang.org/x/text/cases"
 	"golang.org/x/text/language"
@@ -134,6 +135,47 @@ func tweetTextToMarkdown(t twitter.Tweet, cfg common.RenderConfig) string {
 	return html.UnescapeString(txt)
 }
 
+func tryMergingParagraphs(th *Thread, cfg common.RenderConfig) {
+	firstChar := func(s string) rune {
+		for _, r := range s {
+			return r
+		}
+		return 0
+	}
+
+	maybeMerge := func(a string, b string) (string, bool) {
+		switch {
+		case strings.HasSuffix(a, "...") && unicode.IsLower(firstChar(b)):
+			return strings.TrimSuffix(a, "...") + " " + b, true
+		case strings.HasSuffix(a, "...") && cfg.MergeUpperCaseAfterEllipsis && unicode.IsUpper(firstChar(b)):
+			return strings.TrimSuffix(a, "...") + " " + string([]rune{unicode.ToLower(firstChar(b))}) + strings.TrimPrefix(b, string([]rune{firstChar(b)})), true
+		}
+		return "", false
+	}
+
+	r := []Block{}
+	acc := []Block{}
+	for _, b := range th.Blocks {
+		if b.Paragraph == "" {
+			r = append(r, acc...)
+			r = append(r, b)
+			acc = nil
+			continue
+		}
+		if len(acc) == 0 {
+			acc = []Block{b}
+			continue
+		}
+		if merged, yes := maybeMerge(acc[len(acc)-1].Paragraph, b.Paragraph); yes {
+			acc[len(acc)-1].Paragraph = merged
+		} else {
+			acc = append(acc, b)
+		}
+	}
+	r = append(r, acc...)
+	th.Blocks = r
+}
+
 func parseThread(name string, thread common.Thread, state state.ThreadState) Thread {
 	chain := state.TweetChain()
 	r := Thread{
@@ -192,6 +234,7 @@ func parseThread(name string, thread common.Thread, state state.ThreadState) Thr
 			}
 		}
 	}
+	tryMergingParagraphs(&r, thread.Config)
 	return r
 }
 

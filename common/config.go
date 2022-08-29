@@ -83,6 +83,7 @@ type YamlThread struct {
 }
 
 type RenderConfig struct {
+	MergeUpperCaseAfterEllipsis bool `yaml:"merge_upper_case_after_ellipsis"`
 }
 
 func (t *YamlThread) UnmarshalYAML(value *yaml.Node) error {
