@@ -33,7 +33,7 @@ e. "Forcibly transferring children of the group to another group" - 121 000 (one
 
 The number grew to 181 000 (one hundred and eighty thousand) "evacuate" children as of May 2. Adoption rules were also significantly simplified in Russia recently. 8/ [spravdi.gov.ua/en/help-for-ab…](https://spravdi.gov.ua/en/help-for-abducted-orphans-how-russia-adopts-children-from-ukraine/?__cf_chl_tk=MVjw2VPGYhW8XaBvFHhba0Mxv_5ED_Hp4Gim4owD7w0-1653736064-0-gaNycGzNCL0)
 
-Hence, every single requirement on the list for the physical part of the UN definition of genocide is sadly satisfied. All victims, or virtually all, are Ukrainians, which satisfies the deliberate targeting of a group of "a national, ethnical, racial or religious" trait 9/
+Hence, every single requirement on the list for the physical part of the UN definition of genocide is sadly satisfied. All victims, or virtually all, are Ukrainians, which satisfies the deliberate targeting of a group of "a national, ethnical, racial or religious" trait
 
 | [![](https://pbs.twimg.com/media/FT12MYmWYAEoCsd.png)](https://pbs.twimg.com/media/FT12MYmWYAEoCsd.png) |
 | :-: |
@@ -49,7 +49,7 @@ The intent is difficult to establish. However, it is not the case with Russia. T
     &mdash; <a href="https://twitter.com/JuliaDavisNews/status/1518787412620726273">Link</a>
 </blockquote>
 
-In a since-deleted article on RIA Novosti, a Russian state media outlet, the Russians declared their intent: "...Ukraine will no longer exist as anti-Russia. Russia is recovering its historical completeness, gathering the Russian world, the Russian people together." 12/
+In a since-deleted article on RIA Novosti, a Russian state media outlet, the Russians declared their intent: "...Ukraine will no longer exist as anti-Russia. Russia is recovering its historical completeness, gathering the Russian world, the Russian people together."
 
 | [![](https://pbs.twimg.com/media/FT19GDvWAAEg_MQ.png)](https://pbs.twimg.com/media/FT19GDvWAAEg_MQ.png) |
 | :-: |
@@ -70,17 +70,17 @@ The Russians were either stupefied by their own propaganda or they severely unde
     &mdash; <a href="https://twitter.com/Gerashchenko_en/status/1522939116404543495">Link</a>
 </blockquote>
 
-The speaker is not some random wackjob. His name is Aleksey Zhuravlev, he is a member of the Russian State Duma and chairman of the Rodina party. Besides he is first deputy chair of the Duma defense committee and a member of the national defense and security budget committee 16/
+The speaker is not some random wackjob. His name is Aleksey Zhuravlev, he is a member of the Russian State Duma and chairman of the Rodina party. Besides he is first deputy chair of the Duma defense committee and a member of the national defense and security budget committee
 
 | [![](https://pbs.twimg.com/media/FT2Sc03WAAMUyaa.jpg)](https://pbs.twimg.com/media/FT2Sc03WAAMUyaa.jpg) |
 | :-: |
 
-Zhuravlev started off his political career in post-Soviet Russia in the ethnocentric The Congress of ethnic Russian Communes. In the early 2000s, he joined Putin's United Russia and started working for the more extreme offshoot Rodina, where Rogozin is one of the founders. 17/
+Zhuravlev started off his political career in post-Soviet Russia in the ethnocentric The Congress of ethnic Russian Communes. In the early 2000s, he joined Putin's United Russia and started working for the more extreme offshoot Rodina, where Rogozin is one of the founders.
 
 | [![](https://pbs.twimg.com/media/FT2fhL1WUAccH-y.png)](https://pbs.twimg.com/media/FT2fhL1WUAccH-y.png) |
 | :-: |
 
-Politicians like him have been used by the Kremlin to probe the public for more extreme ideas and generally could be considered harbingers of the Kremlin's plans. Kremlin's chief herald and court jester position was recently vacated with the death of Vladimir Zhirinovsky. 18/
+Politicians like him have been used by the Kremlin to probe the public for more extreme ideas and generally could be considered harbingers of the Kremlin's plans. Kremlin's chief herald and court jester position was recently vacated with the death of Vladimir Zhirinovsky.
 
 | [![](https://pbs.twimg.com/media/FT2U9R2XEAAGlR9.jpg)](https://pbs.twimg.com/media/FT2U9R2XEAAGlR9.jpg) |
 | :-: |
@@ -94,7 +94,7 @@ He also added: "...the union republics did not have any sovereign rights, none a
 
 "...The virus of nationalist ambitions is still with us, and the mine laid at the initial stage to destroy state immunity to the disease of nationalism was ticking. As I have already said, the mine was the right of secession from the Soviet Union."
 
-Putin's revanchist speech should be viewed through the lens of Holodomor, a Moscow engineered famine to reduce Ukraine's population as a rebellious colony. Putin claimed that the Ukrainians and Russians are "one people." He gave them an option of assimilation. 23/
+Putin's revanchist speech should be viewed through the lens of Holodomor, a Moscow engineered famine to reduce Ukraine's population as a rebellious colony. Putin claimed that the Ukrainians and Russians are "one people." He gave them an option of assimilation.
 
 | [![](https://pbs.twimg.com/media/FT2cseJWAAAHhYV.jpg)](https://pbs.twimg.com/media/FT2cseJWAAAHhYV.jpg) |
 | :-: |
