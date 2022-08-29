@@ -3,11 +3,7 @@
 Author: [Tymofii Brik](https://twitter.com/brik_t)  
 *Links to this thread: [Twitter](https://twitter.com/brik_t/status/1506185499077193731), [PingThread](https://pingthread.com/thread/1506185499077193731), [ThreadReader](https://threadreaderapp.com/thread/1506185499077193731.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/brik_t/status/1506185499077193731)*
 
-Another surprising miscalculation. I often see that Ukrainians (officials, media, scholars, NGO) are often perceived and treated exclusively as eye witnesses, a biased part of the conflict. This, their data, ideas and narratives are immediately disregard...
-
-Which is weird, because this underlying assumption is only a part of the story. People working in social science know it very well. We all are biases and not neutral, but we have protocols and tools to address these biases and control for them. The biggest problem here is...
-
-That Ukrainians have a significant expertise, and people throw it away because they don't know how to identify and control biases. This is not efficient. Examples of expertise are:
+Another surprising miscalculation. I often see that Ukrainians (officials, media, scholars, NGO) are often perceived and treated exclusively as eye witnesses, a biased part of the conflict. This, their data, ideas and narratives are immediately disregard which is weird, because this underlying assumption is only a part of the story. People working in social science know it very well. We all are biases and not neutral, but we have protocols and tools to address these biases and control for them. The biggest problem here is that Ukrainians have a significant expertise, and people throw it away because they don't know how to identify and control biases. This is not efficient. Examples of expertise are:
 
 This is not the first Russian invasion to Ukraine, there are many diplomats (under 2 different presidents) who participated in negotiasions with Russians. Local journalists covered it, local think-tanks worked on strategies etc.
 
