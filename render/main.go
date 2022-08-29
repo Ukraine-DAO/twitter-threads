@@ -64,7 +64,7 @@ type Block struct {
 
 var (
 	prefixThreadCounter = regexp.MustCompile("^[0-9]{1,2}/([xn]|[0-9]{1,2})?")
-	suffixThreadCounter = regexp.MustCompile("[0-9]{1,2}/([xn]|[0-9]{1,2})?$")
+	suffixThreadCounter = regexp.MustCompile("[0-9]{1,2}/([xn🧵]|[0-9]{1,2})?$")
 )
 
 type replacement struct {
@@ -125,6 +125,8 @@ func tweetTextToMarkdown(t twitter.Tweet, cfg common.RenderConfig) string {
 	}
 
 	txt = applyReplacements(txt, repls)
+	txt = strings.TrimLeft(txt, " ")
+	txt = strings.TrimRight(txt, " ")
 	txt = prefixThreadCounter.ReplaceAllLiteralString(txt, "")
 	txt = suffixThreadCounter.ReplaceAllLiteralString(txt, "")
 	txt = strings.TrimLeft(txt, " ")
