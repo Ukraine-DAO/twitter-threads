@@ -1028,3 +1028,17 @@ A German person is offended on the russians' behalf, he "doesn't want them gone"
     </p>
     &mdash; <a href="https://twitter.com/a_feanor/status/1563489363266220034">Link</a>
 </blockquote>
+
+Nothing new in this 🧵
+
+Germany and France still being pathetic. 
+[#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow) [#GermanyFundsGenocide](https://twitter.com/hashtag/GermanyFundsGenocide) 
+
+France 🧵 - [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1524038083611607050?s=21&t=nQQJeG4kwFz8Q2E_1xL-Zw)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    #France and #Germany have written a joint statement (the document is not official, but rather a recommendation), in which they propose that #EU countries create media literacy courses in #Russian for #Russians. https://t.co/RzT6Hgh43O<br />
+    </p>
+    &mdash; <a href="https://twitter.com/nexta_tv/status/1564488500866650114">Link</a>
+</blockquote>
