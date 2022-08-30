@@ -1042,3 +1042,24 @@ France 🧵 - [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/s
     </p>
     &mdash; <a href="https://twitter.com/nexta_tv/status/1564488500866650114">Link</a>
 </blockquote>
+
+🚨Germany outdid itself today 🚨
+
+Why is it so corrupt? 
+
+[#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0) [#УкрТві](https://twitter.com/hashtag/%D0%A3%D0%BA%D1%80%D0%A2%D0%B2%D1%96) 
+
+[#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow)
+
+| [![](https://pbs.twimg.com/media/FbaMgGaWAAAHJGT.jpg)](https://pbs.twimg.com/media/FbaMgGaWAAAHJGT.jpg) |
+| :-: |
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    BREAKING: Customs officers have raided a network of German companies suspected of selling precursors that could be used in the manufacture of chemical weapons to a Russian firm contracted by the FSB. <br />
+    <br />
+    Our story below with @ndr, @wdr and @SZ 👇1/<br />
+    https://t.co/08I010eTlk<br />
+    </p>
+    &mdash; <a href="https://twitter.com/OCCRP/status/1564575528497156098">Link</a>
+</blockquote>
