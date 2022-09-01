@@ -7,6 +7,7 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"strings"
 
 	"github.com/rusni-pyzda/twitter-threads/common"
 )
@@ -62,6 +63,61 @@ func FetchTweet(id string, config common.RequestConfig) (Tweet, error) {
 	t := d.Data
 	t.RequestConfig = config
 	t.Includes = d.Includes
+	return t, nil
+}
+
+func FetchTweets(ids []string, config common.RequestConfig) ([]Tweet, error) {
+	if token == "" {
+		return nil, fmt.Errorf("missing twitter bearer token")
+	}
+	url := "https://api.twitter.com/2/tweets"
+	params := config.QueryParams()
+	params.Set("ids", strings.Join(ids, ","))
+	if encoded := params.Encode(); len(encoded) > 0 {
+		url += "?" + encoded
+	}
+	log.Printf("GET %s", url)
+	req, _ := http.NewRequest("GET", url, nil)
+
+	req.Header.Add("Accept", "application/json")
+	req.Header.Add("Content-Type", "application/json")
+	req.Header.Add("Authorization", fmt.Sprintf("Bearer %s", token))
+
+	resp, err := http.DefaultClient.Do(req)
+	if err != nil {
+		return nil, fmt.Errorf("sending the request: %w", err)
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode == http.StatusTooManyRequests {
+		return nil, ErrThrottled
+	}
+
+	if resp.StatusCode != http.StatusOK {
+		body, err := io.ReadAll(resp.Body)
+		if err != nil {
+			return nil, fmt.Errorf("reading body from an error response (code %d): %w", resp.StatusCode, err)
+		}
+		return nil, fmt.Errorf("request failed with code %d: %s", resp.StatusCode, body)
+	}
+
+	body, err := io.ReadAll(resp.Body)
+	if err != nil {
+		return nil, fmt.Errorf("reading response: %w", err)
+	}
+	log.Printf("%s", string(body))
+	d := struct {
+		Data     []Tweet       `json:"data"`
+		Includes TweetIncludes `json:"includes"`
+	}{}
+	if err := json.Unmarshal(body, &d); err != nil {
+		return nil, fmt.Errorf("decoding response: %w", err)
+	}
+	t := d.Data
+	for _, tw := range t {
+		tw.RequestConfig = config
+		tw.Includes = d.Includes
+	}
 	return t, nil
 }
 
