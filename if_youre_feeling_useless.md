@@ -1089,3 +1089,15 @@ Why is it so corrupt?
     </p>
     &mdash; <a href="https://twitter.com/tweet4anna/status/1565100130029768704">Link</a>
 </blockquote>
+
+Germany rn:
+
+| [![](https://pbs.twimg.com/media/FbktGGOVUAElpgH.jpg)](https://pbs.twimg.com/media/FbktGGOVUAElpgH.jpg) |
+| :-: |
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    #BREAKING Poland asks Germany for war reparations of 1.3 trillion euros https://t.co/GX175ljVCT<br />
+    </p>
+    &mdash; <a href="https://twitter.com/AFP/status/1565308266690789382">Link</a>
+</blockquote>
