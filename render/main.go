@@ -149,6 +149,8 @@ func tryMergingParagraphs(th *Thread, cfg common.RenderConfig) {
 			return strings.TrimSuffix(a, "...") + " " + b, true
 		case strings.HasSuffix(a, "...") && cfg.MergeUpperCaseAfterEllipsis && unicode.IsUpper(firstChar(b)):
 			return strings.TrimSuffix(a, "...") + " " + string([]rune{unicode.ToLower(firstChar(b))}) + strings.TrimPrefix(b, string([]rune{firstChar(b)})), true
+		case !strings.HasSuffix(a, ".") && cfg.MergeUnlessEndsWithPeriod:
+			return a + " " + b, true
 		}
 		return "", false
 	}

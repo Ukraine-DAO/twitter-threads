@@ -84,6 +84,7 @@ type YamlThread struct {
 
 type RenderConfig struct {
 	MergeUpperCaseAfterEllipsis bool `yaml:"merge_upper_case_after_ellipsis"`
+	MergeUnlessEndsWithPeriod   bool `yaml:"merge_unless_ends_with_period"`
 }
 
 func (t *YamlThread) UnmarshalYAML(value *yaml.Node) error {

@@ -85,4 +85,15 @@ root:
   if_youre_feeling_useless: # 46
     thread_id: 1563607266191781890
     title: If you're feeling helpless/useless today, here's a reason to cheer up - at least you are not Olaf Scholz
+  russian_speaking_ukrainians:  #48
+    thread_id: 1530417540471611392
+    title: On russian-speaking Ukrainians
+    config:
+      merge_unless_ends_with_period: true
+  from_historian_soldier: # 49
+    thread_id: 1530673305501323267
+    title: Olga Tokariuk retelling thoughts of Ukrainian soldier with PhD in history
+  homophobia_in_russia: # 51
+    thread_id: 1549942274947223554
+    title: On homophobia in russia
 
