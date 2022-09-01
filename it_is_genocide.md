@@ -101,9 +101,7 @@ Putin's revanchist speech should be viewed through the lens of Holodomor, a Mosc
 
 However, should they resist, which they are, the alternative is death. Putin's Feb 21 speech also lays out the Kremlin roadmap for future conquests - every single former Soviet colony is a legitimate target for the Russians.
 
-Every former Soviet colony is an internationally recognized sovereign state, yet they are infected with "the disease of nationalism." Let me give you the list: Estonia, Latvia, Lithuania, Belarus, Ukraine, Georgia, Armenia, Azerbaijan, Kazakhstan, Uzbekistan, Turkmenistan...
-
-...Tajikistan, and Kyrgyzstan (going counterclockwise on the Mercator projection). They, the collective Putin, decided to start with Ukraine. And now Ukraine is resisting, holding back the floodgate of Russian fascist imperialism. 
+Every former Soviet colony is an internationally recognized sovereign state, yet they are infected with "the disease of nationalism." Let me give you the list: Estonia, Latvia, Lithuania, Belarus, Ukraine, Georgia, Armenia, Azerbaijan, Kazakhstan, Uzbekistan, Turkmenistan Tajikistan, and Kyrgyzstan (going counterclockwise on the Mercator projection). They, the collective Putin, decided to start with Ukraine. And now Ukraine is resisting, holding back the floodgate of Russian fascist imperialism. 
 Дякую за ваш опір та відвагу
 End of thread.
 

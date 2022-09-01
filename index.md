@@ -34,3 +34,6 @@
 * [Scary extremist/terrorist symbol that I have on my forearm AKA a trident - the Ukrainian Coat of Arms & emblem of the Armed Forces of Ukraine.](trident.md) (by [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng))
 * [How fragile russia is](fragile_russia.md) (by [Kamil Galeev](https://twitter.com/kamilkazani))
 * [If you're feeling helpless/useless today, here's a reason to cheer up - at least you are not Olaf Scholz](if_youre_feeling_useless.md) (by [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng))
+* [On russian-speaking Ukrainians](russian_speaking_ukrainians.md) (by [Oleksandra Povoroznyk 🇺🇦](https://twitter.com/rynkrynk))
+* [Olga Tokariuk retelling thoughts of Ukrainian soldier with PhD in history](from_historian_soldier.md) (by [Olga Tokariuk](https://twitter.com/olgatokariuk))
+* [On homophobia in russia](homophobia_in_russia.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
