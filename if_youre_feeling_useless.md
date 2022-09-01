@@ -1063,3 +1063,29 @@ Why is it so corrupt?
     </p>
     &mdash; <a href="https://twitter.com/OCCRP/status/1564575528497156098">Link</a>
 </blockquote>
+
+[@tweet4anna](https://twitter.com/tweet4anna) ❤️‍🩹
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Daily reminder:<br />
+    <br />
+    ❗️We really “shouldn’t respect anyone’s opinion,  alright?<br />
+    <br />
+    ❗️OUR opinion should be respected.<br />
+    <br />
+    ❗️@tweet4anna couldn’t have “insulted” Germany<br />
+    <br />
+    Germany has already embarrassed itself beyond belief, no one can “insult” it at this point https://t.co/9WAQ1sLf2g<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1565064142272315396">Link</a>
+</blockquote>
+
+[@tweet4anna](https://twitter.com/tweet4anna) ❤️‍🩹
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @cryptodrftng I don’t mind if did,they have been insulting my family personally&amp;my country for quite a while,&amp;now they pretend to be insulted because we are standing up for themselves. Instead of taking offense &amp;harassing Ukrainians they should changing the behavior . Germany isn’t a victim.<br />
+    </p>
+    &mdash; <a href="https://twitter.com/tweet4anna/status/1565100130029768704">Link</a>
+</blockquote>
