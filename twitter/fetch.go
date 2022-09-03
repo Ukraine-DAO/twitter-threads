@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"io"
+	"io/ioutil"
 	"log"
 	"net/http"
 	"os"
@@ -197,4 +198,46 @@ func FetchUserTimeline(userID string, config common.RequestConfig, sinceID strin
 		params.Set("pagination_token", d.Meta.NextToken)
 	}
 	return r, nil
+}
+
+func GetUserID(username string) (string, error) {
+	if token == "" {
+		return "", fmt.Errorf("missing twitter bearer token")
+	}
+
+	url := fmt.Sprintf("https://api.twitter.com/2/users/by/username/%s", username)
+	log.Printf("GET %s", url)
+	req, _ := http.NewRequest("GET", url, nil)
+
+	req.Header.Add("Accept", "application/json")
+	req.Header.Add("Content-Type", "application/json")
+	req.Header.Add("Authorization", fmt.Sprintf("Bearer %s", token))
+
+	resp, err := http.DefaultClient.Do(req)
+	if err != nil {
+		return "", fmt.Errorf("sending the request: %w", err)
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode == http.StatusTooManyRequests {
+		return "", ErrThrottled
+	}
+
+	if resp.StatusCode != http.StatusOK {
+		body, err := ioutil.ReadAll(resp.Body)
+		if err != nil {
+			return "", fmt.Errorf("reading body from an error response (code %d): %w", resp.StatusCode, err)
+		}
+		return "", fmt.Errorf("request failed with code %d: %s", resp.StatusCode, body)
+	}
+
+	v := struct {
+		Data struct {
+			ID string `json:"id"`
+		} `json:"data"`
+	}{}
+	if err := json.NewDecoder(resp.Body).Decode(&v); err != nil {
+		return "", fmt.Errorf("decoding response: %w", err)
+	}
+	return v.Data.ID, nil
 }
