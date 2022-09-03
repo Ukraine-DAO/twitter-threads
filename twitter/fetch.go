@@ -134,7 +134,9 @@ func FetchUserTimeline(userID string, config common.RequestConfig, sinceID strin
 
 	for {
 		url := fmt.Sprintf("https://api.twitter.com/2/users/%s/tweets", userID)
-		params.Set("since_id", sinceID)
+		if sinceID != "" {
+			params.Set("since_id", sinceID)
+		}
 		params.Set("max_results", "100")
 		if encoded := params.Encode(); len(encoded) > 0 {
 			url += "?" + encoded
