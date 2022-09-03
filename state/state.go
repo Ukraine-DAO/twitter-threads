@@ -28,8 +28,10 @@ var requestCfg = common.RequestConfig{
 		"type",
 		"url",
 		"preview_image_url",
+		"variants",
+		"alt_text",
 	},
-	CustomFlags: []string{"1"},
+	CustomFlags: []string{"2"},
 }
 
 func errIfNotThrottled(err error) error {
@@ -37,6 +39,18 @@ func errIfNotThrottled(err error) error {
 		return nil
 	}
 	return err
+}
+
+func removeParentFromIncludes(t *twitter.Tweet) bool {
+	// Remove from Includes the tweet that it's replying to - we're storing that
+	// tweet anyway, so no need to duplicate it.
+	for i, tt := range t.Includes.Tweets {
+		if t.InReplyTo() != "" && tt.ID == t.InReplyTo() {
+			t.Includes.Tweets = append(t.Includes.Tweets[0:i], t.Includes.Tweets[i+1:len(t.Includes.Tweets)]...)
+			return true
+		}
+	}
+	return false
 }
 
 type State struct {
@@ -71,16 +85,21 @@ func (state *State) Update(cfg *common.Config) error {
 	}
 
 	updated := map[string]ThreadState{}
+updating:
 	for id, ts := range state.Threads {
 		for i, t := range ts.Tweets {
 			if t.RequestConfig.Equal(requestCfg) {
 				continue
 			}
 			tt, err := twitter.FetchTweet(t.ID, requestCfg)
+			if err == twitter.ErrThrottled {
+				break updating
+			}
 			if err != nil {
 				// TODO: skip deleted/unavailable tweets instead of crashing
 				return err
 			}
+			removeParentFromIncludes(&tt)
 			ts.Tweets[i] = tt
 			updated[id] = ts
 		}
@@ -126,6 +145,7 @@ func (state *State) WalkThreadsUp(cfg *common.Config) error {
 			if err != nil {
 				return err
 			}
+			removeParentFromIncludes(&t)
 			ts.Tweets = append([]twitter.Tweet{t}, ts.Tweets...)
 			state.Threads[id] = ts
 			if t.ConversationID == t.ID {
@@ -145,6 +165,7 @@ func (state *State) CreateThread(id string) error {
 	if err != nil {
 		return fmt.Errorf("while creating thread %q: %w", id, err)
 	}
+	removeParentFromIncludes(&t)
 	state.Threads[id] = ThreadState{Tweets: []twitter.Tweet{t}}
 	if state.UserTimelineTail[t.AuthorID] == "" {
 		state.UserTimelineTail[t.AuthorID] = id
@@ -198,6 +219,7 @@ func (state *State) UpdateThreads(authorID string, threads []string) error {
 		if !haveConvId[t.ConversationID] {
 			continue
 		}
+		removeParentFromIncludes(&t)
 		c := t.ConversationID
 		byConvId[c] = append(byConvId[c], t)
 	}
@@ -234,6 +256,7 @@ func (ts *ThreadState) Update(tweets []twitter.Tweet) {
 		}
 		for id, t := range byId {
 			if existing[t.InReplyTo()] {
+				removeParentFromIncludes(&t)
 				ts.Tweets = append(ts.Tweets, t)
 				existing[id] = true
 				added++

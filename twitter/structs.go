@@ -74,7 +74,7 @@ type Tweet struct {
 	Attachments      Attachments       `json:"attachments,omitempty"`
 	Includes         TweetIncludes     `json:"includes,omitempty"`
 
-	RequestConfig common.RequestConfig
+	RequestConfig common.RequestConfig `json:",omitempty"`
 }
 
 func (t *Tweet) InReplyTo() string {
