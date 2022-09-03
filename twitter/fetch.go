@@ -115,9 +115,10 @@ func FetchTweets(ids []string, config common.RequestConfig) ([]Tweet, error) {
 		return nil, fmt.Errorf("decoding response: %w", err)
 	}
 	t := d.Data
-	for _, tw := range t {
+	for i, tw := range t {
 		tw.RequestConfig = config
-		tw.Includes = d.Includes
+		tw.CopyIncludes(d.Includes)
+		t[i] = tw
 	}
 	return t, nil
 }
@@ -187,7 +188,7 @@ func FetchUserTimeline(userID string, config common.RequestConfig, sinceID strin
 
 		for _, t := range d.Data {
 			t.RequestConfig = config
-			t.Includes = d.Includes
+			t.CopyIncludes(d.Includes)
 			r = append(r, t)
 		}
 

@@ -16,10 +16,12 @@ type TwitterUser struct {
 }
 
 type Media struct {
-	Type       string `json:"type"`
-	Key        string `json:"media_key"`
-	URL        string `json:"url,omitempty"`
-	PreviewURL string `json:"preview_image_url,omitempty"`
+	Type       string                 `json:"type"`
+	Key        string                 `json:"media_key"`
+	URL        string                 `json:"url,omitempty"`
+	PreviewURL string                 `json:"preview_image_url,omitempty"`
+	Variants   map[string]interface{} `json:"variants,omitempty"`
+	AltText    string                 `json:"alt_text,omitempty"`
 }
 
 type TweetIncludes struct {
@@ -82,4 +84,47 @@ func (t *Tweet) InReplyTo() string {
 		}
 	}
 	return ""
+}
+
+func (t *Tweet) CopyIncludes(incl TweetIncludes) {
+	wantTweets := map[string]bool{}
+	for _, rt := range t.ReferencedTweets {
+		wantTweets[rt.ID] = true
+	}
+	for _, tt := range incl.Tweets {
+		if wantTweets[tt.ID] {
+			t.Includes.Tweets = append(t.Includes.Tweets, tt)
+		}
+	}
+
+	wantUserById := map[string]bool{
+		t.AuthorID: true,
+	}
+	wantUserByUsername := map[string]bool{}
+	for _, m := range t.Entities.Mentions {
+		wantUserByUsername[m.Username] = true
+	}
+	for _, tt := range t.Includes.Tweets {
+		wantUserById[tt.AuthorID] = true
+	}
+	for _, u := range incl.Users {
+		if wantUserById[u.ID] || wantUserByUsername[u.Username] {
+			t.Includes.Users = append(t.Includes.Users, u)
+		}
+	}
+
+	wantMedia := map[string]bool{}
+	for _, k := range t.Attachments.MediaKeys {
+		wantMedia[k] = true
+	}
+	for _, tt := range t.Includes.Tweets {
+		for _, k := range tt.Attachments.MediaKeys {
+			wantMedia[k] = true
+		}
+	}
+	for _, m := range incl.Media {
+		if wantMedia[m.Key] {
+			t.Includes.Media = append(t.Includes.Media, m)
+		}
+	}
 }
