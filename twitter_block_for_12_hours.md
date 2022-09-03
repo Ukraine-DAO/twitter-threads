@@ -1,6 +1,6 @@
 # Twitter Block For 12 Hours
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1517686612167217153), [PingThread](https://pingthread.com/thread/1517686612167217153), [ThreadReader](https://threadreaderapp.com/thread/1517686612167217153.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1517686612167217153)*
 
 I'm back and would like to take this opportunity to express my deepest apologies to [@Twitter](https://twitter.com/Twitter) for violating its rules by not being quiet about [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians). Super sorry, [@TwitterSupport](https://twitter.com/TwitterSupport), definitely will happen again - you can just remove my account if that's not cool.

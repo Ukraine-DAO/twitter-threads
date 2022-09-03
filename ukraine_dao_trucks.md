@@ -1,6 +1,6 @@
 # Ukraine DAO Trucks
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1529098085611319296), [PingThread](https://pingthread.com/thread/1529098085611319296), [ThreadReader](https://threadreaderapp.com/thread/1529098085611319296.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1529098085611319296)*
 
 🚚 Ukraine DAO Trucks work around the clock to deliver humanitarian aid across Ukraine, including the war zone. 

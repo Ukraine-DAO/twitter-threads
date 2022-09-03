@@ -1,6 +1,6 @@
 # On denial of genocide of Ukrainians
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1530420121008754688), [PingThread](https://pingthread.com/thread/1530420121008754688), [ThreadReader](https://threadreaderapp.com/thread/1530420121008754688.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1530420121008754688)*
 
 There is a reason why Holocaust denial is a taboo & a criminal offence in many countries. It's not a "violation of freedom of speech", is it? 

@@ -1,6 +1,6 @@
 # One of main reasons for what's happening in Ukraine right now is the weak response to the russian aggression back in 2014
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1499207255484416002), [PingThread](https://pingthread.com/thread/1499207255484416002), [ThreadReader](https://threadreaderapp.com/thread/1499207255484416002.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1499207255484416002)*
 
 Spoke to a psychologist specialising in trauma and she said “it must have been a huge shock for you what happened”. To me, one of the most distressing aspects of this situation was that I saw this coming from day 1 in 2014 and tried to alarm others the whole time. [#Ukraine](https://twitter.com/hashtag/Ukraine)

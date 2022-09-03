@@ -1,6 +1,6 @@
 # Reuters memes
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1560518164001218562), [PingThread](https://pingthread.com/thread/1560518164001218562), [ThreadReader](https://threadreaderapp.com/thread/1560518164001218562.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1560518164001218562)*
 
 .[@pierre_dalai](https://twitter.com/pierre_dalai) thank you but that’s the boring version of the [#ReutersLies](https://twitter.com/hashtag/ReutersLies) 🧵

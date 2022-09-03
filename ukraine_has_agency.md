@@ -1,6 +1,6 @@
 # This is at the core of everything I do: has agency and the right to defend itself against the genocidal russian aggression
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1527413433410408462), [PingThread](https://pingthread.com/thread/1527413433410408462), [ThreadReader](https://threadreaderapp.com/thread/1527413433410408462.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1527413433410408462)*
 
 Shoking news for [@KimDotcom](https://twitter.com/KimDotcom) - Ukraine has agency and the right to defend itself from a genocide 🤯

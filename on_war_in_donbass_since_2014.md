@@ -1,6 +1,6 @@
 # For those wondering why there has been war in Donbas since 2014
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1530472181070802944), [PingThread](https://pingthread.com/thread/1530472181070802944), [ThreadReader](https://threadreaderapp.com/thread/1530472181070802944.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1530472181070802944)*
 
 If anyone knows [@joerogan](https://twitter.com/joerogan), let him know that I'd love to speak on his podcast.
@@ -25,9 +25,4 @@ I'm from 🇺🇦 and spoke russian there to my friends for years. Never met any
 | [![](https://pbs.twimg.com/media/FT1ZxLxWQAASpqk.jpg)](https://pbs.twimg.com/media/FT1ZxLxWQAASpqk.jpg) |
 | :-: |
 
-<blockquote class="twitter-tweet">
-    <p lang="en" dir="ltr">
-    @joerogan You are being made a fool of. Stop inviting imbeciles from America to tell you about #Ukraine. I speak Russian. Everyone speaks Russian. I live in the East. No one wants to be part of Russia. Ask yourself why 7 million refugees ran everywhere but Russia. https://t.co/hrQvmaCPfy<br />
-    </p>
-    &mdash; <a href="https://twitter.com/AnnaPolkharkiv/status/1535492158253301761">Link</a>
-</blockquote>
+[twitter.com/annapolkharkiv…](https://twitter.com/annapolkharkiv/status/1535492158253301761)

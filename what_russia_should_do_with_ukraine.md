@@ -1,6 +1,6 @@
 # “What russia should do with Ukraine”. German, French, Annotated version
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1530577568226848768), [PingThread](https://pingthread.com/thread/1530577568226848768), [ThreadReader](https://threadreaderapp.com/thread/1530577568226848768.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1530577568226848768)*
 
 Great 🧵

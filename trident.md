@@ -1,6 +1,6 @@
 # Scary extremist/terrorist symbol that I have on my forearm AKA a trident - the Ukrainian Coat of Arms & emblem of the Armed Forces of Ukraine.
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1527926357283508225), [PingThread](https://pingthread.com/thread/1527926357283508225), [ThreadReader](https://threadreaderapp.com/thread/1527926357283508225.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1527926357283508225)*
 
 Sorry, forgot to add: as recently as in 2020, some donkeys from the British Counter Terrorism Policing put the 🇺🇦 trident on their poster next to III Reich symbols 🤦‍♀️

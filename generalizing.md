@@ -1,6 +1,6 @@
 # Generalizing
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1529066163434622977), [PingThread](https://pingthread.com/thread/1529066163434622977), [ThreadReader](https://threadreaderapp.com/thread/1529066163434622977.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1529066163434622977)*
 
 Dear people who like to tell me how important it is to "not generalise". 

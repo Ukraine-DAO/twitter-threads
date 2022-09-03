@@ -1,6 +1,6 @@
 # Does It Make Sense
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1517237532131479552), [PingThread](https://pingthread.com/thread/1517237532131479552), [ThreadReader](https://threadreaderapp.com/thread/1517237532131479552.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1517237532131479552)*
 
 Quick rule of thumb for "experts": before saying something about Ukrainians and russian Nazis, replace them in the same sentence with "Jewish people" and "German Nazis" and consider if you'd say that in public. If you wouldn't, then it's not appropriate. You're welcome. 🙂

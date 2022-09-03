@@ -1,6 +1,6 @@
 # On speaking russian
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1516521722912165895), [PingThread](https://pingthread.com/thread/1516521722912165895), [ThreadReader](https://threadreaderapp.com/thread/1516521722912165895.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1516521722912165895)*
 
 [@MindfulWebz](https://twitter.com/MindfulWebz) and I are organising Twitter Spaces this Friday for people not fluent in English so that they can speak in Ukrainian/russian. Some Ukrainians from russian-speaking regions are not fluent enough in 🇺🇦 yet and they will not be judged for that.

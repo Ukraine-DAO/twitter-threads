@@ -1,6 +1,6 @@
 # If you're feeling helpless/useless today, here's a reason to cheer up - at least you are not Olaf Scholz
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1530671152934158336), [PingThread](https://pingthread.com/thread/1530671152934158336), [ThreadReader](https://threadreaderapp.com/thread/1530671152934158336.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1530671152934158336)*
 
 If you're feeling helpless/useless today, here's a reason to cheer up - at least you are not [@OlafScholz](https://twitter.com/OlafScholz) [@Bundeskanzler](https://twitter.com/Bundeskanzler) 🥳 Things could always be worse! 

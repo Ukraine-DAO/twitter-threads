@@ -1,6 +1,6 @@
 # Open Letter
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1502208168260157442), [PingThread](https://pingthread.com/thread/1502208168260157442), [ThreadReader](https://threadreaderapp.com/thread/1502208168260157442.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1502208168260157442)*
 
 I encourage everyone to read the open letter I published 3 days before the invasion. Every country has its propaganda, I’m not blind to that. But it’s 🇷🇺 propaganda that’s about to cause a global catastrophe. It has to be stopped before it’s too late.

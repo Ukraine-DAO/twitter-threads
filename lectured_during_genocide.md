@@ -1,6 +1,6 @@
 # About Ukrainians being lectured during #GenocideOfUkrainians
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1529181234991190018), [PingThread](https://pingthread.com/thread/1529181234991190018), [ThreadReader](https://threadreaderapp.com/thread/1529181234991190018.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1529181234991190018)*
 
 Just called mum. 

@@ -1,6 +1,6 @@
 # Mastodon
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1529854934358933504), [PingThread](https://pingthread.com/thread/1529854934358933504), [ThreadReader](https://threadreaderapp.com/thread/1529854934358933504.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1529854934358933504)*
 
 I know what you mean, have been suspended for no apparent reason before. Backup of everything I post is at [UkraineDAO!](https://masto.ukrainedao.love/)

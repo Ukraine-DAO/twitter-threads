@@ -1,6 +1,6 @@
 # On Ukrainian "neo-Nazis" that everyone loves talking about these days
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1520571720385581057), [PingThread](https://pingthread.com/thread/1520571720385581057), [ThreadReader](https://threadreaderapp.com/thread/1520571720385581057.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1520571720385581057)*
 
 After all the indescribable suffering that russia has inflicted on Ukraine, if it's still the "Ukrainian Nazis" that concern you and you're worried about safety of russians who are "not to blame" - you're sick in your head. 

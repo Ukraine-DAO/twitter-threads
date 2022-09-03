@@ -1,6 +1,6 @@
 # On Ukrainian voices not being heard III
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1517279006617440256), [PingThread](https://pingthread.com/thread/1517279006617440256), [ThreadReader](https://threadreaderapp.com/thread/1517279006617440256.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1517279006617440256)*
 
 This is a HUGE problem and that's why I kicked off the other day when I saw a 🧵 about journalists covering 🇺🇦 that had 0 (!) Ukrainians on it but included [@ChristopherJM](https://twitter.com/ChristopherJM). Ukrainians apparently "tend to write and speak with the bias of those who are being oppressed and invaded".

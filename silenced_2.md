@@ -1,6 +1,6 @@
 # On Ukrainian voices not being heard II
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1515466717132165124), [PingThread](https://pingthread.com/thread/1515466717132165124), [ThreadReader](https://threadreaderapp.com/thread/1515466717132165124.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1515466717132165124)*
 
 Sorry but writing a 🧵 about journalists covering 🇺🇦  without a single  🇺🇦 one is patronising as hell and just wrong on every level. Ukrainians have the experience of dealing with 🇷🇺 that Western experts and journalists are fortunate to not have. 

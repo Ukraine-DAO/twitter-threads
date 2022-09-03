@@ -1,6 +1,6 @@
 # DARVO
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1527911555374907393), [PingThread](https://pingthread.com/thread/1527911555374907393), [ThreadReader](https://threadreaderapp.com/thread/1527911555374907393.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1527911555374907393)*
 
 Day 87 of 🇺🇦 nation suffering from genocide while being expected to justify our right to exist to the very people who are paying for the aggressor to carry on.

@@ -1,6 +1,6 @@
 # Christopher J M
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1526353509356011520), [PingThread](https://pingthread.com/thread/1526353509356011520), [ThreadReader](https://threadreaderapp.com/thread/1526353509356011520.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1526353509356011520)*
 
 I can't believe this guy has the audacity to be posting this.

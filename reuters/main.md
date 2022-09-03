@@ -1,6 +1,6 @@
 # Reuters is russian propaganda agency
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1527477049438371841), [PingThread](https://pingthread.com/thread/1527477049438371841), [ThreadReader](https://threadreaderapp.com/thread/1527477049438371841.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1527477049438371841)*
 
 ⚡️Preparing a material about the largest russian propaganda news agency - [@Reuters](https://twitter.com/Reuters) 

@@ -1,6 +1,6 @@
 # My translations of Emmanuel Macron statements
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1524038083611607050), [PingThread](https://pingthread.com/thread/1524038083611607050), [ThreadReader](https://threadreaderapp.com/thread/1524038083611607050.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1524038083611607050)*
 
 "No one is preaching appeasement here".

@@ -1,6 +1,6 @@
 # About Azov
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1528052948223369216), [PingThread](https://pingthread.com/thread/1528052948223369216), [ThreadReader](https://threadreaderapp.com/thread/1528052948223369216.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1528052948223369216)*
 
 Ukraine's only real problem with Nazism is r*ssia and its apologists of [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) like yourself.
