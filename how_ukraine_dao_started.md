@@ -1,6 +1,6 @@
 # How Ukraine DAO started
 
-Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
+Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1525282533037965315), [PingThread](https://pingthread.com/thread/1525282533037965315), [ThreadReader](https://threadreaderapp.com/thread/1525282533037965315.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1525282533037965315)*
 
 “Never doubt that a small group of thoughtful, committed citizens can change the world: indeed, it’s the only thing that ever has.”
