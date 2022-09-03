@@ -116,6 +116,7 @@ func FetchTweets(ids []string, config common.RequestConfig) ([]Tweet, error) {
 	}
 	t := d.Data
 	for i, tw := range t {
+		tw := tw
 		tw.RequestConfig = config
 		tw.CopyIncludes(d.Includes)
 		t[i] = tw
@@ -187,6 +188,7 @@ func FetchUserTimeline(userID string, config common.RequestConfig, sinceID strin
 		}
 
 		for _, t := range d.Data {
+			t := t
 			t.RequestConfig = config
 			t.CopyIncludes(d.Includes)
 			r = append(r, t)
