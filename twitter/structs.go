@@ -16,12 +16,12 @@ type TwitterUser struct {
 }
 
 type Media struct {
-	Type       string                 `json:"type"`
-	Key        string                 `json:"media_key"`
-	URL        string                 `json:"url,omitempty"`
-	PreviewURL string                 `json:"preview_image_url,omitempty"`
-	Variants   map[string]interface{} `json:"variants,omitempty"`
-	AltText    string                 `json:"alt_text,omitempty"`
+	Type       string                   `json:"type"`
+	Key        string                   `json:"media_key"`
+	URL        string                   `json:"url,omitempty"`
+	PreviewURL string                   `json:"preview_image_url,omitempty"`
+	Variants   []map[string]interface{} `json:"variants,omitempty"`
+	AltText    string                   `json:"alt_text,omitempty"`
 }
 
 type TweetIncludes struct {
