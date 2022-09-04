@@ -1127,3 +1127,34 @@ Rosalie - based 🤝
     </p>
     &mdash; <a href="https://twitter.com/NovelSci/status/1565944011520630786">Link</a>
 </blockquote>
+
+Everyone: When will Germany wake up?
+
+Germany: Russische Comedy!
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Meanwhile in Germany https://t.co/wznHEwMDTL<br />
+    </p>
+    &mdash; <a href="https://twitter.com/saver_ag/status/1566378215236665348">Link</a>
+</blockquote>
+
+[#Нікчемчина](https://twitter.com/hashtag/%D0%9D%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Yesterday in Prague, today in Köln… Demonstrations against help of Ukraine, NATO, sanctions. Living cost is going to  be the highest priority topic for European far-right/left movements in coming weeks. This is a solid ground for hybrid warfare. Stay vigilant! https://t.co/Ed8XoagW1U<br />
+    </p>
+    &mdash; <a href="https://twitter.com/markomihkelson/status/1566315380527734784">Link</a>
+</blockquote>
+
+Sorry to say this, but... pretty much anyone is more important than the person who said that to you, [@ndboulton](https://twitter.com/ndboulton) 😹
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Just saw a sarcastic comment from a German saying &#34;because Ukrainians are more important than our own people...&#34;<br />
+    <br />
+    Interested now... would you rather live in a world full of Germans, or a world full of Ukrainians right now?<br />
+    </p>
+    &mdash; <a href="https://twitter.com/ndboulton/status/1566448662523305989">Link</a>
+</blockquote>
