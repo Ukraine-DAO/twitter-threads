@@ -1101,3 +1101,29 @@ Germany rn:
     </p>
     &mdash; <a href="https://twitter.com/AFP/status/1565308266690789382">Link</a>
 </blockquote>
+
+Daily Germany - russian fascists in [@hannover](https://twitter.com/hannover) collecting money for the russian army.
+
+[#visaban](https://twitter.com/hashtag/visaban) [#visabanforrusians](https://twitter.com/hashtag/visabanforrusians)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    daily Germany. Russian fascists in @hannover collects money for the Russian army. Ukrainian refugees walk the same streets with a person who wants to see them dead<br />
+    <br />
+    @Polizei_H @BelitOnay @th_hermann @UKRinDEU @altstadthan <br />
+    <br />
+    #NAFO #NAFOhelp #NAFOfellas <br />
+    <br />
+    https://t.co/joG1DqgC6O https://t.co/1IOSsWQtqh https://t.co/9ZNz05eTGu<br />
+    </p>
+    &mdash; <a href="https://twitter.com/porizna/status/1566092410417197056">Link</a>
+</blockquote>
+
+Rosalie - based 🤝
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @mrsorokaa @IlvesToomas https://t.co/bQvtptTIiW<br />
+    </p>
+    &mdash; <a href="https://twitter.com/NovelSci/status/1565944011520630786">Link</a>
+</blockquote>
