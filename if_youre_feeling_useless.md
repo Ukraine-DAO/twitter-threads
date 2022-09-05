@@ -1182,3 +1182,12 @@ Germans on the other hand, don't seem to be bothered by Ukrainians being "erased
 
 | [![](https://pbs.twimg.com/media/Fb4aKFWX0AkjsjB.jpg)](https://pbs.twimg.com/media/Fb4aKFWX0AkjsjB.jpg) |
 | :-: |
+
+101/ Germany sold itself to a failed state.
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    🇩🇪Germany was given the choice between no 🇷🇺Russian gas and dishonor. It chose dishonor and now gets no Russian gas.<br />
+    </p>
+    &mdash; <a href="https://twitter.com/DMokryk/status/1566823270078357506">Link</a>
+</blockquote>
