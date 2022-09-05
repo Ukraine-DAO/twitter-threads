@@ -1173,3 +1173,12 @@ Before "resisting" fascists in the EU, Germany needs to get rid of its own ones.
     </p>
     &mdash; <a href="https://twitter.com/hrld_cgn/status/1566535482577666049">Link</a>
 </blockquote>
+
+100/ No, I never actually said "erase Germans"
+
+Germans on the other hand, don't seem to be bothered by Ukrainians being "erased"
+
+❗️Ukrainians are fighting the Nazis, ok? Germans so far have mostly been paying those Nazis enabling them to carry on killing us.
+
+| [![](https://pbs.twimg.com/media/Fb4aKFWX0AkjsjB.jpg)](https://pbs.twimg.com/media/Fb4aKFWX0AkjsjB.jpg) |
+| :-: |
