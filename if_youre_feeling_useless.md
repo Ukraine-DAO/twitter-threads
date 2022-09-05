@@ -1158,3 +1158,18 @@ Sorry to say this, but... pretty much anyone is more important than the person w
     </p>
     &mdash; <a href="https://twitter.com/ndboulton/status/1566448662523305989">Link</a>
 </blockquote>
+
+We are very grateful but without Germany those refugees would actually be living back home in Ukraine.  
+
+Before "resisting" fascists in the EU, Germany needs to get rid of its own ones. It's in no position to lecture any other country on anything.
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @cryptodrftng @ndboulton @Bundeskanzler @OlafScholz https://t.co/8fw5q8cz4x<br />
+    <br />
+    Actually we are trying to provide home to &#43;/- 1 Million ukrainian refugees.<br />
+    Including financial support, work if possible and - for about 150.000 ukrainian students - adequate school places.<br />
+    &#43;keeping EU together resisting fascists (Brexiteers, Orbans aso)<br />
+    </p>
+    &mdash; <a href="https://twitter.com/hrld_cgn/status/1566535482577666049">Link</a>
+</blockquote>
