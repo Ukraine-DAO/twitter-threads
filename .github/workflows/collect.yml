@@ -34,12 +34,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Setup SSH keys
+      - name: Fetch submodules
         run: |
           eval `ssh-agent -s`
           ssh-add - <<< '${{ secrets.STATE_SSH_KEY }}'
-      - name: Fetch submodules
-        run: |
           git submodule update --remote --init --recursive
           git submodule foreach --recursive git config --local http.https://github.com/.extraheader "$(git config --local http.https://github.com/.extraheader)"
           cd stored-state && git checkout state
@@ -55,6 +53,8 @@ jobs:
       # TODO: fetch media
       - name: Commit updated state
         run: |
+          eval `ssh-agent -s`
+          ssh-add - <<< '${{ secrets.STATE_SSH_KEY }}'
           cd stored-state
           git config user.name automation
           git config user.email github-actions@github.com
