@@ -37,3 +37,4 @@
 * [On russian-speaking Ukrainians](russian_speaking_ukrainians.md) (by [Oleksandra Povoroznyk 🇺🇦](https://twitter.com/rynkrynk))
 * [Olga Tokariuk retelling thoughts of Ukrainian soldier with PhD in history](from_historian_soldier.md) (by [Olga Tokariuk](https://twitter.com/olgatokariuk))
 * [On homophobia in russia](homophobia_in_russia.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
+* [About russian literature, culture and what they have to do with the genocide of Ukrainians](russian_literature.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
