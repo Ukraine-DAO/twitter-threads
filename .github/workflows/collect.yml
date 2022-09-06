@@ -64,3 +64,4 @@ jobs:
   render:
     needs: collect
     uses: ./.github/workflows/render.yml
+    secrets: inherit
