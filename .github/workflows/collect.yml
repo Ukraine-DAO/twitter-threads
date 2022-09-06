@@ -20,7 +20,7 @@ on:
 
 # Allow one concurrent deployment
 concurrency:
-  group: "collect"
+  group: "automation"
   cancel-in-progress: true
 
 jobs:

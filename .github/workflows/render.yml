@@ -3,14 +3,12 @@ name: Render
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["main", "state"]
     paths:
       - 'render/**'
       - 'common/**'
       - 'state/**'
       - 'twitter/**'
       - 'config.yml'
-      - 'state.json'
       - 'go.*'
 
 
@@ -20,8 +18,7 @@ on:
 
 # Allow one concurrent deployment
 concurrency:
-  group: "render"
-  cancel-in-progress: true
+  group: "automation"
 
 jobs:
   render:
@@ -61,3 +58,23 @@ jobs:
             git commit -m 'Update generated files'
             git push
           fi
+      - name: Setup Pages
+        uses: actions/configure-pages@v2
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./generated
+          destination: ./_site
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: render
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
