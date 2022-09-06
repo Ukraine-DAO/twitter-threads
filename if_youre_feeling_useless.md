@@ -1191,3 +1191,20 @@ Germans on the other hand, don't seem to be bothered by Ukrainians being "erased
     </p>
     &mdash; <a href="https://twitter.com/DMokryk/status/1566823270078357506">Link</a>
 </blockquote>
+
+102/ More wild stuff from my "favourite" country in Europe
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    This is crazy.<br />
+    <br />
+    A Ukrainian refugee found Russian propaganda in her high-school textbook.<br />
+    <br />
+    It claims half of 🇺🇦 is majority pro-Russian due to being Russian-speaking &amp; blames U.S.<br />
+    <br />
+    Responsible? <br />
+    <br />
+    Brandenburg’s Education Minister Britta Ernst, SPD politician &amp; Olaf Scholz’s wife! https://t.co/felgtdWtER<br />
+    </p>
+    &mdash; <a href="https://twitter.com/visegrad24/status/1566848310538866695">Link</a>
+</blockquote>
