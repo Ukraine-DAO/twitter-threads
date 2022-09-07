@@ -47,7 +47,7 @@ jobs:
           TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
         run: |
           find generated -name '*.md' -type f -delete
-          go run ./render --config config.yml --state stored-state/state.json --output_dir generated
+          go run ./render --config config.yml --state stored-state/state.json --output_dir generated --mappings generated/mappings.json
       - name: Commit updated state
         run: |
           cd generated

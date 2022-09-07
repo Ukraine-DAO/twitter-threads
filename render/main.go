@@ -29,9 +29,10 @@ import (
 )
 
 var (
-	configPath = flag.String("config", "", "Path to the config file")
-	statePath  = flag.String("state", "", "Path to the state file")
-	outputDir  = flag.String("output_dir", "", "Path to the output dir")
+	configPath   = flag.String("config", "", "Path to the config file")
+	statePath    = flag.String("state", "", "Path to the state file")
+	outputDir    = flag.String("output_dir", "", "Path to the output dir")
+	mappingsPath = flag.String("mappings", "", "Path to the file storing path mappings for threads (used to track page moves)")
 )
 
 //go:embed thread.tmpl
@@ -55,12 +56,22 @@ type Thread struct {
 	AuthorUsername string
 	AuthorName     string
 	Blocks         []Block
+	OldNames       []string
 }
 
 type Block struct {
 	Paragraph   string
 	Images      []string
 	QuotedTweet string
+}
+
+type PathMapping struct {
+	Mappings map[string]PathMappingEntry `json:",omitempty"`
+}
+
+type PathMappingEntry struct {
+	Name     string   `json:",omitempty"`
+	OldNames []string `json:",omitempty"`
 }
 
 var (
@@ -267,9 +278,33 @@ func writeIndex(cfg *common.Config, fileToThread map[string]Thread) error {
 }
 
 func run(cfg *common.Config, state *state.State) error {
+	mappings := &PathMapping{Mappings: map[string]PathMappingEntry{}}
+	f, err := os.Open(*mappingsPath)
+	if err != nil && !os.IsNotExist(err) {
+		return fmt.Errorf("failed to read mappings file: %w", err)
+	}
+	if err == nil {
+		if err := json.NewDecoder(f).Decode(mappings); err != nil {
+			return fmt.Errorf("failed to unmarshal mappings: %w", err)
+		}
+		f.Close()
+	}
+
 	fileToThread := map[string]Thread{}
 	for name, thread := range cfg.ThreadPages() {
 		t := parseThread(path.Base(name), thread, state.Threads[thread.ThreadID])
+
+		m := mappings.Mappings[t.ConversationID]
+		if m.Name == "" {
+			m.Name = name
+		}
+		if m.Name != name {
+			m.OldNames = append(m.OldNames, m.Name)
+			m.Name = name
+		}
+		mappings.Mappings[t.ConversationID] = m
+		t.OldNames = m.OldNames
+
 		fname := fmt.Sprintf("%s.md", filepath.Join(*outputDir, name))
 		if err := os.MkdirAll(filepath.Dir(fname), 0755); err != nil {
 			return fmt.Errorf("creating directories for %q: %w", fname, err)
@@ -289,6 +324,19 @@ func run(cfg *common.Config, state *state.State) error {
 	if err := writeIndex(cfg, fileToThread); err != nil {
 		return err
 	}
+
+	f, err = os.Create(*mappingsPath)
+	if err != nil {
+		return fmt.Errorf("failed to open mappings file for writing: %s", err)
+	}
+	encoder := json.NewEncoder(f)
+	encoder.SetIndent("", "  ")
+	encoder.SetEscapeHTML(false)
+	if err := encoder.Encode(mappings); err != nil {
+		return fmt.Errorf("failed to marshal mappings: %s", err)
+	}
+	f.Close()
+
 	return nil
 }
 

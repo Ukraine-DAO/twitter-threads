@@ -1,3 +1,11 @@
+{{- if .OldNames -}}
+---
+redirect_from:
+{{ range .OldNames }}  - /{{ . }}
+  - /{{ . }}.md
+{{ end -}}
+---
+{{ end -}}
 # {{ .Title }}
 
 Author: [{{.AuthorName}}](https://twitter.com/{{.AuthorUsername}})  

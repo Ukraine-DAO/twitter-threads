@@ -7,4 +7,7 @@ collect:
 		go run ./collect --config config.yml --state stored-state/state.json
 
 render:
-	go run ./render --config config.yml --state stored-state/state.json --output_dir generated
+	go run ./render --config config.yml \
+		--state stored-state/state.json \
+		--output_dir generated \
+		--mappings generated/mappings.json
