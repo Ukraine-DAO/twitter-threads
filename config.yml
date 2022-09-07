@@ -6,11 +6,14 @@ root:
         thread_id: 1532773363051028481
         title: Reuters is russian propaganda agency
       memes:
-        thread_id: 1560518164001218562
+        thread_id: 1560518164001218562 # 55
         title: Reuters memes
       from_igor_sushko:
         thread_id: 1515750062839648256
         title: From Igor Sushko
+      conversation_in_walter_reports:
+        thread_id: 1538590308522463233 # 52
+        title: Conversation in Walter Report about Reuters
   how_ukraine_dao_started: # 2
     thread_id: 1525299116636622850
     title: How Ukraine DAO started
@@ -99,4 +102,20 @@ root:
   russian_literature: # 57
     thread_id: 1564327104958943235
     title: About russian literature, culture and what they have to do with the genocide of Ukrainians
+  russians: 1566189007976939523 # 56
+  russian_war_crimes:
+    thread_id: 1548719799466860544 # 58
+    title: About bots reporting russian war crimes, and sources of information of Ukraine
+  ukrainians_were_never_listened_to:
+    thread_id: 1531814055073259522 # 59
+    title: The reason why the genocide of Ukrainians is happening right now is Ukrainians were never listened to
+  russians_are_committing_genocide_regardless:
+    thread_id: 1531888446146592768 # 60
+    title: "Breaking news: ⚡️russians don't need for me to say anything in order to continue #GenocideOfUkrainians ⚡️"
+  how_to_call_russians:
+    thread_id: 1531601033998348295 # 61
+    title: ⚡️Ukrainians are allowed to call russians whatever we want⚡️
+  qualifying_factors:
+    thread_id: 1560542511097171969 # 62
+    title: "Full list factors qualifying you to tell me how I should feel during #GenocideOfUkrainians"
 
