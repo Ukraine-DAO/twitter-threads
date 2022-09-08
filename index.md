@@ -47,3 +47,6 @@
 * [Breaking news: ⚡️russians don't need for me to say anything in order to continue #GenocideOfUkrainians ⚡️](russians_are_committing_genocide_regardless.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
 * [⚡️Ukrainians are allowed to call russians whatever we want⚡️](how_to_call_russians.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
 * [Full list factors qualifying you to tell me how I should feel during #GenocideOfUkrainians](qualifying_factors.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
+* [Bias](bias.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
+* [Remaining Calm](remaining_calm.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
+* [On Apologising To Russians](on_apologising_to_russians.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))

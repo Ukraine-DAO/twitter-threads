@@ -2,10 +2,8 @@
 redirect_from:
   - /silenced_3
   - /silenced_3.md
-  - /bias
-  - /bias.md
 ---
-# On Ukrainian voices not being heard III
+# Bias
 
 Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1517279006617440256), [PingThread](https://pingthread.com/thread/1517279006617440256), [ThreadReader](https://threadreaderapp.com/thread/1517279006617440256.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1517279006617440256)*

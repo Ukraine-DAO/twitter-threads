@@ -31,7 +31,11 @@
       "Name": "does_it_make_sense"
     },
     "1517279006617440256": {
-      "Name": "silenced_3"
+      "Name": "silenced_3",
+      "OldNames": [
+        "silenced_3",
+        "bias"
+      ]
     },
     "1517686612167217153": {
       "Name": "twitter_block_for_12_hours"
@@ -125,6 +129,12 @@
     },
     "1531928535148920832": {
       "Name": "russian_literature"
+    },
+    "1532178165505871872": {
+      "Name": "on_apologising_to_russians"
+    },
+    "1532467942092333059": {
+      "Name": "remaining_calm"
     },
     "1557108429193461761": {
       "Name": "tankgirljunkie"
