@@ -2,6 +2,10 @@
 redirect_from:
   - /silenced_3
   - /silenced_3.md
+  - /bias
+  - /bias.md
+  - /silenced_3
+  - /silenced_3.md
 ---
 # Bias
 
