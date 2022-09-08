@@ -5,6 +5,8 @@
   * [Reuters memes](reuters/memes.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
   * [From Igor Sushko](reuters/from_igor_sushko.md) (by [Igor Sushko](https://twitter.com/igorsushko))
   * [Conversation in Walter Report about Reuters](reuters/conversation_in_walter_reports.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
+* in_ukrainian
+  * [Soft Assimilation](in_ukrainian/soft_assimilation.md) (by [Шпіци Веселяться](https://twitter.com/garrossroland))
 * [How Ukraine DAO started](how_ukraine_dao_started.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
 * [Each of us has been in agony from 1000s propaganda cuts](1000_cuts.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
 * [About Azov](about_azov.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
