@@ -1,3 +1,10 @@
+---
+redirect_from:
+  - /nytimes
+  - /nytimes.md
+  - /ukrainians_helping_kremlin
+  - /ukrainians_helping_kremlin.md
+---
 # NYTimes
 
 Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  

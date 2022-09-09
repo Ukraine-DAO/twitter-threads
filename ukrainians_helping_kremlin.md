@@ -2,6 +2,10 @@
 redirect_from:
   - /nytimes
   - /nytimes.md
+  - /ukrainians_helping_kremlin
+  - /ukrainians_helping_kremlin.md
+  - /nytimes
+  - /nytimes.md
 ---
 # "good russians" and "stupid Ukrainians who don't understand that they play into Kremlin's hands"
 
