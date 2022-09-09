@@ -663,3 +663,15 @@ cc: [@pierre_dalai](https://twitter.com/pierre_dalai) [#russianculture](https://
     </p>
     &mdash; <a href="https://twitter.com/pierre_dalai/status/1564239061111668736">Link</a>
 </blockquote>
+
+"Mysterious russian soul" - 🧵 by [@brokenpixelua](https://twitter.com/brokenpixelua)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    In this video  is literally everything you need to know to understand mysterious  russian soul. And it is not only about corruption. <br />
+    <br />
+    Let’s look closer <br />
+    /1 https://t.co/ugAaUF7TBP<br />
+    </p>
+    &mdash; <a href="https://twitter.com/brokenpixelua/status/1568207548460793858">Link</a>
+</blockquote>
