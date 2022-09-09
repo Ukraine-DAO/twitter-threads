@@ -4,6 +4,10 @@ redirect_from:
   - /nytimes.md
   - /ukrainians_helping_kremlin
   - /ukrainians_helping_kremlin.md
+  - /nytimes
+  - /nytimes.md
+  - /ukrainians_helping_kremlin
+  - /ukrainians_helping_kremlin.md
 ---
 # NYTimes
 

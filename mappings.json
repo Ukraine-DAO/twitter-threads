@@ -157,12 +157,16 @@
       "Name": "russian_friend_take_on_russophobia"
     },
     "1532673275230359554": {
-      "Name": "ukrainians_helping_kremlin",
+      "Name": "nytimes",
       "OldNames": [
         "nytimes",
         "ukrainians_helping_kremlin",
-        "nytimes"
+        "nytimes",
+        "ukrainians_helping_kremlin"
       ]
+    },
+    "1533405184113750019": {
+      "Name": "ukrainians_helping_kremlin"
     },
     "1533777959483490305": {
       "Name": "ovsyannikova"

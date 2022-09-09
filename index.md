@@ -56,7 +56,7 @@
 * [My russian friend's take on russophobia](russian_friend_take_on_russophobia.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
 * [UN and Stéphane Dujarric in particular struggling to identify exactly what is happening in Ukraine](un_sucks.md) (by [UkraineDAO.eth](https://twitter.com/Ukraine_DAO))
 * [NYTimes](nytimes.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
-* ["good russians" and "stupid Ukrainians who don't understand that they play into Kremlin's hands"](ukrainians_helping_kremlin.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
+* ["good russians" and "stupid Ukrainians who don't understand that they play into Kremlin's hands"](ukrainians_helping_kremlin.md) (by [Stas Hreshchyshyn](https://twitter.com/stsx92))
 * [TLDR: if I don't reply, please don't take it personally](dont_take_it_personally_if_i_dont_reply.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
 * [Breakdowns](breakdowns.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
 * [Ovsyannikova](ovsyannikova.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
