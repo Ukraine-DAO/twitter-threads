@@ -1217,3 +1217,58 @@ Germans on the other hand, don't seem to be bothered by Ukrainians being "erased
     </p>
     &mdash; <a href="https://twitter.com/MelnykAndrij/status/1568706774043168770">Link</a>
 </blockquote>
+
+104/ [@backfischritter](https://twitter.com/backfischritter) 🤝
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @szymek_k @laemmerbiss @europe_defence @cryptodrftng @apmassaro3 Since i live in germany i was able to capture german change. It was hard to capture it because of its speed. https://t.co/p3pLI2kMpC<br />
+    </p>
+    &mdash; <a href="https://twitter.com/backfischritter/status/1568871800104173569">Link</a>
+</blockquote>
+
+105/ Thank you for saying this, [@backfischritter](https://twitter.com/backfischritter)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @alamalbert @fella_godz @cryptodrftng @apmassaro3 Also one could forgive germany better if at least some of the politicians responsible for this would have to fear some consequences. Instead Schröder is still in the ZPD, Olaf is still Chancellor, Steinmeier is still President...<br />
+    </p>
+    &mdash; <a href="https://twitter.com/backfischritter/status/1568872839448772609">Link</a>
+</blockquote>
+
+106/ [@backfischritter](https://twitter.com/backfischritter)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @alamalbert @fella_godz @cryptodrftng @apmassaro3 ..., Manuela Schwesig, aka. &#34; i am corruptly surpassing sactions againsts Nordstream 2&#34;, is the freshly reelected Ministerpresident of one german state and Merkel still thibks she did absolutely nothing wrong with regards to blocking Ukraine from becoming a NATO member etc.<br />
+    </p>
+    &mdash; <a href="https://twitter.com/backfischritter/status/1568873877136199683">Link</a>
+</blockquote>
+
+107/ Interesting observation - Germans who ACTUALLY support Ukraine like [@backfischritter](https://twitter.com/backfischritter), are never insulted by my comments - because they know it's not about them what I say. 
+
+It's the fake ass "Ukraine supporters" with a superiority complex who are instantly triggered.
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @alamalbert @fella_godz @cryptodrftng @apmassaro3 So yeah we germans suck hard.<br />
+    </p>
+    &mdash; <a href="https://twitter.com/backfischritter/status/1568873942487601153">Link</a>
+</blockquote>
+
+108/ Guys. I mean what I say about Germany.
+
+Thank you very much for the support with refugees, but without Germany those refugees would be living at home. And my family wouldn't be getting shelled every day.
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    My dad calls me every day asking what to do about this.<br />
+    <br />
+    Nikopol is getting shelled every day from the territory of the biggest NPP in Europe<br />
+    <br />
+    🇩🇪 is paying for it. Germans are telling us we are not asking for explanations politely enough. <br />
+    <br />
+    How about they go fuck themselves? https://t.co/N3Frnj0ZgO<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1566797738540417025">Link</a>
+</blockquote>

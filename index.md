@@ -61,3 +61,4 @@
 * [Breakdowns](breakdowns.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
 * [Ovsyannikova](ovsyannikova.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
 * [Why donating money through the Red Cross is a very bad idea?](icrc.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
+* [Navalny](navalny.md) (by [Madi Kappa 🇰🇿](https://twitter.com/MuKappa))
