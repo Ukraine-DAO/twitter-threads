@@ -1208,3 +1208,12 @@ Germans on the other hand, don't seem to be bothered by Ukrainians being "erased
     </p>
     &mdash; <a href="https://twitter.com/visegrad24/status/1566848310538866695">Link</a>
 </blockquote>
+
+103/ Thank god for [@MelnykAndrij](https://twitter.com/MelnykAndrij)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @JohannesVarwick Unpopuläre Meinung: Fuck off<br />
+    </p>
+    &mdash; <a href="https://twitter.com/MelnykAndrij/status/1568706774043168770">Link</a>
+</blockquote>
