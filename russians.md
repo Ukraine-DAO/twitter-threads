@@ -1168,3 +1168,21 @@ The first two messages are auto-generated when the contact you tried to call com
     </p>
     &mdash; <a href="https://twitter.com/tweet4anna/status/1566158841083056134">Link</a>
 </blockquote>
+
+[#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    The Russian army hit educational institution in Lozova city of Kharkiv region with missiles https://t.co/AKuzZRBDAW<br />
+    </p>
+    &mdash; <a href="https://twitter.com/olehbatkovych/status/1569567154705399809">Link</a>
+</blockquote>
+
+[#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    THREAD Russia sends hundreds of its school and kindergarten teachers to occupied Ukraine in order to fulfill genocide of Ukrainians. Exactly as the RU soldiers, these people come to UKR with their hate against Ukrainians. RU Novaya newspaper talked to them. Read their testimonies<br />
+    </p>
+    &mdash; <a href="https://twitter.com/sumlenny/status/1569536209143353345">Link</a>
+</blockquote>
