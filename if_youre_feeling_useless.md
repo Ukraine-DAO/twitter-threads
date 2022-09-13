@@ -1272,3 +1272,21 @@ Thank you very much for the support with refugees, but without Germany those ref
     </p>
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1566797738540417025">Link</a>
 </blockquote>
+
+109/ This 🧵 is usually about Germany but Germany isn't actually a democracy either (and if it is - that's very concerning), so I will leave it here.
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Source: https://t.co/DO8E4Ov1lo<br />
+    </p>
+    &mdash; <a href="https://twitter.com/visegrad24/status/1569707714758033414">Link</a>
+</blockquote>
+
+110/ What is it again that we should be grateful to Germans for? For funding our genocide? 🧐
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @cryptodrftng in early spring Germans were saying how ungrateful I am (and other 🇺🇦 are) as they sent us whole 5k 🪖 to fight against artillery, tanks and 🛩 . I had them to admit it’s a little inconvenient to fight a tank with a 🪖. Also, last time I checked (late spring) 🪖 did not arrive<br />
+    </p>
+    &mdash; <a href="https://twitter.com/is_it_max/status/1569807148158451713">Link</a>
+</blockquote>
