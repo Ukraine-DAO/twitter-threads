@@ -1290,3 +1290,12 @@ Thank you very much for the support with refugees, but without Germany those ref
     </p>
     &mdash; <a href="https://twitter.com/is_it_max/status/1569807148158451713">Link</a>
 </blockquote>
+
+111/ [#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0) [@Bundeskanzler](https://twitter.com/Bundeskanzler)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @Bundeskanzler had a 90 (!!) min chat with shmutin (time well spent am I right? Not) and suggested finding a diplomatic solution. Let me guess - is that to hug a Ukrainian soldier? #diplomacy #SimpleSolutions #<br />
+    </p>
+    &mdash; <a href="https://twitter.com/aleonala/status/1569889753553850368">Link</a>
+</blockquote>
