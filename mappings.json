@@ -1,175 +1,337 @@
 {
   "Mappings": {
     "1499207255484416002": {
-      "Name": "since_2014"
+      "Name": "cryptodrftng/since_2014",
+      "OldNames": [
+        "since_2014"
+      ]
     },
     "1501239955682738183": {
-      "Name": "un_sucks"
+      "Name": "cryptodrftng/un_sucks",
+      "OldNames": [
+        "un_sucks"
+      ]
     },
     "1502208168260157442": {
-      "Name": "open_letter"
+      "Name": "cryptodrftng/open_letter",
+      "OldNames": [
+        "open_letter"
+      ]
     },
     "1505424838621552640": {
-      "Name": "first_encounter_with_propagandist"
+      "Name": "cryptodrftng/first_encounter_with_propagandist",
+      "OldNames": [
+        "first_encounter_with_propagandist"
+      ]
     },
     "1506185499077193731": {
-      "Name": "silenced_1"
+      "Name": "cryptodrftng/silenced_1",
+      "OldNames": [
+        "silenced_1"
+      ]
     },
     "1509968359483445256": {
-      "Name": "imperial_reboot"
+      "Name": "cryptodrftng/imperial_reboot",
+      "OldNames": [
+        "imperial_reboot"
+      ]
     },
     "1513978968281649158": {
-      "Name": "ukrainian_political_culture"
+      "Name": "cryptodrftng/ukrainian_political_culture",
+      "OldNames": [
+        "ukrainian_political_culture"
+      ]
     },
     "1514215490960474122": {
-      "Name": "qualifying_factors"
+      "Name": "cryptodrftng/qualifying_factors",
+      "OldNames": [
+        "qualifying_factors"
+      ]
     },
     "1515466717132165124": {
-      "Name": "silenced_2"
+      "Name": "cryptodrftng/silenced_2",
+      "OldNames": [
+        "silenced_2"
+      ]
     },
     "1515750062839648256": {
       "Name": "reuters/from_igor_sushko"
     },
     "1516521722912165895": {
-      "Name": "on_speaking_russian"
+      "Name": "cryptodrftng/on_speaking_russian",
+      "OldNames": [
+        "on_speaking_russian"
+      ]
     },
     "1517237532131479552": {
-      "Name": "does_it_make_sense"
+      "Name": "cryptodrftng/does_it_make_sense",
+      "OldNames": [
+        "does_it_make_sense"
+      ]
     },
     "1517279006617440256": {
-      "Name": "silenced_3"
+      "Name": "cryptodrftng/silenced_3",
+      "OldNames": [
+        "silenced_3"
+      ]
     },
     "1517686612167217153": {
-      "Name": "twitter_block_for_12_hours"
+      "Name": "cryptodrftng/twitter_block_for_12_hours",
+      "OldNames": [
+        "twitter_block_for_12_hours"
+      ]
     },
     "1520571720385581057": {
-      "Name": "on_ukrainian_neo_nazis"
+      "Name": "cryptodrftng/on_ukrainian_neo_nazis",
+      "OldNames": [
+        "on_ukrainian_neo_nazis"
+      ]
     },
     "1524038083611607050": {
-      "Name": "translating_macron"
+      "Name": "cryptodrftng/translating_macron",
+      "OldNames": [
+        "translating_macron"
+      ]
     },
     "1525282533037965315": {
-      "Name": "how_ukraine_dao_started"
+      "Name": "cryptodrftng/how_ukraine_dao_started",
+      "OldNames": [
+        "how_ukraine_dao_started"
+      ]
     },
     "1526353509356011520": {
-      "Name": "christopher_j_m"
+      "Name": "cryptodrftng/christopher_j_m",
+      "OldNames": [
+        "christopher_j_m"
+      ]
     },
     "1527413433410408462": {
-      "Name": "ukraine_has_agency"
+      "Name": "cryptodrftng/ukraine_has_agency",
+      "OldNames": [
+        "ukraine_has_agency"
+      ]
     },
     "1527477049438371841": {
       "Name": "reuters/main"
     },
     "1527911555374907393": {
-      "Name": "darvo"
+      "Name": "cryptodrftng/darvo",
+      "OldNames": [
+        "darvo"
+      ]
     },
     "1527926357283508225": {
-      "Name": "trident"
+      "Name": "cryptodrftng/trident",
+      "OldNames": [
+        "trident"
+      ]
     },
     "1528052948223369216": {
-      "Name": "about_azov"
+      "Name": "cryptodrftng/about_azov",
+      "OldNames": [
+        "about_azov"
+      ]
     },
     "1528100230327160833": {
-      "Name": "1000_cuts"
+      "Name": "cryptodrftng/1000_cuts",
+      "OldNames": [
+        "1000_cuts"
+      ]
     },
     "1529066163434622977": {
-      "Name": "generalizing"
+      "Name": "cryptodrftng/generalizing",
+      "OldNames": [
+        "generalizing"
+      ]
     },
     "1529098085611319296": {
-      "Name": "ukraine_dao_trucks"
+      "Name": "cryptodrftng/ukraine_dao_trucks",
+      "OldNames": [
+        "ukraine_dao_trucks"
+      ]
     },
     "1529181234991190018": {
-      "Name": "lectured_during_genocide"
+      "Name": "cryptodrftng/lectured_during_genocide",
+      "OldNames": [
+        "lectured_during_genocide"
+      ]
     },
     "1529854934358933504": {
-      "Name": "mastodon"
+      "Name": "cryptodrftng/mastodon",
+      "OldNames": [
+        "mastodon"
+      ]
     },
     "1530417504451018753": {
-      "Name": "russian_speaking_ukrainians"
+      "Name": "cryptodrftng/russian_speaking_ukrainians",
+      "OldNames": [
+        "russian_speaking_ukrainians"
+      ]
     },
     "1530420121008754688": {
-      "Name": "on_genocide_denial"
+      "Name": "cryptodrftng/on_genocide_denial",
+      "OldNames": [
+        "on_genocide_denial"
+      ]
     },
     "1530472181070802944": {
-      "Name": "on_war_in_donbass_since_2014"
+      "Name": "cryptodrftng/on_war_in_donbass_since_2014",
+      "OldNames": [
+        "on_war_in_donbass_since_2014"
+      ]
     },
     "1530507103458275328": {
-      "Name": "it_is_genocide"
+      "Name": "kapparov/it_is_genocide",
+      "OldNames": [
+        "it_is_genocide"
+      ]
     },
     "1530577568226848768": {
-      "Name": "what_russia_should_do_with_ukraine"
+      "Name": "cryptodrftng/what_russia_should_do_with_ukraine",
+      "OldNames": [
+        "what_russia_should_do_with_ukraine"
+      ]
     },
     "1530639039383994372": {
-      "Name": "fragile_russia"
+      "Name": "cryptodrftng/fragile_russia",
+      "OldNames": [
+        "fragile_russia"
+      ]
     },
     "1530668994151206912": {
-      "Name": "from_historian_soldier"
+      "Name": "cryptodrftng/from_historian_soldier",
+      "OldNames": [
+        "from_historian_soldier"
+      ]
     },
     "1530671152934158336": {
-      "Name": "if_youre_feeling_useless"
+      "Name": "cryptodrftng/if_youre_feeling_useless",
+      "OldNames": [
+        "if_youre_feeling_useless"
+      ]
     },
     "1531298253014278144": {
-      "Name": "homophobia_in_russia"
+      "Name": "cryptodrftng/homophobia_in_russia",
+      "OldNames": [
+        "homophobia_in_russia"
+      ]
     },
     "1531363976658964480": {
       "Name": "reuters/conversation_in_walter_reports"
     },
     "1531480089963151366": {
-      "Name": "russians"
+      "Name": "cryptodrftng/russians",
+      "OldNames": [
+        "russians"
+      ]
     },
     "1531593539695611905": {
-      "Name": "how_to_call_russians"
+      "Name": "cryptodrftng/how_to_call_russians",
+      "OldNames": [
+        "how_to_call_russians"
+      ]
     },
     "1531800480472514562": {
-      "Name": "ukrainians_were_never_listened_to"
+      "Name": "cryptodrftng/ukrainians_were_never_listened_to",
+      "OldNames": [
+        "ukrainians_were_never_listened_to"
+      ]
     },
     "1531823370211295235": {
-      "Name": "russian_war_crimes"
+      "Name": "cryptodrftng/russian_war_crimes",
+      "OldNames": [
+        "russian_war_crimes"
+      ]
     },
     "1531872599038468096": {
-      "Name": "russians_are_committing_genocide_regardless"
+      "Name": "cryptodrftng/russians_are_committing_genocide_regardless",
+      "OldNames": [
+        "russians_are_committing_genocide_regardless"
+      ]
     },
     "1531928535148920832": {
-      "Name": "russian_literature"
+      "Name": "cryptodrftng/russian_literature",
+      "OldNames": [
+        "russian_literature"
+      ]
     },
     "1532178165505871872": {
-      "Name": "on_apologising_to_russians"
+      "Name": "cryptodrftng/on_apologising_to_russians",
+      "OldNames": [
+        "on_apologising_to_russians"
+      ]
     },
     "1532429812052131842": {
-      "Name": "empathy_for_ukrainians"
+      "Name": "cryptodrftng/empathy_for_ukrainians",
+      "OldNames": [
+        "empathy_for_ukrainians"
+      ]
     },
     "1532467942092333059": {
-      "Name": "remaining_calm"
+      "Name": "cryptodrftng/remaining_calm",
+      "OldNames": [
+        "remaining_calm"
+      ]
     },
     "1532475819926380575": {
-      "Name": "collective_responsiblity"
+      "Name": "cryptodrftng/collective_responsiblity",
+      "OldNames": [
+        "collective_responsiblity"
+      ]
     },
     "1532476007701020672": {
-      "Name": "ukrainian_corruption_stereotypes"
+      "Name": "cryptodrftng/ukrainian_corruption_stereotypes",
+      "OldNames": [
+        "ukrainian_corruption_stereotypes"
+      ]
     },
     "1532593920739266562": {
-      "Name": "russian_friend_take_on_russophobia"
+      "Name": "cryptodrftng/russian_friend_take_on_russophobia",
+      "OldNames": [
+        "russian_friend_take_on_russophobia"
+      ]
     },
     "1532673275230359554": {
-      "Name": "nytimes"
+      "Name": "cryptodrftng/nytimes",
+      "OldNames": [
+        "nytimes"
+      ]
     },
     "1533405184113750019": {
-      "Name": "ukrainians_helping_kremlin"
+      "Name": "cryptodrftng/ukrainians_helping_kremlin",
+      "OldNames": [
+        "ukrainians_helping_kremlin"
+      ]
     },
     "1533777959483490305": {
-      "Name": "ovsyannikova"
+      "Name": "cryptodrftng/ovsyannikova",
+      "OldNames": [
+        "ovsyannikova"
+      ]
     },
     "1534656452664631299": {
-      "Name": "dont_take_it_personally_if_i_dont_reply"
+      "Name": "cryptodrftng/dont_take_it_personally_if_i_dont_reply",
+      "OldNames": [
+        "dont_take_it_personally_if_i_dont_reply"
+      ]
     },
     "1534710761813155841": {
-      "Name": "icrc"
+      "Name": "cryptodrftng/icrc",
+      "OldNames": [
+        "icrc"
+      ]
     },
     "1535523020072177669": {
-      "Name": "breakdowns"
+      "Name": "cryptodrftng/breakdowns",
+      "OldNames": [
+        "breakdowns"
+      ]
     },
     "1557108429193461761": {
-      "Name": "tankgirljunkie"
+      "Name": "cryptodrftng/tankgirljunkie",
+      "OldNames": [
+        "tankgirljunkie"
+      ]
     },
     "1560518164001218562": {
       "Name": "reuters/memes"
@@ -178,7 +340,10 @@
       "Name": "in_ukrainian/soft_assimilation"
     },
     "1568057388887859205": {
-      "Name": "navalny"
+      "Name": "kapparov/navalny",
+      "OldNames": [
+        "navalny"
+      ]
     }
   }
 }
