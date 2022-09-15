@@ -1,6 +1,141 @@
 media_dir: media
 root:
   subdirs:
+    cryptodrftng:
+      how_ukraine_dao_started: # 2
+        thread_id: 1525299116636622850
+        title: How Ukraine DAO started
+      1000_cuts: # 3
+        thread_id: 1536666333940789251
+        title: Each of us has been in agony from 1000s propaganda cuts
+      about_azov: 1544350476224925696 # 4
+      lectured_during_genocide: # 5
+        thread_id: 1544059306563325953
+        title: "About Ukrainians being lectured during #GenocideOfUkrainians"
+      open_letter: 1502208168260157442 # 6
+      since_2014: # 7
+        thread_id: 1499208998280568833
+        title: "One of main reasons for what's happening in Ukraine right now is the weak response to the russian aggression back in 2014"
+      generalizing: 1529066163434622977 # 8
+      does_it_make_sense: 1517241275409387522 # 10
+      imperial_reboot: 1509991598595223554 # 15
+      tankgirljunkie: 1557108429193461761 # 217
+      christopher_j_m: 1560671494950506496 # 242
+      silenced_1: # 11
+        thread_id: 1506185499077193731
+        title: On Ukrainian voices not being heard I
+        config:
+          merge_upper_case_after_ellipsis: true
+      silenced_2: # 12
+        thread_id: 1560688716859031552
+        title: On Ukrainian voices not being heard II
+      silenced_3: # 13
+        thread_id: 1531566747689558018
+        title: On Ukrainian voices not being heard III
+      on_ukrainian_neo_nazis: # 14
+        thread_id: 1545770257171861504
+        title: On Ukrainian "neo-Nazis" that everyone loves talking about these days
+      translating_macron: # 16
+        thread_id: 1563422043311288321
+        title: My translations of Emmanuel Macron statements
+      darvo: # 17
+        thread_id: 1527913316957446144
+        title: DARVO
+      ukraine_dao_trucks: # 20
+        thread_id: 1532560059300978688
+        title: Ukraine DAO Trucks
+      on_genocide_denial: # 28
+        thread_id: 1530435099849895936
+        title: On denial of genocide of Ukrainians
+      on_war_in_donbass_since_2014:
+        thread_id: 1535494455393918976
+        title: For those wondering why there has been war in Donbas since 2014
+      on_speaking_russian: # 32
+        thread_id: 1516521730541776896
+        title: On speaking russian
+      ukraine_has_agency: # 33
+        thread_id: 1527415283601788951
+        title: "This is at the core of everything I do: has agency and the right to defend itself against the genocidal russian aggression"
+      first_encounter_with_propagandist: # 34
+        thread_id: 1505429104572653568
+        title: My first encounter with a russian propagandist, 2014 🕊
+      mastodon: 1529854934358933504 # 36
+      twitter_block_for_12_hours: 1517686615174434816 # 37
+      what_russia_should_do_with_ukraine: # 42
+        thread_id: 1530577568226848768
+        title: "“What russia should do with Ukraine”. German, French, Annotated version"
+      trident: # 43
+        thread_id: 1527926357283508225
+        title: Scary extremist/terrorist symbol that I have on my forearm AKA a trident - the Ukrainian Coat of Arms & emblem of the Armed Forces of Ukraine.
+      fragile_russia: # 44
+        thread_id: 1530639217272926208
+        title: How fragile russia is
+      if_youre_feeling_useless: # 46
+        thread_id: 1563607266191781890
+        title: If you're feeling helpless/useless today, here's a reason to cheer up - at least you are not Olaf Scholz
+      russian_speaking_ukrainians:  #48
+        thread_id: 1530417540471611392
+        title: On russian-speaking Ukrainians
+        config:
+          merge_unless_ends_with_period: true
+      from_historian_soldier: # 49
+        thread_id: 1530673305501323267
+        title: Olga Tokariuk retelling thoughts of Ukrainian soldier with PhD in history
+      homophobia_in_russia: # 51
+        thread_id: 1549942274947223554
+        title: On homophobia in russia
+      russian_literature: # 57
+        thread_id: 1564327104958943235
+        title: About russian literature, culture and what they have to do with the genocide of Ukrainians
+      russians: 1566189007976939523 # 56
+      russian_war_crimes:
+        thread_id: 1548719799466860544 # 58
+        title: About bots reporting russian war crimes, and sources of information of Ukraine
+      ukrainians_were_never_listened_to:
+        thread_id: 1531814055073259522 # 59
+        title: The reason why the genocide of Ukrainians is happening right now is Ukrainians were never listened to
+      russians_are_committing_genocide_regardless:
+        thread_id: 1531888446146592768 # 60
+        title: "Breaking news: ⚡️russians don't need for me to say anything in order to continue #GenocideOfUkrainians ⚡️"
+      how_to_call_russians:
+        thread_id: 1531601033998348295 # 61
+        title: ⚡️Ukrainians are allowed to call russians whatever we want⚡️
+      qualifying_factors:
+        thread_id: 1560542511097171969 # 62
+        title: "Full list factors qualifying you to tell me how I should feel during #GenocideOfUkrainians"
+      remaining_calm: 1532469268037656587 # 67
+      on_apologising_to_russians: 1560471350803841025 # 69
+      ukrainian_political_culture: 1513978983385284617 # 71
+      collective_responsiblity: 1558027683782692865 # 72
+      ukrainian_corruption_stereotypes: 1532476015695773696 # 73
+      empathy_for_ukrainians: 1541467428894507008 # 75
+      russian_friend_take_on_russophobia:
+        thread_id: 1532598904667136001 # 76
+        title: My russian friend's take on russophobia
+      un_sucks:
+        thread_id: 1553127555435315204 # 77
+        title: UN and Stéphane Dujarric in particular struggling to identify exactly what is happening in Ukraine
+      nytimes:
+        thread_id: 1564220899800276992 # 81
+        title: NYTimes
+      ukrainians_helping_kremlin:
+        thread_id: 1533409246863208451 # 85
+        title: "\"good russians\" and \"stupid Ukrainians who don't understand that they play into Kremlin's hands\""
+      dont_take_it_personally_if_i_dont_reply:
+        thread_id: 1534656462127079425 # 87
+        title: "TLDR: if I don't reply, please don't take it personally"
+      breakdowns: 1535531355374772225 # 88
+      ovsyannikova: 1536438482280800259 # 89
+      icrc:
+        thread_id: 1534725840696754176 # 102
+        title: Why donating money through the Red Cross is a very bad idea?
+
+    kapparov:
+      it_is_genocide: # 40
+        thread_id: 1530586056805974016
+        title: How to check if it's really genocide and whether peace in Ukraine can be reached through diplomatic negotiations with russia.
+      navalny: 1568057388887859205
+
     reuters:
       main: # 9
         thread_id: 1532773363051028481
@@ -14,140 +149,7 @@ root:
       conversation_in_walter_reports:
         thread_id: 1538590308522463233 # 52
         title: Conversation in Walter Report about Reuters
+
     in_ukrainian:
       soft_assimilation:
         thread_id: 1567838650423017480
-
-  how_ukraine_dao_started: # 2
-    thread_id: 1525299116636622850
-    title: How Ukraine DAO started
-  1000_cuts: # 3
-    thread_id: 1536666333940789251
-    title: Each of us has been in agony from 1000s propaganda cuts
-  about_azov: 1544350476224925696 # 4
-  lectured_during_genocide: # 5
-    thread_id: 1544059306563325953
-    title: "About Ukrainians being lectured during #GenocideOfUkrainians"
-  open_letter: 1502208168260157442 # 6
-  since_2014: # 7
-    thread_id: 1499208998280568833
-    title: "One of main reasons for what's happening in Ukraine right now is the weak response to the russian aggression back in 2014"
-  generalizing: 1529066163434622977 # 8
-  does_it_make_sense: 1517241275409387522 # 10
-  imperial_reboot: 1509991598595223554 # 15
-  tankgirljunkie: 1557108429193461761 # 217
-  christopher_j_m: 1560671494950506496 # 242
-  silenced_1: # 11
-    thread_id: 1506185499077193731
-    title: On Ukrainian voices not being heard I
-    config:
-      merge_upper_case_after_ellipsis: true
-  silenced_2: # 12
-    thread_id: 1560688716859031552
-    title: On Ukrainian voices not being heard II
-  silenced_3: # 13
-    thread_id: 1531566747689558018
-    title: On Ukrainian voices not being heard III
-  on_ukrainian_neo_nazis: # 14
-    thread_id: 1545770257171861504
-    title: On Ukrainian "neo-Nazis" that everyone loves talking about these days
-  translating_macron: # 16
-    thread_id: 1563422043311288321
-    title: My translations of Emmanuel Macron statements
-  darvo: # 17
-    thread_id: 1527913316957446144
-    title: DARVO
-  ukraine_dao_trucks: # 20
-    thread_id: 1532560059300978688
-    title: Ukraine DAO Trucks
-  on_genocide_denial: # 28
-    thread_id: 1530435099849895936
-    title: On denial of genocide of Ukrainians
-  on_war_in_donbass_since_2014:
-    thread_id: 1535494455393918976
-    title: For those wondering why there has been war in Donbas since 2014
-  on_speaking_russian: # 32
-    thread_id: 1516521730541776896
-    title: On speaking russian
-  ukraine_has_agency: # 33
-    thread_id: 1527415283601788951
-    title: "This is at the core of everything I do: has agency and the right to defend itself against the genocidal russian aggression"
-  first_encounter_with_propagandist: # 34
-    thread_id: 1505429104572653568
-    title: My first encounter with a russian propagandist, 2014 🕊
-  mastodon: 1529854934358933504 # 36
-  twitter_block_for_12_hours: 1517686615174434816 # 37
-  it_is_genocide: # 40
-    thread_id: 1530586056805974016
-    title: How to check if it's really genocide and whether peace in Ukraine can be reached through diplomatic negotiations with russia.
-  what_russia_should_do_with_ukraine: # 42
-    thread_id: 1530577568226848768
-    title: "“What russia should do with Ukraine”. German, French, Annotated version"
-  trident: # 43
-    thread_id: 1527926357283508225
-    title: Scary extremist/terrorist symbol that I have on my forearm AKA a trident - the Ukrainian Coat of Arms & emblem of the Armed Forces of Ukraine.
-  fragile_russia: # 44
-    thread_id: 1530639217272926208
-    title: How fragile russia is
-  if_youre_feeling_useless: # 46
-    thread_id: 1563607266191781890
-    title: If you're feeling helpless/useless today, here's a reason to cheer up - at least you are not Olaf Scholz
-  russian_speaking_ukrainians:  #48
-    thread_id: 1530417540471611392
-    title: On russian-speaking Ukrainians
-    config:
-      merge_unless_ends_with_period: true
-  from_historian_soldier: # 49
-    thread_id: 1530673305501323267
-    title: Olga Tokariuk retelling thoughts of Ukrainian soldier with PhD in history
-  homophobia_in_russia: # 51
-    thread_id: 1549942274947223554
-    title: On homophobia in russia
-  russian_literature: # 57
-    thread_id: 1564327104958943235
-    title: About russian literature, culture and what they have to do with the genocide of Ukrainians
-  russians: 1566189007976939523 # 56
-  russian_war_crimes:
-    thread_id: 1548719799466860544 # 58
-    title: About bots reporting russian war crimes, and sources of information of Ukraine
-  ukrainians_were_never_listened_to:
-    thread_id: 1531814055073259522 # 59
-    title: The reason why the genocide of Ukrainians is happening right now is Ukrainians were never listened to
-  russians_are_committing_genocide_regardless:
-    thread_id: 1531888446146592768 # 60
-    title: "Breaking news: ⚡️russians don't need for me to say anything in order to continue #GenocideOfUkrainians ⚡️"
-  how_to_call_russians:
-    thread_id: 1531601033998348295 # 61
-    title: ⚡️Ukrainians are allowed to call russians whatever we want⚡️
-  qualifying_factors:
-    thread_id: 1560542511097171969 # 62
-    title: "Full list factors qualifying you to tell me how I should feel during #GenocideOfUkrainians"
-  remaining_calm: 1532469268037656587 # 67
-  on_apologising_to_russians: 1560471350803841025 # 69
-  ukrainian_political_culture: 1513978983385284617 # 71
-  collective_responsiblity: 1558027683782692865 # 72
-  ukrainian_corruption_stereotypes: 1532476015695773696 # 73
-  empathy_for_ukrainians: 1541467428894507008 # 75
-  russian_friend_take_on_russophobia:
-    thread_id: 1532598904667136001 # 76
-    title: My russian friend's take on russophobia
-  un_sucks:
-    thread_id: 1553127555435315204 # 77
-    title: UN and Stéphane Dujarric in particular struggling to identify exactly what is happening in Ukraine
-  nytimes:
-    thread_id: 1564220899800276992 # 81
-    title: NYTimes
-  ukrainians_helping_kremlin:
-    thread_id: 1533409246863208451 # 85
-    title: "\"good russians\" and \"stupid Ukrainians who don't understand that they play into Kremlin's hands\""
-  dont_take_it_personally_if_i_dont_reply:
-    thread_id: 1534656462127079425 # 87
-    title: "TLDR: if I don't reply, please don't take it personally"
-  breakdowns: 1535531355374772225 # 88
-  ovsyannikova: 1536438482280800259 # 89
-  icrc:
-    thread_id: 1534725840696754176 # 102
-    title: Why donating money through the Red Cross is a very bad idea?
-  navalny: 1568057388887859205
-
-
