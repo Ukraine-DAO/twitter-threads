@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - /kapparov/russian_imperialist_movement
+  - /kapparov/russian_imperialist_movement.md
+---
 # Russian Imperial Movement - Русское Имперское Движениe
 
 Author: [Madi Kapparov](https://twitter.com/MuKappa)  

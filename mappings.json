@@ -367,7 +367,10 @@
       "Name": "kapparov/rusich"
     },
     "1542363832118550528": {
-      "Name": "kapparov/russian_imperialist_movement"
+      "Name": "kapparov/russian_imperial_movement",
+      "OldNames": [
+        "kapparov/russian_imperialist_movement"
+      ]
     },
     "1544650556794355712": {
       "Name": "kapparov/protests_in_karakalpakstan"
