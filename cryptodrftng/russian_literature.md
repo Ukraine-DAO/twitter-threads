@@ -680,3 +680,16 @@ cc: [@pierre_dalai](https://twitter.com/pierre_dalai) [#russianculture](https://
     </p>
     &mdash; <a href="https://twitter.com/brokenpixelua/status/1568207548460793858">Link</a>
 </blockquote>
+
+Definition of "russian" [#russianculture](https://twitter.com/hashtag/russianculture) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Defining &#34;russian&#34; (spelled with no capitalised &#34;r&#34;, BTW): an arrogant person with shauvinist, imperialist views. <br />
+    <br />
+    Total lack of self-awareness and sense of responsibility. <br />
+    <br />
+    When asked to be held accountable for something, plays victim and cries about &#34;russophobia&#34;. @kvakes https://t.co/qGP61q88eq<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1535575486109294594">Link</a>
+</blockquote>
