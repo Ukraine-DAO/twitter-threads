@@ -1,7 +1,7 @@
 {{ define "subdir" -}}
 {{ $d := . -}}
 {{ range .Subdir.Subdirs -}}
-    {{ $d.Indent }}* {{ with .Subdir.Title }}{{ . }}{{ else }}{{ .Name }}{{ end -}}{{ with .Subdir.Description }}: {{ . }}{{ end -}}
+    {{ $d.Indent }}* [{{ with .Subdir.Title }}{{ . }}{{ else }}{{ .Name }}{{ end -}}]({{ with $d.SubdirPath }}{{ . }}/{{ end }}{{ .Name }}/){{ with .Subdir.Description }}: {{ . }}{{ end -}}
     {{ $sd := $d.Descend .Name .Subdir }}
 {{ if not $sd.Subdir.Config.CollapseInParent }}{{ template "subdir" $sd }}{{ end }}{{ end }}{{ range .Subdir.Pages.Entries }}
     {{- $t := $d.Thread .Name }}

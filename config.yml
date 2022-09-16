@@ -5,6 +5,25 @@ root:
     cryptodrftng:
       title: cryptodrftng threads
       description: Collection of threads by Alona Shevchenko and a few other authors.
+      config:
+        collapse_in_parent: true
+      subdirs:
+        reuters:
+          title: Reuters
+          description: About russian propaganda agency Reuters.
+          main: # 9
+            thread_id: 1532773363051028481
+            title: Reuters is russian propaganda agency
+          memes:
+            thread_id: 1560518164001218562 # 55
+            title: Reuters memes
+          from_igor_sushko:
+            thread_id: 1515750062839648256
+            title: From Igor Sushko
+          conversation_in_walter_reports:
+            thread_id: 1538590308522463233 # 52
+            title: Conversation in Walter Report about Reuters
+
       how_ukraine_dao_started: # 2
         thread_id: 1525299116636622850
         title: How Ukraine DAO started
@@ -134,25 +153,13 @@ root:
         title: Why donating money through the Red Cross is a very bad idea?
 
     kapparov:
+      title: Threads by Madi Kapparov
       it_is_genocide: # 40
         thread_id: 1530586056805974016
         title: How to check if it's really genocide and whether peace in Ukraine can be reached through diplomatic negotiations with russia.
       navalny: 1568057388887859205
 
-    reuters:
-      main: # 9
-        thread_id: 1532773363051028481
-        title: Reuters is russian propaganda agency
-      memes:
-        thread_id: 1560518164001218562 # 55
-        title: Reuters memes
-      from_igor_sushko:
-        thread_id: 1515750062839648256
-        title: From Igor Sushko
-      conversation_in_walter_reports:
-        thread_id: 1538590308522463233 # 52
-        title: Conversation in Walter Report about Reuters
-
     in_ukrainian:
+      title: Threads in Ukrainian
       soft_assimilation:
         thread_id: 1567838650423017480

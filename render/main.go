@@ -7,7 +7,6 @@ import (
 	"fmt"
 	"html"
 	html_template "html/template"
-	"io"
 	"log"
 	"net/url"
 	"os"
@@ -283,35 +282,36 @@ func (d *IndexData) Thread(name string) Thread {
 	return d.FileToThread[filepath.Join(d.Prefix, d.SubdirPath, name)+".md"]
 }
 
-func writeIndexSubtree(f io.Writer, dir common.Subdir, fileToThread map[string]Thread, prefix string, indent string) error {
-	for _, e := range dir.Subdirs {
-		fmt.Fprintf(f, "%s* %s\n", indent, e.Name)
-		if err := writeIndexSubtree(f, e.Subdir, fileToThread, filepath.Join(prefix, e.Name), indent+"  "); err != nil {
+func forEachSubdir(d common.Subdir, callback func(string, common.Subdir) error, path string) error {
+	if err := callback(path, d); err != nil {
+		return err
+	}
+	for _, e := range d.Subdirs {
+		if err := callback(filepath.Join(path, e.Name), e.Subdir); err != nil {
 			return err
 		}
-	}
-	for _, e := range dir.Pages.Entries {
-		fname := fmt.Sprintf("%s.md", filepath.Join(*outputDir, prefix, e.Name))
-		fmt.Fprintf(f, "%s* [%s](%s) (by [%s](https://twitter.com/%s))\n", indent, fileToThread[fname].Title, filepath.Join(prefix, e.Name)+".md", fileToThread[fname].AuthorName, fileToThread[fname].AuthorUsername)
 	}
 	return nil
 }
 
-func writeIndex(cfg *common.Config, fileToThread map[string]Thread) error {
-	f, err := os.Create(filepath.Join(*outputDir, "index.md"))
-	if err != nil {
-		return fmt.Errorf("opening index.md: %w", err)
-	}
-	defer f.Close()
-	d := &IndexData{
-		Subdir:       cfg.Root,
-		Prefix:       *outputDir,
-		FileToThread: fileToThread,
-	}
-	if err := indexTmpl.Execute(f, d); err != nil {
-		return fmt.Errorf("executing template: %w", err)
-	}
-	return nil
+func writeIndexPages(cfg *common.Config, fileToThread map[string]Thread) error {
+	return forEachSubdir(cfg.Root, func(path string, sd common.Subdir) error {
+		idxPath := filepath.Join(*outputDir, path, "index.md")
+		f, err := os.Create(idxPath)
+		if err != nil {
+			return fmt.Errorf("opening %q: %w", idxPath, err)
+		}
+		defer f.Close()
+		d := &IndexData{
+			Subdir:       sd,
+			Prefix:       filepath.Join(*outputDir, path),
+			FileToThread: fileToThread,
+		}
+		if err := indexTmpl.Execute(f, d); err != nil {
+			return fmt.Errorf("executing template: %w", err)
+		}
+		return nil
+	}, "")
 }
 
 func run(cfg *common.Config, state *state.State) error {
@@ -358,7 +358,7 @@ func run(cfg *common.Config, state *state.State) error {
 		fileToThread[fname] = t
 	}
 
-	if err := writeIndex(cfg, fileToThread); err != nil {
+	if err := writeIndexPages(cfg, fileToThread); err != nil {
 		return err
 	}
 
