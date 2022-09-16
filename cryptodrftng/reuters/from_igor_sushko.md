@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - /reuters/from_igor_sushko
+  - /reuters/from_igor_sushko.md
+---
 # From Igor Sushko
 
 Author: [Igor Sushko](https://twitter.com/igorsushko)  

@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - /reuters/main
+  - /reuters/main.md
+---
 # Reuters is russian propaganda agency
 
 Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  

@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - /reuters/conversation_in_walter_reports
+  - /reuters/conversation_in_walter_reports.md
+---
 # Conversation in Walter Report about Reuters
 
 Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  

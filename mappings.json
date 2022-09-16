@@ -55,7 +55,10 @@
       ]
     },
     "1515750062839648256": {
-      "Name": "reuters/from_igor_sushko"
+      "Name": "cryptodrftng/reuters/from_igor_sushko",
+      "OldNames": [
+        "reuters/from_igor_sushko"
+      ]
     },
     "1516521722912165895": {
       "Name": "cryptodrftng/on_speaking_russian",
@@ -112,7 +115,10 @@
       ]
     },
     "1527477049438371841": {
-      "Name": "reuters/main"
+      "Name": "cryptodrftng/reuters/main",
+      "OldNames": [
+        "reuters/main"
+      ]
     },
     "1527911555374907393": {
       "Name": "cryptodrftng/darvo",
@@ -217,7 +223,10 @@
       ]
     },
     "1531363976658964480": {
-      "Name": "reuters/conversation_in_walter_reports"
+      "Name": "cryptodrftng/reuters/conversation_in_walter_reports",
+      "OldNames": [
+        "reuters/conversation_in_walter_reports"
+      ]
     },
     "1531480089963151366": {
       "Name": "cryptodrftng/russians",
@@ -334,7 +343,10 @@
       ]
     },
     "1560518164001218562": {
-      "Name": "reuters/memes"
+      "Name": "cryptodrftng/reuters/memes",
+      "OldNames": [
+        "reuters/memes"
+      ]
     },
     "1567838650423017480": {
       "Name": "in_ukrainian/soft_assimilation"

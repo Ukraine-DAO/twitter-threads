@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - /reuters/memes
+  - /reuters/memes.md
+---
 # Reuters memes
 
 Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
