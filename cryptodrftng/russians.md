@@ -1191,3 +1191,56 @@ The first two messages are auto-generated when the contact you tried to call com
     </p>
     &mdash; <a href="https://twitter.com/sumlenny/status/1569536209143353345">Link</a>
 </blockquote>
+
+100/ Izyum 💔
+
+ [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#russiaisanazistate](https://twitter.com/hashtag/russiaisanazistate)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    More mass graves in Ukraine, more calls for appeasement from western boot lickers, more apathy, more whataboutism.<br />
+    <br />
+    Russia is conducting a genocide.<br />
+    <br />
+    A mass grave of 445 people, mostly civilians, many look to be tortured.<br />
+    <br />
+    When will &#34;never again&#34; actually mean something?<br />
+    </p>
+    &mdash; <a href="https://twitter.com/sforys92/status/1570812873714307074">Link</a>
+</blockquote>
+
+101/ Izyum 💔
+
+ [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#russiaisanazistate](https://twitter.com/hashtag/russiaisanazistate)
+
+[Mass Burial Site Found Near Izyum After Russian Retreat](https://www.rferl.org/a/ukraine-russia-us-zelenskiy-grave-izyum-von-der-leyen/32036169.html)
+
+102/ Izyum 💔
+
+ [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#russiaisanazistate](https://twitter.com/hashtag/russiaisanazistate)
+
+[Inside Izyum, One of Ukraine’s Biggest Recently Recaptured Cities | WSJ](https://youtu.be/JnfXLmTAZko)
+
+103/ Izyum 💔
+
+ [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#russiaisanazistate](https://twitter.com/hashtag/russiaisanazistate)
+
+[Ukraine-Russia war: Hundreds of graves found in forest near recaptured Izyum](https://youtu.be/9Fr3qEdlfGA)
+
+104/ Izyum 💔
+
+ [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#russiaisanazistate](https://twitter.com/hashtag/russiaisanazistate)
+
+[Mass Grave Found In Recaptured Izyum, Zelenskyy Says](https://youtu.be/BqSh39t4P38)
+
+105/ Izyum 💔
+
+ [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#russiaisanazistate](https://twitter.com/hashtag/russiaisanazistate)
+
+[Як виглядає Ізюм після звільнення від росіян | Українська правда](https://youtu.be/XOjSGTjTU_0)
+
+106/ Witness accounts - Izyum
+
+ [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#russiaisanazistate](https://twitter.com/hashtag/russiaisanazistate)
+
+[Ізюм. Як починалась окупація – розповідь свідка](https://youtu.be/ymhGLgk7IHM)

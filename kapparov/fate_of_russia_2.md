@@ -3,6 +3,109 @@
 Author: [Madi Kapparov](https://twitter.com/MuKappa)  
 *Links to this thread: [Twitter](https://twitter.com/MuKappa/status/1535685016897957889), [PingThread](https://pingthread.com/thread/1535685016897957889), [ThreadReader](https://threadreaderapp.com/thread/1535685016897957889.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/MuKappa/status/1535685016897957889)*
 
+On the fate of Russia and a way out of the war(s), Part 2
+
+Part 1 recap:
+The best course of action is to not save Russia’s face but to rip it off entirely, as it is nothing more than a mask, a mask of neoclassical chauvinistic colonial imperialism. 
+[twitter.com/MuKappa/status…](https://twitter.com/MuKappa/status/1533944022997286912?s=20&t=BzqR2Y9_glcc4CQ6THT9TQ)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    On the fate of Russia and a way out of the war(s) <br />
+    <br />
+    The talks of saving Putin’s face and not allowing him to be humiliated in this war have met some seemingly passionate pushback. https://t.co/Eg6FWN1JT3<br />
+    </p>
+    &mdash; <a href="https://twitter.com/MuKappa/status/1533944022997286912">Link</a>
+</blockquote>
+
+In the previous part, I conclude that Russia is a colonial empire in its foreign policy and internal political structure. I already discussed the aggressive foreign policy of the current regime.
+
+| [![](https://pbs.twimg.com/media/FU_Bp60WQAAE8bR.jpg)](https://pbs.twimg.com/media/FU_Bp60WQAAE8bR.jpg) |
+| :-: |
+
+However, contemporary Russia's outward colonial aggressiveness predates the current regime. Think of the war in Transnistria 1990-1992, where Russia took an active part. [4 things to know about Moldova and Transnistria – and why Russia's war may spread beyond Ukraine to reach them soon](https://theconversation.com/4-things-to-know-about-moldova-and-transnistria-and-why-russias-war-may-spread-beyond-ukraine-to-reach-them-soon-182030)
+
+Or the 1999 Pristina airport incident, where the Russians took the airport ahead of the British troops, thereby hampering the allied NATO effort and assisting the Serbian side. Russia and NATO were an inch away from going kinetic. [Russian and British troops in tense Pristina stand-off](https://www.theguardian.com/world/1999/jun/13/balkans5)
+
+Russia's interest in Moldova and the Balkans goes back to the 19th century, as the region at large was a point of contact between three empires: the Russians, the Ottomans, and the Austro-Hungarians. [staff.lib.msu.edu/sowards/balkan…](https://staff.lib.msu.edu/sowards/balkan/lect10.htm)
+
+| [![](https://pbs.twimg.com/media/FU-9mS2WIAAdHlS.jpg)](https://pbs.twimg.com/media/FU-9mS2WIAAdHlS.jpg) |
+| :-: |
+
+And contemporary Russia still clings to its 19th-century colonial/imperial interests in the Balkans, though the other two imperial adversaries are long gone, highlighting its ongoing old-fashioned imperialist nature. [Russia’s Game in the Balkans](https://carnegieendowment.org/2019/02/06/russia-s-game-in-balkans-pub-78235)
+
+| [![](https://pbs.twimg.com/media/FU_LiAMX0AEUg4o.png)](https://pbs.twimg.com/media/FU_LiAMX0AEUg4o.png) |
+| :-: |
+
+Why is that? Because after WWI the Russian Empire had never died. It was reborn as the USSR. The empire no longer had a tsar, but all power was still centralized at the imperial court in Moscow. Here is a primer on the history of the USSR from the LOC: [Internal Workings of the Soviet Union - Revelations from the Russian Archives | Exhibitions - Library of Congress](https://www.loc.gov/exhibits/archives/intn.html)
+
+| [![](https://pbs.twimg.com/media/FU_Ak-FX0AINPXO.jpg)](https://pbs.twimg.com/media/FU_Ak-FX0AINPXO.jpg) |
+| :-: |
+
+The decolonization process of the Russian Empire (under all labels) started in 1991, driven by a multitude of factors ranging from the Western economic pressure to the political opportunism of the elites. [How three men signed the USSR's death warrant](https://www.bbc.co.uk/news/magazine-38416657)
+
+However, decolonization was not completed. I already discussed ethnic Russian exceptionalism deeply rooted in the Russian collective psyche. Combined with revanchism, many Russians believe in their right to restore their colonial possessions.
+
+| [![](https://pbs.twimg.com/media/FU_Vp6XXEAIq_V_.jpg)](https://pbs.twimg.com/media/FU_Vp6XXEAIq_V_.jpg) |
+| :-: |
+
+The current president of Russia said as much himself recently (for the billionth time). He's not a madman, but simply plays into the populist beliefs of many Russians, he is a product of the Russian imperial system. [twitter.com/IAPonomarenko/…](https://twitter.com/IAPonomarenko/status/1534902769638944772?s=20&t=3UbnJJlasSSopiLwRLNzlA)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Putin is just obsessed with unlimited territorial gains, “bringing back what’s ours.” <br />
+    Big greetings to everyone who really thinks Russia will stop after it swallows Ukraine. https://t.co/BCr7yNpxNm<br />
+    </p>
+    &mdash; <a href="https://twitter.com/IAPonomarenko/status/1534902769638944772">Link</a>
+</blockquote>
+
+In part 1 I also conclude that the only way to put an end to Russia's colonial ambitions is to break apart the empire in its present form, the Federation. I propose two tools for decolonization: economic incentives and collective guilt. Let's discuss economics first.
+
+I will oversimply many things. Many academic studies were conducted on the colonial economics of the European Empires. However, I am under the impression that Russian colonialism is underexplored. Nonetheless, most colonial economies share an extractive trait.
+
+| [![](https://pbs.twimg.com/media/FVAG6gGXEAAHdip.png)](https://pbs.twimg.com/media/FVAG6gGXEAAHdip.png) |
+| :-: |
+
+This means that land and available resources are exploited for the benefit of the metropole center without investing much into the local economic development of the colony. The resources are then used to produce finished goods or are simply reexported from the imperial heartland.
+
+| [![](https://pbs.twimg.com/media/FVAInNaXsAEEDCI.jpg)](https://pbs.twimg.com/media/FVAInNaXsAEEDCI.jpg) |
+| :-: |
+
+Starting with the basics: the population of the Federation is unevenly distributed. I will ignore demographic trends for simplicity and will only look at the recent snapshots. Here's population density:
+
+| [![](https://pbs.twimg.com/media/FVASgJEXEAUWpHn.jpg)](https://pbs.twimg.com/media/FVASgJEXEAUWpHn.jpg) |
+| :-: |
+
+This distribution lines up with the picture at large of the population distribution of the Federation. Note the border of the orange and red sectors is the rough location of the Ural mountains. What's happening in the Transurals? Let's look at more maps.
+
+| [![](https://pbs.twimg.com/media/FVAVx1tXEAANU_G.jpg)](https://pbs.twimg.com/media/FVAVx1tXEAANU_G.jpg) |
+| :-: |
+
+Here is GDP per capita by region. Note, that Moscow is the only relatively wealthy "region" in the Central Federal District (roughly the green sector in the maps above).
+
+| [![](https://pbs.twimg.com/media/FVEBpvxWUAAnbAK.jpg)](https://pbs.twimg.com/media/FVEBpvxWUAAnbAK.jpg) |
+| :-: |
+
+Somewhat of a similar distribution is observed with the middle class:
+
+| [![](https://pbs.twimg.com/media/FVECXNhWIAItOwL.jpg)](https://pbs.twimg.com/media/FVECXNhWIAItOwL.jpg) |
+| :-: |
+
+Why don't people move from the less wealthy part of European Russia into the Urals and Transurals? In fact, it seems the opposite happens. Why? The GDP per capita figures by region do not reflect disposable income and the living conditions in the regions. [rg.ru/2021/10/14/ros…](https://rg.ru/2021/10/14/rossiiane-vse-menshe-hotiat-pereezzhat-rabotat-v-drugie-regiony.html)
+
+Life in the regions presents few to no opportunities, bad public services, bad ecology, overall low quality of life, etc. "The best is in Moscow" is probably the best phrase that describes the situation the author of the article below uses.
+[«Все веселье — в ТРЦ»: 12 причин, по которым все уезжают из регионов](https://journal.tinkoff.ru/migration-plans/)
+
+What is driving the high GDP per capita in some of the regions of the Urals and Transurals? Natural resources. The Russian Federation is nothing more than a classical colonial empire extracting rents from the land and resources of the colonies. Here's a map of nat. gas reserves.
+
+| [![](https://pbs.twimg.com/media/FVEWIZRWQAMEQze.jpg)](https://pbs.twimg.com/media/FVEWIZRWQAMEQze.jpg) |
+| :-: |
+
+Prospective hydrocarbon deposits:
+
+| [![](https://pbs.twimg.com/media/FVEWZRnXEAEeKoc.jpg)](https://pbs.twimg.com/media/FVEWZRnXEAEeKoc.jpg) |
+| :-: |
+
 Copper deposits:
 
 | [![](https://pbs.twimg.com/media/FVEWfkWWAAENdd1.jpg)](https://pbs.twimg.com/media/FVEWfkWWAAENdd1.jpg) |
