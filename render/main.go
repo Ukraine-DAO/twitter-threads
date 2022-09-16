@@ -287,7 +287,7 @@ func forEachSubdir(d common.Subdir, callback func(string, common.Subdir) error, 
 		return err
 	}
 	for _, e := range d.Subdirs {
-		if err := callback(filepath.Join(path, e.Name), e.Subdir); err != nil {
+		if err := forEachSubdir(e.Subdir, callback, filepath.Join(path, e.Name)); err != nil {
 			return err
 		}
 	}
