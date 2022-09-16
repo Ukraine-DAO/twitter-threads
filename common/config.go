@@ -48,12 +48,18 @@ func (m *YamlPageMap) UnmarshalYAML(value *yaml.Node) error {
 	if value.Kind != yaml.MappingNode {
 		return fmt.Errorf("expected MappingNode value kind, got %d", value.Kind)
 	}
+	knownField := map[string]bool{
+		"subdirs":     true,
+		"title":       true,
+		"description": true,
+		"config":      true,
+	}
 	for i := 0; i < len(value.Content); i += 2 {
 		entry := PageMapEntry{}
 		if err := value.Content[i].Decode(&entry.Name); err != nil {
 			return fmt.Errorf("decoding key at index %d: %w", i, err)
 		}
-		if entry.Name == "subdirs" {
+		if knownField[entry.Name] {
 			// Not sure how Unmarshaler on an inline field was intended to work,
 			// but it seems we need to filter out all known fields of Subdir
 			// struct ourselves.
@@ -68,8 +74,15 @@ func (m *YamlPageMap) UnmarshalYAML(value *yaml.Node) error {
 }
 
 type Subdir struct {
-	Subdirs YamlSubdirMap `yaml:",omitempty"`
-	Pages   YamlPageMap   `yaml:",inline,omitempty"`
+	Title       string
+	Description string
+	Config      SubdirConfig
+	Subdirs     YamlSubdirMap `yaml:",omitempty"`
+	Pages       YamlPageMap   `yaml:",inline,omitempty"`
+}
+
+type SubdirConfig struct {
+	CollapseInParent bool `yaml:"collapse_in_parent"`
 }
 
 type Thread struct {

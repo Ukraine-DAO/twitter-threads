@@ -1,14 +1,18 @@
 {{ define "subdir" -}}
 {{ $d := . -}}
 {{ range .Subdir.Subdirs -}}
-    {{ $d.Indent }}* {{ .Name -}}
+    {{ $d.Indent }}* {{ with .Subdir.Title }}{{ . }}{{ else }}{{ .Name }}{{ end -}}{{ with .Subdir.Description }}: {{ . }}{{ end -}}
     {{ $sd := $d.Descend .Name .Subdir }}
-{{ template "subdir" $sd }}{{ end }}{{ range .Subdir.Pages.Entries }}
+{{ if not $sd.Subdir.Config.CollapseInParent }}{{ template "subdir" $sd }}{{ end }}{{ end }}{{ range .Subdir.Pages.Entries }}
     {{- $t := $d.Thread .Name }}
     {{- $d.Indent }}* [{{ $t.Title }}]({{ $d.PagePath .Name }}) (by [{{ $t.AuthorName }}](https://twitter.com/{{ $t.AuthorUsername }}))
 {{ end -}}
 {{ end -}}
 
-# Twitter threads
+# {{ with .Subdir.Title }}{{ . }}{{ else }}Twitter threads{{ end }}
+
+{{- with .Subdir.Description }}
+
+{{ . }}{{ end }}
 
 {{ template "subdir" . -}}
