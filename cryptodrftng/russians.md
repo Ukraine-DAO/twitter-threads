@@ -1244,3 +1244,28 @@ The first two messages are auto-generated when the contact you tried to call com
  [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#russiaisanazistate](https://twitter.com/hashtag/russiaisanazistate)
 
 [Ізюм. Як починалась окупація – розповідь свідка](https://youtu.be/ymhGLgk7IHM)
+
+107/ They are killing us because we are Ukrainian.
+
+Izyum 💔
+
+[#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#russiaisanazistate](https://twitter.com/hashtag/russiaisanazistate)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Ізюм. 😭😭😭<br />
+    Ще багато буде такого, але вже зараз все зрозуміло - вони вбивають нас, тому що ми - українці. https://t.co/5ZZlfNFp5o<br />
+    </p>
+    &mdash; <a href="https://twitter.com/TrueDonbass/status/1570809765277888512">Link</a>
+</blockquote>
+
+108/ They are killing us because we are Ukrainian. 
+
+[#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#russiaisanazistate](https://twitter.com/hashtag/russiaisanazistate) [#Izyum](https://twitter.com/hashtag/Izyum)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Pain. A tear is shining on the nose of the exhumation worker. This photo sums up the day. For me. Author unknown. https://t.co/HZcpxeMAla<br />
+    </p>
+    &mdash; <a href="https://twitter.com/OTregub/status/1570815329655484416">Link</a>
+</blockquote>

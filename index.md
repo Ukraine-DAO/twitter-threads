@@ -17,5 +17,6 @@ Selected Twitter threads, in a more readable shape and preserved for posterity.
   * [Patriarch Kirill’s Explanation of the Russian Invasion of Ukraine](kapparov/patriarch_kirill_explains_invasion.md) (by [Madi Kapparov](https://twitter.com/MuKappa))
   * [On the Protests in Karakalpakstan, Uzbekistan](kapparov/protests_in_karakalpakstan.md) (by [Madi Kapparov](https://twitter.com/MuKappa))
   * [DShRG Rusich - ДШРГ Русич](kapparov/rusich.md) (by [Madi Kapparov](https://twitter.com/MuKappa))
+  * [Russian Imperial Movement - Русское Имперское Движениe](kapparov/russian_imperialist_movement.md) (by [Madi Kapparov](https://twitter.com/MuKappa))
 * [Threads in Ukrainian](in_ukrainian/)
   * [Soft Assimilation](in_ukrainian/soft_assimilation.md) (by [Шпіци Веселяться](https://twitter.com/garrossroland))

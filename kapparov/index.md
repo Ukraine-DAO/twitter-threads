@@ -13,3 +13,4 @@
 * [Patriarch Kirill’s Explanation of the Russian Invasion of Ukraine](patriarch_kirill_explains_invasion.md) (by [Madi Kapparov](https://twitter.com/MuKappa))
 * [On the Protests in Karakalpakstan, Uzbekistan](protests_in_karakalpakstan.md) (by [Madi Kapparov](https://twitter.com/MuKappa))
 * [DShRG Rusich - ДШРГ Русич](rusich.md) (by [Madi Kapparov](https://twitter.com/MuKappa))
+* [Russian Imperial Movement - Русское Имперское Движениe](russian_imperialist_movement.md) (by [Madi Kapparov](https://twitter.com/MuKappa))
