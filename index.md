@@ -1,6 +1,8 @@
 # Twitter threads
 
-* cryptodrftng
+Selected Twitter threads, in a more readable shape and preserved for posterity.
+
+* cryptodrftng threads: Collection of threads by Alona Shevchenko and a few other authors.
   * [How Ukraine DAO started](cryptodrftng/how_ukraine_dao_started.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
   * [Each of us has been in agony from 1000s propaganda cuts](cryptodrftng/1000_cuts.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
   * [About Azov](cryptodrftng/about_azov.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
