@@ -1,0 +1,14 @@
+{{ define "subdir" -}}
+{{ $d := . -}}
+{{ range .Subdir.Subdirs -}}
+    {{ $d.Indent }}* {{ .Name -}}
+    {{ $sd := $d.Descend .Name .Subdir }}
+{{ template "subdir" $sd }}{{ end }}{{ range .Subdir.Pages.Entries }}
+    {{- $t := $d.Thread .Name }}
+    {{- $d.Indent }}* [{{ $t.Title }}]({{ $d.PagePath .Name }}) (by [{{ $t.AuthorName }}](https://twitter.com/{{ $t.AuthorUsername }}))
+{{ end -}}
+{{ end -}}
+
+# Twitter threads
+
+{{ template "subdir" . -}}

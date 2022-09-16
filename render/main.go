@@ -41,6 +41,9 @@ var threadTmplText string
 //go:embed quoted_tweet.html.tmpl
 var quotedTweetTmplText string
 
+//go:embed index.tmpl
+var indexTmplText string
+
 var (
 	threadTmpl      = text_template.Must(text_template.New("thread").Parse(threadTmplText))
 	quotedTweetTmpl = html_template.Must(html_template.New("quoted").Funcs(
@@ -48,6 +51,7 @@ var (
 			"lines": func(s string) []string { return strings.Split(s, "\n") },
 		},
 	).Parse(quotedTweetTmplText))
+	indexTmpl = text_template.Must(text_template.New("index").Parse(indexTmplText))
 )
 
 type Thread struct {
@@ -253,6 +257,32 @@ func parseThread(name string, thread common.Thread, state state.ThreadState) Thr
 	return r
 }
 
+type IndexData struct {
+	Subdir       common.Subdir
+	Prefix       string
+	SubdirPath   string
+	FileToThread map[string]Thread
+	Indent       string
+}
+
+func (d *IndexData) Descend(name string, subdir common.Subdir) *IndexData {
+	return &IndexData{
+		Subdir:       subdir,
+		Prefix:       d.Prefix,
+		SubdirPath:   filepath.Join(d.SubdirPath, name),
+		FileToThread: d.FileToThread,
+		Indent:       d.Indent + "  ",
+	}
+}
+
+func (d *IndexData) PagePath(name string) string {
+	return filepath.Join(d.SubdirPath, name) + ".md"
+}
+
+func (d *IndexData) Thread(name string) Thread {
+	return d.FileToThread[filepath.Join(d.Prefix, d.SubdirPath, name)+".md"]
+}
+
 func writeIndexSubtree(f io.Writer, dir common.Subdir, fileToThread map[string]Thread, prefix string, indent string) error {
 	for _, e := range dir.Subdirs {
 		fmt.Fprintf(f, "%s* %s\n", indent, e.Name)
@@ -273,8 +303,15 @@ func writeIndex(cfg *common.Config, fileToThread map[string]Thread) error {
 		return fmt.Errorf("opening index.md: %w", err)
 	}
 	defer f.Close()
-	fmt.Fprintf(f, "# Twitter threads\n\n")
-	return writeIndexSubtree(f, cfg.Root, fileToThread, "", "")
+	d := &IndexData{
+		Subdir:       cfg.Root,
+		Prefix:       *outputDir,
+		FileToThread: fileToThread,
+	}
+	if err := indexTmpl.Execute(f, d); err != nil {
+		return fmt.Errorf("executing template: %w", err)
+	}
+	return nil
 }
 
 func run(cfg *common.Config, state *state.State) error {
