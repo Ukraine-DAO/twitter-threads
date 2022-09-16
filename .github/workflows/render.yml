@@ -1,14 +1,14 @@
 name: Render
 
 on:
-  # Runs on pushes targeting the default branch
-  push:
-    paths:
-      - 'render/**'
-
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   workflow_call:
+  workflow_run:
+    workflows:
+      - Collect tweets
+    types:
+      - completed
 
 # Allow one concurrent deployment
 concurrency:

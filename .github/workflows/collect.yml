@@ -61,7 +61,3 @@ jobs:
             git commit -m 'Update state'
             git push
           fi
-  render:
-    needs: collect
-    uses: ./.github/workflows/render.yml
-    secrets: inherit
