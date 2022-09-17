@@ -1279,3 +1279,13 @@ Izyum 💔
     </p>
     &mdash; <a href="https://twitter.com/JimmySecUK/status/1570884675975155712">Link</a>
 </blockquote>
+
+110/ [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#russiaisanazistate](https://twitter.com/hashtag/russiaisanazistate)
+[#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Source: Facebook page of the artist Oleksandr Shatokhin https://t.co/rxD13YXbSg<br />
+    </p>
+    &mdash; <a href="https://twitter.com/K_Loukerenko/status/1571110174513070080">Link</a>
+</blockquote>
