@@ -8,8 +8,8 @@ import (
 
 	"gopkg.in/yaml.v3"
 
-	"github.com/rusni-pyzda/twitter-threads/common"
-	"github.com/rusni-pyzda/twitter-threads/state"
+	"github.com/Ukraine-DAO/twitter-threads/common"
+	"github.com/Ukraine-DAO/twitter-threads/state"
 )
 
 var (

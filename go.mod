@@ -1,4 +1,4 @@
-module github.com/rusni-pyzda/twitter-threads
+module github.com/Ukraine-DAO/twitter-threads
 
 go 1.19
 

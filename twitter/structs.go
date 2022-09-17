@@ -1,7 +1,7 @@
 package twitter
 
 import (
-	"github.com/rusni-pyzda/twitter-threads/common"
+	"github.com/Ukraine-DAO/twitter-threads/common"
 )
 
 type ReferencedTweet struct {

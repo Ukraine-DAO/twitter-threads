@@ -3,7 +3,7 @@ package state
 import (
 	"sort"
 
-	"github.com/rusni-pyzda/twitter-threads/twitter"
+	"github.com/Ukraine-DAO/twitter-threads/twitter"
 )
 
 type ThreadState struct {

@@ -10,7 +10,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/rusni-pyzda/twitter-threads/common"
+	"github.com/Ukraine-DAO/twitter-threads/common"
 )
 
 var token = os.Getenv("TWITTER_BEARER_TOKEN")

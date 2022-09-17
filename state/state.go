@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/rusni-pyzda/twitter-threads/common"
-	"github.com/rusni-pyzda/twitter-threads/twitter"
+	"github.com/Ukraine-DAO/twitter-threads/common"
+	"github.com/Ukraine-DAO/twitter-threads/twitter"
 )
 
 var requestCfg = common.RequestConfig{

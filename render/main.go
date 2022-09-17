@@ -22,9 +22,9 @@ import (
 	"golang.org/x/text/language"
 	"gopkg.in/yaml.v3"
 
-	"github.com/rusni-pyzda/twitter-threads/common"
-	"github.com/rusni-pyzda/twitter-threads/state"
-	"github.com/rusni-pyzda/twitter-threads/twitter"
+	"github.com/Ukraine-DAO/twitter-threads/common"
+	"github.com/Ukraine-DAO/twitter-threads/state"
+	"github.com/Ukraine-DAO/twitter-threads/twitter"
 )
 
 var (
