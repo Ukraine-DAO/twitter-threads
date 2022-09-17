@@ -1269,3 +1269,13 @@ Izyum 💔
     </p>
     &mdash; <a href="https://twitter.com/OTregub/status/1570815329655484416">Link</a>
 </blockquote>
+
+109/ russians are worse than Nazis.
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    In a liberated village in Kharkiv Oblast, Ukrainian soldiers found a poor dog who had a &#34;Z&#34; carved onto his snout by Russian soldiers. <br />
+    https://t.co/AgvU4sX2JY<br />
+    </p>
+    &mdash; <a href="https://twitter.com/JimmySecUK/status/1570884675975155712">Link</a>
+</blockquote>
