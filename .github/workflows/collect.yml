@@ -48,7 +48,6 @@ jobs:
           TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
         run: |
           go run ./collect --config config.yml --state stored-state/state.json
-      # TODO: fetch media
       - name: Commit updated state
         run: |
           eval `ssh-agent -s`
