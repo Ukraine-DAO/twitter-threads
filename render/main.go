@@ -3,10 +3,12 @@ package main
 import (
 	_ "embed"
 	"encoding/json"
+	"errors"
 	"flag"
 	"fmt"
 	"html"
 	html_template "html/template"
+	"io/fs"
 	"log"
 	"net/url"
 	"os"
@@ -194,7 +196,7 @@ func tryMergingParagraphs(th *Thread, cfg common.RenderConfig) {
 	th.Blocks = r
 }
 
-func parseThread(name string, thread common.Thread, state state.ThreadState) Thread {
+func parseThread(name string, thread common.Thread, state state.ThreadState, mediaDir string) Thread {
 	chain := state.TweetChain()
 	r := Thread{
 		Title:          thread.Title,
@@ -219,7 +221,14 @@ func parseThread(name string, thread common.Thread, state state.ThreadState) Thr
 			for _, k := range t.Attachments.MediaKeys {
 				for _, m := range t.Includes.Media {
 					if m.Key == k && m.Type == "photo" {
-						imgs = append(imgs, m.URL)
+						u, fname := m.DisplayURLAndFilename()
+						fpath := filepath.Join(*outputDir, mediaDir, thread.ThreadID, fname)
+						_, err := os.Stat(fpath)
+						if errors.Is(err, fs.ErrNotExist) {
+							imgs = append(imgs, u)
+						} else {
+							imgs = append(imgs, "/"+filepath.Join(mediaDir, thread.ThreadID, fname))
+						}
 						break
 					}
 				}
@@ -329,7 +338,7 @@ func run(cfg *common.Config, state *state.State) error {
 
 	fileToThread := map[string]Thread{}
 	for name, thread := range cfg.ThreadPages() {
-		t := parseThread(path.Base(name), thread, state.Threads[thread.ThreadID])
+		t := parseThread(path.Base(name), thread, state.Threads[thread.ThreadID], cfg.MediaDir)
 
 		m := mappings.Mappings[t.ConversationID]
 		if m.Name == "" {
