@@ -42,5 +42,5 @@ Starting a 🧵 about this "hero" - [@newslady19](https://twitter.com/newslady19
 - Jfc! Just fucking leave us alone
 - I'm Ukrainian too
 
-| [![](https://pbs.twimg.com/media/FVKGp7YWYAIOjbL.jpg)](https://pbs.twimg.com/media/FVKGp7YWYAIOjbL.jpg) |
+| [![](/media/1536438482280800259/3_1536438477759340546.jpg)](/media/1536438482280800259/3_1536438477759340546.jpg) |
 | :-: |

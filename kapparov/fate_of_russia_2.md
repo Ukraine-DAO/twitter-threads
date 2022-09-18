@@ -20,7 +20,7 @@ The best course of action is to not save Russia’s face but to rip it off entir
 
 In the previous part, I conclude that Russia is a colonial empire in its foreign policy and internal political structure. I already discussed the aggressive foreign policy of the current regime.
 
-| [![](https://pbs.twimg.com/media/FU_Bp60WQAAE8bR.jpg)](https://pbs.twimg.com/media/FU_Bp60WQAAE8bR.jpg) |
+| [![](/media/1536171045677326337/3_1535658923864244224.jpg)](/media/1536171045677326337/3_1535658923864244224.jpg) |
 | :-: |
 
 However, contemporary Russia's outward colonial aggressiveness predates the current regime. Think of the war in Transnistria 1990-1992, where Russia took an active part. [4 things to know about Moldova and Transnistria – and why Russia's war may spread beyond Ukraine to reach them soon](https://theconversation.com/4-things-to-know-about-moldova-and-transnistria-and-why-russias-war-may-spread-beyond-ukraine-to-reach-them-soon-182030)
@@ -29,24 +29,24 @@ Or the 1999 Pristina airport incident, where the Russians took the airport ahead
 
 Russia's interest in Moldova and the Balkans goes back to the 19th century, as the region at large was a point of contact between three empires: the Russians, the Ottomans, and the Austro-Hungarians. [staff.lib.msu.edu/sowards/balkan…](https://staff.lib.msu.edu/sowards/balkan/lect10.htm)
 
-| [![](https://pbs.twimg.com/media/FU-9mS2WIAAdHlS.jpg)](https://pbs.twimg.com/media/FU-9mS2WIAAdHlS.jpg) |
+| [![](/media/1536171045677326337/3_1535654463549087744.jpg)](/media/1536171045677326337/3_1535654463549087744.jpg) |
 | :-: |
 
 And contemporary Russia still clings to its 19th-century colonial/imperial interests in the Balkans, though the other two imperial adversaries are long gone, highlighting its ongoing old-fashioned imperialist nature. [Russia’s Game in the Balkans](https://carnegieendowment.org/2019/02/06/russia-s-game-in-balkans-pub-78235)
 
-| [![](https://pbs.twimg.com/media/FU_LiAMX0AEUg4o.png)](https://pbs.twimg.com/media/FU_LiAMX0AEUg4o.png) |
+| [![](/media/1536171045677326337/3_1535669782984511489.png)](/media/1536171045677326337/3_1535669782984511489.png) |
 | :-: |
 
 Why is that? Because after WWI the Russian Empire had never died. It was reborn as the USSR. The empire no longer had a tsar, but all power was still centralized at the imperial court in Moscow. Here is a primer on the history of the USSR from the LOC: [Internal Workings of the Soviet Union - Revelations from the Russian Archives | Exhibitions - Library of Congress](https://www.loc.gov/exhibits/archives/intn.html)
 
-| [![](https://pbs.twimg.com/media/FU_Ak-FX0AINPXO.jpg)](https://pbs.twimg.com/media/FU_Ak-FX0AINPXO.jpg) |
+| [![](/media/1536171045677326337/3_1535657739329982466.jpg)](/media/1536171045677326337/3_1535657739329982466.jpg) |
 | :-: |
 
 The decolonization process of the Russian Empire (under all labels) started in 1991, driven by a multitude of factors ranging from the Western economic pressure to the political opportunism of the elites. [How three men signed the USSR's death warrant](https://www.bbc.co.uk/news/magazine-38416657)
 
 However, decolonization was not completed. I already discussed ethnic Russian exceptionalism deeply rooted in the Russian collective psyche. Combined with revanchism, many Russians believe in their right to restore their colonial possessions.
 
-| [![](https://pbs.twimg.com/media/FU_Vp6XXEAIq_V_.jpg)](https://pbs.twimg.com/media/FU_Vp6XXEAIq_V_.jpg) |
+| [![](/media/1536171045677326337/3_1535680913975218178.jpg)](/media/1536171045677326337/3_1535680913975218178.jpg) |
 | :-: |
 
 The current president of Russia said as much himself recently (for the billionth time). He's not a madman, but simply plays into the populist beliefs of many Russians, he is a product of the Russian imperial system. [twitter.com/IAPonomarenko/…](https://twitter.com/IAPonomarenko/status/1534902769638944772?s=20&t=3UbnJJlasSSopiLwRLNzlA)
@@ -63,32 +63,32 @@ In part 1 I also conclude that the only way to put an end to Russia's colonial a
 
 I will oversimply many things. Many academic studies were conducted on the colonial economics of the European Empires. However, I am under the impression that Russian colonialism is underexplored. Nonetheless, most colonial economies share an extractive trait.
 
-| [![](https://pbs.twimg.com/media/FVAG6gGXEAAHdip.png)](https://pbs.twimg.com/media/FVAG6gGXEAAHdip.png) |
+| [![](/media/1536171045677326337/3_1535735075052130304.png)](/media/1536171045677326337/3_1535735075052130304.png) |
 | :-: |
 
 This means that land and available resources are exploited for the benefit of the metropole center without investing much into the local economic development of the colony. The resources are then used to produce finished goods or are simply reexported from the imperial heartland.
 
-| [![](https://pbs.twimg.com/media/FVAInNaXsAEEDCI.jpg)](https://pbs.twimg.com/media/FVAInNaXsAEEDCI.jpg) |
+| [![](/media/1536171045677326337/3_1535736942641524737.jpg)](/media/1536171045677326337/3_1535736942641524737.jpg) |
 | :-: |
 
 Starting with the basics: the population of the Federation is unevenly distributed. I will ignore demographic trends for simplicity and will only look at the recent snapshots. Here's population density:
 
-| [![](https://pbs.twimg.com/media/FVASgJEXEAUWpHn.jpg)](https://pbs.twimg.com/media/FVASgJEXEAUWpHn.jpg) |
+| [![](/media/1536171045677326337/3_1535747816332660741.jpg)](/media/1536171045677326337/3_1535747816332660741.jpg) |
 | :-: |
 
 This distribution lines up with the picture at large of the population distribution of the Federation. Note the border of the orange and red sectors is the rough location of the Ural mountains. What's happening in the Transurals? Let's look at more maps.
 
-| [![](https://pbs.twimg.com/media/FVAVx1tXEAANU_G.jpg)](https://pbs.twimg.com/media/FVAVx1tXEAANU_G.jpg) |
+| [![](/media/1536171045677326337/3_1535751418908446720.jpg)](/media/1536171045677326337/3_1535751418908446720.jpg) |
 | :-: |
 
 Here is GDP per capita by region. Note, that Moscow is the only relatively wealthy "region" in the Central Federal District (roughly the green sector in the maps above).
 
-| [![](https://pbs.twimg.com/media/FVEBpvxWUAAnbAK.jpg)](https://pbs.twimg.com/media/FVEBpvxWUAAnbAK.jpg) |
+| [![](/media/1536171045677326337/3_1536010764619763712.jpg)](/media/1536171045677326337/3_1536010764619763712.jpg) |
 | :-: |
 
 Somewhat of a similar distribution is observed with the middle class:
 
-| [![](https://pbs.twimg.com/media/FVECXNhWIAItOwL.jpg)](https://pbs.twimg.com/media/FVECXNhWIAItOwL.jpg) |
+| [![](/media/1536171045677326337/3_1536011545699819522.jpg)](/media/1536171045677326337/3_1536011545699819522.jpg) |
 | :-: |
 
 Why don't people move from the less wealthy part of European Russia into the Urals and Transurals? In fact, it seems the opposite happens. Why? The GDP per capita figures by region do not reflect disposable income and the living conditions in the regions. [rg.ru/2021/10/14/ros…](https://rg.ru/2021/10/14/rossiiane-vse-menshe-hotiat-pereezzhat-rabotat-v-drugie-regiony.html)
@@ -98,47 +98,47 @@ Life in the regions presents few to no opportunities, bad public services, bad e
 
 What is driving the high GDP per capita in some of the regions of the Urals and Transurals? Natural resources. The Russian Federation is nothing more than a classical colonial empire extracting rents from the land and resources of the colonies. Here's a map of nat. gas reserves.
 
-| [![](https://pbs.twimg.com/media/FVEWIZRWQAMEQze.jpg)](https://pbs.twimg.com/media/FVEWIZRWQAMEQze.jpg) |
+| [![](/media/1536171045677326337/3_1536033281388462083.jpg)](/media/1536171045677326337/3_1536033281388462083.jpg) |
 | :-: |
 
 Prospective hydrocarbon deposits:
 
-| [![](https://pbs.twimg.com/media/FVEWZRnXEAEeKoc.jpg)](https://pbs.twimg.com/media/FVEWZRnXEAEeKoc.jpg) |
+| [![](/media/1536171045677326337/3_1536033571391082497.jpg)](/media/1536171045677326337/3_1536033571391082497.jpg) |
 | :-: |
 
 Copper deposits:
 
-| [![](https://pbs.twimg.com/media/FVEWfkWWAAENdd1.jpg)](https://pbs.twimg.com/media/FVEWfkWWAAENdd1.jpg) |
+| [![](/media/1536171045677326337/3_1536033679499198465.jpg)](/media/1536171045677326337/3_1536033679499198465.jpg) |
 | :-: |
 
 Diamond deposits
 
-| [![](https://pbs.twimg.com/media/FVEWpoLX0AA331Y.jpg)](https://pbs.twimg.com/media/FVEWpoLX0AA331Y.jpg) |
+| [![](/media/1536171045677326337/3_1536033852325613568.jpg)](/media/1536171045677326337/3_1536033852325613568.jpg) |
 | :-: |
 
 Silver deposits:
 
-| [![](https://pbs.twimg.com/media/FVEWzJsXsAEB4oY.jpg)](https://pbs.twimg.com/media/FVEWzJsXsAEB4oY.jpg) |
+| [![](/media/1536171045677326337/3_1536034015941210113.jpg)](/media/1536171045677326337/3_1536034015941210113.jpg) |
 | :-: |
 
 Coal deposits:
 
-| [![](https://pbs.twimg.com/media/FVEabB8X0AYjPTg.jpg)](https://pbs.twimg.com/media/FVEabB8X0AYjPTg.jpg) |
+| [![](/media/1536171045677326337/3_1536037999590494214.jpg)](/media/1536171045677326337/3_1536037999590494214.jpg) |
 | :-: |
 
 Manganese deposits:
 
-| [![](https://pbs.twimg.com/media/FVEaeYLWAAIXL29.jpg)](https://pbs.twimg.com/media/FVEaeYLWAAIXL29.jpg) |
+| [![](/media/1536171045677326337/3_1536038057098477570.jpg)](/media/1536171045677326337/3_1536038057098477570.jpg) |
 | :-: |
 
 Potassium oxide deposits:
 
-| [![](https://pbs.twimg.com/media/FVEakgmXEAAuGmb.jpg)](https://pbs.twimg.com/media/FVEakgmXEAAuGmb.jpg) |
+| [![](/media/1536171045677326337/3_1536038162438492160.jpg)](/media/1536171045677326337/3_1536038162438492160.jpg) |
 | :-: |
 
 And naturally, the colonies are taxed appropriately by the metropole:
 
-| [![](https://pbs.twimg.com/media/FVEcbsmWUAA7svR.jpg)](https://pbs.twimg.com/media/FVEcbsmWUAA7svR.jpg) |
+| [![](/media/1536171045677326337/3_1536040210064101376.jpg)](/media/1536171045677326337/3_1536040210064101376.jpg) |
 | :-: |
 
 Tax revenues overall going into the federal budget are also dominated by the colonies, if the metropole, Moscow, and the old metropole, St. Petersburg, are excluded. Almost 80% of all tax revenues is coming from the colonies. [Аналитики назвали регионы с самыми высокими налоговыми сборами](https://delovoymir.biz/analitiki-nazvali-regiony-s-samymi-vysokimi-nalogovymi-sborami.html)
@@ -149,37 +149,37 @@ At least a third of the Russian Federal budget is coming from hydrocarbons (the 
 These revenues from hydrocarbons cannot be coming forever. As the existing deposits deplete, extracting oil and gas from unexploited reserves is simply too costly. NB: this is yet another reason why the Russians started to look for new colonial possessions
 [chathamhouse.org/sites/default/…](https://www.chathamhouse.org/sites/default/files/publications/research/2016-06-09-import-substitution-russia-connolly-hanson.pdf)
 
-| [![](https://pbs.twimg.com/media/FVEx7OyWUAArHb2.png)](https://pbs.twimg.com/media/FVEx7OyWUAArHb2.png) |
+| [![](/media/1536171045677326337/3_1536063841561366528.png)](/media/1536171045677326337/3_1536063841561366528.png) |
 | :-: |
 
 Alright, so we've established the colonies, regions of the federation, are being exploited for their resources. But do they get anything in return? Not really, look at the population distribution of the empire. What of industrialization? Let's look at more maps:
 
-| [![](https://pbs.twimg.com/media/FVE5RP-X0AA1E00.jpg)](https://pbs.twimg.com/media/FVE5RP-X0AA1E00.jpg) |
+| [![](/media/1536171045677326337/3_1536071916418748416.jpg)](/media/1536171045677326337/3_1536071916418748416.jpg) |
 | :-: |
 
 Unsurprisingly, both Moscow and St. Petersburg areas are heavily industrialized. What's happening in and around Ufa and Surgut? Ufa and the neighboring cities are dominated by oil and gas and mining-related industries. To save on logistics some upstream factories are not far too.
 
-| [![](https://pbs.twimg.com/media/FVE-DMaWQAAfsmS.jpg)](https://pbs.twimg.com/media/FVE-DMaWQAAfsmS.jpg) |
+| [![](/media/1536171045677326337/3_1536077172502315008.jpg)](/media/1536171045677326337/3_1536077172502315008.jpg) |
 | :-: |
 
 Surgut and the rough area on other hand are purely extractive. The region produces 42% of all Russian oil and AO Surgutneftegaz is the largest enterprise. All other industries are tied into the oil and gas sector (logistics, etc.). Source (VPN required): [budget.minpromtorg.gov.ru/citizens/post/…](https://budget.minpromtorg.gov.ru/citizens/post/view/promyshlennost-surguta)
 
-| [![](https://pbs.twimg.com/media/FVFKAuFXwAEMdTU.png)](https://pbs.twimg.com/media/FVFKAuFXwAEMdTU.png) |
+| [![](/media/1536171045677326337/3_1536090324141064193.png)](/media/1536171045677326337/3_1536090324141064193.png) |
 | :-: |
 
 Another good example is how the Russian shipbuilding industry is spread out. Here you can see that the colonies are not trusted with this industry of high strategic value.
 
-| [![](https://pbs.twimg.com/media/FVFOzqOWUAI0__F.jpg)](https://pbs.twimg.com/media/FVFOzqOWUAI0__F.jpg) |
+| [![](/media/1536171045677326337/3_1536095597324816386.jpg)](/media/1536171045677326337/3_1536095597324816386.jpg) |
 | :-: |
 
 What of the overall level of industrialization of the federation? Russia is industrialized, relatively, even more so than some of the western countries as the map below shows - manufacturing value added as % of GDP, share of GDP contributed by the manufacturign sector.
 
-| [![](https://pbs.twimg.com/media/FVFWTubWQAEra3Q.jpg)](https://pbs.twimg.com/media/FVFWTubWQAEra3Q.jpg) |
+| [![](/media/1536171045677326337/3_1536103844790288385.jpg)](/media/1536171045677326337/3_1536103844790288385.jpg) |
 | :-: |
 
 There is a caveat. As the Chatham House says: Russian "manufacturing is not competitive on global markets" and is destined for domestic use. It is part of Russia's industrial sovereignty policy. The technological gap between Russia and the West is not new: [Technology and Soviet Foreign Trade: On the Political Economy of an Underdeveloped Superpower on JSTOR](https://www.jstor.org/stable/2600488?seq=1)
 
-| [![](https://pbs.twimg.com/media/FVFq1VxWYAESVu2.png)](https://pbs.twimg.com/media/FVFq1VxWYAESVu2.png) |
+| [![](/media/1536171045677326337/3_1536126412519792641.png)](/media/1536171045677326337/3_1536126412519792641.png) |
 | :-: |
 
 That's why western sanctions hurt the Russian economy so much. Everything from mining to the very top of the production chain suffers - it is a colonial empire merely focused on colonial exploitation. A full embargo would break the empire.
@@ -196,12 +196,12 @@ My thinking of Moscow being a classical imperial metropole is also supported by 
 
 In his interview with Kommersant, he said: “The worst “parasite” on Russia’s body is the Central Federal District [Moscow]. Its “contributions” to the target indicators of all federal districts appear to be negative, and at that, the “result” of its “interaction” with the Northwestern district is a reduction in the target indicators of the latter by almost a quarter.”
 
-| [![](https://pbs.twimg.com/media/FVGGXRIXoAEmIuP.jpg)](https://pbs.twimg.com/media/FVGGXRIXoAEmIuP.jpg) |
+| [![](/media/1536171045677326337/3_1536156682203668481.jpg)](/media/1536171045677326337/3_1536156682203668481.jpg) |
 | :-: |
 
 He adds: "The current situation is a consequence of disproportionate and unfairly high revenues, that are primarily received by Moscow. Financial resources are artificially drawn into the federal center from the entire country."
 
-| [![](https://pbs.twimg.com/media/FVGIGq8XoAEYcTH.jpg)](https://pbs.twimg.com/media/FVGIGq8XoAEYcTH.jpg) |
+| [![](/media/1536171045677326337/3_1536158596098138113.jpg)](/media/1536171045677326337/3_1536158596098138113.jpg) |
 | :-: |
 
 In his 2019 interview, however, Suslov doesn't predict that the federation would dissolve for economic reasons. He postulates that "the cultural and historical foundations of Russia's unity" are too strong.
@@ -210,7 +210,7 @@ Note, that he was on the same research team that found no economic reasons for t
 
 This brings us to the ethnic minorities and their republics point. I disagree with Suslov's last point. The autonomous republics point is very obvious and has nothing to do with economics, that's why this is the only time I'll bring them up. They are obvious colonies.
 
-| [![](https://pbs.twimg.com/media/FVGNkthWAAIbgHf.jpg)](https://pbs.twimg.com/media/FVGNkthWAAIbgHf.jpg) |
+| [![](/media/1536171045677326337/3_1536164609744306178.jpg)](/media/1536171045677326337/3_1536164609744306178.jpg) |
 | :-: |
 
 So to sum up:

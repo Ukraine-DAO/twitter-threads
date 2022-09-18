@@ -12,7 +12,7 @@ Author: [Альона Шевченко](https://twitter.com/cryptodrftng)
 
 French president [@EmmanuelMacron](https://twitter.com/EmmanuelMacron) : [translation into language that's more comprehensible to everyone] "- Jewish people and German Nazis should sit around the table during the Holocaust."
 
-| [![](https://pbs.twimg.com/media/FSZ4jxCXoAA2RYW.jpg)](https://pbs.twimg.com/media/FSZ4jxCXoAA2RYW.jpg) |
+| [![](/media/1563422043311288321/3_1524038079765520384.jpg)](/media/1563422043311288321/3_1524038079765520384.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -24,17 +24,17 @@ French president [@EmmanuelMacron](https://twitter.com/EmmanuelMacron) : [transl
 
 "The terms of the genocide and its duration will be established by both Jewish people and (!) the German Nazis" [@EmmanuelMacron](https://twitter.com/EmmanuelMacron)
 
-| [![](https://pbs.twimg.com/media/FSZ4kHhXwAMAAwB.jpg)](https://pbs.twimg.com/media/FSZ4kHhXwAMAAwB.jpg) |
+| [![](/media/1563422043311288321/3_1524038085801132035.jpg)](/media/1563422043311288321/3_1524038085801132035.jpg) |
 | :-: |
 
 "But we cannot exclude the German Nazis or ignore their right to commit genocide. We must take care of the Nazis' feelings and let them carry on with the Holocaust to promote democracy, inclusion and peace in Europe" [@EmmanuelMacron](https://twitter.com/EmmanuelMacron)
 
-| [![](https://pbs.twimg.com/media/FSZ4kbnXEAIzpFm.jpg)](https://pbs.twimg.com/media/FSZ4kbnXEAIzpFm.jpg) |
+| [![](/media/1563422043311288321/3_1524038091194961922.jpg)](/media/1563422043311288321/3_1524038091194961922.jpg) |
 | :-: |
 
 That's how you lot look to me with your fake pacifism and fake caution - actual clowns. None of you care about Europe's or the world's security. Offended by my remarks? Send your complaints to Mariupol's Post Office.
 
-| [![](https://pbs.twimg.com/media/FSZ4kxyXsAA5JoA.jpg)](https://pbs.twimg.com/media/FSZ4kxyXsAA5JoA.jpg) |
+| [![](/media/1563422043311288321/3_1524038097146720256.jpg)](/media/1563422043311288321/3_1524038097146720256.jpg) |
 | :-: |
 
 "At some point, the Ukrainian President will have to negotiate with [#russia](https://twitter.com/hashtag/russia)"
@@ -61,7 +61,7 @@ Je parle français et j'ai donc le malheur de comprendre ce que dit cet apologis
 
 [@EmmanuelMacron](https://twitter.com/EmmanuelMacron) est ferme sur la russie?  😂 Pourquoi n'arrête-t-il pas d'appeler poutine alors ?
 
-| [![](https://pbs.twimg.com/media/FVSXKfoXoAM4rmY.jpg)](https://pbs.twimg.com/media/FVSXKfoXoAM4rmY.jpg) |
+| [![](/media/1563422043311288321/3_1537019579385487363.jpg)](/media/1563422043311288321/3_1537019579385487363.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -92,7 +92,7 @@ Dans la vidéo, il explique que les Ukrainiens ne sont pas non plus humiliés - 
 
 Reported by [@Reuters](https://twitter.com/Reuters), 🇷🇺 propaganda agency - [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1535384484811575296?s=21&t=wsNd2wHWz6zhNnkmh6YTHw)
 
-| [![](https://pbs.twimg.com/media/FVaWFvSWYAEfLJX.jpg)](https://pbs.twimg.com/media/FVaWFvSWYAEfLJX.jpg) |
+| [![](/media/1563422043311288321/3_1537581348130545665.jpg)](/media/1563422043311288321/3_1537581348130545665.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -134,7 +134,7 @@ Merci beaucoup, [@EmmanuelMacron](https://twitter.com/EmmanuelMacron)  - [twitte
 
 [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow) [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine)
 
-| [![](https://pbs.twimg.com/media/FVagkm6WAAQCw2n.jpg)](https://pbs.twimg.com/media/FVagkm6WAAQCw2n.jpg) | [![](https://pbs.twimg.com/media/FVagkm6WYAE_rTd.jpg)](https://pbs.twimg.com/media/FVagkm6WYAE_rTd.jpg) |
+| [![](/media/1563422043311288321/3_1537592873574596612.jpg)](/media/1563422043311288321/3_1537592873574596612.jpg) | [![](/media/1563422043311288321/3_1537592873574621185.jpg)](/media/1563422043311288321/3_1537592873574621185.jpg) |
 | :-: | :-: |
 
 <blockquote class="twitter-tweet">
@@ -156,7 +156,7 @@ Hey, [@MadMax25678931](https://twitter.com/MadMax25678931) Do you mind putting a
 
 Translation: "Emmanuel Macron loses all credibility because of worrying too much about the feelings of a genocidal dictator who lives in a bunker"
 
-| [![](https://pbs.twimg.com/media/FVrpkvQWYAAUkfy.jpg)](https://pbs.twimg.com/media/FVrpkvQWYAAUkfy.jpg) |
+| [![](/media/1563422043311288321/3_1538799040070049792.jpg)](/media/1563422043311288321/3_1538799040070049792.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

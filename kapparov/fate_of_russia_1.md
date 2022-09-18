@@ -22,13 +22,13 @@ In 2010 Yanukovych became president and unsurprisingly sought closer relations w
 Yanukovych fled to Russia in the aftermath. Russia took advantage of the situation and punished Ukraine’s Euro integration hopes with the annexation of Crimea and the war in Donbas.
 So, what is the EAEU? The Eurasian Economic Union, aka the Customs Union.
 
-| [![](https://pbs.twimg.com/media/FUmgLqZX0AEQvo_.jpg)](https://pbs.twimg.com/media/FUmgLqZX0AEQvo_.jpg) |
+| [![](/media/1534196125217202177/3_1533933270316077057.jpg)](/media/1534196125217202177/3_1533933270316077057.jpg) |
 | :-: |
 
 The moniker of Таёжный Союз it got from the people of Ukraine, Kazakhstan, and other former colonies highlights its colonial nature. It is a play on the official name of Таможенный Союз. The people called the Taiga Union.
 Is it equivalent to the EU? No, in no way, shape, or form.
 
-| [![](https://pbs.twimg.com/media/FUmgaC7XwAEeDVr.jpg)](https://pbs.twimg.com/media/FUmgaC7XwAEeDVr.jpg) |
+| [![](/media/1534196125217202177/3_1533933517419298817.jpg)](/media/1534196125217202177/3_1533933517419298817.jpg) |
 | :-: |
 
 Chatham House writes: “Moscow created the EAEU as a vehicle to reverse Russia’s loss of power in the region following the demise of the Soviet Union, rather than to pursue deep economic integration with smaller states.” [Myth 10: ‘The Eurasian Economic Union is a genuine and meaningful counterpart to the EU’](https://www.chathamhouse.org/2021/05/myths-and-misconceptions-debate-russia/myth-10-eurasian-economic-union-genuine-and)
@@ -37,7 +37,7 @@ They add: “Russia disregards the rules of the very organization through which 
 
 The union has nothing to do with economic integration and everything to do with Russia’s colonial geopolitics.
 
-| [![](https://pbs.twimg.com/media/FUmjqGjXwAAUYmp.png)](https://pbs.twimg.com/media/FUmjqGjXwAAUYmp.png) |
+| [![](/media/1534196125217202177/3_1533937091805167616.png)](/media/1534196125217202177/3_1533937091805167616.png) |
 | :-: |
 
 Members that do not abide by Russia’s arbitrary rules get swiftly punished. For example, in 2014 to pressure Belarus into helping to bypass western sanctions Russia banned imports produced by 23 large Belarusian companies. [Лукашенко: Москва нарушает правила Таможенного союза - BBC News Русская служба](https://www.bbc.com/russian/international/2014/12/141203_lukashenko_customs_union)
@@ -54,20 +54,20 @@ If economic vassalage does not work then brute force is applied. The first troub
 
 But most importantly the Russian invasion of Georgia canceled the construction of the Nabucco natural gas pipeline, which would have decreased Europe’s dependency on the Russian gas supply. Talks of other pipelines bypassing Russia also vanished.
 
-| [![](https://pbs.twimg.com/media/FUml2hSXwAEuQO2.png)](https://pbs.twimg.com/media/FUml2hSXwAEuQO2.png) |
+| [![](/media/1534196125217202177/3_1533939504163307521.png)](/media/1534196125217202177/3_1533939504163307521.png) |
 | :-: |
 
 The Russians were playing the long game. [bit.ly/38TDNkG](https://bit.ly/38TDNkG)
 The West attempted to reset relations with Russia after the invasion of Georgia. Then-secretary of State Clinton famously presented Lavrov with a “reset” button.
 
-| [![](https://pbs.twimg.com/media/FUmoAe2WIAMvu4M.jpg)](https://pbs.twimg.com/media/FUmoAe2WIAMvu4M.jpg) | [![](https://pbs.twimg.com/media/FUmoAgIXwAAMRuc.jpg)](https://pbs.twimg.com/media/FUmoAgIXwAAMRuc.jpg) |
+| [![](/media/1534196125217202177/3_1533941874330836995.jpg)](/media/1534196125217202177/3_1533941874330836995.jpg) | [![](/media/1534196125217202177/3_1533941874674876416.jpg)](/media/1534196125217202177/3_1533941874674876416.jpg) |
 | :-: | :-: |
 
 Even that did not prophetically go as planned. The Russian word for “reset” was misspelled for “overload.” [VIDEO: Wrong red button](https://www.politico.com/story/2009/03/video-wrong-red-button-019719)
 
 After the two wars in Chechnya, the invasion of Georgia, and numerous assassinations abroad, the reset of relations was taken as appeasement and a gesture welcoming a more aggressive foreign policy. Crimea, the Donbas, and the intervention in Syria followed.
 
-| [![](https://pbs.twimg.com/media/FUmpcoAWIAclHKC.jpg)](https://pbs.twimg.com/media/FUmpcoAWIAclHKC.jpg) |
+| [![](/media/1534196125217202177/3_1533943457336664071.jpg)](/media/1534196125217202177/3_1533943457336664071.jpg) |
 | :-: |
 
 Following Crimea and the Donbas Russia was subjected to anemic sanctions in 2014 and 2015. Ukraine and Russia first signed Minsk I to stop the fighting in the Donbas in 2014. [A Timeline Of All Russia-Related Sanctions](https://www.rferl.org/a/russia-sanctions-timeline/29477179.html)
@@ -87,7 +87,7 @@ On February 24, 2022 the Russians decided they had sufficiently prepared for a f
 
 Hence, we have a consistent pattern: every concession given (e.g. Crimea) and every agreement signed (e.g. Khasavyurt) are only taken as a sign of weakness, exploited as a window of opportunity, and lead to a further escalation of Russian appetites.
 
-| [![](https://pbs.twimg.com/media/FUnteaHWYAEjigY.jpg)](https://pbs.twimg.com/media/FUnteaHWYAEjigY.jpg) |
+| [![](/media/1534196125217202177/3_1534018254758371329.jpg)](/media/1534196125217202177/3_1534018254758371329.jpg) |
 | :-: |
 
 So how does one stop this cycle? First off, no concessions, no Minsk III. The Ukrainians know it. Some in the West are yet to grasp it. Ukraine must defeat the Russians on the battlefield. Western military and humanitarian aid are critical. 
@@ -116,7 +116,7 @@ Russia’s colonial nature was discussed ad nauseam recently. It is also no secr
 
 However, Russia cannot be decolonized without the dissolution of the Federation. Decentralization of power in the country is key to democratization. However, no matter how the Federation is restructured, be it a Parliamentary Confederation or a loose Union akin to the EU...
 
-| [![](https://pbs.twimg.com/media/FUp-RuKWIAA_0ju.jpg)](https://pbs.twimg.com/media/FUp-RuKWIAA_0ju.jpg) |
+| [![](/media/1534196125217202177/3_1534177465987375104.jpg)](/media/1534196125217202177/3_1534177465987375104.jpg) |
 | :-: |
 
 ...there will always be forces pressuring for power consolidation in Moscow. Without power consolidation restructured Russia cannot remain in its present territorial form. [Comparative Federalism and Decentralization: On Meaning and Measurement on JSTOR](https://bit.ly/3Q5qJJJ)
@@ -158,12 +158,12 @@ Now regional governors go through phony elections or are simply appointed by Mos
 
 In the current roster of regional heads, 64 are from United Russia, 14 are independents, and the rest are from the pseudo-opposition parties. The independents should not mislead you: they are either from the syloviki/career bureaucrat class or have sworn allegiance to the Kremlin
 
-| [![](https://pbs.twimg.com/media/FUp_I5CWUAIIAu9.jpg)](https://pbs.twimg.com/media/FUp_I5CWUAIIAu9.jpg) |
+| [![](/media/1534196125217202177/3_1534178413799428098.jpg)](/media/1534196125217202177/3_1534178413799428098.jpg) |
 | :-: |
 
 So a scenario similar to the American Revolution (taxation without representation) or the Latin American decolonization (decline of the metropole and rise of the local elites) is unlikely in Russia. I suspect it'll be something new that is very hard to predict.
 
-| [![](https://pbs.twimg.com/media/FUqBsYhXwAEIhBn.jpg)](https://pbs.twimg.com/media/FUqBsYhXwAEIhBn.jpg) |
+| [![](/media/1534196125217202177/3_1534181222569721857.jpg)](/media/1534196125217202177/3_1534181222569721857.jpg) |
 | :-: |
 
 On the one hand, we have the classical economic domination over the colonies by the imperial heartland. Be it the Federal subjects or the EAEU members. On other hand, we have a unique situation of ethnic exceptionalism that is shared in the colonies dominated by ethnic Russians.
@@ -182,23 +182,23 @@ I already discussed the causes of Russophobia as a response to ethnic Russian ex
 
 Last time I did not discuss any numbers. Let's rectify that. Ethnic Russian exceptionalism has been on the rise since the 1990s. There are many factors driving it including revanchism, propaganda, education promoting the image of a benevolent empire, etc. [Великодержавные настроения в России достигли исторического максимума](https://www.levada.ru/2017/12/21/velikoderzhavnye-nastroeniya-v-rossii-dostigli-istoricheskogo-maksimuma/)
 
-| [![](https://pbs.twimg.com/media/FUqH6KcXsAAeiNR.png)](https://pbs.twimg.com/media/FUqH6KcXsAAeiNR.png) |
+| [![](/media/1534196125217202177/3_1534188056378585088.png)](/media/1534196125217202177/3_1534188056378585088.png) |
 | :-: |
 
 Levada conducted another survey in 2020. The respondents were asked if they considered Russia a "velikaya derzhava." Simply translated it means "great country," but derzhava stands for more than that: it is an archaic word for power, authority, and state, it has an imperial tone.
 
-| [![](https://pbs.twimg.com/media/FUqJlFbWYAEgJk9.png)](https://pbs.twimg.com/media/FUqJlFbWYAEgJk9.png) |
+| [![](/media/1534196125217202177/3_1534189893278130177.png)](/media/1534196125217202177/3_1534189893278130177.png) |
 | :-: |
 
 The surveys are conducted by Levada across Russia. However, we are not given any regional insights. I suspect that the mood is shared in regions that are dominated by ethnic Russians.
 
 And this presents a problem - how does one democratize the current territories of the Russian Federation when there are such strong jingoist and ethnic exceptionalism sentiments that might drive recentralization of power to Moscow? Economic incentives and collective guilt.
 
-| [![](https://pbs.twimg.com/media/FUqNu-lWYAA9sfp.jpg)](https://pbs.twimg.com/media/FUqNu-lWYAA9sfp.jpg) |
+| [![](/media/1534196125217202177/3_1534194461286227968.jpg)](/media/1534196125217202177/3_1534194461286227968.jpg) |
 | :-: |
 
 I will discuss both economic incentives and the concept of collective guilt as tools for decolonization in a separate thread. But for now, I leave you with a list of the top 10 Russian exports in 2021. 
 End of thread.
 
-| [![](https://pbs.twimg.com/media/FUqPFv1WUAEge11.png)](https://pbs.twimg.com/media/FUqPFv1WUAEge11.png) |
+| [![](/media/1534196125217202177/3_1534195951975419905.png)](/media/1534196125217202177/3_1534195951975419905.png) |
 | :-: |

@@ -75,7 +75,7 @@ GM to [@nytimes](https://twitter.com/nytimes) Editorial Board from [@KyivIndepen
 
 GM to [@ChristopherJM](https://twitter.com/ChristopherJM) - thanks for blocking me 💙💛 This isn't going to help you. The person who now claims to be supportive of Ukraine, for some reason is blocking Ukrainians left right and centre 🤣
 
-| [![](https://pbs.twimg.com/media/FT0tlgnWAAE1Vxx.jpg)](https://pbs.twimg.com/media/FT0tlgnWAAE1Vxx.jpg) |
+| [![](/media/1530435099849895936/3_1530429570809200641.jpg)](/media/1530435099849895936/3_1530429570809200641.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

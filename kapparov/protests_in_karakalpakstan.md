@@ -37,7 +37,7 @@ Now back to Russia and their threats. The only regional or global player that st
 
 Some interesting messages on pro-Russian Telegram channels have been floating around for a while before the protests in Karakalpakstan. For example, this [Directorate 4](https://t.me/directorate4/11946)
 
-| [![](https://pbs.twimg.com/media/FW-xQ2dWYAMKjDO.jpg)](https://pbs.twimg.com/media/FW-xQ2dWYAMKjDO.jpg) |
+| [![](/media/1544777095301169152/3_1544648100266008579.jpg)](/media/1544777095301169152/3_1544648100266008579.jpg) |
 | :-: |
 
 This message from March 7, 2022, claims that "specialists from Ukraine" were preparing a psyop in Uzbekistan to destabilize the country in the same way as it happened in Kazakhstan in early January 2022. They claim that more than $1 million was dedicated to the op.

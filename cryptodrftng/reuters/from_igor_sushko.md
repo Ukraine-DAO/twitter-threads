@@ -64,12 +64,12 @@ Examples are everywhere. You just have to look.
 
 Also, need to apply public pressure on the "Big 3" client groups that pay [@thomsonreuters](https://twitter.com/thomsonreuters) that make up the bulk of billions in revenue to stop their service subscriptions immediately.
 
-| [![](https://pbs.twimg.com/media/FQkVEpnUYAM1ks6.png)](https://pbs.twimg.com/media/FQkVEpnUYAM1ks6.png) |
+| [![](/media/1515750062839648256/3_1515765919221309443.png)](/media/1515750062839648256/3_1515765919221309443.png) |
 | :-: |
 
 We are supporting Putin's fascist regime and genocide of Ukrainians by funding [@Reuters](https://twitter.com/Reuters). Reuters had an impeccable reputation since 1851, until some years ago when it all changed. Investigative journalists who've covered this know all this & more. This isn't some bombshell
 
-| [![](https://pbs.twimg.com/media/FQkVNpIVUAEhbNQ.jpg)](https://pbs.twimg.com/media/FQkVNpIVUAEhbNQ.jpg) |
+| [![](/media/1515750062839648256/3_1515766073710170113.jpg)](/media/1515750062839648256/3_1515766073710170113.jpg) |
 | :-: |
 
 WHAT YOU CAN DO: As individuals - we can cancel our $35/month [@Reuters](https://twitter.com/Reuters) subscriptions and one suggestion would be to use that subscription money to support our local news organizations that employ or are trying to employ investigative journalists. ✊

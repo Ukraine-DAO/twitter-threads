@@ -14,7 +14,7 @@ I have substantial amount of evidence but will be grateful for additional info �
 
 Please share the truth about who they are with others instead of their 🇷🇺 propaganda.
 
-| [![](https://pbs.twimg.com/media/FTKwR6DWABMDYi4.jpg)](https://pbs.twimg.com/media/FTKwR6DWABMDYi4.jpg) |
+| [![](/media/1532773363051028481/3_1527477045319565331.jpg)](/media/1532773363051028481/3_1527477045319565331.jpg) |
 | :-: |
 
 I was wondering if they would stop spreading [#russianLies](https://twitter.com/hashtag/russianLies) about Ukraine after the genocidal invasion started. Not even that stopped them. 
@@ -78,7 +78,7 @@ Huge thank you to [@mhmck](https://twitter.com/mhmck) for stating the obvious. I
 
 19 Feb 2022 [@Reuters](https://twitter.com/Reuters)
 
-| [![](https://pbs.twimg.com/media/FT5CR2ZX0AAIO4y.jpg)](https://pbs.twimg.com/media/FT5CR2ZX0AAIO4y.jpg) |
+| [![](/media/1532773363051028481/3_1530733797779689472.jpg)](/media/1532773363051028481/3_1530733797779689472.jpg) |
 | :-: |
 
 Completely forgot about this, thank you for sharing [@wireout](https://twitter.com/wireout) [@Reuters](https://twitter.com/Reuters) 
@@ -161,7 +161,7 @@ I was told the other day that [@Reuters](https://twitter.com/Reuters) is the mos
 
 I'm patiently waiting for [@felix_light](https://twitter.com/felix_light) to explain to us this nonsense he wrote for [@Reuters](https://twitter.com/Reuters). Felix, check your DMs. I'm in the UK too so if you need medical attention please let me know, I'll organise.
 
-| [![](https://pbs.twimg.com/media/FUBKCZzXEAAV9gw.jpg)](https://pbs.twimg.com/media/FUBKCZzXEAAV9gw.jpg) |
+| [![](/media/1532773363051028481/3_1531305278452469760.jpg)](/media/1532773363051028481/3_1531305278452469760.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -186,12 +186,12 @@ Their continued spread of lies is testimony to that.
 
 Let's make [@Reuters](https://twitter.com/Reuters) memes! [@felix_light](https://twitter.com/felix_light)
 
-| [![](https://pbs.twimg.com/media/FUBdzr3WQAMoFyt.jpg)](https://pbs.twimg.com/media/FUBdzr3WQAMoFyt.jpg) |
+| [![](/media/1532773363051028481/3_1531327015835549699.jpg)](/media/1532773363051028481/3_1531327015835549699.jpg) |
 | :-: |
 
 Attaching this useful diagram for [@Reuters](https://twitter.com/Reuters) journalists who struggle to make sense of what ruscists are saying. [@felix_light](https://twitter.com/felix_light), you are welcome.
 
-| [![](https://pbs.twimg.com/media/FUCCEu2XsAISMOQ.jpg)](https://pbs.twimg.com/media/FUCCEu2XsAISMOQ.jpg) |
+| [![](/media/1532773363051028481/3_1531366891113132034.jpg)](/media/1532773363051028481/3_1531366891113132034.jpg) |
 | :-: |
 
 [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1531369631562219530?s=21)
@@ -387,7 +387,7 @@ russian propaganda finds subtle ways to infect the minds of Western audience, it
 
 Shame on you [@Reuters](https://twitter.com/Reuters) [@GuyReuters](https://twitter.com/GuyReuters) [#ReutersLies](https://twitter.com/hashtag/ReutersLies) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow)
 
-| [![](https://pbs.twimg.com/media/FUJ3ZbWWIAAWf7-.jpg)](https://pbs.twimg.com/media/FUJ3ZbWWIAAWf7-.jpg) | [![](https://pbs.twimg.com/media/FUJ3ljgWQAAqAjA.jpg)](https://pbs.twimg.com/media/FUJ3ljgWQAAqAjA.jpg) |
+| [![](/media/1532773363051028481/3_1531918101981306880.jpg)](/media/1532773363051028481/3_1531918101981306880.jpg) | [![](/media/1532773363051028481/3_1531918310329171968.jpg)](/media/1532773363051028481/3_1531918310329171968.jpg) |
 | :-: | :-: |
 
 [@Reuters](https://twitter.com/Reuters) [#ReuterLies](https://twitter.com/hashtag/ReuterLies)
@@ -457,5 +457,5 @@ This is some the lowest I've seen "journalists" go and I've watched RU propagand
 
 [@Reuters](https://twitter.com/Reuters) [#ReutersLies](https://twitter.com/hashtag/ReutersLies) [@GuyReuters](https://twitter.com/GuyReuters)
 
-| [![](https://pbs.twimg.com/media/FUWA3AFXEAA9bh2.jpg)](https://pbs.twimg.com/media/FUWA3AFXEAA9bh2.jpg) | [![](https://pbs.twimg.com/media/FUWA9IGX0AE5ass.jpg)](https://pbs.twimg.com/media/FUWA9IGX0AE5ass.jpg) |
+| [![](/media/1532773363051028481/3_1532772930593165312.jpg)](/media/1532773363051028481/3_1532772930593165312.jpg) | [![](/media/1532773363051028481/3_1532773035824107521.jpg)](/media/1532773363051028481/3_1532773035824107521.jpg) |
 | :-: | :-: |

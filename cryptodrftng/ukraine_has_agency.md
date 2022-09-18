@@ -14,7 +14,7 @@ If you think that p*tin will spare you because you suck up to him - sending you 
 
 [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow)
 
-| [![](https://pbs.twimg.com/media/FTJ2a6hWUAAPh1a.jpg)](https://pbs.twimg.com/media/FTJ2a6hWUAAPh1a.jpg) |
+| [![](/media/1527415283601788951/3_1527413428389826560.jpg)](/media/1527415283601788951/3_1527413428389826560.jpg) |
 | :-: |
 
 None of what's happening is new. Including human stupidity and fake, hypocritical pacifism.
@@ -40,5 +40,5 @@ None of what's happening is new. Including human stupidity and fake, hypocritica
 
 [#ꑭ](https://twitter.com/hashtag/%EA%91%AD) [#SaveAzov](https://twitter.com/hashtag/SaveAzov)
 
-| [![](https://pbs.twimg.com/media/FTJ4GqWWIAEtIk5.jpg)](https://pbs.twimg.com/media/FTJ4GqWWIAEtIk5.jpg) |
+| [![](/media/1527415283601788951/3_1527415279474581505.jpg)](/media/1527415283601788951/3_1527415279474581505.jpg) |
 | :-: |

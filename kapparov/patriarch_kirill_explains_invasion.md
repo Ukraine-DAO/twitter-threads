@@ -37,12 +37,12 @@ Here we see a clash between two worlds, or rather two worldviews. The is a clear
 
 A mythos of a biblical struggle between good and evil is propagated by the Patriarch. Why would it matter? Is Russia even religious? Ever since the fall of the Soviet Union, the Russian Orthodox Church partially replaced an ideological void left by the demise of the USSR.
 
-| [![](https://pbs.twimg.com/media/FTgF6QuWQAAHnld.jpg)](https://pbs.twimg.com/media/FTgF6QuWQAAHnld.jpg) |
+| [![](/media/1528985861152546816/3_1528978571972198400.jpg)](/media/1528985861152546816/3_1528978571972198400.jpg) |
 | :-: |
 
 This spilled into other aspects of life in Russia. And in some cases, not the best of outcomes. Traditionalism and orthodoxy were one of the causes of a major spike in the HIV/AIDS rate in Russia. There is a major AIDS/HIV epidemic. Source: [The epidemic Russia doesn’t want to talk about](https://www.politico.eu/article/everything-you-wanted-to-know-about-aids-in-russia-but-putin-was-afraid-to-ask/)
 
-| [![](https://pbs.twimg.com/media/FTgHb7xWYAMFTkv.png)](https://pbs.twimg.com/media/FTgHb7xWYAMFTkv.png) |
+| [![](/media/1528985861152546816/3_1528980249974824963.png)](/media/1528985861152546816/3_1528980249974824963.png) |
 | :-: |
 
 Anyway, this thread is not to lambast religion(s) but to promote state and church separation. Over the past decades the celebration of victory in the Great Patriotic War, the veneration of the war dead, and the abuse of religion as a political tool created a fascist cult.

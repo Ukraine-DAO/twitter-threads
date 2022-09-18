@@ -16,7 +16,7 @@ Sorry, I'm just trying to understand the mental gymmastics here.
 
 I was blocked by [@KevinRothrock](https://twitter.com/KevinRothrock) before I even sent that tweet. Just for asking one basic question. Interesting.
 
-| [![](https://pbs.twimg.com/media/FUFRYYNWUAYYrIf.jpg)](https://pbs.twimg.com/media/FUFRYYNWUAYYrIf.jpg) | [![](https://pbs.twimg.com/media/FUFRYYOWYAY96Rt.jpg)](https://pbs.twimg.com/media/FUFRYYOWYAY96Rt.jpg) | [![](https://pbs.twimg.com/media/FUFRYYOXoAEqdBx.jpg)](https://pbs.twimg.com/media/FUFRYYOXoAEqdBx.jpg) |
+| [![](/media/1531601033998348295/3_1531594827539828742.jpg)](/media/1531601033998348295/3_1531594827539828742.jpg) | [![](/media/1531601033998348295/3_1531594827544027142.jpg)](/media/1531601033998348295/3_1531594827544027142.jpg) | [![](/media/1531601033998348295/3_1531594827544109057.jpg)](/media/1531601033998348295/3_1531594827544109057.jpg) |
 | :-: | :-: | :-: |
 
 [@KevinRothrock](https://twitter.com/KevinRothrock) 🤦‍♀️ [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#UkraineUnderAttaсk](https://twitter.com/hashtag/UkraineUnderAtta%D1%81k) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#ArmUkraine](https://twitter.com/hashtag/ArmUkraine) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow)

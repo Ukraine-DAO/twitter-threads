@@ -15,27 +15,27 @@ Both "россиянин" and "русский" are translated into English as "R
 
 "Российский" is something coming from Russia or made by Russia. "Русский" is something made by ethnic Russians from Russia. That's why the Russian Warship meme is so important. The crew of Moskva referred to themselves as "русский военный корабль." It was not just a warship.
 
-| [![](https://pbs.twimg.com/media/FRTwKyyXwAAy4f6.jpg)](https://pbs.twimg.com/media/FRTwKyyXwAAy4f6.jpg) |
+| [![](/media/1523742039501770753/3_1519103042553102336.jpg)](/media/1523742039501770753/3_1519103042553102336.jpg) |
 | :-: |
 
 It was a Russian warship made by ethnic Russians. This lines up with the ethnocentric policy that was promoted by the Russian government over the past decades. 🇷🇺 is a multiethnic state but everyone is required to learn Russian. [@kamilkazani](https://twitter.com/kamilkazani) has a great thread on minorities in 🇷🇺
 
-| [![](https://pbs.twimg.com/media/FRTyDdKWYAE80DQ.jpg)](https://pbs.twimg.com/media/FRTyDdKWYAE80DQ.jpg) |
+| [![](/media/1523742039501770753/3_1519105115512266753.jpg)](/media/1523742039501770753/3_1519105115512266753.jpg) |
 | :-: |
 
 Here it is: [bit.ly/3MoJ2XM](https://bit.ly/3MoJ2XM) That's why for a Russian speaker it is always surprising to hear a Russian citizen be called "русский," i.e. not just Russian but also an ethnic Russian. It is not always the case. Every fifth citizen of 🇷🇺 is not an ethnic Russian.
 
-| [![](https://pbs.twimg.com/media/FRT1IqzXEAAwPUe.png)](https://pbs.twimg.com/media/FRT1IqzXEAAwPUe.png) |
+| [![](/media/1523742039501770753/3_1519108503608168448.png)](/media/1523742039501770753/3_1519108503608168448.png) |
 | :-: |
 
 That's is why a slogan that is frequently chanted by some attendees of political rallies (not protests) in 🇷🇺 "Россия для русских" that translates as "Russia for Russians" might seem harmless to some Western observers.
 
-| [![](https://pbs.twimg.com/media/FRT3lMxXwAAloVg.jpg)](https://pbs.twimg.com/media/FRT3lMxXwAAloVg.jpg) |
+| [![](/media/1523742039501770753/3_1519111192786223104.jpg)](/media/1523742039501770753/3_1519111192786223104.jpg) |
 | :-: |
 
 However, such a slogan has an extreme far-right meaning: "Russia for *ethnic* Russians." By the way, [@navalny](https://twitter.com/navalny) was spotted at such rallies back in 2011. Maybe he has changed, maybe not. The black/yellow/white is an old Russian Imperial flag used by the Russian far right groups.
 
-| [![](https://pbs.twimg.com/media/FRT4BqqWQAADuNp.jpg)](https://pbs.twimg.com/media/FRT4BqqWQAADuNp.jpg) |
+| [![](/media/1523742039501770753/3_1519111681846165504.jpg)](/media/1523742039501770753/3_1519111681846165504.jpg) |
 | :-: |
 
 So to wrap up on Russian vs. Russian. The delineation between "русский" and "россиянин" is crucial and frequently lost in translations. Russia's ethnocentric policymakers probably love that the two are the same in English. The two are not the same due to Russia's imperial past.
@@ -48,21 +48,21 @@ When the lines are blurred, the Kremlin can claim that an ethnic Russian born an
 
 Whoa, aren't those obviously not the same? Well, they are the same, according to the current Russian propaganda. Since 2014 the Russian state and affiliated media have been working hard on blurring the line between the two.
 
-| [![](https://pbs.twimg.com/media/FRU2CnpXsAIaObP.png)](https://pbs.twimg.com/media/FRU2CnpXsAIaObP.png) |
+| [![](/media/1523742039501770753/3_1519179867937550338.png)](/media/1523742039501770753/3_1519179867937550338.png) |
 | :-: |
 
 The above is an example of an article from 2019 that equates the two constructs, titled "How the Ukrainian Nationalism and Nazism formed." After all, the two words in the Russian language have the same root "нац."
 
 There is also a critical difference between nationality and its Russian translation, "национальность." Generally, nationality indicates one's citizenship if you are from the West. But "национальность" has nothing to do with citizenship, it is first and foremost ethnicity.
 
-| [![](https://pbs.twimg.com/media/FRU4iHtWYAU9tvq.jpg)](https://pbs.twimg.com/media/FRU4iHtWYAU9tvq.jpg) |
+| [![](/media/1523742039501770753/3_1519182608143376389.jpg)](/media/1523742039501770753/3_1519182608143376389.jpg) |
 | :-: |
 
 Funnily enough in the Soviet era and early post-Soviet Russia ethnicity used to be indicated in the passports. The "tradition" remained in many other ex-Soviet states maintaining the "nationality" divide in otherwise unitary states.
 
 Such a divide accompanied by the Russian propaganda abroad in the neighboring states formed a potent combination.
 
-| [![](https://pbs.twimg.com/media/FRU9RQYXIAAK0_D.png)](https://pbs.twimg.com/media/FRU9RQYXIAAK0_D.png) |
+| [![](/media/1523742039501770753/3_1519187815971627008.png)](/media/1523742039501770753/3_1519187815971627008.png) |
 | :-: |
 
 If someone in Russia's neighboring state decided to protest and wave their national flag, then they are nationalists, they could be nazis too, ergo "русские" or ethnic Russians there need Russia's protection. Nationality is weaponized to foment ethnic tensions when there are none

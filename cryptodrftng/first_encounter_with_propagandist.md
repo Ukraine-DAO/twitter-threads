@@ -11,10 +11,10 @@ Author: [Альона Шевченко](https://twitter.com/cryptodrftng)
 Tough is the life of a Kremlin troll - [@M_Simonyan](https://twitter.com/M_Simonyan) is upset. Reminds me of my 1st interaction with one of them who DMd me for info when I was 20yo (2014). I sent her a mockery of their fake “news” & told to go fuck herself together with [#Putin](https://twitter.com/hashtag/Putin) & co. 
 Written in 🇷🇺
 
-| [![](https://pbs.twimg.com/media/FORX6HfXsAc1_je.jpg)](https://pbs.twimg.com/media/FORX6HfXsAc1_je.jpg) | [![](https://pbs.twimg.com/media/FORX6HjXEAE5Gq2.jpg)](https://pbs.twimg.com/media/FORX6HjXEAE5Gq2.jpg) |
+| [![](/media/1505429104572653568/3_1505424831403241479.jpg)](/media/1505429104572653568/3_1505424831403241479.jpg) | [![](/media/1505429104572653568/3_1505424831419977729.jpg)](/media/1505429104572653568/3_1505424831419977729.jpg) |
 | :-: | :-: |
 
 Attaching the translation of that convo. The first half of my reply includes multiple references to some famous examples of [#Russian](https://twitter.com/hashtag/Russian) [#propaganda](https://twitter.com/hashtag/propaganda) [#fakenews](https://twitter.com/hashtag/fakenews) - didn't want to disappoint Alexandra from NTV straight away. 8 years on, NTV & their lies are still here but so I am 👻
 
-| [![](https://pbs.twimg.com/media/FORbyoAWYAEkLT0.jpg)](https://pbs.twimg.com/media/FORbyoAWYAEkLT0.jpg) |
+| [![](/media/1505429104572653568/3_1505429100739059713.jpg)](/media/1505429104572653568/3_1505429100739059713.jpg) |
 | :-: |

@@ -19,7 +19,7 @@ It is an "accusation in a mirror," defined as "when the speaker accuses the inte
 
 The definition formally applies to genocide incitement. It should apply to propaganda as well. Propaganda is an integral part of psychological preparation to perpetrate atrocities. This means that Russia by accusing the world of Russophobia mirrors their Worldphobia.
 
-| [![](https://pbs.twimg.com/media/FUC-hPiWYAI0L-9.jpg)](https://pbs.twimg.com/media/FUC-hPiWYAI0L-9.jpg) |
+| [![](/media/1532242908979597314/3_1531433351621533698.jpg)](/media/1532242908979597314/3_1531433351621533698.jpg) |
 | :-: |
 
 And I don't mean agoraphobia. The Russians define Russophobia as hatred of everything Russian. Hence, by Worldphobia I mean hatred of the world. The Kremlin tried to create fortress Russia hating the world as they think the entire world is against them. 
@@ -27,12 +27,12 @@ And I don't mean agoraphobia. The Russians define Russophobia as hatred of every
 
 Their hatred of the world, especially the Western world, reached its apogee now with the invasion of Ukraine. They did not start hating the West for helping Ukraine. The Cold War-era hatred for the West had never died out.
 
-| [![](https://pbs.twimg.com/media/FUEy2ZbXsAALiiE.jpg)](https://pbs.twimg.com/media/FUEy2ZbXsAALiiE.jpg) |
+| [![](/media/1532242908979597314/3_1531561258402689024.jpg)](/media/1532242908979597314/3_1531561258402689024.jpg) |
 | :-: |
 
 It had lurked under the surface in the 1990s and Putin started to cultivate it when he took over. But their hatred for the West does not even compare with their hatred for their former colonies, aka ex-Soviet republics, stemming from the idea of their ethnic exceptionalism.
 
-| [![](https://pbs.twimg.com/media/FUC_cvRXEAAIC9j.jpg)](https://pbs.twimg.com/media/FUC_cvRXEAAIC9j.jpg) |
+| [![](/media/1532242908979597314/3_1531434373752492032.jpg)](/media/1532242908979597314/3_1531434373752492032.jpg) |
 | :-: |
 
 Western pundits call it "national exceptionalism," but remember in the Russian language nationality does not stand for what it does in English. Nationality, or rather национальность, means ethnicity. Here is a full explanation for your information:
@@ -50,31 +50,31 @@ In a 2013 article, David Satter explains the idea of Russian exceptionalism quit
 
 Putin's messianic speeches are not shocking if you've been following Russia for at least a few years. Putin is a symptom of the deeply rooted ideas of exceptionalism in the Russian psyche.
 
-| [![](https://pbs.twimg.com/media/FUEy3WuWAAAt6Tb.jpg)](https://pbs.twimg.com/media/FUEy3WuWAAAt6Tb.jpg) |
+| [![](/media/1532242908979597314/3_1531561274856833024.jpg)](/media/1532242908979597314/3_1531561274856833024.jpg) |
 | :-: |
 
 Hence, I argue that it goes far deeper - it is not that the Russians think that their state is exceptional it is that their ethnicity is exceptional. It is reflected in their ethnocentric rhetoric promoted within Russia. The poster below is a telling example.
 
-| [![](https://pbs.twimg.com/media/FUEy4AWWYAEkBKP.jpg)](https://pbs.twimg.com/media/FUEy4AWWYAEkBKP.jpg) |
+| [![](/media/1532242908979597314/3_1531561286030483457.jpg)](/media/1532242908979597314/3_1531561286030483457.jpg) |
 | :-: |
 
 Literally, it translates as: "I am Russian, not Russian!" Nonsense, right? Well yes, it actually says: "I am an ethnic Russian, not just a citizen of Russia!" It is not unique to modern Russia, it is a consequence of centuries of the colonial imperial policy of ethnocentrism.
 
-| [![](https://pbs.twimg.com/media/FUC_8phXwAA0YiY.jpg)](https://pbs.twimg.com/media/FUC_8phXwAA0YiY.jpg) |
+| [![](/media/1532242908979597314/3_1531434921964847104.jpg)](/media/1532242908979597314/3_1531434921964847104.jpg) |
 | :-: |
 
 That's why nationalism horrifies the Russians so much. Historically it has the connotations of "separatism" or national liberation movements. Lenin understood that. He was smart enough to realize that to preserve the Russian Empire he had to reach a compromise with the colonies.
 
 In his 12/30/22 article on the need for autonomies, Lenin describes the Russian state of mind vividly: the colonized need to be protected from "the true ethnic Russian man, velikoross, chauvinist, and, in essence, a scoundrel and a rapist, that is the typical Russian bureaucrat."
 
-| [![](https://pbs.twimg.com/media/FUAL1O6WUAALqLb.jpg)](https://pbs.twimg.com/media/FUAL1O6WUAALqLb.jpg) |
+| [![](/media/1532242908979597314/3_1531236882469769216.jpg)](/media/1532242908979597314/3_1531236882469769216.jpg) |
 | :-: |
 
 He adds: "There is no doubt that the insignificant number of Soviet and Sovietized workers would drown in the sea of chauvinist velikoross scum, as a fly would in milk." What is a velikoross? Velikyi russky, a great Russian. [Статья В.И. Ленина «К вопросу о национальностях или об «автономизации». | Ленин](https://lenin.rusarchives.ru/dokumenty/statya-vi-lenina-k-voprosu-o-nacionalnostyah-ili-ob-avtonomizacii)
 
 Lenin was not a minority rights activist, but he understood that to prevent the collapse of the Russian Empire and rebirth it as the USSR, non-ethnic Russians had to be "appeased" at that critical time. I have no doubt that he later planned to strip everyone of their autonomy.
 
-| [![](https://pbs.twimg.com/media/FUDA53qWQAEQkN_.jpg)](https://pbs.twimg.com/media/FUDA53qWQAEQkN_.jpg) |
+| [![](/media/1532242908979597314/3_1531435973732614145.jpg)](/media/1532242908979597314/3_1531435973732614145.jpg) |
 | :-: |
 
 However, the West never completely understood the Russian exceptionalism mentality and is too quick to hail the seeming Russian opposition.
@@ -89,12 +89,12 @@ Navalny openly called the Georgians "rodents," an ethnic slur in Russian, and op
 
 Do I need to mention Navalny's attendance at the "Russian Marches," far-right ethnic Russian demonstrations that usually chant "Russia for ethnic Russians?" Navalny now tries to ride the anti-corruption ticket to get the coveted presidential seat in the Kremlin.
 
-| [![](https://pbs.twimg.com/media/FUEy52AXsAATkKQ.jpg)](https://pbs.twimg.com/media/FUEy52AXsAATkKQ.jpg) |
+| [![](/media/1532242908979597314/3_1531561317613678592.jpg)](/media/1532242908979597314/3_1531561317613678592.jpg) |
 | :-: |
 
 These characters are not some isolated instances, but a symptom of a deeply rooted worldview among the Russians. Let's consider more examples. Oleg Tinkov, a Russian billionaire, who was recently vocal about being against the invasion of Ukraine, is another Russian chauvinist.
 
-| [![](https://pbs.twimg.com/media/FUEy6LiX0AAGdJs.jpg)](https://pbs.twimg.com/media/FUEy6LiX0AAGdJs.jpg) |
+| [![](/media/1532242908979597314/3_1531561323393437696.jpg)](/media/1532242908979597314/3_1531561323393437696.jpg) |
 | :-: |
 
 While the system suited Tinkov he supported Putin. He went as far as claiming that Putin should be proclaimed tsar. Some will object saying that the claim is ripped out of context, that "he meant that Putin is a tsar anyway so make it formal." Ok...
@@ -147,7 +147,7 @@ Russia's obsession with the Azov bat/reg is also understandable. First, it is pa
 So is Russophobia bad? No, it is a response to the deeply-rooted Russian aggressive nationalism that has now evolved into full-blown nazism.
 End of thread.
 
-| [![](https://pbs.twimg.com/media/FUEzf-rXoAE_Kx2.jpg)](https://pbs.twimg.com/media/FUEzf-rXoAE_Kx2.jpg) |
+| [![](/media/1532242908979597314/3_1531561972776542209.jpg)](/media/1532242908979597314/3_1531561972776542209.jpg) |
 | :-: |
 
 Further reading for better understanding:

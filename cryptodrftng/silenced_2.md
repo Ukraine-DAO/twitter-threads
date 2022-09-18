@@ -37,7 +37,7 @@ I couldn't believe my eyes but thought maybe if I let the author of the 🧵 kno
 
 Response: "this is my list and I'm sticking by it"
 
-| [![](https://pbs.twimg.com/media/FafsKyEWQAIgBs_.jpg)](https://pbs.twimg.com/media/FafsKyEWQAIgBs_.jpg) |
+| [![](/media/1560688716859031552/3_1560475465890021378.jpg)](/media/1560688716859031552/3_1560475465890021378.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -59,7 +59,7 @@ Response: "this is my list and I'm sticking by it"
 
 If an "expert" doesn't understand the damage of spreading lies about 🇺🇦, they need a different job
 
-| [![](https://pbs.twimg.com/media/FaftQtCXEAElh11.jpg)](https://pbs.twimg.com/media/FaftQtCXEAElh11.jpg) |
+| [![](/media/1560688716859031552/3_1560476667130351617.jpg)](/media/1560688716859031552/3_1560476667130351617.jpg) |
 | :-: |
 
 [@MuKappa](https://twitter.com/MuKappa) and I keep a list with these "experts" and "unbiased sources" - featuring [@Reuters](https://twitter.com/Reuters), the biggest 🇷🇺 fake news agency in the world 

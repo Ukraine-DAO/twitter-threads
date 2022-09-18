@@ -7,7 +7,7 @@ DShRG Rusich - ДШРГ Русич
 
 A brief overview of the Russian neo-Nazi group Rusich. DShRG is an abbreviation for reconnaissance, sabotage, and assault group. The thread is mostly comprised of translated Telegram posts from their official channel: [ДШРГ Русич](https://t.me/rusichdshrg)
 
-| [![](https://pbs.twimg.com/media/FWDtGnJXgAMMmKB.jpg)](https://pbs.twimg.com/media/FWDtGnJXgAMMmKB.jpg) |
+| [![](/media/1570714344899645444/3_1540491770403979267.jpg)](/media/1570714344899645444/3_1540491770403979267.jpg) |
 | :-: |
 
 The channel was created on June 14, 2022. The very first post claims that the channel was set up by the group's command. [ДШРГ Русич](https://t.me/rusichdshrg/5)
@@ -36,7 +36,7 @@ Following (and during) their "adventures" in the Donbas in 2014 and 2015 the gro
 
 Rusich took part in the Second Battle for Donetsk Airport (source: [ДШРГ Русич](https://t.me/rusichdshrg/11)):
 
-| [![](https://pbs.twimg.com/media/FWD2CMRXgAAdF6Y.jpg)](https://pbs.twimg.com/media/FWD2CMRXgAAdF6Y.jpg) |
+| [![](/media/1570714344899645444/3_1540501590074949632.jpg)](/media/1570714344899645444/3_1540501590074949632.jpg) |
 | :-: |
 
 The declared leader of the group, Alexei Milchakov, was interviewed by the Russian state TV channels: [Живодер и фашист Мильчаков на одном из центральных каналов РФ!](https://www.youtube.com/watch?v=D3XrZghhwcc&t=1s&ab_channel=%D0%BA%D1%8B%D1%80%D0%B3%D1%8B%D0%B7)
@@ -45,12 +45,12 @@ And Russian bloggers/YouTubers: [Говорит ангел смерти: Але�
 
 Alexei Milchakov was profiled by the RFE/RL and is accused of heinous crimes both in Ukraine and Syria: [Мильчаков, Петровский и другие. Кто они – неонацисты, воюющие за Россию в Украине?](https://rus.azattyq.org/a/31873520.html)
 
-| [![](https://pbs.twimg.com/media/FWD0wxtWQAEh0q9.jpg)](https://pbs.twimg.com/media/FWD0wxtWQAEh0q9.jpg) |
+| [![](/media/1570714344899645444/3_1540500191375147009.jpg)](/media/1570714344899645444/3_1540500191375147009.jpg) |
 | :-: |
 
 Rusich members were first spotted in Syria in 2017, however, it is possible they were deployed there earlier. Rusich fighters in Syria with a Valknut, source: [ДШРГ Русич](https://t.me/rusichdshrg/53). They also posted a self-incriminating graphic photo evidence of torture: [ДШРГ Русич](https://t.me/rusichdshrg/80)
 
-| [![](https://pbs.twimg.com/media/FWD2jCNWIAISV1D.jpg)](https://pbs.twimg.com/media/FWD2jCNWIAISV1D.jpg) |
+| [![](/media/1570714344899645444/3_1540502154309410818.jpg)](/media/1570714344899645444/3_1540502154309410818.jpg) |
 | :-: |
 
 The group is involved in the fighting right now in Ukraine again. The earliest reports of their activities in the latest phase of the Russian invasion in Ukraine date to early April 2022: [Rusich’s neo-Nazi mercenaries head for Kharkiv](https://www.thetimes.co.uk/article/rusichs-neo-nazi-mercenaries-head-for-kharkiv-prjndp9rl)
@@ -99,63 +99,63 @@ End of this thread for now. I will add to it as new information comes out.
 
 It came to attention that the earliest report of Rusich's involvement in the full-scale Russian invasion of Ukraine dates to the very first day of Feb. 24, 2022. Source: [WAGNER Z GROUP/Z PMC WAGNER'Z](https://t.me/wagner_group_pmc/9251)
 
-| [![](https://pbs.twimg.com/media/FW-foIiXEAENllF.jpg)](https://pbs.twimg.com/media/FW-foIiXEAENllF.jpg) |
+| [![](/media/1570714344899645444/3_1544628709046554625.jpg)](/media/1570714344899645444/3_1544628709046554625.jpg) |
 | :-: |
 
 Rusich fighters in Izyum, Ukraine, summer 2022. Source: [ДШРГ Русич](https://t.me/rusichdshrg/350)
 
-| [![](https://pbs.twimg.com/media/FXz_3CtVEAkbK0A.jpg)](https://pbs.twimg.com/media/FXz_3CtVEAkbK0A.jpg) |
+| [![](/media/1570714344899645444/3_1548393692993490953.jpg)](/media/1570714344899645444/3_1548393692993490953.jpg) |
 | :-: |
 
 Rusich reported their first combat loss in Ukraine since 2015. Andrei, a combat medic, was killed in action. He "fell with honor - in combat on his own land, with a weapon in his hands." Note, the "own land" remark and the runes on the sling. Source: [ДШРГ Русич](https://t.me/rusichdshrg/355)
 
-| [![](https://pbs.twimg.com/media/FX_uDRdXkAAdmHq.jpg)](https://pbs.twimg.com/media/FX_uDRdXkAAdmHq.jpg) |
+| [![](/media/1570714344899645444/3_1549218536832339968.jpg)](/media/1570714344899645444/3_1549218536832339968.jpg) |
 | :-: |
 
 Rusich posted archival photos of their involvement in Ukraine from 2014. Photo on the left: Lutuhyne, not from Luhansk. Photo on the right: location unspecified. 
 Sources: [ДШРГ Русич](https://t.me/rusichdshrg/361) [ДШРГ Русич](https://t.me/rusichdshrg/372)
 
-| [![](https://pbs.twimg.com/media/FYnO7aUWYAAhHsV.jpg)](https://pbs.twimg.com/media/FYnO7aUWYAAhHsV.jpg) | [![](https://pbs.twimg.com/media/FYnO7aYWQAI9K0i.jpg)](https://pbs.twimg.com/media/FYnO7aYWQAI9K0i.jpg) |
+| [![](/media/1570714344899645444/3_1551999066678124544.jpg)](/media/1570714344899645444/3_1551999066678124544.jpg) | [![](/media/1570714344899645444/3_1551999066694893570.jpg)](/media/1570714344899645444/3_1551999066694893570.jpg) |
 | :-: | :-: |
 
 Rusich in what is most likely Syria, date unspecified. Note the kolovrat patch on the chest. Source: [ДШРГ Русич](https://t.me/rusichdshrg/373)
 
-| [![](https://pbs.twimg.com/media/FYnPireXgAEIFHj.jpg)](https://pbs.twimg.com/media/FYnPireXgAEIFHj.jpg) |
+| [![](/media/1570714344899645444/3_1551999741298442241.jpg)](/media/1570714344899645444/3_1551999741298442241.jpg) |
 | :-: |
 
 A Rusich fighter in Ukraine, July 2022. Source: [ДШРГ Русич](https://t.me/rusichdshrg/392)
 
-| [![](https://pbs.twimg.com/media/FZpJNuOXgAE20OG.jpg)](https://pbs.twimg.com/media/FZpJNuOXgAE20OG.jpg) |
+| [![](/media/1570714344899645444/3_1556637121305346049.jpg)](/media/1570714344899645444/3_1556637121305346049.jpg) |
 | :-: |
 
 Rusich in Libya, 2020, deployed there as part of the Wagner Group. Note the kolovrat patch on the shoulder. Source: [GREY ZONE](https://t.me/grey_zone/14685)
 
-| [![](https://pbs.twimg.com/media/FZwxx0aWYAAdS_5.jpg)](https://pbs.twimg.com/media/FZwxx0aWYAAdS_5.jpg) |
+| [![](/media/1570714344899645444/3_1557174303115862016.jpg)](/media/1570714344899645444/3_1557174303115862016.jpg) |
 | :-: |
 
 Rusich continues training potentially new recruits. The first two photos are from July, 2022. The last two are archival. Sources: [ДШРГ Русич](https://t.me/rusichdshrg/412) [ДШРГ Русич](https://t.me/rusichdshrg/409)
 
-| [![](https://pbs.twimg.com/media/FaeQOaKWIAAE3V8.jpg)](https://pbs.twimg.com/media/FaeQOaKWIAAE3V8.jpg) | [![](https://pbs.twimg.com/media/FaeQOaMWIAAYJjy.jpg)](https://pbs.twimg.com/media/FaeQOaMWIAAYJjy.jpg) | [![](https://pbs.twimg.com/media/FaeQOaHXwAEO-Rv.jpg)](https://pbs.twimg.com/media/FaeQOaHXwAEO-Rv.jpg) | [![](https://pbs.twimg.com/media/FaeQOaIXgAYpzWD.jpg)](https://pbs.twimg.com/media/FaeQOaIXgAYpzWD.jpg) |
+| [![](/media/1570714344899645444/3_1560374373122449408.jpg)](/media/1570714344899645444/3_1560374373122449408.jpg) | [![](/media/1570714344899645444/3_1560374373130838016.jpg)](/media/1570714344899645444/3_1560374373130838016.jpg) | [![](/media/1570714344899645444/3_1560374373109972993.jpg)](/media/1570714344899645444/3_1560374373109972993.jpg) | [![](/media/1570714344899645444/3_1560374373114150918.jpg)](/media/1570714344899645444/3_1560374373114150918.jpg) |
 | :-: | :-: | :-: | :-: |
 
 Rusich denies that a large number of their fighters were recently killed. The Ukrainians provided a stack of Rusich patches as proof. However, Rusich claims that those were fake and their real patches are “specially made and hard to copy.” [ДШРГ Русич](https://t.me/rusichdshrg/415)
 
-| [![](https://pbs.twimg.com/media/FaeQ-KwWIAAKOvO.jpg)](https://pbs.twimg.com/media/FaeQ-KwWIAAKOvO.jpg) |
+| [![](/media/1570714344899645444/3_1560375193620586496.jpg)](/media/1570714344899645444/3_1560375193620586496.jpg) |
 | :-: |
 
 More photos from Rusich training exercises, August 2022. Source: [ДШРГ Русич](https://t.me/rusichdshrg/417)
 
-| [![](https://pbs.twimg.com/media/Faid6QcWAAAMRr9.jpg)](https://pbs.twimg.com/media/Faid6QcWAAAMRr9.jpg) | [![](https://pbs.twimg.com/media/Faid6QhXgAEasdW.jpg)](https://pbs.twimg.com/media/Faid6QhXgAEasdW.jpg) | [![](https://pbs.twimg.com/media/Faid6QgWYAARVBn.jpg)](https://pbs.twimg.com/media/Faid6QgWYAARVBn.jpg) |
+| [![](/media/1570714344899645444/3_1560670895055699968.jpg)](/media/1570714344899645444/3_1560670895055699968.jpg) | [![](/media/1570714344899645444/3_1560670895076769793.jpg)](/media/1570714344899645444/3_1560670895076769793.jpg) | [![](/media/1570714344899645444/3_1560670895072501760.jpg)](/media/1570714344899645444/3_1560670895072501760.jpg) |
 | :-: | :-: | :-: |
 
 Rusich on TG: "Arts and crafts time. We are making presents for the Ukrainian children by turning them into orphans." My guess, pictured are consumer drone droppable munitions. Source: [ДШРГ Русич](https://t.me/rusichdshrg/424)
 
-| [![](https://pbs.twimg.com/media/Faua9OWXwAAUDig.png)](https://pbs.twimg.com/media/Faua9OWXwAAUDig.png) |
+| [![](/media/1570714344899645444/3_1561512072428634112.png)](/media/1570714344899645444/3_1561512072428634112.png) |
 | :-: |
 
 Aleksei Milchakov, Rusich commander, was spotted on the frontlines. Sladkov+ TG channel published the video without acknowledging with whom Sladkov was speaking. Source: [Сладков +](https://t.me/Sladkov_plus/6122) Official Rusich TG hints that it is indeed Milchakov: [ДШРГ Русич](https://t.me/rusichdshrg/434) [pic.twitter.com/Nug4P9r5mw](https://twitter.com/MuKappa/status/1563610990570512389/video/1)
 
 Rusich calls for “carpet bombings of residential areas of Kyiv, Lviv, Vinnitsa, Lutsk (instead of the pathetic singular strikes).” “Only radical measures. And full destruction,” they add. Recall that Rusich is de facto part of the Russian MOD. [ДШРГ Русич](https://t.me/rusichdshrg/510)
 
-| [![](https://pbs.twimg.com/media/FcxMXtoXwAImCcN.jpg)](https://pbs.twimg.com/media/FcxMXtoXwAImCcN.jpg) |
+| [![](/media/1570714344899645444/3_1570714340315086850.jpg)](/media/1570714344899645444/3_1570714340315086850.jpg) |
 | :-: |

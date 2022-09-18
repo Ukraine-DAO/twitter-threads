@@ -40,7 +40,7 @@ The number grew to 181 000 (one hundred and eighty thousand) "evacuate" children
 
 Hence, every single requirement on the list for the physical part of the UN definition of genocide is sadly satisfied. All victims, or virtually all, are Ukrainians, which satisfies the deliberate targeting of a group of "a national, ethnical, racial or religious" trait
 
-| [![](https://pbs.twimg.com/media/FT12MYmWYAEoCsd.png)](https://pbs.twimg.com/media/FT12MYmWYAEoCsd.png) |
+| [![](/media/1530586056805974016/3_1530509403509645313.png)](/media/1530586056805974016/3_1530509403509645313.png) |
 | :-: |
 
 Obviously, I am providing only some evidence for every point. I am not a legal professional and Twitter is hardly the platform for legal case building. This thread is to prove a point. Now let's get to the mental part or intent, dolus specialis.
@@ -56,7 +56,7 @@ The intent is difficult to establish. However, it is not the case with Russia. T
 
 In a since-deleted article on RIA Novosti, a Russian state media outlet, the Russians declared their intent: "...Ukraine will no longer exist as anti-Russia. Russia is recovering its historical completeness, gathering the Russian world, the Russian people together."
 
-| [![](https://pbs.twimg.com/media/FT19GDvWAAEg_MQ.png)](https://pbs.twimg.com/media/FT19GDvWAAEg_MQ.png) |
+| [![](/media/1530586056805974016/3_1530516991412404225.png)](/media/1530586056805974016/3_1530516991412404225.png) |
 | :-: |
 
 And the Russian people are "...in their totality Velikorossy, Belorussians, and Malorossy." Velikorossy, or Great Russians, are what the Russian are calling themselves in this article. Malorossy, or Little Russians, are Ukrainians. This terminology is of old imperial origin.
@@ -77,17 +77,17 @@ The Russians were either stupefied by their own propaganda or they severely unde
 
 The speaker is not some random wackjob. His name is Aleksey Zhuravlev, he is a member of the Russian State Duma and chairman of the Rodina party. Besides he is first deputy chair of the Duma defense committee and a member of the national defense and security budget committee
 
-| [![](https://pbs.twimg.com/media/FT2Sc03WAAMUyaa.jpg)](https://pbs.twimg.com/media/FT2Sc03WAAMUyaa.jpg) |
+| [![](/media/1530586056805974016/3_1530540472300601347.jpg)](/media/1530586056805974016/3_1530540472300601347.jpg) |
 | :-: |
 
 Zhuravlev started off his political career in post-Soviet Russia in the ethnocentric The Congress of ethnic Russian Communes. In the early 2000s, he joined Putin's United Russia and started working for the more extreme offshoot Rodina, where Rogozin is one of the founders.
 
-| [![](https://pbs.twimg.com/media/FT2fhL1WUAccH-y.png)](https://pbs.twimg.com/media/FT2fhL1WUAccH-y.png) |
+| [![](/media/1530586056805974016/3_1530554840836886535.png)](/media/1530586056805974016/3_1530554840836886535.png) |
 | :-: |
 
 Politicians like him have been used by the Kremlin to probe the public for more extreme ideas and generally could be considered harbingers of the Kremlin's plans. Kremlin's chief herald and court jester position was recently vacated with the death of Vladimir Zhirinovsky.
 
-| [![](https://pbs.twimg.com/media/FT2U9R2XEAAGlR9.jpg)](https://pbs.twimg.com/media/FT2U9R2XEAAGlR9.jpg) |
+| [![](/media/1530586056805974016/3_1530543228860174336.jpg)](/media/1530586056805974016/3_1530543228860174336.jpg) |
 | :-: |
 
 However, nothing signals intent more than Putin's February 21 speech and Ukraine's history of Holodomor combined. According to Putin: "So, I will start with the fact that modern Ukraine was entirely created by Russia or, to be more precise, by Bolshevik, Communist Russia."
@@ -101,7 +101,7 @@ He also added: "...the union republics did not have any sovereign rights, none a
 
 Putin's revanchist speech should be viewed through the lens of Holodomor, a Moscow engineered famine to reduce Ukraine's population as a rebellious colony. Putin claimed that the Ukrainians and Russians are "one people." He gave them an option of assimilation.
 
-| [![](https://pbs.twimg.com/media/FT2cseJWAAAHhYV.jpg)](https://pbs.twimg.com/media/FT2cseJWAAAHhYV.jpg) |
+| [![](/media/1530586056805974016/3_1530551736196268032.jpg)](/media/1530586056805974016/3_1530551736196268032.jpg) |
 | :-: |
 
 However, should they resist, which they are, the alternative is death. Putin's Feb 21 speech also lays out the Kremlin roadmap for future conquests - every single former Soviet colony is a legitimate target for the Russians.

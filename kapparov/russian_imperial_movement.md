@@ -12,7 +12,7 @@ Russian Imperial Movement - Русское Имперское Движениe
 
 A brief overview of the Russian neo-Nazi organization Russian Imperial Movement (RIM), founded in 2002.  The organization is officially recognized as a terrorist group by the US and Canada. [Designation of the Russian Imperial Movement  - United States Department of State](https://2017-2021.state.gov/designation-of-the-russian-imperial-movement/index.html)
 
-| [![](https://pbs.twimg.com/media/FWdbgOvWAAYHInt.jpg)](https://pbs.twimg.com/media/FWdbgOvWAAYHInt.jpg) |
+| [![](/media/1561818421968441346/3_1542302006668296198.jpg)](/media/1561818421968441346/3_1542302006668296198.jpg) |
 | :-: |
 
 The Stanford Center for International Security and Cooperation published an extensive report on the organization in February 2021. It is a deep dive into the org's history, activities, and motivations. I'll summarize a few key dates. [MMP: Russian Imperial Movement](https://cisac.fsi.stanford.edu/mappingmilitants/profiles/russian-imperial-movement)
@@ -20,12 +20,12 @@ The Stanford Center for International Security and Cooperation published an exte
 2002: the group is formed with the sole goal of rebuilding the Russian Empire within its pre-1914 borders and reinstating the monarchy. The initial membership is very low.
 2002-2011: the group grows as does its political influence. Xenophobia, antisemitism, overt ethnocentrism on Русские (ethnic Russians) are embraced by the group. The group takes part in the Russian Marches, ultra-right rallies (NB: Navalny attended these rallies). The group also joins rallies held by the principal party of the country, United Russia.
 
-| [![](https://pbs.twimg.com/media/FWdpY34WQAELe0W.jpg)](https://pbs.twimg.com/media/FWdpY34WQAELe0W.jpg) |
+| [![](/media/1561818421968441346/3_1542317273435750401.jpg)](/media/1561818421968441346/3_1542317273435750401.jpg) |
 | :-: |
 
 2012-February 2014: RIM attempts to join other groups to form a registered political party. Nothing comes to fruition. While retaining its ultra-right views, RIM seeks "to participate in the broad democratic opposition to the Russian regime by building relationships with...
 
-| [![](https://pbs.twimg.com/media/FWdungwWAAMYfyT.jpg)](https://pbs.twimg.com/media/FWdungwWAAMYfyT.jpg) |
+| [![](/media/1561818421968441346/3_1542323022484340739.jpg)](/media/1561818421968441346/3_1542323022484340739.jpg) |
 | :-: |
 
 more mainstream groups." The group grows its far-right network while attending opposition rallies. 
@@ -47,7 +47,7 @@ RIM establishes connections with far-right groups in the US, including Nazi Trad
 
 RIM has a website rusimperia(.)is. The website is currently unavailable, but the Wayback Machine archived a copy as of May 2022. Let's have a look at what they are saying about themselves. Select translations follow.
 
-| [![](https://pbs.twimg.com/media/FWeW78GXwAA1J-B.jpg)](https://pbs.twimg.com/media/FWeW78GXwAA1J-B.jpg) |
+| [![](/media/1561818421968441346/3_1542367353886982144.jpg)](/media/1561818421968441346/3_1542367353886982144.jpg) |
 | :-: |
 
 "The Russian Empire was the greatest country in the world, but it was not flawless. Leaders of the Empire made a series of mistakes, that ultimately doomed it.
@@ -60,7 +60,7 @@ The path to salvation of the ethnic Russian people is through "God, tsar, ethnic
 "The central pillar of the Empire was Orthodoxy. The value of a state, in the eyes of God, is determined by faithfulness to His commandments.
 ...
 
-| [![](https://pbs.twimg.com/media/FWejXp2XoAAWSy2.png)](https://pbs.twimg.com/media/FWejXp2XoAAWSy2.png) |
+| [![](/media/1561818421968441346/3_1542381024163897344.png)](/media/1561818421968441346/3_1542381024163897344.png) |
 | :-: |
 
 "We, the ethnic Russians, the second people chosen by God in human history, have to draw lessons from our predecessors, the spiritual ones - the Hebrews and Romans, and the blood ones, the ethnic Russians, who built the greatest Empire."
@@ -68,7 +68,7 @@ The path to salvation of the ethnic Russian people is through "God, tsar, ethnic
 They continue with their take on the construct of the tsar:
 "Specifically imperial (tsar's) authority is the ideal form of state governance in Orthodoxy (in the Christian kind, and the pre-Christian kind) as the divine authority is built as a Tsardom headed by a ruling Tsar."
 
-| [![](https://pbs.twimg.com/media/FWej5-GXgAIDS_6.png)](https://pbs.twimg.com/media/FWej5-GXgAIDS_6.png) |
+| [![](/media/1561818421968441346/3_1542381613715259394.png)](/media/1561818421968441346/3_1542381613715259394.png) |
 | :-: |
 
 The section on ethnicity I am translating in full: 
@@ -77,7 +77,7 @@ The section on ethnicity I am translating in full:
 The ethnic Russian people are the God-chosen people and have the right, as all other great people, to their nation-state. 
 At the moment such a state does not exist for the ethnic Russian people. Moreover,...
 
-| [![](https://pbs.twimg.com/media/FWeoLZsWAAAnOTu.png)](https://pbs.twimg.com/media/FWeoLZsWAAAnOTu.png) |
+| [![](/media/1561818421968441346/3_1542386311226589184.png)](/media/1561818421968441346/3_1542386311226589184.png) |
 | :-: |
 
 "the ethnic Russian people today are the largest people in Europe separated between various pseudo-state formations. 
@@ -94,7 +94,7 @@ Instead of 600 million ethnic Russians forecasted by Mendeleev (on the condition
 They conclude with a manifesto-like message:
 "The corrupt regimes, that sprung up like mushrooms on Russia's historical body, are living their final days...
 
-| [![](https://pbs.twimg.com/media/FWfB5-bXkAEC_Ov.png)](https://pbs.twimg.com/media/FWfB5-bXkAEC_Ov.png) |
+| [![](/media/1561818421968441346/3_1542414599152177153.png)](/media/1561818421968441346/3_1542414599152177153.png) |
 | :-: |
 
 "Attempting to turn the Russian ethnos into economic slaves, these regimes chained the people with bank loans and fully destroyed their own economies...
@@ -105,13 +105,13 @@ Our objective is to put an end to the Times of Trouble that's been going on for 
 "tried to veer us."
 They also provide a summary of their own history. Their self-reported history starts before 2002. The first assembly of monarchic movements happened in St. Petersburg in 1991. In 1993 the monarchists defended the Russian White house against Yeltsin's forces...
 
-| [![](https://pbs.twimg.com/media/FWfJVsuXkAAZRu7.png)](https://pbs.twimg.com/media/FWfJVsuXkAAZRu7.png) |
+| [![](/media/1561818421968441346/3_1542422772017762304.png)](/media/1561818421968441346/3_1542422772017762304.png) |
 | :-: |
 
 during the Constitutional Crisis of 1993. In the late 1990s they actively took part in the beatification of the Tsar's family. In 2002, after multiple transformations, the monarchists formed the Russian Imperial Movement. 
 The website also offers a way to join RIM.
 
-| [![](https://pbs.twimg.com/media/FWfKo6QX0AIeMZa.jpg)](https://pbs.twimg.com/media/FWfKo6QX0AIeMZa.jpg) |
+| [![](/media/1561818421968441346/3_1542424201579188226.jpg)](/media/1561818421968441346/3_1542424201579188226.jpg) |
 | :-: |
 
 The application form asks for the applicant's first and last name, patronymic, date of birth, city of residence, ethnicity, religious views, interest in activities, email, and phone number.
@@ -120,7 +120,7 @@ Another interesting section of the website covers their various "projects." One 
 "- The defense of the Christian Church from the most aggressive adversaries.
 - As part of this project we take part in the fight in the Middle East and Northern...
 
-| [![](https://pbs.twimg.com/media/FWfRpazWIAAfRNh.png)](https://pbs.twimg.com/media/FWfRpazWIAAfRNh.png) |
+| [![](/media/1561818421968441346/3_1542431906897207296.png)](/media/1561818421968441346/3_1542431906897207296.png) |
 | :-: |
 
 "Africa against ISIS, in Ukraine against the Uniates and pagans comprising the bulk of Ukraine's Armed Forced national formations. In Russia, we are the mobilization reserve of the Russian Orthodox Church in case of overt aggression by antichristian forces...
@@ -132,12 +132,12 @@ Read carefully the last bullet point. Novorossiya is an imperial term for Ukrain
 
 Let's look at their Telegram channel now. The channel was created on July 6, 2017. It has fewer than 1500 subscribers but seems to be a legitimate RIM channel. In their first post, they complain about the crackdown by Russia's Roskomnadzor on the extreme far-right media outlets.
 
-| [![](https://pbs.twimg.com/media/FWfmWqjWIAAWu8Z.png)](https://pbs.twimg.com/media/FWfmWqjWIAAWu8Z.png) |
+| [![](/media/1561818421968441346/3_1542454674451734528.png)](/media/1561818421968441346/3_1542454674451734528.png) |
 | :-: |
 
 In a five-part post, they explain their origins and their part in the war in Donbas in 2014-2015. It is at times incoherent and adds nothing of value beyond the Stanford report and their own website. However, they provide some useful size estimates for multiple units in the post.
 
-| [![](https://pbs.twimg.com/media/FWfsGbaWAAEW3AZ.jpg)](https://pbs.twimg.com/media/FWfsGbaWAAEW3AZ.jpg) |
+| [![](/media/1561818421968441346/3_1542460992579305473.jpg)](/media/1561818421968441346/3_1542460992579305473.jpg) |
 | :-: |
 
 If you want to Google translate it, here are the links:
@@ -150,17 +150,17 @@ If you want to Google translate it, here are the links:
 "Volunteer units from Russia.
 RNU (Russian National Unity) - the righteous cause. Baryshnikov estimates the number of RNU volunteers at 3000 people. The Imperial Legion has the "God, Tsar, Ethnos" slogan, i.e. nationalist and conservative orthodox ideas...
 
-| [![](https://pbs.twimg.com/media/FWfsiT1XEAIVh5n.png)](https://pbs.twimg.com/media/FWfsiT1XEAIVh5n.png) |
+| [![](/media/1561818421968441346/3_1542461471581474818.png)](/media/1561818421968441346/3_1542461471581474818.png) |
 | :-: |
 
 "Restoration of the historical completeness of Russia, with reincorporation of the historical Malorossiya and Novorossiya, instead of the artificial chimera of the so-called "Ukraine." UAF estimates the Batman unit and DShRG Rusich to be no more than 300 each. These units...
 
-| [![](https://pbs.twimg.com/media/FWfwabLWYAMssUb.jpg)](https://pbs.twimg.com/media/FWfwabLWYAMssUb.jpg) |
+| [![](/media/1561818421968441346/3_1542465734160310275.jpg)](/media/1561818421968441346/3_1542465734160310275.jpg) |
 | :-: |
 
 "are right-wing or far-right-wing units (the well-known Milchakov). There are both Orthodox and neopagan servicemen. They use imperial insignia. The cossacks and many other units also use imperial insignia, Spas Orthodoxy flags, and banners of the Great Don Host."
 
-| [![](https://pbs.twimg.com/media/FWfv2n3XoAE1uFE.png)](https://pbs.twimg.com/media/FWfv2n3XoAE1uFE.png) |
+| [![](/media/1561818421968441346/3_1542465119090876417.png)](/media/1561818421968441346/3_1542465119090876417.png) |
 | :-: |
 
 On July 13, 2017, though the group was no longer involved in the plausible deniability phase of the Russian invasion of Ukraine, RIM called for enrollment into the Partizan intensive training course, possibly implying recruitment into the Imperial Legion. [Русское Имперское Движение](https://t.me/Rus_imperia/11)
@@ -207,12 +207,12 @@ Denis Gariev, director of the Partizan Center for tactical and live-fire trainin
 
 RIM is also promoting the standard historic revisionism employed by Russia at large. In this post, [Русское Имперское Движение](https://t.me/Rus_imperia/9473), they start off by saying that "The Russian Cities, What do they have to do with Ukraine?" and many Ukrainian cities with their supposed "Russian" origin.
 
-| [![](https://pbs.twimg.com/media/FWhfc8HWIAAZP6w.jpg)](https://pbs.twimg.com/media/FWhfc8HWIAAZP6w.jpg) |
+| [![](/media/1561818421968441346/3_1542587823152308224.jpg)](/media/1561818421968441346/3_1542587823152308224.jpg) |
 | :-: |
 
 They also resonate with DShRG Rusich's interpretation of their motivations for the war: "For ethnic Russians, the principal enemy is a Russophobe. It does not matter what their ethnicity is. Even if they are a former ethnic Russian, regrouped into an Okrainian. And it does not...
 
-| [![](https://pbs.twimg.com/media/FWhg5BLXgAA1TiO.png)](https://pbs.twimg.com/media/FWhg5BLXgAA1TiO.png) |
+| [![](/media/1561818421968441346/3_1542589405059317760.png)](/media/1561818421968441346/3_1542589405059317760.png) |
 | :-: |
 
 "matter who is icing them, goblins, Martians, kadyrovites, or those banderlogs themselves. The main point is that they are getting iced. And that's good. And our ethnic Russian lands we shall of course take away from the Ukro-separatists. I not under Vovan, then after...
@@ -237,18 +237,18 @@ RIM is calling for using anything possible as a weapon, including:
 
 On March 24 they announced the deployment of the Imperial Legion's units to the frontline in Ukraine. A deca (unit type) under the command of Consul Dionysus of the Imperial Legion was sent; however, the Legion did not yet announce their general mobilization.
 
-| [![](https://pbs.twimg.com/media/FWhnk9yWIAIuRgd.png)](https://pbs.twimg.com/media/FWhnk9yWIAIuRgd.png) |
+| [![](/media/1561818421968441346/3_1542596757133074434.png)](/media/1561818421968441346/3_1542596757133074434.png) |
 | :-: |
 
 Consul Dionysus was declared KIA on April 28. He was killed not far from Izyum. The post reveals that he was also a veteran and took part in the fighting in 2014. 
 Source for both: [Русское Имперское Движение](https://t.me/Rus_imperia/9488) [Русское Имперское Движение](https://t.me/Rus_imperia/9549)
 
-| [![](https://pbs.twimg.com/media/FWhtYizWQAAEUp2.png)](https://pbs.twimg.com/media/FWhtYizWQAAEUp2.png) |
+| [![](/media/1561818421968441346/3_1542603140800856064.png)](/media/1561818421968441346/3_1542603140800856064.png) |
 | :-: |
 
 On June 29, 2022, the RIM leadership declared partial mobilization of the Imperial Legion. They also called for enrollment into the training courses at the Partizan Center in St. Petersburg. The most interesting part, I will translate verbatim: "The difference between the call...
 
-| [![](https://pbs.twimg.com/media/FWhrpVAXwAQkQV4.png)](https://pbs.twimg.com/media/FWhrpVAXwAQkQV4.png) |
+| [![](/media/1561818421968441346/3_1542601230131904516.png)](/media/1561818421968441346/3_1542601230131904516.png) |
 | :-: |
 
 "to arms of today from the legionaries of 2014 is the official status with the Ministry of Defense of the Russian Federation, with appropriate remuneration and guarantees. Legionaries will be supplied with proper equipment along with training..."
@@ -259,7 +259,7 @@ RIM also recently posted an article expressing their frustration with the author
 
 RIM also posts sometimes sympathetic messages to the Third Reich and its collaborators, especially the so-called Russian Liberation Army (ROA). Source: [Русское Имперское Движение](https://t.me/Rus_imperia/9628)
 
-| [![](https://pbs.twimg.com/media/FWhwmi3WYAAJvJb.jpg)](https://pbs.twimg.com/media/FWhwmi3WYAAJvJb.jpg) |
+| [![](/media/1561818421968441346/3_1542606679870693376.jpg)](/media/1561818421968441346/3_1542606679870693376.jpg) |
 | :-: |
 
 This is an ongoing thread and I will add to it as new information comes out. 
@@ -267,17 +267,17 @@ For now, end of the thread.
 
 RIM yet again declares partial mobilization. In the video, they again reiterate that those who serve in the Imperial Legion are under the patronage of the Russian MOD. They are paid and receive compensation in case of injury. They maintain their ideology. [Русское Имперское Движение](https://t.me/Rus_imperia/9704)
 
-| [![](https://pbs.twimg.com/media/FWqkjkgWQAEE0e-.png)](https://pbs.twimg.com/media/FWqkjkgWQAEE0e-.png) |
+| [![](/media/1561818421968441346/3_1543226753329545217.png)](/media/1561818421968441346/3_1543226753329545217.png) |
 | :-: |
 
 RIM continues to promote their recruitment efforts into their Imperial Legion. The message is simple: "The Imperial Legion: Join the Imperial Legion." Note the alpha-omega labarum expressing the religious extremism of the neo-nazi group. Source: [Русское Имперское Движение](https://t.me/Rus_imperia/9733)
 
-| [![](https://pbs.twimg.com/media/FXKVuabXoAMI8Bw.jpg)](https://pbs.twimg.com/media/FXKVuabXoAMI8Bw.jpg) |
+| [![](/media/1561818421968441346/3_1545462246742138883.jpg)](/media/1561818421968441346/3_1545462246742138883.jpg) |
 | :-: |
 
 The Imperial Legion claims to be on the "western front," in Ukraine with a bigger contingent in a July 11 telegram post. I am not certain but I think to them Syria and Africa are considered "southern fronts." Three extra decas are now deployed in addition to the original decas.
 
-| [![](https://pbs.twimg.com/media/FXz1F1JUIAAw2iz.jpg)](https://pbs.twimg.com/media/FXz1F1JUIAAw2iz.jpg) | [![](https://pbs.twimg.com/media/FXz1F1LUUAMTBet.jpg)](https://pbs.twimg.com/media/FXz1F1LUUAMTBet.jpg) |
+| [![](/media/1561818421968441346/3_1548381852422905856.jpg)](/media/1561818421968441346/3_1548381852422905856.jpg) | [![](/media/1561818421968441346/3_1548381852431306755.jpg)](/media/1561818421968441346/3_1548381852431306755.jpg) |
 | :-: | :-: |
 
 A deca is not defined by RIM, but it is probably just ten fighters or a platoon-sized unit at most. Also, Consul Dionisys is reported to be still alive. He is a centuria (~100 men) commander and was only WIA. Instead, Decurion Dionisys was killed. Source: [Русское Имперское Движение](https://t.me/Rus_imperia/9737?single)
@@ -285,7 +285,7 @@ A deca is not defined by RIM, but it is probably just ten fighters or a platoon-
 RIM posted an interesting discussion of their banner choices. Source: [Русское Имперское Движение](https://t.me/Rus_imperia/9791)
 Translation follows:
 
-| [![](https://pbs.twimg.com/media/FYnuqV_XkAEF1xg.jpg)](https://pbs.twimg.com/media/FYnuqV_XkAEF1xg.jpg) |
+| [![](/media/1561818421968441346/3_1552033957830692865.jpg)](/media/1561818421968441346/3_1552033957830692865.jpg) |
 | :-: |
 
 "Under what banner?
@@ -312,29 +312,29 @@ So, what flags unite us? Inspire us? Lead us to victory?...
 
 RIM yet again embraces not only neo-Nazi views but also religious extremism.
 
-| [![](https://pbs.twimg.com/media/FYnvr8oXwAU87IE.jpg)](https://pbs.twimg.com/media/FYnvr8oXwAU87IE.jpg) |
+| [![](/media/1561818421968441346/3_1552035084894715909.jpg)](/media/1561818421968441346/3_1552035084894715909.jpg) |
 | :-: |
 
 The Russian Imperial Movement published a map of their conquest plans. While this is an ultra far right group making a claim, it is safe to say that it lines up the Kremlin’s intentions. It won’t stop at Ukraine. [Русское Имперское Движение](https://t.me/Rus_imperia/9822)
 
-| [![](https://pbs.twimg.com/media/FZpGfVbX0AIxKzb.jpg)](https://pbs.twimg.com/media/FZpGfVbX0AIxKzb.jpg) |
+| [![](/media/1561818421968441346/3_1556634125351768066.jpg)](/media/1561818421968441346/3_1556634125351768066.jpg) |
 | :-: |
 
 The Imperial Legion of RIM is reporting casualties. On August 4, 2022 Maksim Shtoler was presumably killed in action in the Kharkiv Oblast. RIM continues to reiterative the narrative that Ukraine is a non-existent nation occupying "Russian lands." [Русское Имперское Движение](https://t.me/Rus_imperia/9860)
 
-| [![](https://pbs.twimg.com/media/FaI1r3SWYAMikoy.jpg)](https://pbs.twimg.com/media/FaI1r3SWYAMikoy.jpg) |
+| [![](/media/1561818421968441346/3_1558867448715173891.jpg)](/media/1561818421968441346/3_1558867448715173891.jpg) |
 | :-: |
 
 Fighters of the Imperial Legion of RIM are awarded RU military decorations: the medal For Courage and the Order of Courage. Those are RU state decorations generally reserved for the RU military. This confirms that RIM is integrated into the RU military. [Русское Имперское Движение](https://t.me/Rus_imperia/9912)
 
-| [![](https://pbs.twimg.com/media/Fasua2EXEAcLM_c.jpg)](https://pbs.twimg.com/media/Fasua2EXEAcLM_c.jpg) | [![](https://pbs.twimg.com/media/Fasua2GX0AoIwWg.jpg)](https://pbs.twimg.com/media/Fasua2GX0AoIwWg.jpg) | [![](https://pbs.twimg.com/media/Fasua21WAAMfwNk.jpg)](https://pbs.twimg.com/media/Fasua21WAAMfwNk.jpg) |
+| [![](/media/1561818421968441346/3_1561392734539288583.jpg)](/media/1561818421968441346/3_1561392734539288583.jpg) | [![](/media/1561818421968441346/3_1561392734547726346.jpg)](/media/1561818421968441346/3_1561392734547726346.jpg) | [![](/media/1561818421968441346/3_1561392734744739843.jpg)](/media/1561818421968441346/3_1561392734744739843.jpg) |
 | :-: | :-: | :-: |
 
 Following the assassination of Dugin's daughter, RIM published their thoughts on the developments:
 
 "Even if Dugin did not say that Ukrainians should be killed, killed, and killed, it does not mean that they should not be killed at all. There is a war going on right now...
 
-| [![](https://pbs.twimg.com/media/FaylSEaXEAAjYgv.png)](https://pbs.twimg.com/media/FaylSEaXEAAjYgv.png) |
+| [![](/media/1561818421968441346/3_1561804900631252992.png)](/media/1561818421968441346/3_1561804900631252992.png) |
 | :-: |
 
 "In war, it is losses that force one of the sides to capitulate. The more Ukrainians are killed, the sooner the war will end. Cynical? Yes. But such is the truth. And if you think that the other side thinks differently, you are deeply mistaken. Because Ukrainians, unlike you...

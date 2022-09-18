@@ -10,14 +10,14 @@ Author: [Альона Шевченко](https://twitter.com/cryptodrftng)
 
 Spoke to a psychologist specialising in trauma and she said “it must have been a huge shock for you what happened”. To me, one of the most distressing aspects of this situation was that I saw this coming from day 1 in 2014 and tried to alarm others the whole time. [#Ukraine](https://twitter.com/hashtag/Ukraine)
 
-| [![](https://pbs.twimg.com/media/FM5BDSkX0AE_eAx.jpg)](https://pbs.twimg.com/media/FM5BDSkX0AE_eAx.jpg) |
+| [![](/media/1499208998280568833/3_1499207250740760577.jpg)](/media/1499208998280568833/3_1499207250740760577.jpg) |
 | :-: |
 
 That slide above from a talk I gave in 2015 said “Let me control the media and I will turn any nation into a herd of pigs” -Goebbels. I was trying to explain to people how information was weaponised and how dangerous it was. I said this was the real new Nazism rising.
 
 Here are some slides from it. I was just a kid back then so no one took it seriously. And now I’m watching the consequences, in absolute despair and horror. That price of the world opening its eyes too late is being paid by everyone around me right now. 💔 [#Ukraine](https://twitter.com/hashtag/Ukraine)
 
-| [![](https://pbs.twimg.com/media/FM5BDyNXoAcBTu0.jpg)](https://pbs.twimg.com/media/FM5BDyNXoAcBTu0.jpg) | [![](https://pbs.twimg.com/media/FM5BDyPWQAIgHsd.jpg)](https://pbs.twimg.com/media/FM5BDyPWQAIgHsd.jpg) |
+| [![](/media/1499208998280568833/3_1499207259234213895.jpg)](/media/1499208998280568833/3_1499207259234213895.jpg) | [![](/media/1499208998280568833/3_1499207259242512386.jpg)](/media/1499208998280568833/3_1499207259242512386.jpg) |
 | :-: | :-: |
 
 This is why it was so annoying to me to see people celebrating when [#Putin](https://twitter.com/hashtag/Putin) said he was withdrawing troops. I know how that pathetic creature operates, he doesn’t have the decency in him to say one word of truth. If he ANNOUNCES he is withdrawing troops - prepare for an ATTACK.

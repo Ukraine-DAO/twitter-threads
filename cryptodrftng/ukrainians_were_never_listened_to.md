@@ -11,7 +11,7 @@ Author: [Альона Шевченко](https://twitter.com/cryptodrftng)
 Looked through my camera roll from the weeks preceding the full scale invasion on 24th February. This was posted on my Insta stories on the 20th Feb. One day later, [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) was born.  
 [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow) 💙💛
 
-| [![](https://pbs.twimg.com/media/FUIMahQWQAAkPxj.jpg)](https://pbs.twimg.com/media/FUIMahQWQAAkPxj.jpg) |
+| [![](/media/1531814055073259522/3_1531800473002459136.jpg)](/media/1531814055073259522/3_1531800473002459136.jpg) |
 | :-: |
 
 I am Ukrainian and even though I've lived in the UK the last few years, my whole family is in Ukraine, and so are most of my friends. I'd also worried that this was going to happen for years because of what I was seeing in russian fake news.
@@ -40,5 +40,5 @@ The biggest heartbreak for me personally was that we knew this was going to happ
 
 Look at this. This was in my presentation notes years and years ago. russia openly tells everyone that we shouldn't exist. This is why I have such a strong reaction to journalists writing nonsense about us - their blatant lies are literally killing us. [@Reuters](https://twitter.com/Reuters) [#ReutersLies](https://twitter.com/hashtag/ReutersLies)
 
-| [![](https://pbs.twimg.com/media/FUIYwzuXsAEGt_T.jpg)](https://pbs.twimg.com/media/FUIYwzuXsAEGt_T.jpg) |
+| [![](/media/1531814055073259522/3_1531814050056876033.jpg)](/media/1531814055073259522/3_1531814050056876033.jpg) |
 | :-: |

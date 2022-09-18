@@ -12,7 +12,7 @@ Author: [Альона Шевченко](https://twitter.com/cryptodrftng)
 
 I also recommend to read this book. Lots of insights for people worrying about poor russians who have no idea what's happening and would do something if they could.
 
-| [![](https://pbs.twimg.com/media/FURyokhX0AAJN-p.jpg)](https://pbs.twimg.com/media/FURyokhX0AAJN-p.jpg) |
+| [![](/media/1558027683782692865/3_1532475814536794112.jpg)](/media/1558027683782692865/3_1532475814536794112.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

@@ -85,7 +85,7 @@ Here's the open letter I published 3 days before the invasion.
 
 I'm often reminded that every russian person is an individual. Question: what did those individuals do with their personal autonomy?
 
-| [![](https://pbs.twimg.com/media/FURQBtwXsAANR-k.jpg)](https://pbs.twimg.com/media/FURQBtwXsAANR-k.jpg) |
+| [![](/media/1541467428894507008/3_1532437763605377024.jpg)](/media/1541467428894507008/3_1532437763605377024.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

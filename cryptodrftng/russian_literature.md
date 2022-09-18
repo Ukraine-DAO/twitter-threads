@@ -122,7 +122,7 @@ I am saying that as a russian (as well as 🇺🇦) speaking Ukrainian from 🇺
 To make things even more disgusting, they used the word "genocide" and came up with a fake narrative that russian speakers were being persecuted in Eastern 🇺🇦 which is absolute nonsense and I've been saying this for 8 years:
 [pic.twitter.com/tRTFPD6Inl](https://twitter.com/cryptodrftng/status/1531814055073259522/photo/1)
 
-| [![](https://pbs.twimg.com/media/FUKJ6F7WIAAZ0BS.jpg)](https://pbs.twimg.com/media/FUKJ6F7WIAAZ0BS.jpg) | [![](https://pbs.twimg.com/media/FUIYwzuXsAEGt_T.jpg)](https://pbs.twimg.com/media/FUIYwzuXsAEGt_T.jpg) |
+| [![](/media/1564327104958943235/3_1531938454375899136.jpg)](/media/1564327104958943235/3_1531938454375899136.jpg) | [![](/media/1564327104958943235/3_1531814050056876033.jpg)](/media/1564327104958943235/3_1531814050056876033.jpg) |
 | :-: | :-: |
 
 I am also saying that russians bleating about being discriminated against while Ukrainians are going through actual unspeakable violence is unacceptable, tone deaf and vile. There is no "russophobia". There is "being held accountable for the first time".
@@ -154,7 +154,7 @@ Go back to 4/ please. russia has physically cancelled out of existence 350 Ukrai
 
 Is this what you are busy reading at the moment?
 
-| [![](https://pbs.twimg.com/media/FUKSwAIX0AUI_j7.jpg)](https://pbs.twimg.com/media/FUKSwAIX0AUI_j7.jpg) |
+| [![](/media/1564327104958943235/3_1531948176625881093.jpg)](/media/1564327104958943235/3_1531948176625881093.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -179,14 +179,14 @@ Is this what you are busy reading at the moment?
 
 [@klemmensenpia1](https://twitter.com/klemmensenpia1) 🤣🤣🤣
 
-| [![](https://pbs.twimg.com/media/FUKUkVAWAAAOHhZ.jpg)](https://pbs.twimg.com/media/FUKUkVAWAAAOHhZ.jpg) |
+| [![](/media/1564327104958943235/3_1531950175094177792.jpg)](/media/1564327104958943235/3_1531950175094177792.jpg) |
 | :-: |
 
 Ukrainian people are being tortured, raped and killed, including children and the elderly and that's what's your tragedy? When you are ready to see the real tragedies, take a look here: [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1531480089963151366?s=21&t=P9sss4rBXCoQXvE5Zb9uDw)
 
 [#russianWarCrimes](https://twitter.com/hashtag/russianWarCrimes) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians)
 
-| [![](https://pbs.twimg.com/media/FUKV5K4XoAQuQbE.jpg)](https://pbs.twimg.com/media/FUKV5K4XoAQuQbE.jpg) |
+| [![](/media/1564327104958943235/3_1531951632665255940.jpg)](/media/1564327104958943235/3_1531951632665255940.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -198,7 +198,7 @@ Ukrainian people are being tortured, raped and killed, including children and th
 
 Of course we are not the best fit. For this debate, I'd need an opponent educated on the subject and with higher emotional intelligence. But they'd never argue with me.
 
-| [![](https://pbs.twimg.com/media/FUKYTmWWYAIdFEg.jpg)](https://pbs.twimg.com/media/FUKYTmWWYAIdFEg.jpg) |
+| [![](/media/1564327104958943235/3_1531954285738614786.jpg)](/media/1564327104958943235/3_1531954285738614786.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -211,7 +211,7 @@ Of course we are not the best fit. For this debate, I'd need an opponent educate
 So [@primusmagestri](https://twitter.com/primusmagestri), can we conclude that all these russian writers were ... russophobic?! 
 
 
-| [![](https://pbs.twimg.com/media/FUKoz5iXwAYBdGf.png)](https://pbs.twimg.com/media/FUKoz5iXwAYBdGf.png) | [![](https://pbs.twimg.com/media/FUKo1CRWIAMHF5U.jpg)](https://pbs.twimg.com/media/FUKo1CRWIAMHF5U.jpg) |
+| [![](/media/1564327104958943235/3_1531972432831168518.png)](/media/1564327104958943235/3_1531972432831168518.png) | [![](/media/1564327104958943235/3_1531972452355547139.jpg)](/media/1564327104958943235/3_1531972452355547139.jpg) |
 | :-: | :-: |
 
 <blockquote class="twitter-tweet">
@@ -225,7 +225,7 @@ Important to not let [#GenocideOfUkrainians](https://twitter.com/hashtag/Genocid
 
 ✨ Educate yourself - and you will hate russia even more: [Empire, exceptionalism, and the rhyming of history](https://www.bisa.ac.uk/members/working-groups/resg/articles/empire-exceptionalism-and-rhyming-history)
 
-| [![](https://pbs.twimg.com/media/FUKpcvJX0AEGaS4.jpg)](https://pbs.twimg.com/media/FUKpcvJX0AEGaS4.jpg) |
+| [![](/media/1564327104958943235/3_1531973134416596993.jpg)](/media/1564327104958943235/3_1531973134416596993.jpg) |
 | :-: |
 
 [@radioevrazia](https://twitter.com/radioevrazia) is one of my friends from russia. He is also a "russophob", you know, like all decent people 💙💛 [@radioevrazia](https://twitter.com/radioevrazia), are you upset with me? 😂
@@ -299,7 +299,7 @@ Don't be a "russophobe".
 
 It didn't happen.
 
-| [![](https://pbs.twimg.com/media/FULZA--XEAAn5IS.jpg)](https://pbs.twimg.com/media/FULZA--XEAAn5IS.jpg) |
+| [![](/media/1564327104958943235/3_1532025434187173888.jpg)](/media/1564327104958943235/3_1532025434187173888.jpg) |
 | :-: |
 
 Result? [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) is happening again. You know why? Because they know they always get away with it. Nothing is going to happen because they can just start bleating afterwards they had nothing to do with it. That they're the victim. And then that it didn't happen.
@@ -367,7 +367,7 @@ Anyway, back to victimblaming - here's what it looks like:
 
 Why is their russophobia not a turn off for you?
 
-| [![](https://pbs.twimg.com/media/FULghOCXEAUBhvV.jpg)](https://pbs.twimg.com/media/FULghOCXEAUBhvV.jpg) | [![](https://pbs.twimg.com/media/FULghOBXwAAtX9y.jpg)](https://pbs.twimg.com/media/FULghOBXwAAtX9y.jpg) |
+| [![](/media/1564327104958943235/3_1532033684567691269.jpg)](/media/1564327104958943235/3_1532033684567691269.jpg) | [![](/media/1564327104958943235/3_1532033684563542016.jpg)](/media/1564327104958943235/3_1532033684563542016.jpg) |
 | :-: | :-: |
 
 <blockquote class="twitter-tweet">
@@ -418,14 +418,14 @@ Thank you [@lapatina_](https://twitter.com/lapatina_) for a new entry to my coll
 
 Sorry for upsetting fans of Tolstoy singing praise to russian troops - neglecting a russian man who's been dead for over 110+ years is of course more important than [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) happening as we speak. We'll make sure these books are "burned" particularly thoroughly  [twitter.com/kvakes/status/…](https://twitter.com/kvakes/status/1535531762125787136)
 
-| [![](https://pbs.twimg.com/media/FU9RMRRXsAE6C9b.jpg)](https://pbs.twimg.com/media/FU9RMRRXsAE6C9b.jpg) |
+| [![](/media/1564327104958943235/3_1535535269193166849.jpg)](/media/1564327104958943235/3_1535535269193166849.jpg) |
 | :-: |
 
 If in your view, russian literature = whole world, I'm sorry to hear you've not been educated better. [twitter.com/kvakes/status/…](https://twitter.com/kvakes/status/1535532464558465030)
 
 No I won't "have to" cancel everything. The people opressed by the English & Dutch etc can cancel whoever they want - it's not for me to lecture them. My people are suffering from genocide at the hands by russians - again. And I should be worrying about Tolstoy? Why?  [twitter.com/kvakes/status/…](https://twitter.com/kvakes/status/1535538682798669824)
 
-| [![](https://pbs.twimg.com/media/FU9YcaoXoAE1s0i.jpg)](https://pbs.twimg.com/media/FU9YcaoXoAE1s0i.jpg) |
+| [![](/media/1564327104958943235/3_1535543243164852225.jpg)](/media/1564327104958943235/3_1535543243164852225.jpg) |
 | :-: |
 
 The screenshot below is the transcript of a video I translated a couple days ago for another project: 
@@ -433,14 +433,14 @@ The screenshot below is the transcript of a video I translated a couple days ago
 
 This is from Kharkiv, in the past - the most pro-russian city in 🇺🇦. Maybe these people know more than those who are not from Ukraine?
 
-| [![](https://pbs.twimg.com/media/FU9ZUTzXoAY7ww2.jpg)](https://pbs.twimg.com/media/FU9ZUTzXoAY7ww2.jpg) | [![](https://pbs.twimg.com/media/FU9ZUWsWAAEh--2.jpg)](https://pbs.twimg.com/media/FU9ZUWsWAAEh--2.jpg) |
+| [![](/media/1564327104958943235/3_1535544203404615686.jpg)](/media/1564327104958943235/3_1535544203404615686.jpg) | [![](/media/1564327104958943235/3_1535544204180455425.jpg)](/media/1564327104958943235/3_1535544204180455425.jpg) |
 | :-: | :-: |
 
 [@kvakes](https://twitter.com/kvakes), the tweet you replied to is the beginning of a 🧵 where I explain why russian literature/culture and genocide are related. I'll be happy to continue the conversation once you've taken in my perspective. [twitter.com/kvakes/status/…](https://twitter.com/kvakes/status/1535542793241862145)
 
 Yes. And I do believe very strongly that their opinions carry more weight and should be listened to more than someone's who's never known senseless violence like this. russians turned the most russian-speaking city into ruin - just because it was in Ukraine.
 
-| [![](https://pbs.twimg.com/media/FU98aweXEAMSKuE.jpg)](https://pbs.twimg.com/media/FU98aweXEAMSKuE.jpg) | [![](https://pbs.twimg.com/media/FU98awdXoAA3vqG.jpg)](https://pbs.twimg.com/media/FU98awdXoAA3vqG.jpg) |
+| [![](/media/1564327104958943235/3_1535582797087313923.jpg)](/media/1564327104958943235/3_1535582797087313923.jpg) | [![](/media/1564327104958943235/3_1535582797083156480.jpg)](/media/1564327104958943235/3_1535582797083156480.jpg) |
 | :-: | :-: |
 
 <blockquote class="twitter-tweet">

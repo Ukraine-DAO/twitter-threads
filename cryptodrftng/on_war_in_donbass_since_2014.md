@@ -27,7 +27,7 @@ I'm from 🇺🇦 and spoke russian there to my friends for years. Never met any
 
 🤦‍♀️🤦‍♀️🤦‍♀️
 
-| [![](https://pbs.twimg.com/media/FT1ZxLxWQAASpqk.jpg)](https://pbs.twimg.com/media/FT1ZxLxWQAASpqk.jpg) |
+| [![](/media/1535494455393918976/3_1530478149884067840.jpg)](/media/1535494455393918976/3_1530478149884067840.jpg) |
 | :-: |
 
 [twitter.com/annapolkharkiv…](https://twitter.com/annapolkharkiv/status/1535492158253301761)

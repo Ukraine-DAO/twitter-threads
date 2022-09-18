@@ -13,7 +13,7 @@ Attaching the fun one below 👇
 
 Everyone is welcome to send these memes in response to [@Reuters](https://twitter.com/Reuters) [@GuyReuters](https://twitter.com/GuyReuters) tweets
 
-| [![](https://pbs.twimg.com/media/FagS_5EWAAIHNNX.jpg)](https://pbs.twimg.com/media/FagS_5EWAAIHNNX.jpg) |
+| [![](/media/1560518164001218562/3_1560518159743975426.jpg)](/media/1560518164001218562/3_1560518159743975426.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

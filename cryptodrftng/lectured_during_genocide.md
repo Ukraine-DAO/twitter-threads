@@ -164,7 +164,7 @@ On 🇺🇦 voices not being heard. [@AdrianBonenber1](https://twitter.com/Adria
 
 According to [#russia](https://twitter.com/hashtag/russia), people like me and my family, should die. Continue to worry about higher gas bill or [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow)
 
-| [![](https://pbs.twimg.com/media/FTjWAW-WAAAoUtB.jpg)](https://pbs.twimg.com/media/FTjWAW-WAAAoUtB.jpg) | [![](https://pbs.twimg.com/media/FTjWAW9X0AYmWgD.jpg)](https://pbs.twimg.com/media/FTjWAW9X0AYmWgD.jpg) | [![](https://pbs.twimg.com/media/FTjWAXAXEAI2pCf.jpg)](https://pbs.twimg.com/media/FTjWAXAXEAI2pCf.jpg) |
+| [![](/media/1544059306563325953/3_1529207375147696128.jpg)](/media/1544059306563325953/3_1529207375147696128.jpg) | [![](/media/1544059306563325953/3_1529207375143620614.jpg)](/media/1544059306563325953/3_1529207375143620614.jpg) | [![](/media/1544059306563325953/3_1529207375156154370.jpg)](/media/1544059306563325953/3_1529207375156154370.jpg) |
 | :-: | :-: | :-: |
 
 This is a very important point that I'd like to communicate to all the fake "pacifists", whose views "don't allow" them to support arming Ukraine:
@@ -186,7 +186,7 @@ If you think you are safe, I have bad news for you.
 
 First screenshot - from 26 Feb
 
-| [![](https://pbs.twimg.com/media/FTjz3r_WQAAdvcx.jpg)](https://pbs.twimg.com/media/FTjz3r_WQAAdvcx.jpg) | [![](https://pbs.twimg.com/media/FTjz3sBWIAMgw9_.jpg)](https://pbs.twimg.com/media/FTjz3sBWIAMgw9_.jpg) | [![](https://pbs.twimg.com/media/FTjz3sCXoAULkql.jpg)](https://pbs.twimg.com/media/FTjz3sCXoAULkql.jpg) |
+| [![](/media/1544059306563325953/3_1529240211519062016.jpg)](/media/1544059306563325953/3_1529240211519062016.jpg) | [![](/media/1544059306563325953/3_1529240211527442435.jpg)](/media/1544059306563325953/3_1529240211527442435.jpg) | [![](/media/1544059306563325953/3_1529240211531735045.jpg)](/media/1544059306563325953/3_1529240211531735045.jpg) |
 | :-: | :-: | :-: |
 
 🧵 on "neo-Nazis"

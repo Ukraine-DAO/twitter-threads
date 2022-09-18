@@ -23,19 +23,19 @@ If you're feeling helpless/useless today, here's a reason to cheer up - at least
 
 > the "superpower": realises real quick that it can't face the Ukrainian Armed Forces so instead launches an assault on the only opponents it can fight with: unarmed civilians, mainly women and children
 
-| [![](https://pbs.twimg.com/media/FT4KYRLVIAQ5IMd.jpg)](https://pbs.twimg.com/media/FT4KYRLVIAQ5IMd.jpg) |
+| [![](/media/1563607266191781890/3_1530672335396610052.jpg)](/media/1563607266191781890/3_1530672335396610052.jpg) |
 | :-: |
 
 Here, I don't even know what to say... Send help🤣 [@derspiegel](https://twitter.com/derspiegel) [@Bundeskanzler](https://twitter.com/Bundeskanzler) [@OlafScholz](https://twitter.com/OlafScholz)
 
-| [![](https://pbs.twimg.com/media/FT4LiZUWYAIOuuI.jpg)](https://pbs.twimg.com/media/FT4LiZUWYAIOuuI.jpg) |
+| [![](/media/1563607266191781890/3_1530673608892243970.jpg)](/media/1563607266191781890/3_1530673608892243970.jpg) |
 | :-: |
 
 I hope no one in Germany passed out from exhaustion while working on the helmets mission. 
 [@OlafScholz](https://twitter.com/OlafScholz) [@Bundeskanzler](https://twitter.com/Bundeskanzler) [@derspiegel](https://twitter.com/derspiegel) 
 [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1529863471399059456?s=21&t=uV7I6OZ6WkZbRdGnqZQwBQ)
 
-| [![](https://pbs.twimg.com/media/FT4L9iKUUAErQqZ.jpg)](https://pbs.twimg.com/media/FT4L9iKUUAErQqZ.jpg) | [![](https://pbs.twimg.com/media/FT4L9hnWQAAXpXR.jpg)](https://pbs.twimg.com/media/FT4L9hnWQAAXpXR.jpg) |
+| [![](/media/1563607266191781890/3_1530674075122552833.jpg)](/media/1563607266191781890/3_1530674075122552833.jpg) | [![](/media/1563607266191781890/3_1530674074975879168.jpg)](/media/1563607266191781890/3_1530674074975879168.jpg) |
 | :-: | :-: |
 
 <blockquote class="twitter-tweet">
@@ -51,7 +51,7 @@ Thank god Estonia is not pointing fingers at others like this
 
 [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1516462372357132290?s=21&t=d5lDmhHlUYN3NwQ2djdVOw)
 
-| [![](https://pbs.twimg.com/media/FT4MwFcWUAAf1sL.jpg)](https://pbs.twimg.com/media/FT4MwFcWUAAf1sL.jpg) |
+| [![](/media/1563607266191781890/3_1530674943586881536.jpg)](/media/1563607266191781890/3_1530674943586881536.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -64,17 +64,17 @@ Thank god Estonia is not pointing fingers at others like this
 Sorry I can't bring myself to read this for much longer 🤣🤣🤣 [@OlafScholz](https://twitter.com/OlafScholz) [@Bundeskanzler](https://twitter.com/Bundeskanzler) [@derspiegel](https://twitter.com/derspiegel) 
 Who inspired Olaf to send helmets at such alarming speed?
 
-| [![](https://pbs.twimg.com/media/FT4N0bfWIAAPfor.jpg)](https://pbs.twimg.com/media/FT4N0bfWIAAPfor.jpg) | [![](https://pbs.twimg.com/media/FT4N0cBVUAAHdZ0.jpg)](https://pbs.twimg.com/media/FT4N0cBVUAAHdZ0.jpg) | [![](https://pbs.twimg.com/media/FT4N0ddUcAA4Kfn.jpg)](https://pbs.twimg.com/media/FT4N0ddUcAA4Kfn.jpg) |
+| [![](/media/1563607266191781890/3_1530676117736136704.jpg)](/media/1563607266191781890/3_1530676117736136704.jpg) | [![](/media/1563607266191781890/3_1530676117878689792.jpg)](/media/1563607266191781890/3_1530676117878689792.jpg) | [![](/media/1563607266191781890/3_1530676118264508416.jpg)](/media/1563607266191781890/3_1530676118264508416.jpg) |
 | :-: | :-: | :-: |
 
 A few memes about the "superpower" and 🇩🇪
 
-| [![](https://pbs.twimg.com/media/FT4Q7ugUAAAn6Li.jpg)](https://pbs.twimg.com/media/FT4Q7ugUAAAn6Li.jpg) | [![](https://pbs.twimg.com/media/FT4Q7wcVIAEOnuy.jpg)](https://pbs.twimg.com/media/FT4Q7wcVIAEOnuy.jpg) | [![](https://pbs.twimg.com/media/FT4Q7w5UEAAjg_E.jpg)](https://pbs.twimg.com/media/FT4Q7w5UEAAjg_E.jpg) | [![](https://pbs.twimg.com/media/FT4Q7xAXwAAlLxw.jpg)](https://pbs.twimg.com/media/FT4Q7xAXwAAlLxw.jpg) |
+| [![](/media/1563607266191781890/3_1530679541634433024.jpg)](/media/1563607266191781890/3_1530679541634433024.jpg) | [![](/media/1563607266191781890/3_1530679542154600449.jpg)](/media/1563607266191781890/3_1530679542154600449.jpg) | [![](/media/1563607266191781890/3_1530679542276165632.jpg)](/media/1563607266191781890/3_1530679542276165632.jpg) | [![](/media/1563607266191781890/3_1530679542305767424.jpg)](/media/1563607266191781890/3_1530679542305767424.jpg) |
 | :-: | :-: | :-: | :-: |
 
 correct spelling of the "superpower" - "terrorist state".
 
-| [![](https://pbs.twimg.com/media/FT4RIPEXEAE1Jtd.jpg)](https://pbs.twimg.com/media/FT4RIPEXEAE1Jtd.jpg) |
+| [![](/media/1563607266191781890/3_1530679756533993473.jpg)](/media/1563607266191781890/3_1530679756533993473.jpg) |
 | :-: |
 
 While I have your attention - here's credible info about Azov: [#SaveAzov](https://ukraine-dao.notion.site/Azov-Regiment-c3349aa74a7d470b866b134606bc46b4)
@@ -83,7 +83,7 @@ Also, [@Reuters](https://twitter.com/Reuters) is russian propaganda:
 
 Have a great weekend and merry Christmas, everyone! 🎉
 
-| [![](https://pbs.twimg.com/media/FT4RyS0WAAEz4mC.jpg)](https://pbs.twimg.com/media/FT4RyS0WAAEz4mC.jpg) |
+| [![](/media/1563607266191781890/3_1530680479095062529.jpg)](/media/1563607266191781890/3_1530680479095062529.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -131,7 +131,7 @@ I thought this was a comedy account at first 🤦‍♀️ [@GermanyNATO](https:
 
 I really wouldn't worry about Ukraine joining the EU/NATO etc. Germany would need to leave first, otherwise nothing to do there.
 
-| [![](https://pbs.twimg.com/media/FT5USxPWAAA9Ojz.jpg)](https://pbs.twimg.com/media/FT5USxPWAAA9Ojz.jpg) | [![](https://pbs.twimg.com/media/FT5USxLX0AAqDkH.jpg)](https://pbs.twimg.com/media/FT5USxLX0AAqDkH.jpg) | [![](https://pbs.twimg.com/media/FT5USxOWUAUnBWD.jpg)](https://pbs.twimg.com/media/FT5USxOWUAUnBWD.jpg) |
+| [![](/media/1563607266191781890/3_1530753604784619520.jpg)](/media/1563607266191781890/3_1530753604784619520.jpg) | [![](/media/1563607266191781890/3_1530753604767961088.jpg)](/media/1563607266191781890/3_1530753604767961088.jpg) | [![](/media/1563607266191781890/3_1530753604780445701.jpg)](/media/1563607266191781890/3_1530753604780445701.jpg) |
 | :-: | :-: | :-: |
 
 <blockquote class="twitter-tweet">
@@ -472,7 +472,7 @@ We are being killed. No one's hurt egos/dumb views matter to us right now.
 
 [#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0)
 
-| [![](https://pbs.twimg.com/media/FYIcXXmXkAAOYtz.jpg)](https://pbs.twimg.com/media/FYIcXXmXkAAOYtz.jpg) |
+| [![](/media/1563607266191781890/3_1549832409566384128.jpg)](/media/1563607266191781890/3_1549832409566384128.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -537,7 +537,7 @@ Origin: Germany, the country on the wrong side of history AGAIN
 
 Available only until Germans realise there are bigger problems in this life than a high gas bill
 
-| [![](https://pbs.twimg.com/media/FYy2mFIWIAAeQ13.jpg)](https://pbs.twimg.com/media/FYy2mFIWIAAeQ13.jpg) |
+| [![](/media/1563607266191781890/3_1552816736864444416.jpg)](/media/1563607266191781890/3_1552816736864444416.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -565,7 +565,7 @@ Questions:
 
 [#GermanyFundsGenocide](https://twitter.com/hashtag/GermanyFundsGenocide)
 
-| [![](https://pbs.twimg.com/media/FY6DGgdXoAI6bgC.jpg)](https://pbs.twimg.com/media/FY6DGgdXoAI6bgC.jpg) |
+| [![](/media/1563607266191781890/3_1553323069304971266.jpg)](/media/1563607266191781890/3_1553323069304971266.jpg) |
 | :-: |
 
 [#GermanyFundsGenocide](https://twitter.com/hashtag/GermanyFundsGenocide) 
@@ -669,7 +669,7 @@ They got there from the wrong side - after the German "pacifists" sold them to �
 
 When 🇺🇦 asked for help, they promised (!) 5,000 helmets 🪖 [#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0)
 
-| [![](https://pbs.twimg.com/media/Fangb7vWYAIY2OX.jpg)](https://pbs.twimg.com/media/Fangb7vWYAIY2OX.jpg) |
+| [![](/media/1563607266191781890/3_1561025516357967874.jpg)](/media/1563607266191781890/3_1561025516357967874.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -687,7 +687,7 @@ Can someone explain to me why Ukrainians are presented as pigs dressed in 🇺�
 
 [MYKOLA – ДОМАШНЯ СТОРІНКА](https://mein-freund-mykola.de/)
 
-| [![](https://pbs.twimg.com/media/FarFw71XEAAZLD5.jpg)](https://pbs.twimg.com/media/FarFw71XEAAZLD5.jpg) |
+| [![](/media/1563607266191781890/3_1561277665323192320.jpg)](/media/1563607266191781890/3_1561277665323192320.jpg) |
 | :-: |
 
 [@NovelSci](https://twitter.com/NovelSci) have you seen anywhere an estimate of how much money Germany has pumped into russia? I'm very curious to see it
@@ -818,7 +818,7 @@ Now, I'm not a military expert but can someone take a look at this and let me kn
 
 [#GermanyFundsGenocide](https://twitter.com/hashtag/GermanyFundsGenocide) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow)
 
-| [![](https://pbs.twimg.com/media/Fa4q7RMWAAA97-4.jpg)](https://pbs.twimg.com/media/Fa4q7RMWAAA97-4.jpg) | [![](https://pbs.twimg.com/media/Fa4q7RFXgAAgx68.jpg)](https://pbs.twimg.com/media/Fa4q7RFXgAAgx68.jpg) | [![](https://pbs.twimg.com/media/Fa4q7RFWQAAb3-g.jpg)](https://pbs.twimg.com/media/Fa4q7RFWQAAb3-g.jpg) |
+| [![](/media/1563607266191781890/3_1562233318459965440.jpg)](/media/1563607266191781890/3_1562233318459965440.jpg) | [![](/media/1563607266191781890/3_1562233318430703616.jpg)](/media/1563607266191781890/3_1562233318430703616.jpg) | [![](/media/1563607266191781890/3_1562233318430621696.jpg)](/media/1563607266191781890/3_1562233318430621696.jpg) |
 | :-: | :-: | :-: |
 
 Here's what russians were broadcasting on their state-owned TV while Germany was promising us helmets. 
@@ -840,7 +840,7 @@ They didn't know about this?
 
 [#GermanyFundsGenocide](https://twitter.com/hashtag/GermanyFundsGenocide) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow)
 
-| [![](https://pbs.twimg.com/media/Fa4us7uX0AEn3GI.jpg)](https://pbs.twimg.com/media/Fa4us7uX0AEn3GI.jpg) |
+| [![](/media/1563607266191781890/3_1562237470225453057.jpg)](/media/1563607266191781890/3_1562237470225453057.jpg) |
 | :-: |
 
 Great point, [@porizna](https://twitter.com/porizna) 
@@ -1008,7 +1008,7 @@ A German person is offended on the russians' behalf, he "doesn't want them gone"
 
 [#visaban](https://twitter.com/hashtag/visaban) [#visabanforrussians](https://twitter.com/hashtag/visabanforrussians) 🧵- [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1563505448082321409?s=21&t=hKsP7IKgNaSLMbybv67rHA)
 
-| [![](https://pbs.twimg.com/media/FbLhyyvUsAAeIib.jpg)](https://pbs.twimg.com/media/FbLhyyvUsAAeIib.jpg) |
+| [![](/media/1563607266191781890/3_1563560283380953088.jpg)](/media/1563607266191781890/3_1563560283380953088.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -1056,7 +1056,7 @@ Why is it so corrupt?
 
 [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow)
 
-| [![](https://pbs.twimg.com/media/FbaMgGaWAAAHJGT.jpg)](https://pbs.twimg.com/media/FbaMgGaWAAAHJGT.jpg) |
+| [![](/media/1563607266191781890/3_1564592403662635008.jpg)](/media/1563607266191781890/3_1564592403662635008.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -1097,7 +1097,7 @@ Why is it so corrupt?
 
 Germany rn:
 
-| [![](https://pbs.twimg.com/media/FbktGGOVUAElpgH.jpg)](https://pbs.twimg.com/media/FbktGGOVUAElpgH.jpg) |
+| [![](/media/1563607266191781890/3_1565331928261152769.jpg)](/media/1563607266191781890/3_1565331928261152769.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -1185,7 +1185,7 @@ Germans on the other hand, don't seem to be bothered by Ukrainians being "erased
 
 ❗️Ukrainians are fighting the Nazis, ok? Germans so far have mostly been paying those Nazis enabling them to carry on killing us.
 
-| [![](https://pbs.twimg.com/media/Fb4aKFWX0AkjsjB.jpg)](https://pbs.twimg.com/media/Fb4aKFWX0AkjsjB.jpg) |
+| [![](/media/1563607266191781890/3_1566718480908537865.jpg)](/media/1563607266191781890/3_1566718480908537865.jpg) |
 | :-: |
 
 101/ Germany sold itself to a failed state.

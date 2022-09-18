@@ -13,12 +13,12 @@ navalny is a "liberal opposition" figure only by russian standards at best. chub
 In 2015 navalny opposed western supplies of weapons to Ukraine.
 [An interview with Kremlin critic Alexei Navalny](https://www.washingtonpost.com/news/worldviews/wp/2015/03/18/a-rare-interview-with-kremlin-critic-alexei-navalny/)
 
-| [![](https://pbs.twimg.com/media/FcLbUGiWYAE98to.jpg)](https://pbs.twimg.com/media/FcLbUGiWYAE98to.jpg) |
+| [![](/media/1568057388887859205/3_1568056758676905985.jpg)](/media/1568057388887859205/3_1568056758676905985.jpg) |
 | :-: |
 
 So why do I and so many others from the neighboring countries and non-ethnic russians from russia dislike navalny so much? Well, there are a lot of good reasons. Let's look into the man's past.
 
-| [![](https://pbs.twimg.com/media/FcOtA_UWIAIHO-m.png)](https://pbs.twimg.com/media/FcOtA_UWIAIHO-m.png) |
+| [![](/media/1568057388887859205/3_1568287327763439618.png)](/media/1568057388887859205/3_1568287327763439618.png) |
 | :-: |
 
 But first, a few clarifications. Is navalny a russian opposition leader? The optics of his position suggest so. To the unenlightened, he and his Anti-Corruption Foundation, FBK, seem to be a very potent threat to the current Kremlin regime promising a better future a better future for the ethnic russians that is. Ethnic minorities within russia and the neighboring countries on the other hand would not be so lucky, should he ever be seated on the throne in the kremlin. 
@@ -34,14 +34,14 @@ The Der Spiegel article is from 2007. Read it, it explains very well what those 
 
 To keep things chronological, let's look at what else happened in 2007. At a political debate navanly got into a violent argument with one of the attendees. The details of the incident are conflicting. It is clear the two got into a fight. [Между дебатами и дебошем](https://expert.ru/russian_reporter/2007/23/debaty_i_debosh/)
 
-| [![](https://pbs.twimg.com/media/FcScBvFWIAAJRwY.jpg)](https://pbs.twimg.com/media/FcScBvFWIAAJRwY.jpg) |
+| [![](/media/1568057388887859205/3_1568550123864465408.jpg)](/media/1568057388887859205/3_1568550123864465408.jpg) |
 | :-: |
 
 Later it was alleged that the attendee was an FSB agent. During the fight, navalny fired several shots from a gas pistol that he brought to the debate. navalny threw in a few ethnic slurs at his opponent, who is Ossetian. navalny was arrested but shortly released without charges.
 
 navalny is no stranger to using derogatory language. Below is his response to someone in the comments to his post: "judging by your profile pic, you are a homosexual, or colloquially - a f** unfortunately I cannot continue the conversation with you." [Про Тесака](http://web.archive.org/web/20120202010010/http://navalny.livejournal.com/142157.html?page=3#comments)
 
-| [![](https://pbs.twimg.com/media/FcScGzpX0AAibvX.png)](https://pbs.twimg.com/media/FcScGzpX0AAibvX.png) |
+| [![](/media/1568057388887859205/3_1568550210988658688.png)](/media/1568057388887859205/3_1568550210988658688.png) |
 | :-: |
 
 In 2007 navalny also released a xenophobic clip. He titles himself a "certified nationalist" and says "I recommend full sanitization. Everything in our way should be carefully but decisively removed through deportation." He equates immigrants to cavities. [Стань националистом!](https://www.youtube.com/watch?v=ICoc2VmGdfw&ab_channel=AlexeyNavalny)
@@ -64,35 +64,35 @@ He also never deleted his Georgia blogpost from Livejournal (Zhivoy Zhurnal). On
 
 The blogpost is sarcastically titled "Give Georgia a chance." Here navalny says: "If a small nation likes to play big politics - it must become a satellite of a large nation. Or it must become an enemy of a large nation."
 
-| [![](https://pbs.twimg.com/media/FcScaE3XoAA8VPO.png)](https://pbs.twimg.com/media/FcScaE3XoAA8VPO.png) |
+| [![](/media/1568057388887859205/3_1568550542028283904.png)](/media/1568057388887859205/3_1568550542028283904.png) |
 | :-: |
 
 Here navalny calls Georgia's then-president Saakashvili a "Europeanized Georgian Hitler."
 
-| [![](https://pbs.twimg.com/media/FcScdPoXEAAVk0O.png)](https://pbs.twimg.com/media/FcScdPoXEAAVk0O.png) |
+| [![](/media/1568057388887859205/3_1568550596457730048.png)](/media/1568057388887859205/3_1568550596457730048.png) |
 | :-: |
 
 Finally, navalny ends his post with the following three sentences: "Let's love Georgia and give it a chance! Ha, it would be great to recognize Transnistria as well. The Moldovans deserve a chance too."
 The post is full of schadenfreude oozing with imagined imperial greatness.
 
-| [![](https://pbs.twimg.com/media/FcSchHBXEAARQxJ.png)](https://pbs.twimg.com/media/FcSchHBXEAARQxJ.png) |
+| [![](/media/1568057388887859205/3_1568550662866145280.png)](/media/1568057388887859205/3_1568550662866145280.png) |
 | :-: |
 
 Alright, back to navalny's participation in the ethnic russian marches. Till 2013 he attended each march held annually. Starting in 2011 he was a member of the committee organizing the ethnic russian marches. [Алексей Навальный вошел в оргкомитет «Русского марша»](https://snob.ru/selected/entry/42365/)
 
-| [![](https://pbs.twimg.com/media/FcSckjBWQAEREnt.jpg)](https://pbs.twimg.com/media/FcSckjBWQAEREnt.jpg) |
+| [![](/media/1568057388887859205/3_1568550721921892353.jpg)](/media/1568057388887859205/3_1568550721921892353.jpg) |
 | :-: |
 
 The same year the moscow part of the marches was attended by up to 25 thousand people. The common slogans used at the ethnonationalist demonstration were: "Give russia back to the ethnic russians!" "russia is an ethnic russian land!" etc. Again, navalny was one of the organizers.
 
-| [![](https://pbs.twimg.com/media/FcSc8RRXkAEFH1c.jpg)](https://pbs.twimg.com/media/FcSc8RRXkAEFH1c.jpg) |
+| [![](/media/1568057388887859205/3_1568551129474109441.jpg)](/media/1568057388887859205/3_1568551129474109441.jpg) |
 | :-: |
 
 There is also plenty of video evidence of navalny's attendance of the ethnic russian marches. Here is a Youtube video compiled from multiple sources along with some translated things navalny's said at the marches. [Alexei Navalny and the Russian Nazis](https://www.youtube.com/watch?v=Yba-LJ8clgc&ab_channel=VOXKOMMInternational)
 
 In 2011 lenta interviewed navalny for anarticle titled "An oppressed ethnic russia. Why aleksei navalny does not want to feed the Caucasus." navalny defends his active participation in the ethnic russian marches. However, two other things stand out for me. [Ущемленный русский Почему Алексей Навальный не хочет кормить Кавказ](https://lenta.ru/articles/2011/11/04/navalny/)
 
-| [![](https://pbs.twimg.com/media/FcShgQ3WYAUfw98.jpg)](https://pbs.twimg.com/media/FcShgQ3WYAUfw98.jpg) |
+| [![](/media/1568057388887859205/3_1568556145886781445.jpg)](/media/1568057388887859205/3_1568556145886781445.jpg) |
 | :-: |
 
 First, navalny's thinly veiled disgust with the Caucasus is just beneath the facade of his financial reasoning. His rhetoric lines up with the common colonial treatment of the territories. The Northern Caucasus are called an "internal abroad" in russia. [The North Caucasus: Russia’s Internal Abroad?](https://carnegiemoscow.org/2011/11/30/north-caucasus-russia-s-internal-abroad-pub-46437)
@@ -100,7 +100,7 @@ First, navalny's thinly veiled disgust with the Caucasus is just beneath the fac
 Second, explaining his participation in the marches navalny says: "A large number of ethnic russians who remained beyond russia's borders is also a fact. Ethnic russians are the largest split people in Europe, this is accepted by and obvious to everyone"
 Do you see any parallels?
 
-| [![](https://pbs.twimg.com/media/FcSm0OpX0AE3JgN.jpg)](https://pbs.twimg.com/media/FcSm0OpX0AE3JgN.jpg) |
+| [![](/media/1568057388887859205/3_1568561986446807041.jpg)](/media/1568057388887859205/3_1568561986446807041.jpg) |
 | :-: |
 
 The response by navalny reminds me of putin's speech in 2005: "For the russian people, [the collapse] became a real drama. Tens of millions of our citizens and countrymen found themselves outside Russian territory." putin likes using "split people" too.
@@ -111,7 +111,7 @@ navalny rose to prominence in 2013. That year he decided to stop attending the e
 
 The russian far-right was not pleased with navalny's non-attendance of the marches in 2013. sputnik & pogrom, a russian far-right outlet, published their analysis of navalny's potential reasons behind his decision to stop attending the marches. [Навальный и «Русский Марш»: история развода любящих супругов — Спутник и Погром](https://sputnikipogrom.com/politics/6055/navalny_russian_march/)
 
-| [![](https://pbs.twimg.com/media/FcUnVHzXkAEgj8a.jpg)](https://pbs.twimg.com/media/FcUnVHzXkAEgj8a.jpg) |
+| [![](/media/1568057388887859205/3_1568703289033723905.jpg)](/media/1568057388887859205/3_1568703289033723905.jpg) |
 | :-: |
 
 The first reason according to them is the "radicalization of the marches" that pushed navalny away. Let me be clear here: the ethnic russian marches were radical starting from their inaugural event in 2005. Again, scroll up and read the Der Spiegel piece from 2007 if you haven't.
@@ -123,7 +123,7 @@ Hence, navalny tamed his rhetoric to make his nationalism appeal to wider audien
 However, make no mistake, navalny never retracted his far-right outbursts, nor has he ever apologized for them.
 [Navalny's Failure To Renounce His Nationalist Past May Be Straining His Support](https://www.rferl.org/a/navalny-failure-to-renounce-nationalist-past-support/31122014.html)
 
-| [![](https://pbs.twimg.com/media/FcUrwslWYAISyT7.jpg)](https://pbs.twimg.com/media/FcUrwslWYAISyT7.jpg) |
+| [![](/media/1568057388887859205/3_1568708160810016770.jpg)](/media/1568057388887859205/3_1568708160810016770.jpg) |
 | :-: |
 
 In fact, navalny continued to exhibit his xenophobic ethnonationalist nature. In 2015 he published posts decrying russia's immigration policies allowing "Islamists" into the country. He does not hide his disgust with mosques being allowed in russia. [Алексей Навальный](https://navalny.com/t/92/)
@@ -184,7 +184,7 @@ So Novodvorskaya warned us of navalny's fascist nature back in 2011. Yavlinsky s
 
 First, russia's ruling elites are not a unified monolithic block that they present to the world. There are power struggles within their circles and we only get to see glimpses of them. The most notable example is probably sergei ivanov.
 
-| [![](https://pbs.twimg.com/media/FcYJFXmX0AAVdlT.jpg)](https://pbs.twimg.com/media/FcYJFXmX0AAVdlT.jpg) |
+| [![](/media/1568057388887859205/3_1568951508024152064.jpg)](/media/1568057388887859205/3_1568951508024152064.jpg) |
 | :-: |
 
 ivanov was once an influential and popular man in russia. During the Second Chechen War, he was russia's minister of defense. russia's successes in that war added to his clout. In 2007 he was appointed first deputy prime minister starting rumors that he was to replace putin.
@@ -206,7 +206,7 @@ Second, in 2010 navalny was allegedly paid $50,000 to run a defamation campaign 
 Third, navalny joined aeroflot's board of directors. The article below indicates that navalny's candidacy was offered and approved by alexander lebedev, a russian oligarch and former KGB and SVR officer. He also happens to be s. ivanov's close associate.
 [Навальный вошел в совет директоров "Аэрофлота"](https://lenta.ru/news/2012/06/25/aeroflot/)
 
-| [![](https://pbs.twimg.com/media/FcYRQ8KWIAEPyPb.jpg)](https://pbs.twimg.com/media/FcYRQ8KWIAEPyPb.jpg) |
+| [![](/media/1568057388887859205/3_1568960502910296065.jpg)](/media/1568057388887859205/3_1568960502910296065.jpg) |
 | :-: |
 
 There are other pieces that I found that seem to be a bit of a stretch. But to conclude, all I can say is that navalny is an ethnonationalist with troubling extreme far-right inclinations. He also has a shady past. And finally, he is most definitely not a sausage sandwich.

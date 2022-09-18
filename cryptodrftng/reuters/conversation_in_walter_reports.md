@@ -66,7 +66,7 @@ I've been asked to name the gentleman - it was [@OSINT88](https://twitter.com/OS
 [@OSINT88](https://twitter.com/OSINT88) FYI  The main source spreading "batshit conspiracy theories" about [@Reuters](https://twitter.com/Reuters) - [@Reuters](https://twitter.com/Reuters) itself: 
 
 
-| [![](https://pbs.twimg.com/media/FUCUpeSWYAAhnrr.jpg)](https://pbs.twimg.com/media/FUCUpeSWYAAhnrr.jpg) |
+| [![](/media/1538590308522463233/3_1531387313531543552.jpg)](/media/1538590308522463233/3_1531387313531543552.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

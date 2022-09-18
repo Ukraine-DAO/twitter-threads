@@ -29,7 +29,7 @@ It was just [@zencephalon](https://twitter.com/zencephalon), [@DefiHope](https:/
 
 We help to make that [#russiaNGMI](https://twitter.com/hashtag/russiaNGMI)
 
-| [![](https://pbs.twimg.com/media/FSrlc42WYAAQ5hv.jpg)](https://pbs.twimg.com/media/FSrlc42WYAAQ5hv.jpg) |
+| [![](/media/1525299116636622850/3_1525283708277776384.jpg)](/media/1525299116636622850/3_1525283708277776384.jpg) |
 | :-: |
 
 [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) broke the perception of NFTs as just silly cartoon images, to show how they can solve real life problems. 
@@ -67,7 +67,7 @@ We organized both online and offline to serve [@Ukraine](https://twitter.com/Ukr
 
 The trucks are partially powered by ETH donations - huge thank you to [@kmets_](https://twitter.com/kmets_) for being their big supporter ❤️
 
-| [![](https://pbs.twimg.com/media/FSrolu1X0AAaBtU.jpg)](https://pbs.twimg.com/media/FSrolu1X0AAaBtU.jpg) | [![](https://pbs.twimg.com/media/FSrolu2WUAAVfV-.jpg)](https://pbs.twimg.com/media/FSrolu2WUAAVfV-.jpg) |
+| [![](/media/1525299116636622850/3_1525287158743027712.jpg)](/media/1525299116636622850/3_1525287158743027712.jpg) | [![](/media/1525299116636622850/3_1525287158747123712.jpg)](/media/1525299116636622850/3_1525287158747123712.jpg) |
 | :-: | :-: |
 
 <blockquote class="twitter-tweet">
@@ -82,7 +82,7 @@ The trucks are partially powered by ETH donations - huge thank you to [@kmets_](
 It's a huge privilege for all of us to be able to help Ukraine, and also its defenders - through [@BackAndAlive](https://twitter.com/BackAndAlive). 
 [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine) 🇺🇦
 
-| [![](https://pbs.twimg.com/media/FSrpin9XsAMX2vh.jpg)](https://pbs.twimg.com/media/FSrpin9XsAMX2vh.jpg) |
+| [![](/media/1525299116636622850/3_1525288204869545987.jpg)](/media/1525299116636622850/3_1525288204869545987.jpg) |
 | :-: |
 
 Forever grateful for all the love we get - not sure where I would be right now without the mentorship & support 8of [@BlockGeekDima](https://twitter.com/BlockGeekDima). He gave me the most valuable advice at some point - to remain authentic, just the way I am. Very happy I have followed this advice so far.
@@ -137,7 +137,7 @@ We are under attack from every front.
 
 But we are together ❤️
 
-| [![](https://pbs.twimg.com/media/FSrwd-nWYAAH7zl.jpg)](https://pbs.twimg.com/media/FSrwd-nWYAAH7zl.jpg) |
+| [![](/media/1525299116636622850/3_1525295821633249280.jpg)](/media/1525299116636622850/3_1525295821633249280.jpg) |
 | :-: |
 
 "Real empowerment requires boundaries and clear expectations via common law or governance." [@drosewritings](https://twitter.com/drosewritings) 

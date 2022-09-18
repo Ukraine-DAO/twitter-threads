@@ -160,7 +160,7 @@ Silencing me is absolutely disgraceful considering how respectfully I behaved.
 
 Number of times the gentleman's behaviour is called out: 0.
 
-| [![](https://pbs.twimg.com/media/FUTDP7eX0AAH8aH.jpg)](https://pbs.twimg.com/media/FUTDP7eX0AAH8aH.jpg) |
+| [![](/media/1560471350803841025/3_1532564451643346944.jpg)](/media/1560471350803841025/3_1532564451643346944.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -233,14 +233,14 @@ I'm so grateful to be educated about genocide, what would I even know without th
 
 Now those petty people are going after [@KevinDuska](https://twitter.com/KevinDuska) under [@windchimeschime](https://twitter.com/windchimeschime) account - because he didn't let them bully me in peace. Nice.
 
-| [![](https://pbs.twimg.com/media/FUtAbR8XsAED3OW.jpg)](https://pbs.twimg.com/media/FUtAbR8XsAED3OW.jpg) |
+| [![](/media/1560471350803841025/3_1534390935467044865.jpg)](/media/1560471350803841025/3_1534390935467044865.jpg) |
 | :-: |
 
 I can't see any threats by [@KevinDuska](https://twitter.com/KevinDuska) to expose private information in the screenshot:)  I do find it interesting that they're trying to get him to take down this video: [twitter.com/kevinduska/sta…](https://twitter.com/kevinduska/status/1532558153417728007?s=21&t=tulbZTrk9_csY75j_kOLkA) Maybe [@GrammarDomin8rx](https://twitter.com/GrammarDomin8rx) or someone else knows who runs [@windchimeschime](https://twitter.com/windchimeschime) account? [twitter.com/windchimeschim…](https://twitter.com/windchimeschime/status/1534289768384802817)
 
 So according to [@windchimeschime](https://twitter.com/windchimeschime) attacking a Ukrainian is ok, no problem whatsoever, but being called out about it by [@KevinDuska](https://twitter.com/KevinDuska) = "disrupting from the purpose of helping Ukraine" 😂 Alright:)
 
-| [![](https://pbs.twimg.com/media/FUujtOhWYAEr0kw.jpg)](https://pbs.twimg.com/media/FUujtOhWYAEr0kw.jpg) |
+| [![](/media/1560471350803841025/3_1534500095437201409.jpg)](/media/1560471350803841025/3_1534500095437201409.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -252,7 +252,7 @@ So according to [@windchimeschime](https://twitter.com/windchimeschime) attackin
 
 To summarise my view on this situation:
 
-| [![](https://pbs.twimg.com/media/FUukQ_QWIAIDwiO.jpg)](https://pbs.twimg.com/media/FUukQ_QWIAIDwiO.jpg) |
+| [![](/media/1560471350803841025/3_1534500709814640642.jpg)](/media/1560471350803841025/3_1534500709814640642.jpg) |
 | :-: |
 
 I didn't have a fallout - a few hosts repeatedly tolerated me being publicly denigrated and then engaged in the same themselves + also started harrassing me in the spaces I was co-hosting with [@ndboulton](https://twitter.com/ndboulton). Definitely not going back - their egos are valued more than 🇺🇦 there
@@ -286,7 +286,7 @@ I'm making a transcript of this now, thank you [@KevinDuska](https://twitter.com
 
 Thank you for giving consent to me disclosing the DMs, here they are. This was after repeated abuse when [@UkrainesGrains](https://twitter.com/UkrainesGrains) / @HansWorldTrav tried joining mental health support spaces I was co-hosting. This is what he calls "100% pro-Ukraine" 🤣
 
-| [![](https://pbs.twimg.com/media/FUxJdXPXEAcBWhp.jpg)](https://pbs.twimg.com/media/FUxJdXPXEAcBWhp.jpg) | [![](https://pbs.twimg.com/media/FUxJdWdWQAg8KVu.jpg)](https://pbs.twimg.com/media/FUxJdWdWQAg8KVu.jpg) | [![](https://pbs.twimg.com/media/FUxJdWcX0AY5-bz.jpg)](https://pbs.twimg.com/media/FUxJdWcX0AY5-bz.jpg) | [![](https://pbs.twimg.com/media/FUxJdWcX0AM04Ee.jpg)](https://pbs.twimg.com/media/FUxJdWcX0AM04Ee.jpg) |
+| [![](/media/1560471350803841025/3_1534682341829971975.jpg)](/media/1560471350803841025/3_1534682341829971975.jpg) | [![](/media/1560471350803841025/3_1534682341620203528.jpg)](/media/1560471350803841025/3_1534682341620203528.jpg) | [![](/media/1560471350803841025/3_1534682341616111622.jpg)](/media/1560471350803841025/3_1534682341616111622.jpg) | [![](/media/1560471350803841025/3_1534682341616111619.jpg)](/media/1560471350803841025/3_1534682341616111619.jpg) |
 | :-: | :-: | :-: | :-: |
 
 <blockquote class="twitter-tweet">
@@ -305,19 +305,19 @@ Thank you for giving consent to me disclosing the DMs, here they are. This was a
 Note how there isn't a single time where I insult him. This is what I have to put up with while my nation is suffering [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) 
 Look at this sense of self-importance, entitlement, arrogance and absolute lack of any empathy.
 
-| [![](https://pbs.twimg.com/media/FUxKLH6XwAMRawL.jpg)](https://pbs.twimg.com/media/FUxKLH6XwAMRawL.jpg) | [![](https://pbs.twimg.com/media/FUxKLH9X0AA8Ooc.jpg)](https://pbs.twimg.com/media/FUxKLH9X0AA8Ooc.jpg) | [![](https://pbs.twimg.com/media/FUxKLH9WQAA8Tfn.jpg)](https://pbs.twimg.com/media/FUxKLH9WQAA8Tfn.jpg) | [![](https://pbs.twimg.com/media/FUxKLITWIAA376Q.jpg)](https://pbs.twimg.com/media/FUxKLITWIAA376Q.jpg) |
+| [![](/media/1560471350803841025/3_1534683127989387267.jpg)](/media/1560471350803841025/3_1534683127989387267.jpg) | [![](/media/1560471350803841025/3_1534683128001974272.jpg)](/media/1560471350803841025/3_1534683128001974272.jpg) | [![](/media/1560471350803841025/3_1534683128001871872.jpg)](/media/1560471350803841025/3_1534683128001871872.jpg) | [![](/media/1560471350803841025/3_1534683128094138368.jpg)](/media/1560471350803841025/3_1534683128094138368.jpg) |
 | :-: | :-: | :-: | :-: |
 
 BTW, I'm dealing with a disability and I haven't seen the "good ol' London" for over 3 months because I'm constantly at home working. [@UkrainesGrains](https://twitter.com/UkrainesGrains) / [@HansWorldTravls](https://twitter.com/HansWorldTravls) knew that when he wrote all this. Have a great night, everyone
 
-| [![](https://pbs.twimg.com/media/FUxK6XeWUAAEMiO.jpg)](https://pbs.twimg.com/media/FUxK6XeWUAAEMiO.jpg) |
+| [![](/media/1560471350803841025/3_1534683939620671488.jpg)](/media/1560471350803841025/3_1534683939620671488.jpg) |
 | :-: |
 
 Me: *listens to the dude shouting that I'm an idiot and a genocide supporter, as bad as russians who are committing genocide* (see 1/ of this 🧵)
 
 🇺🇦 "supporters": - Sweeping generalizing statements like what Alona said, are completely unacceptable! Why exaggerate?!
 
-| [![](https://pbs.twimg.com/media/Fafoa_6X0AEo0sY.jpg)](https://pbs.twimg.com/media/Fafoa_6X0AEo0sY.jpg) |
+| [![](/media/1560471350803841025/3_1560471346437672961.jpg)](/media/1560471350803841025/3_1560471346437672961.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

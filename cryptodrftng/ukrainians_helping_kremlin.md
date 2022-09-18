@@ -10,7 +10,7 @@ Author: [Stas Hreshchyshyn](https://twitter.com/stsx92)
 
 Another beautiful example of how russians work: fragmentation. You take a "good russian" open all the doors for them using money, oligarchs, "great" russian culture, grants for spreading democracy and fighting corruption etc. And they start singing a song about bad Kremlin.
 
-| [![](https://pbs.twimg.com/media/FUe_4vVWIAck-sk.jpg)](https://pbs.twimg.com/media/FUe_4vVWIAck-sk.jpg) |
+| [![](/media/1533409246863208451/3_1533405179642519559.jpg)](/media/1533409246863208451/3_1533405179642519559.jpg) |
 | :-: |
 
 They tweet stupid things like this one "Ukrainians don't understand that they help Kremlin..." when Ukrainians don't agree to give them any kind of legacy or authority.

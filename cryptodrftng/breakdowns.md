@@ -75,7 +75,7 @@ Today is mum's birthday. The only thing I really wish is for her to simply be al
 
 As this is happening, I'm the one who's called hateful, clickbaiter, disaster capitalist. My parents are now effectively refugees, displaced within the country. There is a filtration camp 50km from my home town. People online tell me I should be thankful I'm not there. Дякую.
 
-| [![](https://pbs.twimg.com/media/FU9I3NxWQAAJU_y.jpg)](https://pbs.twimg.com/media/FU9I3NxWQAAJU_y.jpg) |
+| [![](/media/1535531355374772225/3_1535526111383273472.jpg)](/media/1535531355374772225/3_1535526111383273472.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -93,5 +93,5 @@ They learned how to drag me out of that dark place in my mind. You know, there i
 
 As a 🇺🇦 person, you often sit down and think "how much stronger do I need to become? At what point do I die from pain?
 
-| [![](https://pbs.twimg.com/media/FU9NoOLWIAANq-k.jpg)](https://pbs.twimg.com/media/FU9NoOLWIAANq-k.jpg) |
+| [![](/media/1535531355374772225/3_1535531351352418304.jpg)](/media/1535531355374772225/3_1535531351352418304.jpg) |
 | :-: |

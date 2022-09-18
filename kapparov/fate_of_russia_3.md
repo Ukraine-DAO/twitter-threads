@@ -9,7 +9,7 @@ Part 1 & 2 recap:
 - The Russian Federation is a colonial empire as expressed in its internal political and economic structure.
 - In its foreign policy the empire uses intimidation for economic and influence gain.
 
-| [![](https://pbs.twimg.com/media/FVsCAu3WYAIiC2N.jpg)](https://pbs.twimg.com/media/FVsCAu3WYAIiC2N.jpg) |
+| [![](/media/1539705664771182593/3_1538825909280595970.jpg)](/media/1539705664771182593/3_1538825909280595970.jpg) |
 | :-: |
 
 - When intimidation doesn't work the empire uses brute force.
@@ -37,7 +37,7 @@ We finally get to discuss how to stop the centuries-long trend of genocidal wars
 
 Some argue that sanctions don't topple regimes and quickly point to Iran, North Korea, or Cuba. And they are partially right. Iran has been subjected to economic sanctions for the past 40 years. Yet the country remains to be a significant regional player, threatening Israel, etc.
 
-| [![](https://pbs.twimg.com/media/FVsHIPGWQAEfFKk.jpg)](https://pbs.twimg.com/media/FVsHIPGWQAEfFKk.jpg) | [![](https://pbs.twimg.com/media/FVsHIPaWQAIGnOm.jpg)](https://pbs.twimg.com/media/FVsHIPaWQAIGnOm.jpg) |
+| [![](/media/1539705664771182593/3_1538831535750660097.jpg)](/media/1539705664771182593/3_1538831535750660097.jpg) | [![](/media/1539705664771182593/3_1538831535834546178.jpg)](/media/1539705664771182593/3_1538831535834546178.jpg) |
 | :-: | :-: |
 
 But such thinking does not take into account Russia's colonial war of aggression against Ukraine. Iran is not involved in a large-scale war (when they were they had significant foreign support). Ukraine *is* the hope to end the cycle of Russian aggression. [twitter.com/Kozatsky_D/sta…](https://twitter.com/Kozatsky_D/status/1526134824532168706?s=20&t=Frjp0u22iBA_aGts_zaYcg)
@@ -54,7 +54,7 @@ The war exposes Russia to a plethora of risks, that could be fully exploited thr
 - Arming Ukraine with what the Ukrainians are requesting 
 The empire survived WW1, was partially decolonized in 1991, and quickly regressed to its old colonial ways.
 
-| [![](https://pbs.twimg.com/media/FVsh9vXXoAEe2Ri.jpg)](https://pbs.twimg.com/media/FVsh9vXXoAEe2Ri.jpg) |
+| [![](/media/1539705664771182593/3_1538861042247376897.jpg)](/media/1539705664771182593/3_1538861042247376897.jpg) |
 | :-: |
 
 In 1991 the can got kicked down the road. The West has the rare opportunity to potentially decolonize an empire without a direct confrontation. Despite the colonial war of aggression against Ichkeria/Chechnya, the world turned a blind eye in the hopes of integration in the 1990s.
@@ -66,7 +66,7 @@ How would an embargo help? First, it would decrease export cash inflows. For the
 
 While a full embargo is impossible (China and India), an embargo from the West and an oil production expansion by the OPEC could create an economic climate for Russia reminiscent of the 1980s leading up to the collapse of the USSR. [OPEC+ Begins Grappling with Next Move as US Presses for More Oil](https://www.bloomberg.com/news/articles/2022-06-17/opec-begins-grappling-with-next-move-as-us-presses-for-more-oil)
 
-| [![](https://pbs.twimg.com/media/FVssK7UWIAA9o1F.png)](https://pbs.twimg.com/media/FVssK7UWIAA9o1F.png) |
+| [![](/media/1539705664771182593/3_1538872263910498304.png)](/media/1539705664771182593/3_1538872263910498304.png) |
 | :-: |
 
 The USSR at the time was invading Afghanistan. However, if that is the strategy that the collective West has chosen, I would advise against such an approach. It would take years, cost hundreds of thousands of lives, and would simply turn Russia into North Korea.
@@ -74,17 +74,17 @@ The USSR at the time was invading Afghanistan. However, if that is the strategy 
 There would be no collapse. The empire is heavily centralized and lacks the administrative divisions of the USSR.
 Second, an embargo would cut off Russia's access to the critical technologies that are supplied by the West. The source is RU, no western bias [foresight-journal.hse.ru/data/2016/04/0…](https://foresight-journal.hse.ru/data/2016/04/03/1127809415/5-Salnikov%20et%20al-53-67.pdf)
 
-| [![](https://pbs.twimg.com/media/FVsyXiJX0AAAcfh.jpg)](https://pbs.twimg.com/media/FVsyXiJX0AAAcfh.jpg) |
+| [![](/media/1539705664771182593/3_1538879077561651200.jpg)](/media/1539705664771182593/3_1538879077561651200.jpg) |
 | :-: |
 
 Without access to Western tech, most of Russia's heavy industry would cease production, other industries would suffer as well (e.g. modern agriculture is quite digitized). An embargo would put the Russian economy in a chokehold combined with the war burdens. For reference:
 
-| [![](https://pbs.twimg.com/media/FVs547BXsAArbIQ.png)](https://pbs.twimg.com/media/FVs547BXsAArbIQ.png) |
+| [![](/media/1539705664771182593/3_1538887347756052480.png)](/media/1539705664771182593/3_1538887347756052480.png) |
 | :-: |
 
 The economic strains would encroach into the private lives of the richest citizens of the empire, those living in the metropole (Moscow). Economic pressure does not discriminate by political views. That alone would not be sufficient to cause the sufficient discontent, however.
 
-| [![](https://pbs.twimg.com/media/FVs5Wn0WIAEiys9.jpg)](https://pbs.twimg.com/media/FVs5Wn0WIAEiys9.jpg) |
+| [![](/media/1539705664771182593/3_1538886758485598209.jpg)](/media/1539705664771182593/3_1538886758485598209.jpg) |
 | :-: |
 
 This gets us to armaments deliveries to Ukraine. The Ukrainians are not asking for a foreign intervention to assist them. They are simply asking for weapons. Sufficient deliveries would allow the Ukrainians to inflict heavy casualties upon the Russians. [Howitzers Proving Very Effective Against Russians, DOD Official Says](https://www.defense.gov/News/News-Stories/Article/Article/3032926/howitzers-proving-very-effective-against-russians-dod-official-says/)
@@ -93,7 +93,7 @@ If heavy casualties are inflicted upon the Russians in a short period of time, i
 
 Why? When the Russians annexed the peninsula in 2014, the Russian public underwent the "Crimea syndrome," where the government's public support shot up driven by their ultra-nationalistic pride in the "achievement." Putin's ratings shot up to 87% from 60% (Levada Center).
 
-| [![](https://pbs.twimg.com/media/FVs_bevWAAEeT0S.png)](https://pbs.twimg.com/media/FVs_bevWAAEeT0S.png) |
+| [![](/media/1539705664771182593/3_1538893439017811969.png)](/media/1539705664771182593/3_1538893439017811969.png) |
 | :-: |
 
 If Crimea is taken back by Ukraine, I hypothesize that the Russian public would undergo the reverse of the "Crimea syndrome."
@@ -101,12 +101,12 @@ Embargo economic pressures, the shock value of quick and heavy casualties, and t
 
 Instead of drip-level deliveries and sanctions against Russia, attempting to exhaust the empire, Ukraine should be flooded with the requested equipment and an embargo should be imposed on Russia. This would end the empire through the political opportunism of the ruling elites.
 
-| [![](https://pbs.twimg.com/media/FVtEMoWWYAMRVtx.jpg)](https://pbs.twimg.com/media/FVtEMoWWYAMRVtx.jpg) |
+| [![](/media/1539705664771182593/3_1538898681457434627.jpg)](/media/1539705664771182593/3_1538898681457434627.jpg) |
 | :-: |
 
 NB: No country of import considers Crimea to be a legitimate part of Russia. The Russian nuclear doctrine, hence, is not recognized. The Russians know it. They want the world to think they are crazy. They are not, neither they are stupid. It is a gopnik tactic of intimidation.
 
-| [![](https://pbs.twimg.com/media/FVtw4nBWIAMmn8i.jpg)](https://pbs.twimg.com/media/FVtw4nBWIAMmn8i.jpg) |
+| [![](/media/1539705664771182593/3_1538947815526768643.jpg)](/media/1539705664771182593/3_1538947815526768643.jpg) |
 | :-: |
 
 There are historical precedents where the weakened state of the Russian central authorities sometimes accompanied by economic struggles sparked revolutions and rebellions. Let's briefly consider 1905, 1917, and 1941 as examples.
@@ -115,7 +115,7 @@ In 1904, the Russian and Japanese empires went to war. The Russian Empire, being
 
 However, in 1905 Russia was defeated. Russia lost its Pacific and Baltic fleets. Port Arthur, "leased" from the Chinese was ceded to the Japanese, half of the Sakhalin island was occupied. The humiliating defeat along with the economic strains precipitated the 1905 revolution.
 
-| [![](https://pbs.twimg.com/media/FVt47QMXwAESCAU.jpg)](https://pbs.twimg.com/media/FVt47QMXwAESCAU.jpg) |
+| [![](/media/1539705664771182593/3_1538956657031626753.jpg)](/media/1539705664771182593/3_1538956657031626753.jpg) |
 | :-: |
 
 The revolution failed to topple the regime but succeeded in creating a technically constitutional monarchy with the establishment of the State Duma. Over 18,000 people were killed. Stolypin was appointed prime minister who employed a heavyhanded approach.
@@ -132,7 +132,7 @@ Notice the pattern? Bad economy, war losses, discontent with the authorities. An
 
 They established a guerrilla movement for independence under the leadership of Khasan Israilov, a Chechen journalist and poet. The Soviet government did not respond immediately and in 1941 they were too busy. The insurrection started small but went into full gear in 1942.
 
-| [![](https://pbs.twimg.com/media/FVw2ZXkWUAE6Q2n.jpg)](https://pbs.twimg.com/media/FVw2ZXkWUAE6Q2n.jpg) |
+| [![](/media/1539705664771182593/3_1539164982104969217.jpg)](/media/1539705664771182593/3_1539164982104969217.jpg) |
 | :-: |
 
 The same year the rebels allegedly received support from the Third Reich. The Soviets responded with carpet bombings and reprisals against local civilians. By 1944 the rebellion was quelled and the survivors were deported en masse to Kazakhstan and Siberia ['There Was No Water, No Food' -- Chechens Remember Horror Of 1944 Deportations](https://www.rferl.org/a/chechen-deportation-1944-survivors/25273614.html)
@@ -141,14 +141,14 @@ So, we had a look at ~40 years of the empire's history and every military failur
 
 Adequately supported, supplied with requested equipment, Ukraine can be a lot worse for the empire than Afghanistan. An outright military defeat of the empire, with both Crimea and the Donbas retaken by Ukraine, could be a disaster for Russia, while under sanctions.
 
-| [![](https://pbs.twimg.com/media/FVyQ-WfX0AMsNtq.jpg)](https://pbs.twimg.com/media/FVyQ-WfX0AMsNtq.jpg) |
+| [![](/media/1539705664771182593/3_1539264573517320195.jpg)](/media/1539705664771182593/3_1539264573517320195.jpg) |
 | :-: |
 
 Why? An outright military victory of the Ukrainians would be a cultural shock to the Russians. The empire's propaganda for many decades told the Russians of two things:
 - the Ukrainians are inferior to the Russians
 - the Ukrainians are just inferior Russians
 
-| [![](https://pbs.twimg.com/media/FVyVY06XoAExjCj.jpg)](https://pbs.twimg.com/media/FVyVY06XoAExjCj.jpg) |
+| [![](/media/1539705664771182593/3_1539269426406727681.jpg)](/media/1539705664771182593/3_1539269426406727681.jpg) |
 | :-: |
 
 The messages are not unique to the current regime in the Kremlin. The Ukrainians had their culture either appropriated or destroyed by the metropole, under tsarist and soviet regimes. Here's a great thread on how soviet movies denigrated the Ukrainians. [twitter.com/fermerzpolissi…](https://twitter.com/fermerzpolissia/status/1538769241041674240?s=21&t=AAsUEnDrNYbBJeyBszYLJQ)
@@ -162,19 +162,19 @@ The messages are not unique to the current regime in the Kremlin. The Ukrainians
 
 Of course, the Ukrainians were not the only targets of the Russian colonial destruction. No former Soviet republic/colony, experienced a friendly takeover by the metropole. In the prior parts, I also discussed why regions within the Federation are colonies (Moscow in Central FD)
 
-| [![](https://pbs.twimg.com/media/FVykTyKWIAM9hl3.jpg)](https://pbs.twimg.com/media/FVykTyKWIAM9hl3.jpg) |
+| [![](/media/1539705664771182593/3_1539285832443502595.jpg)](/media/1539705664771182593/3_1539285832443502595.jpg) |
 | :-: |
 
 The Russians consider their imperial past to be a force for good civilizing the neighboring "savages." It is a fairy tale that they have been and still believe in. The version of history *they* know is based on falsehoods and missing facts. They were never held accountable.
 
-| [![](https://pbs.twimg.com/media/FVymlHzXwAAF0m1.jpg)](https://pbs.twimg.com/media/FVymlHzXwAAF0m1.jpg) |
+| [![](/media/1539705664771182593/3_1539288329333751808.jpg)](/media/1539705664771182593/3_1539288329333751808.jpg) |
 | :-: |
 
 [@EricaMarat](https://twitter.com/EricaMarat) and [@BotakozKassymb1](https://twitter.com/BotakozKassymb1) wrote an excellent piece on Russia's imperial past denial. They say that "Decolonizing Russia and challenging its imperial innocence will not be easy..." I won't summarize it, read it all: [Time to Question Russia’s Imperial Innocence – PONARS Eurasia](https://www.ponarseurasia.org/time-to-question-russias-imperial-innocence/)
 
 By denying their genocidal past, having a culture filled with ethnic Russian exceptionalism, and maintaining a colonial empire feeding the metropole, the Russians laid the grounds for something terrible, that no Western scholar or pundit is *yet* saying: Russia is a Nazi country.
 
-| [![](https://pbs.twimg.com/media/FVyrykhWAAEeYag.jpg)](https://pbs.twimg.com/media/FVyrykhWAAEeYag.jpg) |
+| [![](/media/1539705664771182593/3_1539294057939206145.jpg)](/media/1539705664771182593/3_1539294057939206145.jpg) |
 | :-: |
 
 Yes, the Russian Federation is not just an empire. Nazi Russia is an empire. In Germany post-WW1 rampant revanchism and jingoism led to the rise of the NSDAP. The problem in Russia is a lot more deeply rooted, as ethnic Russian exceptionalism has been cultivated for centuries.
@@ -207,12 +207,12 @@ In the past 20 years, Russia started replicating the archnemesis of the old in t
 
 However, some major features introduced by the NSDAP are also imitated by Russia. First is Yunarmiya, or Youth Army. The youth organization was established in 2015 by a presidential decree. Headquartered in Moscow, the organization is subordinate to the MOD via the founding orgs.
 
-| [![](https://pbs.twimg.com/media/FV4QbPZWIAIPUpi.jpg)](https://pbs.twimg.com/media/FV4QbPZWIAIPUpi.jpg) |
+| [![](/media/1539705664771182593/3_1539686182782640130.jpg)](/media/1539705664771182593/3_1539686182782640130.jpg) |
 | :-: |
 
 The official mission of the organization includes promoting state policies among the youth, developing the strength of character of its members, preparing future patriots to defend the motherland, etc. Reminds you of anything? To me, it is highly reminiscent of the Hitlerjugend.
 
-| [![](https://pbs.twimg.com/media/FV4Su10XoAAvRMo.jpg)](https://pbs.twimg.com/media/FV4Su10XoAAvRMo.jpg) |
+| [![](/media/1539705664771182593/3_1539688718537302016.jpg)](/media/1539705664771182593/3_1539688718537302016.jpg) |
 | :-: |
 
 Yunarmiya does have something that the Hitlerjugend did not have. The Russians made a highly militaristic website for their knock-off. Just browse it, one does not need to understand Russian to "enjoy" the visuals: [Юнармия](https://yunarmy.ru/)
@@ -240,7 +240,7 @@ Back in 1995 the president of Ichkeria, Dzhokhar Dudayev, named the fledgling Ru
 
 In 2014, following the Russian invasion of Ukraine, the term "rashism" became common in Ukraine. However, no matter what labels are attached to it, it is still a Russian version Nazism, that was cultivated for at least a century and went into overdrive in the past 20 years.
 
-| [![](https://pbs.twimg.com/media/FV4akbaXEAI4Vkk.jpg)](https://pbs.twimg.com/media/FV4akbaXEAI4Vkk.jpg) |
+| [![](/media/1539705664771182593/3_1539697335743221762.jpg)](/media/1539705664771182593/3_1539697335743221762.jpg) |
 | :-: |
 
 Here is some anecdotal evidence of ethnic Russian exceptionalism: [twitter.com/MuKappa/status…](https://twitter.com/MuKappa/status/1533838923520167936?s=20&t=2wJGKiyETes-KnAEHJeSug)

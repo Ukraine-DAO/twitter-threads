@@ -12,7 +12,7 @@ Ukraine's only real problem with Nazism is r*ssia and its apologists of [#Genoci
 
 Azov are our heroes and they play a crucial role in defending Ukraine against r*ssian genocidal invasion, which is the only reason r*ssua is so butthurt about them.  [twitter.com/VassilisDelta/…](https://twitter.com/VassilisDelta/status/1528040002655031296)
 
-| [![](https://pbs.twimg.com/media/FTS8DobXwAAgULD.jpg)](https://pbs.twimg.com/media/FTS8DobXwAAgULD.jpg) |
+| [![](/media/1544350476224925696/3_1528052944163291136.jpg)](/media/1544350476224925696/3_1528052944163291136.jpg) |
 | :-: |
 
 r*ssian "army" is only capable of raping, looting, and murdering civilians. Totally makes sense that they hate Azov and brainwashed everyone about them but unlike them, we have credible info :) [@VassilisDelta](https://twitter.com/VassilisDelta) 
@@ -28,7 +28,7 @@ What Azov ISN'T:
 ❌ militia 
 ❌ far-right battalion
 
-| [![](https://pbs.twimg.com/media/FTS8ELYWUAIaSl5.jpg)](https://pbs.twimg.com/media/FTS8ELYWUAIaSl5.jpg) |
+| [![](/media/1544350476224925696/3_1528052953545854978.jpg)](/media/1544350476224925696/3_1528052953545854978.jpg) |
 | :-: |
 
 Popular Ukrainian joke:
@@ -39,7 +39,7 @@ Popular Ukrainian joke:
 
 [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1527497258035462146?s=21&t=q4jZsCsi-I8l2UxE_4gVVg)
 
-| [![](https://pbs.twimg.com/media/FTS9Y5TWQAEd3S2.jpg)](https://pbs.twimg.com/media/FTS9Y5TWQAEd3S2.jpg) |
+| [![](/media/1544350476224925696/3_1528054408981921793.jpg)](/media/1544350476224925696/3_1528054408981921793.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

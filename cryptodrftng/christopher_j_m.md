@@ -16,7 +16,7 @@ He is personally responsible for creating a completely wrong perception of [@Pol
 
 [#ꑭ](https://twitter.com/hashtag/%EA%91%AD)
 
-| [![](https://pbs.twimg.com/media/FS6ybNQX0AEXpRq.jpg)](https://pbs.twimg.com/media/FS6ybNQX0AEXpRq.jpg) |
+| [![](/media/1560671494950506496/3_1526353504209719297.jpg)](/media/1560671494950506496/3_1526353504209719297.jpg) |
 | :-: |
 
 [#ꑭ](https://twitter.com/hashtag/%EA%91%AD)
@@ -50,7 +50,7 @@ We are preparing an update explaining the symbol -  [#ꑭ](https://twitter.com/h
 
 Thank you, [@Marcos65239408](https://twitter.com/Marcos65239408) 💙💛 [#ꑭ](https://twitter.com/hashtag/%EA%91%AD) [#SaveAzov](https://twitter.com/hashtag/SaveAzov) [#SaveMariupol](https://twitter.com/hashtag/SaveMariupol) [#SaveAzovstalDefenders](https://twitter.com/hashtag/SaveAzovstalDefenders) [@Polk_Azov](https://twitter.com/Polk_Azov)
 
-| [![](https://pbs.twimg.com/media/FS63caoWUAIyRg3.jpg)](https://pbs.twimg.com/media/FS63caoWUAIyRg3.jpg) |
+| [![](/media/1560671494950506496/3_1526359022537953282.jpg)](/media/1560671494950506496/3_1526359022537953282.jpg) |
 | :-: |
 
 An article by [@ChristopherJM](https://twitter.com/ChristopherJM) titled "In Ukraine, Ultranationalist Militia Strikes Fear In Some Quarters". Full of absolute nonsense. [#ꑭ](https://twitter.com/hashtag/%EA%91%AD) 
@@ -118,5 +118,5 @@ Must read on this
 
 [@ChristopherJM](https://twitter.com/ChristopherJM), Jan 2022. Unbelievable lack of competence. [#SaveAzov](https://twitter.com/hashtag/SaveAzov) [#ꑭ](https://twitter.com/hashtag/%EA%91%AD)
 
-| [![](https://pbs.twimg.com/media/FaiecsgWQAAf0HT.jpg)](https://pbs.twimg.com/media/FaiecsgWQAAf0HT.jpg) | [![](https://pbs.twimg.com/media/FaiecsYX0AInJor.jpg)](https://pbs.twimg.com/media/FaiecsYX0AInJor.jpg) | [![](https://pbs.twimg.com/media/FaiecsYXEAYX3-v.jpg)](https://pbs.twimg.com/media/FaiecsYXEAYX3-v.jpg) | [![](https://pbs.twimg.com/media/FaiecsiXoAAo9C1.jpg)](https://pbs.twimg.com/media/FaiecsiXoAAo9C1.jpg) |
+| [![](/media/1560671494950506496/3_1560671486704238592.jpg)](/media/1560671494950506496/3_1560671486704238592.jpg) | [![](/media/1560671494950506496/3_1560671486670786562.jpg)](/media/1560671494950506496/3_1560671486670786562.jpg) | [![](/media/1560671494950506496/3_1560671486670737414.jpg)](/media/1560671494950506496/3_1560671486670737414.jpg) | [![](/media/1560671494950506496/3_1560671486712717312.jpg)](/media/1560671494950506496/3_1560671486712717312.jpg) |
 | :-: | :-: | :-: | :-: |

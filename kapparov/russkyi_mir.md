@@ -7,17 +7,17 @@ Russkyi mir - Русский мир
 
 This construct is quite loaded and does not have an exact translation. The most common translation is the "Russian world." However, it could also be translated as "Russian peace," akin to pax russica.
 
-| [![](https://pbs.twimg.com/media/FSVntSDXoAMcDo3.jpg)](https://pbs.twimg.com/media/FSVntSDXoAMcDo3.jpg) |
+| [![](/media/1523740248920199168/3_1523738076572524547.jpg)](/media/1523740248920199168/3_1523738076572524547.jpg) |
 | :-: |
 
 This concept first emerged in the 11th century and had a religious connotation with strong associations with the Orthodox church.
 
-| [![](https://pbs.twimg.com/media/FSVoYDsXIAMlMcB.jpg)](https://pbs.twimg.com/media/FSVoYDsXIAMlMcB.jpg) |
+| [![](/media/1523740248920199168/3_1523738811452301315.jpg)](/media/1523740248920199168/3_1523738811452301315.jpg) |
 | :-: |
 
 It later reemerged during the Russian colonial era of the 18th and 19th centuries, accompanied by the imperial efforts to Russify newly captured territories either through assimilation or extermination (yes, genocide, e.g. Circassian genocide).
 
-| [![](https://pbs.twimg.com/media/FSVoC7xXwAUqWM5.jpg)](https://pbs.twimg.com/media/FSVoC7xXwAUqWM5.jpg) |
+| [![](/media/1523740248920199168/3_1523738448548577285.jpg)](/media/1523740248920199168/3_1523738448548577285.jpg) |
 | :-: |
 
 The concept had little success during Soviet times. However, with the fall of the USSR and the associated ideological void, Russkyi mir rose again in Russia in the 1990s. However, the construct did not coalesce into something concrete and had multiple interpretations.
@@ -26,14 +26,14 @@ Some maintained an ethnocentric point of view that Russkyi mir would incorporate
 
 Others maintained a more ambitious stance claiming that anyone speaking Russian in Russia and abroad should be included. One such person is Vladislav Surkov, the self-proclaimed éminence grise of Russia. You might have seen him in the news, he was arrested recently.
 
-| [![](https://pbs.twimg.com/media/FSVo1sUXIAE5dNf.jpg)](https://pbs.twimg.com/media/FSVo1sUXIAE5dNf.jpg) |
+| [![](/media/1523740248920199168/3_1523739320573698049.jpg)](/media/1523740248920199168/3_1523739320573698049.jpg) |
 | :-: |
 
 Anyway, the Russkyi mir construct became apparent as a useful soft power tool to project influence in the former Soviet states and other countries with a large Russian-speaking diaspora. Putin understood that.
 
 In 2007 he issued a decree founding the Russkyi Mir Foundation, with the claimed goal of promoting Russian cultural education worldwide. Obviously, it was another state-sponsored organization for soft-power projection.
 
-| [![](https://pbs.twimg.com/media/FSVpCryWYAE7k9o.jpg)](https://pbs.twimg.com/media/FSVpCryWYAE7k9o.jpg) |
+| [![](/media/1523740248920199168/3_1523739543769341953.jpg)](/media/1523740248920199168/3_1523739543769341953.jpg) |
 | :-: |
 
 In Russian state propaganda, Russkyi mir usage started ramping up in 2013 and went into full gear in post-Crimea annexation. The war in Donbas attracted a large number of Russian volunteers enamored by the Russkyi mir construct.

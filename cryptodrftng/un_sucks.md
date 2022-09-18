@@ -21,7 +21,7 @@ Thank you [@NaomiOhReally](https://twitter.com/NaomiOhReally) [@IrishTimes](http
 
 [Foreigners travelling to Ukraine to fight invasion will be given citizenship – as it happened](https://www.theguardian.com/world/live/2022/mar/08/ukraine-news-russia-war-vladimir-putin-volodymyr-zelenskiy-kyiv-russian-invasion-live-latest-updates)
 
-| [![](https://pbs.twimg.com/media/FNV5yeIXsAMqZA6.jpg)](https://pbs.twimg.com/media/FNV5yeIXsAMqZA6.jpg) |
+| [![](/media/1553127555435315204/3_1501239958786519043.jpg)](/media/1553127555435315204/3_1501239958786519043.jpg) |
 | :-: |
 
 Tweet posted by [@UN](https://twitter.com/UN) at 15:30 UTC 08/03/2022. Just over an hour ago. 
@@ -32,7 +32,7 @@ Tweet posted by [@UN](https://twitter.com/UN) at 15:30 UTC 08/03/2022. Just over
 
 [twitter.com/un/status/1501…](https://twitter.com/un/status/1501218687595986949?s=21)
 
-| [![](https://pbs.twimg.com/media/FNV5zYlXoAg0oDn.jpg)](https://pbs.twimg.com/media/FNV5zYlXoAg0oDn.jpg) |
+| [![](/media/1553127555435315204/3_1501239974477406216.jpg)](/media/1553127555435315204/3_1501239974477406216.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

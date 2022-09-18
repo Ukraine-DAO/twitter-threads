@@ -24,7 +24,7 @@ Author: [Альона Шевченко](https://twitter.com/cryptodrftng)
 
 🚚 Operations are run by my parents. More info - here: [Day 48. Ukraine DAO Trucks Fleet.](https://cryptodrftng.substack.com/p/day-47-ukraine-dao-trucks-fleet?s=w)
 
-| [![](https://pbs.twimg.com/media/FThx9qsXwAE_rKc.jpg)](https://pbs.twimg.com/media/FThx9qsXwAE_rKc.jpg) |
+| [![](/media/1532560059300978688/3_1529097377738637313.jpg)](/media/1532560059300978688/3_1529097377738637313.jpg) |
 | :-: |
 
 Article in Spanish by [@elindepcom](https://twitter.com/elindepcom)
@@ -38,7 +38,7 @@ Article in Spanish by [@elindepcom](https://twitter.com/elindepcom)
     &mdash; <a href="https://twitter.com/fcarrionmolina/status/1521775262093950976">Link</a>
 </blockquote>
 
-| [![](https://pbs.twimg.com/media/FThzYQ1WUAAz4AV.jpg)](https://pbs.twimg.com/media/FThzYQ1WUAAz4AV.jpg) | [![](https://pbs.twimg.com/media/FThzpgYX0AAIwxr.jpg)](https://pbs.twimg.com/media/FThzpgYX0AAIwxr.jpg) | [![](https://pbs.twimg.com/media/FThzq6iXsAEgJRa.jpg)](https://pbs.twimg.com/media/FThzq6iXsAEgJRa.jpg) |
+| [![](/media/1532560059300978688/3_1529098934165065728.jpg)](/media/1532560059300978688/3_1529098934165065728.jpg) | [![](/media/1532560059300978688/3_1529099230396272640.jpg)](/media/1532560059300978688/3_1529099230396272640.jpg) | [![](/media/1532560059300978688/3_1529099254597398529.jpg)](/media/1532560059300978688/3_1529099254597398529.jpg) |
 | :-: | :-: | :-: |
 
 <blockquote class="twitter-tweet">
