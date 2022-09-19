@@ -14,7 +14,7 @@ This conversation happened in Twitter Spaces a couple days ago in front of 400 p
 
  [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) 
 
-[Expectations for a Ukrainian: Apologise to russians. #GenocideOfUkrainians](https://youtu.be/8ZocULucJdA)
+[youtu.be: Expectations for a Ukrainian: Apologise to russians. #GenocideOfUkrainians](https://youtu.be/8ZocULucJdA)
 
 Featuring me being told that:
 

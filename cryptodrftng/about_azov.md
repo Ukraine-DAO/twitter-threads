@@ -17,7 +17,7 @@ Azov are our heroes and they play a crucial role in defending Ukraine against r*
 
 r*ssian "army" is only capable of raping, looting, and murdering civilians. Totally makes sense that they hate Azov and brainwashed everyone about them but unlike them, we have credible info :) [@VassilisDelta](https://twitter.com/VassilisDelta) 
 
-[Azov Regiment](https://www.notion.so/ukraine-dao/Azov-Regiment-c3349aa74a7d470b866b134606bc46b4)
+[www.notion.so: Azov Regiment](https://www.notion.so/ukraine-dao/Azov-Regiment-c3349aa74a7d470b866b134606bc46b4)
 
 What Azov is:
 ✅ a highly professional military unit playing crucial part in resisting the 🇷🇺 genocidal aggression. 
@@ -35,7 +35,7 @@ Popular Ukrainian joke:
 - You are a neo-Nazi!
 - I know! Our whole synagogue is like this!
 
-[Senior Zelensky adviser: 40 'Jewish heroes' fighting in Mariupol steel plant | The Times of Israel](https://www.timesofisrael.com/senior-zelensky-adviser-40-jewish-heroes-fighting-in-mariupol-steel-plant/amp/)
+[www.timesofisrael.com: Senior Zelensky adviser: 40 'Jewish heroes' fighting in Mariupol steel plant | The Times of Israel](https://www.timesofisrael.com/senior-zelensky-adviser-40-jewish-heroes-fighting-in-mariupol-steel-plant/amp/)
 
 [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1527497258035462146?s=21&t=q4jZsCsi-I8l2UxE_4gVVg)
 

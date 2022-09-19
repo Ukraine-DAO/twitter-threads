@@ -81,7 +81,7 @@ I know it's shocking news, but I may be better placed to comment on how Ukrainia
 
 Here's the open letter I published 3 days before the invasion. 
 
-[Open Letter on the War in Ukraine from Alona, FRD Community Lead. Published 21 Feb 2022 | FreeRossDAO 🕊](https://www.freerossdao.org/2022/02/21/open-letter-on-the-war-in-ukraine-from-alona-frd-community-lead-2/)
+[www.freerossdao.org: Open Letter on the War in Ukraine from Alona, FRD Community Lead. Published 21 Feb 2022 | FreeRossDAO 🕊](https://www.freerossdao.org/2022/02/21/open-letter-on-the-war-in-ukraine-from-alona-frd-community-lead-2/)
 
 I'm often reminded that every russian person is an individual. Question: what did those individuals do with their personal autonomy?
 

@@ -53,7 +53,7 @@ Response: "this is my list and I'm sticking by it"
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1526353509356011520">Link</a>
 </blockquote>
 
-"I don't know who you are" - maybe try looking up "Alona Shevchenko Ukraine DAO" in [Google](http://google.com) so you can find out
+"I don't know who you are" - maybe try looking up "Alona Shevchenko Ukraine DAO" in [google.com: Google](http://google.com) so you can find out
 
 *unsolicited advice on where to direct energy*
 
@@ -65,7 +65,7 @@ If an "expert" doesn't understand the damage of spreading lies about 🇺🇦, t
 [@MuKappa](https://twitter.com/MuKappa) and I keep a list with these "experts" and "unbiased sources" - featuring [@Reuters](https://twitter.com/Reuters), the biggest 🇷🇺 fake news agency in the world 
 
 Which 🇷🇺 parrots are paid and which ones are being idiots for free is irrelevant - same consequences 
-[Foreign Assets - Twitter](https://ukraine-dao.notion.site/Foreign-Assets-Twitter-2225a1f90b474eed83d317729ef68841)
+[ukraine-dao.notion.site: Foreign Assets - Twitter](https://ukraine-dao.notion.site/Foreign-Assets-Twitter-2225a1f90b474eed83d317729ef68841)
 
 Here’s what happened when I once said in a Twitter Space that [@Reuters](https://twitter.com/Reuters) spread 🇷🇺 propaganda  - 🧵👇
 

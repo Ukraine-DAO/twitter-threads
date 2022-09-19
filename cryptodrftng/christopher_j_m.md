@@ -23,7 +23,7 @@ He is personally responsible for creating a completely wrong perception of [@Pol
 
 A few words about the work of [@ChristopherJM](https://twitter.com/ChristopherJM) from the Ukrainian Institute of National Remembrance - [@Uinp_gov_ua](https://twitter.com/Uinp_gov_ua), operating under the Cabinet of Ministers of [@Ukraine](https://twitter.com/Ukraine):
 
-[A few words for Christopher Miller about “Banderites” and Ukrainian history](https://uinp.gov.ua/pres-centr/novyny/a-few-words-for-christopher-miller-about-banderites-and-ukrainian-history)
+[uinp.gov.ua: A few words for Christopher Miller about “Banderites” and Ukrainian history](https://uinp.gov.ua/pres-centr/novyny/a-few-words-for-christopher-miller-about-banderites-and-ukrainian-history)
 
 [#ꑭ](https://twitter.com/hashtag/%EA%91%AD)
 
@@ -55,7 +55,7 @@ Thank you, [@Marcos65239408](https://twitter.com/Marcos65239408) 💙💛 [#ꑭ]
 
 An article by [@ChristopherJM](https://twitter.com/ChristopherJM) titled "In Ukraine, Ultranationalist Militia Strikes Fear In Some Quarters". Full of absolute nonsense. [#ꑭ](https://twitter.com/hashtag/%EA%91%AD) 
 
-[In Ukraine, Ultranationalist Militia Strikes Fear In Some Quarters](https://www.rferl.org/amp/ukraine-azov-right-wing-militia-to-patrol-kyiv/29008036.html)
+[www.rferl.org: In Ukraine, Ultranationalist Militia Strikes Fear In Some Quarters](https://www.rferl.org/amp/ukraine-azov-right-wing-militia-to-patrol-kyiv/29008036.html)
 
 cc: [@GicAriana](https://twitter.com/GicAriana) 
 
@@ -83,7 +83,7 @@ cc [@tshevcom](https://twitter.com/tshevcom) [#ꑭ](https://twitter.com/hashtag/
 
 I wonder if Christopher is proud of protecting the world from "Nazis". I also wonder how he sleeps at night.
 
-[This Neo-Nazi Group Is Organizing On Facebook Despite A Year-Old Ban](https://www.buzzfeednews.com/article/christopherm51/neo-nazi-group-facebook)
+[www.buzzfeednews.com: This Neo-Nazi Group Is Organizing On Facebook Despite A Year-Old Ban](https://www.buzzfeednews.com/article/christopherm51/neo-nazi-group-facebook)
 
 [@ChristopherJM](https://twitter.com/ChristopherJM) [twitter.com/RafaelMontob/s…](https://twitter.com/RafaelMontob/status/1533595769411731457)
 

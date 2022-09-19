@@ -60,11 +60,11 @@ The empire survived WW1, was partially decolonized in 1991, and quickly regresse
 In 1991 the can got kicked down the road. The West has the rare opportunity to potentially decolonize an empire without a direct confrontation. Despite the colonial war of aggression against Ichkeria/Chechnya, the world turned a blind eye in the hopes of integration in the 1990s.
 
 In fact, the latest version of the empire got bailed out in the 90s. Russia received billions in foreign aid to undergo "reforms" allowing the new authorities to consolidate their power. They lost the first war in Ichkeria, so they tried again later.
-[Aid to Russia - Institute for Policy Studies](https://ips-dc.org/aid_to_russia/)
+[ips-dc.org: Aid to Russia - Institute for Policy Studies](https://ips-dc.org/aid_to_russia/)
 
-How would an embargo help? First, it would decrease export cash inflows. For the first 100 days of the full-scale invasion Russia made $1 billion a day in hydrocarbon exports, financing the war. Negotiations with the OPEC are underway to expand production. [Financing Putin’s war: Fossil fuel imports from Russia in the first 100 days of the invasion – Centre for Research on Energy and Clean Air](https://energyandcleanair.org/publication/russian-fossil-exports-first-100-days)
+How would an embargo help? First, it would decrease export cash inflows. For the first 100 days of the full-scale invasion Russia made $1 billion a day in hydrocarbon exports, financing the war. Negotiations with the OPEC are underway to expand production. [energyandcleanair.org: Financing Putin’s war: Fossil fuel imports from Russia in the first 100 days of the invasion – Centre for Research on Energy and Clean Air](https://energyandcleanair.org/publication/russian-fossil-exports-first-100-days)
 
-While a full embargo is impossible (China and India), an embargo from the West and an oil production expansion by the OPEC could create an economic climate for Russia reminiscent of the 1980s leading up to the collapse of the USSR. [OPEC+ Begins Grappling with Next Move as US Presses for More Oil](https://www.bloomberg.com/news/articles/2022-06-17/opec-begins-grappling-with-next-move-as-us-presses-for-more-oil)
+While a full embargo is impossible (China and India), an embargo from the West and an oil production expansion by the OPEC could create an economic climate for Russia reminiscent of the 1980s leading up to the collapse of the USSR. [www.bloomberg.com: OPEC+ Begins Grappling with Next Move as US Presses for More Oil](https://www.bloomberg.com/news/articles/2022-06-17/opec-begins-grappling-with-next-move-as-us-presses-for-more-oil)
 
 | [![](/media/1539705664771182593/3_1538872263910498304.png)](/media/1539705664771182593/3_1538872263910498304.png) |
 | :-: |
@@ -87,7 +87,7 @@ The economic strains would encroach into the private lives of the richest citize
 | [![](/media/1539705664771182593/3_1538886758485598209.jpg)](/media/1539705664771182593/3_1538886758485598209.jpg) |
 | :-: |
 
-This gets us to armaments deliveries to Ukraine. The Ukrainians are not asking for a foreign intervention to assist them. They are simply asking for weapons. Sufficient deliveries would allow the Ukrainians to inflict heavy casualties upon the Russians. [Howitzers Proving Very Effective Against Russians, DOD Official Says](https://www.defense.gov/News/News-Stories/Article/Article/3032926/howitzers-proving-very-effective-against-russians-dod-official-says/)
+This gets us to armaments deliveries to Ukraine. The Ukrainians are not asking for a foreign intervention to assist them. They are simply asking for weapons. Sufficient deliveries would allow the Ukrainians to inflict heavy casualties upon the Russians. [www.defense.gov: Howitzers Proving Very Effective Against Russians, DOD Official Says](https://www.defense.gov/News/News-Stories/Article/Article/3032926/howitzers-proving-very-effective-against-russians-dod-official-says/)
 
 If heavy casualties are inflicted upon the Russians in a short period of time, it would substantially undermine the morale of the Russian military and public. However, even this might not be sufficient - Ukraine must be given adequate equipment to retake Crimea.
 
@@ -111,7 +111,7 @@ NB: No country of import considers Crimea to be a legitimate part of Russia. The
 
 There are historical precedents where the weakened state of the Russian central authorities sometimes accompanied by economic struggles sparked revolutions and rebellions. Let's briefly consider 1905, 1917, and 1941 as examples.
 
-In 1904, the Russian and Japanese empires went to war. The Russian Empire, being a European power, was expected domestically and abroad to win this war. It was expected to be "a small victory-bringing war" as the Russians called it. [Russo-Japanese War | Causes, Summary, Maps, & Significance](https://www.britannica.com/event/Russo-Japanese-War)
+In 1904, the Russian and Japanese empires went to war. The Russian Empire, being a European power, was expected domestically and abroad to win this war. It was expected to be "a small victory-bringing war" as the Russians called it. [www.britannica.com: Russo-Japanese War | Causes, Summary, Maps, & Significance](https://www.britannica.com/event/Russo-Japanese-War)
 
 However, in 1905 Russia was defeated. Russia lost its Pacific and Baltic fleets. Port Arthur, "leased" from the Chinese was ceded to the Japanese, half of the Sakhalin island was occupied. The humiliating defeat along with the economic strains precipitated the 1905 revolution.
 
@@ -119,9 +119,9 @@ However, in 1905 Russia was defeated. Russia lost its Pacific and Baltic fleets.
 | :-: |
 
 The revolution failed to topple the regime but succeeded in creating a technically constitutional monarchy with the establishment of the State Duma. Over 18,000 people were killed. Stolypin was appointed prime minister who employed a heavyhanded approach.
-[Russian Revolution of 1905](https://www.britannica.com/event/Russian-Revolution-of-1905)
+[www.britannica.com: Russian Revolution of 1905](https://www.britannica.com/event/Russian-Revolution-of-1905)
 
-It was failed revolution but created cracks in the ruling regime that would yield fruits in 1917. Two revolutions took place that year. First, the February Revolution ended the monarchy. [Russian Revolution | Definition, Causes, Summary, History, & Facts](https://www.britannica.com/event/Russian-Revolution)
+It was failed revolution but created cracks in the ruling regime that would yield fruits in 1917. Two revolutions took place that year. First, the February Revolution ended the monarchy. [www.britannica.com: Russian Revolution | Definition, Causes, Summary, History, & Facts](https://www.britannica.com/event/Russian-Revolution)
 
 Again, the revolution was incited by the heavy losses on the frontlines of WW1, economic hardships, the nascent political parties, and the gradual rise of nationalism among the colonies. The provisional government did not last long either. The October Revolution followed.
 
@@ -135,9 +135,9 @@ They established a guerrilla movement for independence under the leadership of K
 | [![](/media/1539705664771182593/3_1539164982104969217.jpg)](/media/1539705664771182593/3_1539164982104969217.jpg) |
 | :-: |
 
-The same year the rebels allegedly received support from the Third Reich. The Soviets responded with carpet bombings and reprisals against local civilians. By 1944 the rebellion was quelled and the survivors were deported en masse to Kazakhstan and Siberia ['There Was No Water, No Food' -- Chechens Remember Horror Of 1944 Deportations](https://www.rferl.org/a/chechen-deportation-1944-survivors/25273614.html)
+The same year the rebels allegedly received support from the Third Reich. The Soviets responded with carpet bombings and reprisals against local civilians. By 1944 the rebellion was quelled and the survivors were deported en masse to Kazakhstan and Siberia [www.rferl.org: 'There Was No Water, No Food' -- Chechens Remember Horror Of 1944 Deportations](https://www.rferl.org/a/chechen-deportation-1944-survivors/25273614.html)
 
-So, we had a look at ~40 years of the empire's history and every military failure sometimes accompanied by economic hardships caused rebellions or outright revolutions. I didn't consider the Soviet Invasion of Afghanistan as it was a slow grind to collapse [Milestones: 1977–1980 - Office of the Historian](https://history.state.gov/milestones/1977-1980/soviet-invasion-afghanistan)
+So, we had a look at ~40 years of the empire's history and every military failure sometimes accompanied by economic hardships caused rebellions or outright revolutions. I didn't consider the Soviet Invasion of Afghanistan as it was a slow grind to collapse [history.state.gov: Milestones: 1977–1980 - Office of the Historian](https://history.state.gov/milestones/1977-1980/soviet-invasion-afghanistan)
 
 Adequately supported, supplied with requested equipment, Ukraine can be a lot worse for the empire than Afghanistan. An outright military defeat of the empire, with both Crimea and the Donbas retaken by Ukraine, could be a disaster for Russia, while under sanctions.
 
@@ -170,7 +170,7 @@ The Russians consider their imperial past to be a force for good civilizing the 
 | [![](/media/1539705664771182593/3_1539288329333751808.jpg)](/media/1539705664771182593/3_1539288329333751808.jpg) |
 | :-: |
 
-[@EricaMarat](https://twitter.com/EricaMarat) and [@BotakozKassymb1](https://twitter.com/BotakozKassymb1) wrote an excellent piece on Russia's imperial past denial. They say that "Decolonizing Russia and challenging its imperial innocence will not be easy..." I won't summarize it, read it all: [Time to Question Russia’s Imperial Innocence – PONARS Eurasia](https://www.ponarseurasia.org/time-to-question-russias-imperial-innocence/)
+[@EricaMarat](https://twitter.com/EricaMarat) and [@BotakozKassymb1](https://twitter.com/BotakozKassymb1) wrote an excellent piece on Russia's imperial past denial. They say that "Decolonizing Russia and challenging its imperial innocence will not be easy..." I won't summarize it, read it all: [www.ponarseurasia.org: Time to Question Russia’s Imperial Innocence – PONARS Eurasia](https://www.ponarseurasia.org/time-to-question-russias-imperial-innocence/)
 
 By denying their genocidal past, having a culture filled with ethnic Russian exceptionalism, and maintaining a colonial empire feeding the metropole, the Russians laid the grounds for something terrible, that no Western scholar or pundit is *yet* saying: Russia is a Nazi country.
 
@@ -181,8 +181,8 @@ Yes, the Russian Federation is not just an empire. Nazi Russia is an empire. In 
 
 It doesn't matter that the Russian propaganda is unstructured spewing a dozen of falsehoods at a time, giving everyone a version of "truth" to believe in. Russia has a belief system with built-in supremacy nurtured through education and hist. revisionism. [rand.org/content/dam/ra…](https://www.rand.org/content/dam/rand/pubs/perspectives/PE100/PE198/RAND_PE198.pdf)
 
-Some experts are already calling Russia a fascist state. Of course, there are opposing opinions, that mostly boil down to "it is all about Putin's cult" ergo "Russia is not fascist." [Nasty, Repressive, Aggressive -- Yes. But Is Russia Fascist? Experts Say 'No.'](https://www.rferl.org/a/russia-repressive-aggressive-not-fascist/31794918.html)
-[Opinion | We Should Say It. Russia Is Fascist.](https://www.nytimes.com/2022/05/19/opinion/russia-fascism-ukraine-putin.html)
+Some experts are already calling Russia a fascist state. Of course, there are opposing opinions, that mostly boil down to "it is all about Putin's cult" ergo "Russia is not fascist." [www.rferl.org: Nasty, Repressive, Aggressive -- Yes. But Is Russia Fascist? Experts Say 'No.'](https://www.rferl.org/a/russia-repressive-aggressive-not-fascist/31794918.html)
+[www.nytimes.com: Opinion | We Should Say It. Russia Is Fascist.](https://www.nytimes.com/2022/05/19/opinion/russia-fascism-ukraine-putin.html)
 
 For the billionth time, Putin is a symptom of a systemic problem. He is a product of the Russian system. I am yet again referencing my own thread below. Their fascist regime combined with the ethnocentric culture of Russian supremacy produced Nazi Russia. [twitter.com/MuKappa/status…](https://twitter.com/MuKappa/status/1531561246968905728?s=20&t=2zmQsH8w2Prv3CAucFZFMg)
 
@@ -215,7 +215,7 @@ The official mission of the organization includes promoting state policies among
 | [![](/media/1539705664771182593/3_1539688718537302016.jpg)](/media/1539705664771182593/3_1539688718537302016.jpg) |
 | :-: |
 
-Yunarmiya does have something that the Hitlerjugend did not have. The Russians made a highly militaristic website for their knock-off. Just browse it, one does not need to understand Russian to "enjoy" the visuals: [Юнармия](https://yunarmy.ru/)
+Yunarmiya does have something that the Hitlerjugend did not have. The Russians made a highly militaristic website for their knock-off. Just browse it, one does not need to understand Russian to "enjoy" the visuals: [yunarmy.ru: Юнармия](https://yunarmy.ru/)
 
 As of the end of 2021, membership in Russia's Hitlerjugend exceeded one million. [kommersant.ru/doc/5116296](https://www.kommersant.ru/doc/5116296)
 
@@ -230,13 +230,13 @@ The second feature imitated is the concept of Russkyi Mir (RM). While it is not 
     &mdash; <a href="https://twitter.com/MuKappa/status/1523740214061309952">Link</a>
 </blockquote>
 
-Almost everyone knows of Putin's claim that the collapse of the USSR was "the greatest geopolitical catastrophe of the 20th century." However, what he said after gives a clue as to what he understands under the concept of Russkyi Mir. [World: Was Soviet Collapse Last Century's Worst Geopolitical Catastrophe?](https://www.rferl.org/a/1058688.html)
+Almost everyone knows of Putin's claim that the collapse of the USSR was "the greatest geopolitical catastrophe of the 20th century." However, what he said after gives a clue as to what he understands under the concept of Russkyi Mir. [www.rferl.org: World: Was Soviet Collapse Last Century's Worst Geopolitical Catastrophe?](https://www.rferl.org/a/1058688.html)
 
 "For the Russian people, [the collapse] became a real drama. Tens of millions of our citizens and countrymen found themselves outside Russian territory." It is safe to conjecture that all former colonies especially those with a large ethnic Russian population are part of the RM.
 
 Finally, Russia has government officials (e.g. Rogozin), military organizations integrated into the MOD (e.g. DShRG Rusich), and media outlets (e.g. Tsargrad) of outright ultra-far-right character. The problem is nationwide and stems from their culture of ethnic exceptionalism.
 
-Back in 1995 the president of Ichkeria, Dzhokhar Dudayev, named the fledgling Russian ethnocentric fascism "ruscism." In 2008, following the Russian invasion of Georgia, the term transformed into "rashism." [Language Log » Rashist](https://languagelog.ldc.upenn.edu/nll/?p=54306)
+Back in 1995 the president of Ichkeria, Dzhokhar Dudayev, named the fledgling Russian ethnocentric fascism "ruscism." In 2008, following the Russian invasion of Georgia, the term transformed into "rashism." [languagelog.ldc.upenn.edu: Language Log » Rashist](https://languagelog.ldc.upenn.edu/nll/?p=54306)
 
 In 2014, following the Russian invasion of Ukraine, the term "rashism" became common in Ukraine. However, no matter what labels are attached to it, it is still a Russian version Nazism, that was cultivated for at least a century and went into overdrive in the past 20 years.
 

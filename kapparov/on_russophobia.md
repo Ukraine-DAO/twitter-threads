@@ -15,7 +15,7 @@ Russia has been accusing the world of Russophobia for years now. Some useful idi
     &mdash; <a href="https://twitter.com/JuliaDavisNews/status/871389372662259713">Link</a>
 </blockquote>
 
-It is an "accusation in a mirror," defined as "when the speaker accuses the intended victim of wishing to perpetrate the kind of violence the speaker is requesting of third parties."  [Atrocity Speech Law: Foundation, Fragmentation, Fruition -- Introduction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3230050)
+It is an "accusation in a mirror," defined as "when the speaker accuses the intended victim of wishing to perpetrate the kind of violence the speaker is requesting of third parties."  [papers.ssrn.com: Atrocity Speech Law: Foundation, Fragmentation, Fruition -- Introduction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3230050)
 
 The definition formally applies to genocide incitement. It should apply to propaganda as well. Propaganda is an integral part of psychological preparation to perpetrate atrocities. This means that Russia by accusing the world of Russophobia mirrors their Worldphobia.
 
@@ -23,7 +23,7 @@ The definition formally applies to genocide incitement. It should apply to propa
 | :-: |
 
 And I don't mean agoraphobia. The Russians define Russophobia as hatred of everything Russian. Hence, by Worldphobia I mean hatred of the world. The Kremlin tried to create fortress Russia hating the world as they think the entire world is against them. 
-[Vladimir Putin’s Fortress Russia is crumbling](https://www.economist.com/finance-and-economics/2022/03/05/vladimir-putins-fortress-russia-is-crumbling)
+[www.economist.com: Vladimir Putin’s Fortress Russia is crumbling](https://www.economist.com/finance-and-economics/2022/03/05/vladimir-putins-fortress-russia-is-crumbling)
 
 Their hatred of the world, especially the Western world, reached its apogee now with the invasion of Ukraine. They did not start hating the West for helping Ukraine. The Cold War-era hatred for the West had never died out.
 
@@ -46,7 +46,7 @@ Western pundits call it "national exceptionalism," but remember in the Russian l
 </blockquote>
 
 In a 2013 article, David Satter explains the idea of Russian exceptionalism quite well. However, he argues that it is the exceptionalism of the Russian state. The Russians view themselves as the "Third Rome," granting them "the quasi-divine status."
-[The Curse of Russian “Exceptionalism” - Foreign Policy Research Institute](https://www.fpri.org/article/2013/10/the-curse-of-russian-exceptionalism/)
+[www.fpri.org: The Curse of Russian “Exceptionalism” - Foreign Policy Research Institute](https://www.fpri.org/article/2013/10/the-curse-of-russian-exceptionalism/)
 
 Putin's messianic speeches are not shocking if you've been following Russia for at least a few years. Putin is a symptom of the deeply rooted ideas of exceptionalism in the Russian psyche.
 
@@ -70,7 +70,7 @@ In his 12/30/22 article on the need for autonomies, Lenin describes the Russian 
 | [![](/media/1532242908979597314/3_1531236882469769216.jpg)](/media/1532242908979597314/3_1531236882469769216.jpg) |
 | :-: |
 
-He adds: "There is no doubt that the insignificant number of Soviet and Sovietized workers would drown in the sea of chauvinist velikoross scum, as a fly would in milk." What is a velikoross? Velikyi russky, a great Russian. [Статья В.И. Ленина «К вопросу о национальностях или об «автономизации». | Ленин](https://lenin.rusarchives.ru/dokumenty/statya-vi-lenina-k-voprosu-o-nacionalnostyah-ili-ob-avtonomizacii)
+He adds: "There is no doubt that the insignificant number of Soviet and Sovietized workers would drown in the sea of chauvinist velikoross scum, as a fly would in milk." What is a velikoross? Velikyi russky, a great Russian. [lenin.rusarchives.ru: Статья В.И. Ленина «К вопросу о национальностях или об «автономизации». | Ленин](https://lenin.rusarchives.ru/dokumenty/statya-vi-lenina-k-voprosu-o-nacionalnostyah-ili-ob-avtonomizacii)
 
 Lenin was not a minority rights activist, but he understood that to prevent the collapse of the Russian Empire and rebirth it as the USSR, non-ethnic Russians had to be "appeased" at that critical time. I have no doubt that he later planned to strip everyone of their autonomy.
 
@@ -80,12 +80,12 @@ Lenin was not a minority rights activist, but he understood that to prevent the 
 However, the West never completely understood the Russian exceptionalism mentality and is too quick to hail the seeming Russian opposition.
 
 Alexander Solzhenitsyn, a Soviet dissident popular in the West, was a typical Russian chauvinist believing in ethnic Russian exceptionalism. He laid out a plan for non-Soviet Greater Russia incorporating Ukraine, Belarus, and northern Kazakhstan in 1990.
-[How a Famous Soviet Dissident Foreshadowed Putin's Plan—in 1990](https://www.theatlantic.com/international/archive/2014/09/how-a-famous-soviet-dissident-foreshadowed-putins-planin-1990-russia-ukraine/379467/)
+[www.theatlantic.com: How a Famous Soviet Dissident Foreshadowed Putin's Plan—in 1990](https://www.theatlantic.com/international/archive/2014/09/how-a-famous-soviet-dissident-foreshadowed-putins-planin-1990-russia-ukraine/379467/)
 
-And he is not a one-off. Sadly Aleksey Navalny, the flagbearer of the Russian opposition, is worse. What the western press does not mention are Navalny's far-right views that were laid bare in 2008 during the Russian invasion of Georgia. [Navalny – a Legend about the Other Russia](https://georgiatoday.ge/navalny-a-legend-about-the-other-russia/)
+And he is not a one-off. Sadly Aleksey Navalny, the flagbearer of the Russian opposition, is worse. What the western press does not mention are Navalny's far-right views that were laid bare in 2008 during the Russian invasion of Georgia. [georgiatoday.ge: Navalny – a Legend about the Other Russia](https://georgiatoday.ge/navalny-a-legend-about-the-other-russia/)
 
 Navalny openly called the Georgians "rodents," an ethnic slur in Russian, and openly called for a more destructive war against Georgia. Some people also had some more personal interactions with Navalny that confirm his extreme views (e.g. [@kamilkazani](https://twitter.com/kamilkazani)). 
-[Has Alexey Navalny moved on from his nationalist past?](https://www.aljazeera.com/news/2021/2/25/navalny-has-the-kremlin-foe-moved-on-from-his-nationalist-past)
+[www.aljazeera.com: Has Alexey Navalny moved on from his nationalist past?](https://www.aljazeera.com/news/2021/2/25/navalny-has-the-kremlin-foe-moved-on-from-his-nationalist-past)
 
 Do I need to mention Navalny's attendance at the "Russian Marches," far-right ethnic Russian demonstrations that usually chant "Russia for ethnic Russians?" Navalny now tries to ride the anti-corruption ticket to get the coveted presidential seat in the Kremlin.
 
@@ -98,10 +98,10 @@ These characters are not some isolated instances, but a symptom of a deeply root
 | :-: |
 
 While the system suited Tinkov he supported Putin. He went as far as claiming that Putin should be proclaimed tsar. Some will object saying that the claim is ripped out of context, that "he meant that Putin is a tsar anyway so make it formal." Ok...
-[The Russian oligarch who wants Vladimir Putin to be a Tsar](https://www.ft.com/content/63e0342c-5e2f-11ea-b0ab-339c2307bcd4)
+[www.ft.com: The Russian oligarch who wants Vladimir Putin to be a Tsar](https://www.ft.com/content/63e0342c-5e2f-11ea-b0ab-339c2307bcd4)
 
 ...there is more. Tinkov's Russian chauvinism was laid bare in 2014 and 2015. He openly gloated over Ukraine's plight and used ethnic slurs against the Ukrainians on Twitter. He is no longer on Twitter. 
-[Олегу Тинькову припомнили посты об Украине 2014 года. Сыпал едкими насмешками в сторону страны-соседа](https://medialeaks.ru/0505rgg-str-tinkov-2014/)
+[medialeaks.ru: Олегу Тинькову припомнили посты об Украине 2014 года. Сыпал едкими насмешками в сторону страны-соседа](https://medialeaks.ru/0505rgg-str-tinkov-2014/)
 
 Again, these people are not isolated incidents. I did not even discuss the most obvious examples such as Aleksandr Dugin, Konstantin Malofeev, Dmitry Rogozin, Vladimir Zhirinovsky, or Aleksey Zhuravlev. I'll leave it up to you. There are just too many in the Russian government.
 
@@ -135,12 +135,12 @@ The Russian Church serves the same message of Russian exceptionalism and is full
 </blockquote>
 
 I focused on individuals and organizations in Russia but racism and xenophobia in the country are well documented. It is part of the state's policy, a response to the will of its people. Somethings gotta give in a corrupt dictatorship.
-[The Putin Government's Responses to Increased Xenophobia](https://www.wilsoncenter.org/publication/the-putin-governments-responses-to-increased-xenophobia)
+[www.wilsoncenter.org: The Putin Government's Responses to Increased Xenophobia](https://www.wilsoncenter.org/publication/the-putin-governments-responses-to-increased-xenophobia)
 
-The gov and the people have a social contract - the Kremlin continues to remain in power and enrich themselves in exchange for security and propagation of the Russian exceptionalism sentiment: "There is no rise in mass xenophobic feelings in Russia." [Racism in Russia: Stories of prejudice](https://www.bbc.co.uk/news/world-europe-53055857)
+The gov and the people have a social contract - the Kremlin continues to remain in power and enrich themselves in exchange for security and propagation of the Russian exceptionalism sentiment: "There is no rise in mass xenophobic feelings in Russia." [www.bbc.co.uk: Racism in Russia: Stories of prejudice](https://www.bbc.co.uk/news/world-europe-53055857)
 
 The Kremlin actively uses maskirovka. They "leaked" some information about the deployment of the widely recognized neo-nazi Rusich and Russian Imperial Movement "volunteer" groups. By deploying actual nazis, they divert attention from the rest of Russia.
-[Who Are The Neo-Nazis Fighting For Russia In Ukraine?](https://www.rferl.org/a/russian-neo-nazis-fighting-ukraine/31871760.html)
+[www.rferl.org: Who Are The Neo-Nazis Fighting For Russia In Ukraine?](https://www.rferl.org/a/russian-neo-nazis-fighting-ukraine/31871760.html)
 
 Russia's obsession with the Azov bat/reg is also understandable. First, it is part of the decades-long Russian victory-death cult where German Nazis are the enemy. Azov are subbed for German Nazis. Second, it is yet again an accusation in a mirror, or simply put projection.
 

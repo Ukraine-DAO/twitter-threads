@@ -698,7 +698,7 @@ ruSSkiy mir in [#Mykolayiv](https://twitter.com/hashtag/Mykolayiv)
 
 ❗️Tweet from 13 Feb: [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1492912549729386503?s=21&t=w952zL-YJ_LqSr_RxaBGYA)
 
-❗️[Seven killed in Russian air attack on Syria’s Idlib](https://www.aljazeera.com/amp/news/2022/7/22/civilians-killed-in-russian-air-attack-on-syrias-idlib)
+❗️[www.aljazeera.com: Seven killed in Russian air attack on Syria’s Idlib](https://www.aljazeera.com/amp/news/2022/7/22/civilians-killed-in-russian-air-attack-on-syrias-idlib)
 
 [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate)
 
@@ -1136,7 +1136,7 @@ Filtration camps. In 2022. In Europe.
 
 [#russiaisanazistate](https://twitter.com/hashtag/russiaisanazistate) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow) [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes)
 
-[At least 21 ​​'filtration​​​' sites identified in Russian-controlled ​​territory, say Yale researchers](https://www.cnn.com/2022/08/26/europe/ukraine-filtration-camps-russian-controlled-yale-intl/index.html)
+[www.cnn.com: At least 21 ​​'filtration​​​' sites identified in Russian-controlled ​​territory, say Yale researchers](https://www.cnn.com/2022/08/26/europe/ukraine-filtration-camps-russian-controlled-yale-intl/index.html)
 
 29.08.2014 Іловайськ
 
@@ -1216,37 +1216,37 @@ The first two messages are auto-generated when the contact you tried to call com
 
  [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#russiaisanazistate](https://twitter.com/hashtag/russiaisanazistate)
 
-[Mass Burial Site Found Near Izyum After Russian Retreat](https://www.rferl.org/a/ukraine-russia-us-zelenskiy-grave-izyum-von-der-leyen/32036169.html)
+[www.rferl.org: Mass Burial Site Found Near Izyum After Russian Retreat](https://www.rferl.org/a/ukraine-russia-us-zelenskiy-grave-izyum-von-der-leyen/32036169.html)
 
 102/ Izyum 💔
 
  [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#russiaisanazistate](https://twitter.com/hashtag/russiaisanazistate)
 
-[Inside Izyum, One of Ukraine’s Biggest Recently Recaptured Cities | WSJ](https://youtu.be/JnfXLmTAZko)
+[youtu.be: Inside Izyum, One of Ukraine’s Biggest Recently Recaptured Cities | WSJ](https://youtu.be/JnfXLmTAZko)
 
 103/ Izyum 💔
 
  [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#russiaisanazistate](https://twitter.com/hashtag/russiaisanazistate)
 
-[Ukraine-Russia war: Hundreds of graves found in forest near recaptured Izyum](https://youtu.be/9Fr3qEdlfGA)
+[youtu.be: Ukraine-Russia war: Hundreds of graves found in forest near recaptured Izyum](https://youtu.be/9Fr3qEdlfGA)
 
 104/ Izyum 💔
 
  [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#russiaisanazistate](https://twitter.com/hashtag/russiaisanazistate)
 
-[Mass Grave Found In Recaptured Izyum, Zelenskyy Says](https://youtu.be/BqSh39t4P38)
+[youtu.be: Mass Grave Found In Recaptured Izyum, Zelenskyy Says](https://youtu.be/BqSh39t4P38)
 
 105/ Izyum 💔
 
  [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#russiaisanazistate](https://twitter.com/hashtag/russiaisanazistate)
 
-[Як виглядає Ізюм після звільнення від росіян | Українська правда](https://youtu.be/XOjSGTjTU_0)
+[youtu.be: Як виглядає Ізюм після звільнення від росіян | Українська правда](https://youtu.be/XOjSGTjTU_0)
 
 106/ Witness accounts - Izyum
 
  [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#russiaisanazistate](https://twitter.com/hashtag/russiaisanazistate)
 
-[Ізюм. Як починалась окупація – розповідь свідка](https://youtu.be/ymhGLgk7IHM)
+[youtu.be: Ізюм. Як починалась окупація – розповідь свідка](https://youtu.be/ymhGLgk7IHM)
 
 107/ They are killing us because we are Ukrainian.
 

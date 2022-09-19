@@ -8,7 +8,7 @@ redirect_from:
 Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1529854934358933504), [PingThread](https://pingthread.com/thread/1529854934358933504), [ThreadReader](https://threadreaderapp.com/thread/1529854934358933504.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1529854934358933504)*
 
-I know what you mean, have been suspended for no apparent reason before. Backup of everything I post is at [UkraineDAO!](https://masto.ukrainedao.love/)
+I know what you mean, have been suspended for no apparent reason before. Backup of everything I post is at [masto.ukrainedao.love: UkraineDAO!](https://masto.ukrainedao.love/)
 
 If it's too extreme for Twitter to say Ukrainians have the right to hate people who are killing us in our homes - I don't mind being suspended.
 

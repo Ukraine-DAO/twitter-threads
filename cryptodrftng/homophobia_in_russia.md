@@ -21,7 +21,7 @@ They'll never get over it because it's the core of "russian culture" and it's th
 
 [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) donated 190 ETH (worth roughly 500k) to [@OutRightIntl](https://twitter.com/OutRightIntl) to support LGBT community in Ukraine. Transaction was facilitated by [@endaomentdotorg](https://twitter.com/endaomentdotorg) 💞
 
-[OutRight. LGBTIQ+](https://ukraine-dao.notion.site/OutRight-LGBTIQ-0fe12afa87684d86bbea854dcc36e7db)
+[ukraine-dao.notion.site: OutRight. LGBTIQ+](https://ukraine-dao.notion.site/OutRight-LGBTIQ-0fe12afa87684d86bbea854dcc36e7db)
 
 [@maksymeristavi](https://twitter.com/maksymeristavi): "friends.  queerphobia is russia. 
 
@@ -44,7 +44,7 @@ racism and xenophobia are russia."
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1538768240347910144">Link</a>
 </blockquote>
 
-✨NGO Ukrainian LGBT Military for Equal Rights [Віктор Пилипенко](http://lgbtmilitary.org.ua/)
+✨NGO Ukrainian LGBT Military for Equal Rights [lgbtmilitary.org.ua: Віктор Пилипенко](http://lgbtmilitary.org.ua/)
 
  🌈🇺🇦
-[Військові ЛГБТІК+ (@lgbtiqmilitary) • Instagram photos and videos](https://instagram.com/lgbtiqmilitary)
+[instagram.com: Військові ЛГБТІК+ (@lgbtiqmilitary) • Instagram photos and videos](https://instagram.com/lgbtiqmilitary)

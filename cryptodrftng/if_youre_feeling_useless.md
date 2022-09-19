@@ -77,7 +77,7 @@ correct spelling of the "superpower" - "terrorist state".
 | [![](/media/1563607266191781890/3_1530679756533993473.jpg)](/media/1563607266191781890/3_1530679756533993473.jpg) |
 | :-: |
 
-While I have your attention - here's credible info about Azov: [#SaveAzov](https://ukraine-dao.notion.site/Azov-Regiment-c3349aa74a7d470b866b134606bc46b4)
+While I have your attention - here's credible info about Azov: [ukraine-dao.notion.site: #SaveAzov](https://ukraine-dao.notion.site/Azov-Regiment-c3349aa74a7d470b866b134606bc46b4)
 Also, [@Reuters](https://twitter.com/Reuters) is russian propaganda:
 [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1527477049438371841?s=21&t=oJE-SX28IQnWnud0xTE2xA)
 
@@ -424,7 +424,7 @@ So it's place in history is to be humiliated together with russia.
 🕊Sending thoughts and prayers to people who were "punched in the guts" in Feb - hope you're doing ok, let me know if we can help somehow!
 
 💌 This post from my blog contains a bit more of my thoughts on 🇩🇪  & links for Germans who want to help:
-[Day 75. Never Forgive.](https://cryptodrftng.substack.com/p/day-75-never-forgive)
+[cryptodrftng.substack.com: Day 75. Never Forgive.](https://cryptodrftng.substack.com/p/day-75-never-forgive)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -610,7 +610,7 @@ Your daily reminder that [#GermanyFundsGenocide](https://twitter.com/hashtag/Ger
 
 And that we say we’ll “never forgive” again but no one is actually apologising
 
-[Day 75. Never Forgive.](https://cryptodrftng.substack.com/p/day-75-never-forgive)
+[cryptodrftng.substack.com: Day 75. Never Forgive.](https://cryptodrftng.substack.com/p/day-75-never-forgive)
 
 [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate)
 
@@ -685,7 +685,7 @@ Germany launched this service aiming to help 🇺🇦 refugees adjust to the Ger
 
 Can someone explain to me why Ukrainians are presented as pigs dressed in 🇺🇦 colours?
 
-[MYKOLA – ДОМАШНЯ СТОРІНКА](https://mein-freund-mykola.de/)
+[mein-freund-mykola.de: MYKOLA – ДОМАШНЯ СТОРІНКА](https://mein-freund-mykola.de/)
 
 | [![](/media/1563607266191781890/3_1561277665323192320.jpg)](/media/1563607266191781890/3_1561277665323192320.jpg) |
 | :-: |
@@ -785,7 +785,7 @@ Daily reminder:
 
 [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#GermanyFundsGenocide](https://twitter.com/hashtag/GermanyFundsGenocide) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) 
 
-[Germany’s corruption scandals: How to limit authoritarian influence in the EU](https://ecfr.eu/article/germanys-corruption-scandals-how-to-limit-authoritarian-influence-in-the-eu/)
+[ecfr.eu: Germany’s corruption scandals: How to limit authoritarian influence in the EU](https://ecfr.eu/article/germanys-corruption-scandals-how-to-limit-authoritarian-influence-in-the-eu/)
 
 For those with short memory, here's what Germany was busy doing in January 2022:
 

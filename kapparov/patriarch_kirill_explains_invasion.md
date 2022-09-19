@@ -49,7 +49,7 @@ A mythos of a biblical struggle between good and evil is propagated by the Patri
 | [![](/media/1528985861152546816/3_1528978571972198400.jpg)](/media/1528985861152546816/3_1528978571972198400.jpg) |
 | :-: |
 
-This spilled into other aspects of life in Russia. And in some cases, not the best of outcomes. Traditionalism and orthodoxy were one of the causes of a major spike in the HIV/AIDS rate in Russia. There is a major AIDS/HIV epidemic. Source: [The epidemic Russia doesn’t want to talk about](https://www.politico.eu/article/everything-you-wanted-to-know-about-aids-in-russia-but-putin-was-afraid-to-ask/)
+This spilled into other aspects of life in Russia. And in some cases, not the best of outcomes. Traditionalism and orthodoxy were one of the causes of a major spike in the HIV/AIDS rate in Russia. There is a major AIDS/HIV epidemic. Source: [www.politico.eu: The epidemic Russia doesn’t want to talk about](https://www.politico.eu/article/everything-you-wanted-to-know-about-aids-in-russia-but-putin-was-afraid-to-ask/)
 
 | [![](/media/1528985861152546816/3_1528980249974824963.png)](/media/1528985861152546816/3_1528980249974824963.png) |
 | :-: |

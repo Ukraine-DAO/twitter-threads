@@ -23,26 +23,26 @@ In the previous part, I conclude that Russia is a colonial empire in its foreign
 | [![](/media/1536171045677326337/3_1535658923864244224.jpg)](/media/1536171045677326337/3_1535658923864244224.jpg) |
 | :-: |
 
-However, contemporary Russia's outward colonial aggressiveness predates the current regime. Think of the war in Transnistria 1990-1992, where Russia took an active part. [4 things to know about Moldova and Transnistria – and why Russia's war may spread beyond Ukraine to reach them soon](https://theconversation.com/4-things-to-know-about-moldova-and-transnistria-and-why-russias-war-may-spread-beyond-ukraine-to-reach-them-soon-182030)
+However, contemporary Russia's outward colonial aggressiveness predates the current regime. Think of the war in Transnistria 1990-1992, where Russia took an active part. [theconversation.com: 4 things to know about Moldova and Transnistria – and why Russia's war may spread beyond Ukraine to reach them soon](https://theconversation.com/4-things-to-know-about-moldova-and-transnistria-and-why-russias-war-may-spread-beyond-ukraine-to-reach-them-soon-182030)
 
-Or the 1999 Pristina airport incident, where the Russians took the airport ahead of the British troops, thereby hampering the allied NATO effort and assisting the Serbian side. Russia and NATO were an inch away from going kinetic. [Russian and British troops in tense Pristina stand-off](https://www.theguardian.com/world/1999/jun/13/balkans5)
+Or the 1999 Pristina airport incident, where the Russians took the airport ahead of the British troops, thereby hampering the allied NATO effort and assisting the Serbian side. Russia and NATO were an inch away from going kinetic. [www.theguardian.com: Russian and British troops in tense Pristina stand-off](https://www.theguardian.com/world/1999/jun/13/balkans5)
 
 Russia's interest in Moldova and the Balkans goes back to the 19th century, as the region at large was a point of contact between three empires: the Russians, the Ottomans, and the Austro-Hungarians. [staff.lib.msu.edu/sowards/balkan…](https://staff.lib.msu.edu/sowards/balkan/lect10.htm)
 
 | [![](/media/1536171045677326337/3_1535654463549087744.jpg)](/media/1536171045677326337/3_1535654463549087744.jpg) |
 | :-: |
 
-And contemporary Russia still clings to its 19th-century colonial/imperial interests in the Balkans, though the other two imperial adversaries are long gone, highlighting its ongoing old-fashioned imperialist nature. [Russia’s Game in the Balkans](https://carnegieendowment.org/2019/02/06/russia-s-game-in-balkans-pub-78235)
+And contemporary Russia still clings to its 19th-century colonial/imperial interests in the Balkans, though the other two imperial adversaries are long gone, highlighting its ongoing old-fashioned imperialist nature. [carnegieendowment.org: Russia’s Game in the Balkans](https://carnegieendowment.org/2019/02/06/russia-s-game-in-balkans-pub-78235)
 
 | [![](/media/1536171045677326337/3_1535669782984511489.png)](/media/1536171045677326337/3_1535669782984511489.png) |
 | :-: |
 
-Why is that? Because after WWI the Russian Empire had never died. It was reborn as the USSR. The empire no longer had a tsar, but all power was still centralized at the imperial court in Moscow. Here is a primer on the history of the USSR from the LOC: [Internal Workings of the Soviet Union - Revelations from the Russian Archives | Exhibitions - Library of Congress](https://www.loc.gov/exhibits/archives/intn.html)
+Why is that? Because after WWI the Russian Empire had never died. It was reborn as the USSR. The empire no longer had a tsar, but all power was still centralized at the imperial court in Moscow. Here is a primer on the history of the USSR from the LOC: [www.loc.gov: Internal Workings of the Soviet Union - Revelations from the Russian Archives | Exhibitions - Library of Congress](https://www.loc.gov/exhibits/archives/intn.html)
 
 | [![](/media/1536171045677326337/3_1535657739329982466.jpg)](/media/1536171045677326337/3_1535657739329982466.jpg) |
 | :-: |
 
-The decolonization process of the Russian Empire (under all labels) started in 1991, driven by a multitude of factors ranging from the Western economic pressure to the political opportunism of the elites. [How three men signed the USSR's death warrant](https://www.bbc.co.uk/news/magazine-38416657)
+The decolonization process of the Russian Empire (under all labels) started in 1991, driven by a multitude of factors ranging from the Western economic pressure to the political opportunism of the elites. [www.bbc.co.uk: How three men signed the USSR's death warrant](https://www.bbc.co.uk/news/magazine-38416657)
 
 However, decolonization was not completed. I already discussed ethnic Russian exceptionalism deeply rooted in the Russian collective psyche. Combined with revanchism, many Russians believe in their right to restore their colonial possessions.
 
@@ -94,7 +94,7 @@ Somewhat of a similar distribution is observed with the middle class:
 Why don't people move from the less wealthy part of European Russia into the Urals and Transurals? In fact, it seems the opposite happens. Why? The GDP per capita figures by region do not reflect disposable income and the living conditions in the regions. [rg.ru/2021/10/14/ros…](https://rg.ru/2021/10/14/rossiiane-vse-menshe-hotiat-pereezzhat-rabotat-v-drugie-regiony.html)
 
 Life in the regions presents few to no opportunities, bad public services, bad ecology, overall low quality of life, etc. "The best is in Moscow" is probably the best phrase that describes the situation the author of the article below uses.
-[«Все веселье — в ТРЦ»: 12 причин, по которым все уезжают из регионов](https://journal.tinkoff.ru/migration-plans/)
+[journal.tinkoff.ru: «Все веселье — в ТРЦ»: 12 причин, по которым все уезжают из регионов](https://journal.tinkoff.ru/migration-plans/)
 
 What is driving the high GDP per capita in some of the regions of the Urals and Transurals? Natural resources. The Russian Federation is nothing more than a classical colonial empire extracting rents from the land and resources of the colonies. Here's a map of nat. gas reserves.
 
@@ -141,10 +141,10 @@ And naturally, the colonies are taxed appropriately by the metropole:
 | [![](/media/1536171045677326337/3_1536040210064101376.jpg)](/media/1536171045677326337/3_1536040210064101376.jpg) |
 | :-: |
 
-Tax revenues overall going into the federal budget are also dominated by the colonies, if the metropole, Moscow, and the old metropole, St. Petersburg, are excluded. Almost 80% of all tax revenues is coming from the colonies. [Аналитики назвали регионы с самыми высокими налоговыми сборами](https://delovoymir.biz/analitiki-nazvali-regiony-s-samymi-vysokimi-nalogovymi-sborami.html)
+Tax revenues overall going into the federal budget are also dominated by the colonies, if the metropole, Moscow, and the old metropole, St. Petersburg, are excluded. Almost 80% of all tax revenues is coming from the colonies. [delovoymir.biz: Аналитики назвали регионы с самыми высокими налоговыми сборами](https://delovoymir.biz/analitiki-nazvali-regiony-s-samymi-vysokimi-nalogovymi-sborami.html)
 
 At least a third of the Russian Federal budget is coming from hydrocarbons (the upper estimate is 51%). This is troubling... for Moscow.
-[Треть доходов бюджетной системы России оказалась связана с нефтью и газом](https://www.rbc.ru/economics/22/08/2019/5d555e4b9a7947aed7a185de)
+[www.rbc.ru: Треть доходов бюджетной системы России оказалась связана с нефтью и газом](https://www.rbc.ru/economics/22/08/2019/5d555e4b9a7947aed7a185de)
 
 These revenues from hydrocarbons cannot be coming forever. As the existing deposits deplete, extracting oil and gas from unexploited reserves is simply too costly. NB: this is yet another reason why the Russians started to look for new colonial possessions
 [chathamhouse.org/sites/default/…](https://www.chathamhouse.org/sites/default/files/publications/research/2016-06-09-import-substitution-russia-connolly-hanson.pdf)
@@ -177,20 +177,20 @@ What of the overall level of industrialization of the federation? Russia is indu
 | [![](/media/1536171045677326337/3_1536103844790288385.jpg)](/media/1536171045677326337/3_1536103844790288385.jpg) |
 | :-: |
 
-There is a caveat. As the Chatham House says: Russian "manufacturing is not competitive on global markets" and is destined for domestic use. It is part of Russia's industrial sovereignty policy. The technological gap between Russia and the West is not new: [Technology and Soviet Foreign Trade: On the Political Economy of an Underdeveloped Superpower on JSTOR](https://www.jstor.org/stable/2600488?seq=1)
+There is a caveat. As the Chatham House says: Russian "manufacturing is not competitive on global markets" and is destined for domestic use. It is part of Russia's industrial sovereignty policy. The technological gap between Russia and the West is not new: [www.jstor.org: Technology and Soviet Foreign Trade: On the Political Economy of an Underdeveloped Superpower on JSTOR](https://www.jstor.org/stable/2600488?seq=1)
 
 | [![](/media/1536171045677326337/3_1536126412519792641.png)](/media/1536171045677326337/3_1536126412519792641.png) |
 | :-: |
 
 That's why western sanctions hurt the Russian economy so much. Everything from mining to the very top of the production chain suffers - it is a colonial empire merely focused on colonial exploitation. A full embargo would break the empire.
-[The illusion of Russia’s economic stabilization](https://www.politico.eu/article/the-illusion-of-russia-economic-stabilization-sanctions-war-ukraine/)
+[www.politico.eu: The illusion of Russia’s economic stabilization](https://www.politico.eu/article/the-illusion-of-russia-economic-stabilization-sanctions-war-ukraine/)
 
 The colonies on the other hand stand to win quite a bit financially, with sufficient foreign investment (and other conditions). If for some reason a colony gains sovereignty it'll gain political agency *and* financial profits. The economic truth is being hidden.
 
 The Kremlin/Moscow continues a decades-long narrative of "a benevolent metropole." For example, this article from Feb. 2021 highlights that in 2020 distributions from the federal center to the regions were record high:
 [iz.ru/1126723/iuliia…](https://iz.ru/1126723/iuliia-tcerekh-dmitrii-grinkevich/vse-rublem-finansovaia-podderzhka-regionov-postavila-istoricheskii-rekord)
 
-Or this article from 2017, outlining how Moscow, St. Petersburg, "hydrocarbon" regions, and Tatarstan "feed" the rest of the country: [Кто платит, а кто тратит: кормящие страну автономные округа, триллионы](https://realnoevremya.ru/articles/67340-reyting-regionov-rossii-po-nalogovym-otchisleniyam)
+Or this article from 2017, outlining how Moscow, St. Petersburg, "hydrocarbon" regions, and Tatarstan "feed" the rest of the country: [realnoevremya.ru: Кто платит, а кто тратит: кормящие страну автономные округа, триллионы](https://realnoevremya.ru/articles/67340-reyting-regionov-rossii-po-nalogovym-otchisleniyam)
 
 My thinking of Moscow being a classical imperial metropole is also supported by the Russians. Viktor Suslov, a Russian economics professor and member of the Russian Academy of Sciences, voiced some concerns about the imbalance in the federal economy. [kommersant.ru/doc/4154938](https://www.kommersant.ru/doc/4154938)
 
@@ -206,7 +206,7 @@ He adds: "The current situation is a consequence of disproportionate and unfairl
 
 In his 2019 interview, however, Suslov doesn't predict that the federation would dissolve for economic reasons. He postulates that "the cultural and historical foundations of Russia's unity" are too strong.
 
-Note, that he was on the same research team that found no economic reasons for the Soviet Union's collapse. [Суслов Виктор Иванович | Официальный портал ИЭОПП СО РАН](https://www.ieie.su/persons/suslov-vi.html)
+Note, that he was on the same research team that found no economic reasons for the Soviet Union's collapse. [www.ieie.su: Суслов Виктор Иванович | Официальный портал ИЭОПП СО РАН](https://www.ieie.su/persons/suslov-vi.html)
 
 This brings us to the ethnic minorities and their republics point. I disagree with Suslov's last point. The autonomous republics point is very obvious and has nothing to do with economics, that's why this is the only time I'll bring them up. They are obvious colonies.
 
@@ -221,8 +221,8 @@ So to sum up:
 
 Colonies are too lucrative to grant them agency. The imperial centers stand to lose too much in a real federalization of the empire and even a liberal parliamentary government wouldn't risk upsetting the Muscovites. [rbth.com/lifestyle/3273…](https://www.rbth.com/lifestyle/327343-real-muscovite-how-do)
 
-In part 3 on the fate of Russia, I will discuss collective guilt as part of the decolonization process. For now, it is worth noting that trust in institutions in Russia is extremely low. The results are corroborated by  research: [Institutional Trust in Contemporary Moscow on JSTOR](https://www.jstor.org/stable/27752301?seq=1)
-[Russians Lead the World in Lack of Institutional Trust – Survey](https://www.themoscowtimes.com/2019/01/22/russians-lead-world-lack-institutional-trust-a64235)
+In part 3 on the fate of Russia, I will discuss collective guilt as part of the decolonization process. For now, it is worth noting that trust in institutions in Russia is extremely low. The results are corroborated by  research: [www.jstor.org: Institutional Trust in Contemporary Moscow on JSTOR](https://www.jstor.org/stable/27752301?seq=1)
+[www.themoscowtimes.com: Russians Lead the World in Lack of Institutional Trust – Survey](https://www.themoscowtimes.com/2019/01/22/russians-lead-world-lack-institutional-trust-a64235)
 
 Social trust (trust in a stranger to do no harm) is also low in RU. Dupont and Karpoff posit that trust is formed by a triad of laws, reputation, and culture. With the dissolution of the empire, proper laws granting agency to the people can be introduced. 
 [link.springer.com/article/10.100…](https://link.springer.com/article/10.1007/s10551-019-04229-1)

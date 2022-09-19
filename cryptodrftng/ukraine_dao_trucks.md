@@ -11,7 +11,7 @@ Author: [Альона Шевченко](https://twitter.com/cryptodrftng)
 🚚 Ukraine DAO Trucks work around the clock to deliver humanitarian aid across Ukraine, including the war zone. 
 
 ✨ [@EricCMack](https://twitter.com/EricCMack) covered their story for [@Forbes](https://twitter.com/Forbes) here:  
-[How The Influence Of Crypto In Ukraine’s Resistance Goes Beyond Money](https://www.forbes.com/sites/ericmack/2022/04/07/how-the-influence-of-crypto-in-ukraines-resistance-goes-beyond-money/)
+[www.forbes.com: How The Influence Of Crypto In Ukraine’s Resistance Goes Beyond Money](https://www.forbes.com/sites/ericmack/2022/04/07/how-the-influence-of-crypto-in-ukraines-resistance-goes-beyond-money/)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -22,7 +22,7 @@ Author: [Альона Шевченко](https://twitter.com/cryptodrftng)
 
 💙 Ukraine DAO Trucks are not financed through our treasury, but here are multiple ways to support them. 
 
-🚚 Operations are run by my parents. More info - here: [Day 48. Ukraine DAO Trucks Fleet.](https://cryptodrftng.substack.com/p/day-47-ukraine-dao-trucks-fleet?s=w)
+🚚 Operations are run by my parents. More info - here: [cryptodrftng.substack.com: Day 48. Ukraine DAO Trucks Fleet.](https://cryptodrftng.substack.com/p/day-47-ukraine-dao-trucks-fleet?s=w)
 
 | [![](/media/1532560059300978688/3_1529097377738637313.jpg)](/media/1532560059300978688/3_1529097377738637313.jpg) |
 | :-: |
@@ -64,4 +64,4 @@ Adding a podcast where I speak about Ukraine DAO Trucks:
 [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) Trucks - Notion page.
 [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine) [#russiaNGMI](https://twitter.com/hashtag/russiaNGMI) [#ArmUkraine](https://twitter.com/hashtag/ArmUkraine) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow) 
 
-[Ukraine DAO Trucks](https://www.notion.so/ukraine-dao/Ukraine-DAO-Trucks-8c0e44dc691c4d5f915ec42cf064b26e)
+[www.notion.so: Ukraine DAO Trucks](https://www.notion.so/ukraine-dao/Ukraine-DAO-Trucks-8c0e44dc691c4d5f915ec42cf064b26e)

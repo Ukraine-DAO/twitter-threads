@@ -9,7 +9,7 @@ Author: [Tamara Krawchenko 🇺🇦 🚲](https://twitter.com/T_Krawchenko)
 *Links to this thread: [Twitter](https://twitter.com/T_Krawchenko/status/1532476007701020672), [PingThread](https://pingthread.com/thread/1532476007701020672), [ThreadReader](https://threadreaderapp.com/thread/1532476007701020672.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/T_Krawchenko/status/1532476007701020672)*
 
 🧵The Kremlin pushes the idea that [#Ukraine](https://twitter.com/hashtag/Ukraine) is corrupt. This is wrong. Let me share here the high level findings of the 5th Round of Monitoring Under the OECD Istanbul [#AntiCorruption](https://twitter.com/hashtag/AntiCorruption) Action Plan. Link to full report ▶️
-[Anti-Corruption Reforms in Ukraine](https://www.oecd-ilibrary.org/governance/anti-corruption-reforms-in-ukraine_b1901b8c-en)
+[www.oecd-ilibrary.org: Anti-Corruption Reforms in Ukraine](https://www.oecd-ilibrary.org/governance/anti-corruption-reforms-in-ukraine_b1901b8c-en)
 
 ▶️[#Ukraine](https://twitter.com/hashtag/Ukraine)'s National Agency for Corruption Prevention (NACP) developed a draft [#AntiCorruption](https://twitter.com/hashtag/AntiCorruption)
 strategy in 2020.

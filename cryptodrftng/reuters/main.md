@@ -174,7 +174,7 @@ I'm patiently waiting for [@felix_light](https://twitter.com/felix_light) to exp
 </blockquote>
 
 The [@politico](https://twitter.com/politico) article I just mentioned in WR. [@Reuters](https://twitter.com/Reuters) 
-[Reuters staff raise alarms over partnership with Russian-owned wire service](https://www.politico.com/news/2022/03/20/reuters-staff-partnership-russian-wire-service-00018779)
+[www.politico.com: Reuters staff raise alarms over partnership with Russian-owned wire service](https://www.politico.com/news/2022/03/20/reuters-staff-partnership-russian-wire-service-00018779)
 
 I am aware of this statement they made,  but unless 
 [@Reuters](https://twitter.com/Reuters)
@@ -182,7 +182,7 @@ I am aware of this statement they made,  but unless
 
 Their continued spread of lies is testimony to that.
 
-[Reuters removes Russian state news agency TASS from its content marketplace](https://www.politico.eu/article/reuters-removes-russian-state-agency-tass-from-its-content-marketplace/)
+[www.politico.eu: Reuters removes Russian state news agency TASS from its content marketplace](https://www.politico.eu/article/reuters-removes-russian-state-agency-tass-from-its-content-marketplace/)
 
 Let's make [@Reuters](https://twitter.com/Reuters) memes! [@felix_light](https://twitter.com/felix_light)
 
@@ -379,7 +379,7 @@ russian propaganda finds subtle ways to infect the minds of Western audience, it
 
 [@MFA_Ukraine](https://twitter.com/MFA_Ukraine) urged [@Reuters](https://twitter.com/Reuters) to stop spreading russian propaganda and pointed out mistakes. [@Ukraine](https://twitter.com/Ukraine) 
 
-МЗС закликало Reuters не просувати російську пропаганду та вказало на помилки [МЗС закликало Reuters не просувати російську пропаганду та вказало на помилки](https://www.rbc.ua/ukr/news/mid-prizval-reuters-prodvigat-rossiyskuyu-1653925190.html)
+МЗС закликало Reuters не просувати російську пропаганду та вказало на помилки [www.rbc.ua: МЗС закликало Reuters не просувати російську пропаганду та вказало на помилки](https://www.rbc.ua/ukr/news/mid-prizval-reuters-prodvigat-rossiyskuyu-1653925190.html)
 
 [#ReutersLies](https://twitter.com/hashtag/ReutersLies) [@Ukraine_DAO](https://twitter.com/Ukraine_DAO)
 

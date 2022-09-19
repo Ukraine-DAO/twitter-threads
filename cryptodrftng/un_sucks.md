@@ -12,14 +12,14 @@ Actions speak louder than words.
 
 The UN has denied that its staff were told not to use the words “war or invasion” about the war in [#Ukraine](https://twitter.com/hashtag/Ukraine),  [@julianborger](https://twitter.com/julianborger) from [@guardian](https://twitter.com/guardian) reports. Let’s check if that’s accurate. 
 [@IrishTimes](https://twitter.com/IrishTimes) 
-[United Nations advises staff against using ‘war’ or ‘invasion’ regarding Ukraine](https://www.irishtimes.com/news/world/united-nations-advises-staff-against-using-war-or-invasion-regarding-ukraine-1.4821438)
+[www.irishtimes.com: United Nations advises staff against using ‘war’ or ‘invasion’ regarding Ukraine](https://www.irishtimes.com/news/world/united-nations-advises-staff-against-using-war-or-invasion-regarding-ukraine-1.4821438)
 
 Thank you [@NaomiOhReally](https://twitter.com/NaomiOhReally) [@IrishTimes](https://twitter.com/IrishTimes) for highlighting this behaviour - which can only be described as criminal.
 [@UN](https://twitter.com/UN)
 [@StephDujarric](https://twitter.com/StephDujarric) 
 [#Ukraine](https://twitter.com/hashtag/Ukraine) [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine) 🇺🇦
 
-[Foreigners travelling to Ukraine to fight invasion will be given citizenship – as it happened](https://www.theguardian.com/world/live/2022/mar/08/ukraine-news-russia-war-vladimir-putin-volodymyr-zelenskiy-kyiv-russian-invasion-live-latest-updates)
+[www.theguardian.com: Foreigners travelling to Ukraine to fight invasion will be given citizenship – as it happened](https://www.theguardian.com/world/live/2022/mar/08/ukraine-news-russia-war-vladimir-putin-volodymyr-zelenskiy-kyiv-russian-invasion-live-latest-updates)
 
 | [![](/media/1553127555435315204/3_1501239958786519043.jpg)](/media/1553127555435315204/3_1501239958786519043.jpg) |
 | :-: |
@@ -51,7 +51,7 @@ Instead:
 -“conflict” 
 Dear [@UN](https://twitter.com/UN) and [@StephDujarric](https://twitter.com/StephDujarric), what’s happening in Ukraine is called a “war”.
 
-[Ukraine emergency](https://www.unhcr.org/ukraine-emergency.html)
+[www.unhcr.org: Ukraine emergency](https://www.unhcr.org/ukraine-emergency.html)
 
 One of the core principles of the blockchain technology: do not trust. Verify.
 [@UN](https://twitter.com/UN) [@StephDujarric](https://twitter.com/StephDujarric) 

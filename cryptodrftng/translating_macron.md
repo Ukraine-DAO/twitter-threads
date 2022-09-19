@@ -84,7 +84,7 @@ De plus, il ne comprend pas qu'est-ce que ça veut dire - "humilier la russie".
 
 Dans la vidéo, il explique que les Ukrainiens ne sont pas non plus humiliés - les Ukrainiens sont tués.  Donc nous répondrons de la même manière. 
 
-[Зеленський жорстко відповів Макрону на заклики "не принижувати Росію"](https://youtu.be/YViQ-0nfj5k)
+[youtu.be: Зеленський жорстко відповів Макрону на заклики "не принижувати Росію"](https://youtu.be/YViQ-0nfj5k)
 
 ⚡️BREAKING NEWS ⚡️
 

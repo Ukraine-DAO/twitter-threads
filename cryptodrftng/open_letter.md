@@ -10,7 +10,7 @@ Author: [Альона Шевченко](https://twitter.com/cryptodrftng)
 
 I encourage everyone to read the open letter I published 3 days before the invasion. Every country has its propaganda, I’m not blind to that. But it’s 🇷🇺 propaganda that’s about to cause a global catastrophe. It has to be stopped before it’s too late.
 
-[Open Letter on the War in Ukraine from Alona, FRD Community Lead. Published 21 Feb 2022 | FreeRossDAO 🕊](https://www.freerossdao.org/2022/02/21/open-letter-on-the-war-in-ukraine-from-alona-frd-community-lead-2/)
+[www.freerossdao.org: Open Letter on the War in Ukraine from Alona, FRD Community Lead. Published 21 Feb 2022 | FreeRossDAO 🕊](https://www.freerossdao.org/2022/02/21/open-letter-on-the-war-in-ukraine-from-alona-frd-community-lead-2/)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">

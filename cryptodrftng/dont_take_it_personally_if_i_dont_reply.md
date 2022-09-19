@@ -16,4 +16,4 @@ Please don't take it personally if I don't respond/send a very short reply or do
 
 I'm extremely grateful for all the love and support and really wish I could reply properly to every message but right now it's not physically possible 💔 Here are a few ways you can help us:
 
-[10 ways to get involved with Ukraine DAO](https://ukraine-dao.notion.site/10-ways-to-get-involved-with-Ukraine-DAO-b048044541ad4e1eb73b9d443b2b9a99)
+[ukraine-dao.notion.site: 10 ways to get involved with Ukraine DAO](https://ukraine-dao.notion.site/10-ways-to-get-involved-with-Ukraine-DAO-b048044541ad4e1eb73b9d443b2b9a99)

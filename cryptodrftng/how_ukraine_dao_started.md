@@ -112,7 +112,7 @@ Also want to say a very big thank you to this actual queen - [@drosewritings](ht
 
 🌱 Her excellent article "What Can DAOs Learn from Holacracy?" (shared with us by [@dimka_eth](https://twitter.com/dimka_eth)) had a huge impact on [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) development:
 
-[What Can DAOs Learn from Holacracy? (Part I)](https://mirror.xyz/0x7dcbac92cce015a97BAc8f1116595d223722F0a1/Cw5icmYmjoAnJsxPPGMRXCM9051RYiIduV6naxlFCIc)
+[mirror.xyz: What Can DAOs Learn from Holacracy? (Part I)](https://mirror.xyz/0x7dcbac92cce015a97BAc8f1116595d223722F0a1/Cw5icmYmjoAnJsxPPGMRXCM9051RYiIduV6naxlFCIc)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -175,4 +175,4 @@ Thank you again everyone ❤️
 GN, have a great weekend! See you at [@MindfulWebz](https://twitter.com/MindfulWebz) Twitter Spaces on Sunday 😘
 
 [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine) 🇺🇦 [#russiaNGMI](https://twitter.com/hashtag/russiaNGMI) 
-[10 ways to get involved with Ukraine DAO](https://ukraine-dao.notion.site/10-ways-to-get-involved-with-Ukraine-DAO-b048044541ad4e1eb73b9d443b2b9a99)
+[ukraine-dao.notion.site: 10 ways to get involved with Ukraine DAO](https://ukraine-dao.notion.site/10-ways-to-get-involved-with-Ukraine-DAO-b048044541ad4e1eb73b9d443b2b9a99)

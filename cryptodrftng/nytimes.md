@@ -50,7 +50,7 @@ P.S. my view on not alienating russia: [twitter.com/cryptodrftng/s…](https://t
 
 [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow) [#ArmUkraine](https://twitter.com/hashtag/ArmUkraine) [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine) [@nytimes](https://twitter.com/nytimes) 
 
-[New York Times sparks fury in Ukraine with 'manifesto of appeasement'](https://www.dailymail.co.uk/news/article-10852721/amp/New-York-Times-sparks-fury-Ukraine-manifesto-appeasement-opinion-piece.html)
+[www.dailymail.co.uk: New York Times sparks fury in Ukraine with 'manifesto of appeasement'](https://www.dailymail.co.uk/news/article-10852721/amp/New-York-Times-sparks-fury-Ukraine-manifesto-appeasement-opinion-piece.html)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -97,7 +97,7 @@ Never happened before with [@nytimes](https://twitter.com/nytimes) and here we g
     &mdash; <a href="https://twitter.com/al_savchuk/status/1544192432698540033">Link</a>
 </blockquote>
 
-[@nytimes](https://twitter.com/nytimes) have also worked very hard to deserve their spot on the list - [@cryptodrftng/Kremlin parrots / Twitter](https://twitter.com/i/lists/1522661275033128960)
+[@nytimes](https://twitter.com/nytimes) have also worked very hard to deserve their spot on the list - [twitter.com: @cryptodrftng/Kremlin parrots / Twitter](https://twitter.com/i/lists/1522661275033128960)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">

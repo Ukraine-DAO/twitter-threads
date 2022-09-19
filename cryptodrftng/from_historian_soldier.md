@@ -8,7 +8,7 @@ redirect_from:
 Author: [Olga Tokariuk](https://twitter.com/olgatokariuk)  
 *Links to this thread: [Twitter](https://twitter.com/olgatokariuk/status/1530668994151206912), [PingThread](https://pingthread.com/thread/1530668994151206912), [ThreadReader](https://threadreaderapp.com/thread/1530668994151206912.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/olgatokariuk/status/1530668994151206912)*
 
-'I am feeling anger and profound disgust when I hear some Westerners suggest that Ukraine should just give up part of its territory to Russia': a Ukrainian soldier, who holds a PhD in history and used to work in a museum before the war, shared his thoughts [Nazar Rozlutsky](https://www.facebook.com/100003984215434/posts/2417238861752231/)
+'I am feeling anger and profound disgust when I hear some Westerners suggest that Ukraine should just give up part of its territory to Russia': a Ukrainian soldier, who holds a PhD in history and used to work in a museum before the war, shared his thoughts [www.facebook.com: Nazar Rozlutsky](https://www.facebook.com/100003984215434/posts/2417238861752231/)
 
 Please read it with the translation. It's a really powerful and striking personal account. 'I have never wanted to be a military man. But now I am one because there's war in my country. As are thousands of other Ukrainian professionals'
 

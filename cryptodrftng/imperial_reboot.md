@@ -88,7 +88,7 @@ Furthermore, integration with China is possible. It just takes time. You cant re
 | [![](/media/1509991598595223554/3_1509973443294474252.jpg)](/media/1509991598595223554/3_1509973443294474252.jpg) |
 | :-: |
 
-It'd be wrong to describe current Russian-Chinese relations as an alliance. Some Chinese intellectuals rather view Russia as an icebreaker that would clear a route for the Pax Sinica. This article may be representative of the mainstream Chinese discourse [Zheng Yongnian, Ukraine and the New World Order](https://www.readingthechinadream.com/zheng-yongnian-ukraine-and-the-new-world-order.html)
+It'd be wrong to describe current Russian-Chinese relations as an alliance. Some Chinese intellectuals rather view Russia as an icebreaker that would clear a route for the Pax Sinica. This article may be representative of the mainstream Chinese discourse [www.readingthechinadream.com: Zheng Yongnian, Ukraine and the New World Order](https://www.readingthechinadream.com/zheng-yongnian-ukraine-and-the-new-world-order.html)
 
 Putin's invasion of Ukraine could distract the US for 15-20 years. America being preoccupied with Russia, China will have time time to grow stronger to "play a more important role in the construction of the new world order". Russia isn't a Chinese ally. It's a Chinese icebreaker
 
@@ -253,7 +253,7 @@ Russian society is indeed highly tolerant to war casualties in Z-context. That's
 
 Polls support this view. What data we have on political preferences in Russian society? Analysts often refer to the Levada as the only independent sociological organisation in Russia. But "the only independent" sounds too much as a controlled opposition. Let's use something else
 
-Consider this poll ordered from the Russian Field agency by a politician Roman Yuneman. Despite his German surname, he is a Russian ethnonationalist. He argues that decision to rush Z was a mistake but now Russia has no choice but to fight till the victory [DropMeFiles – free one-click file sharing service](https://dropmefiles.com/oNhnB)
+Consider this poll ordered from the Russian Field agency by a politician Roman Yuneman. Despite his German surname, he is a Russian ethnonationalist. He argues that decision to rush Z was a mistake but now Russia has no choice but to fight till the victory [dropmefiles.com: DropMeFiles – free one-click file sharing service](https://dropmefiles.com/oNhnB)
 
 | [![](/media/1509991598595223554/3_1509977944080457733.jpg)](/media/1509991598595223554/3_1509977944080457733.jpg) |
 | :-: |
@@ -424,7 +424,7 @@ Metropoly always portrays a colony as flawed and in need of intervention by the 
 | [![](/media/1509991598595223554/3_1509985497095024640.jpg)](/media/1509991598595223554/3_1509985497095024640.jpg) |
 | :-: |
 
-I find the argumentation of Sobchak in this interview on Ukraine strikingly similar to Navalny's argumentation in his investigation on Tatarstan. It's the same logic and same mindset. Let me give you some quotes from Navalny's paper [Взятки. Дворцы. Самолеты. За что продали народ Татарстана](https://navalny.com/p/6427/)
+I find the argumentation of Sobchak in this interview on Ukraine strikingly similar to Navalny's argumentation in his investigation on Tatarstan. It's the same logic and same mindset. Let me give you some quotes from Navalny's paper [navalny.com: Взятки. Дворцы. Самолеты. За что продали народ Татарстана](https://navalny.com/p/6427/)
 
 | [![](/media/1509991598595223554/3_1509985627319816200.jpg)](/media/1509991598595223554/3_1509985627319816200.jpg) |
 | :-: |

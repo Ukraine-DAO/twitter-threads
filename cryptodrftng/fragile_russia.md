@@ -145,10 +145,10 @@ Further reading:
 
 You can see a very nice article of the age dynamics within the Russian elite here by Istories. It has a lot of data and infographics, but unfortunately they didn't translate it to English. If you want, you can use a Google Translate
 
-[«Пора на пенсию»](https://istories.media/investigations/2022/01/31/pora-na-pensiyu/)
+[istories.media: «Пора на пенсию»](https://istories.media/investigations/2022/01/31/pora-na-pensiyu/)
 
 Here you can find a much shorter summary of the Istories article by Meduza. It's okayish and gives a general idea of what the article is about though it's obviously less informative
 
-[The old guard The average age among Russia’s political elite is almost on par with the Brezhnev era. But Putin’s top officials are still younger than their American counterparts. — Meduza](https://meduza.io/en/feature/2022/01/31/the-old-guard)
+[meduza.io: The old guard The average age among Russia’s political elite is almost on par with the Brezhnev era. But Putin’s top officials are still younger than their American counterparts. — Meduza](https://meduza.io/en/feature/2022/01/31/the-old-guard)
 
-Here you can find a list of many Putin's gerontocratic reforms such as increasing or lifting the compulsory retirement age limits for the upper officials across all branches of power [Идем на пожизненное. Как российским судьям, чиновникам и полицейским увеличивают возраст пребывания в должности](https://mbk-news.appspot.com/suzhet/idem-na-pozhiznennoe/)
+Here you can find a list of many Putin's gerontocratic reforms such as increasing or lifting the compulsory retirement age limits for the upper officials across all branches of power [mbk-news.appspot.com: Идем на пожизненное. Как российским судьям, чиновникам и полицейским увеличивают возраст пребывания в должности](https://mbk-news.appspot.com/suzhet/idem-na-pozhiznennoe/)

@@ -57,7 +57,7 @@ Thanks for coming to my TED talk and [#ArmUkraineNow](https://twitter.com/hashta
 UPD: I have never been affiliated with any particular political party or ideology. I like to develop nuanced views with an open mind while seeking the truth. 
 I've also been trying to deal with all this while battling a devastating  incurable disease.
 
-[Day 31 - cryptodrftng.](https://cryptodrftng.substack.com/p/day-31?s=r)
+[cryptodrftng.substack.com: Day 31 - cryptodrftng.](https://cryptodrftng.substack.com/p/day-31?s=r)
 
 Open Letter on the War in Ukraine
 

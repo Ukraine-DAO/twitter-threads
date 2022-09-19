@@ -10,12 +10,12 @@ Author: [Madi Kapparov](https://twitter.com/MuKappa)
 
 Russian Imperial Movement - Русское Имперское Движениe
 
-A brief overview of the Russian neo-Nazi organization Russian Imperial Movement (RIM), founded in 2002.  The organization is officially recognized as a terrorist group by the US and Canada. [Designation of the Russian Imperial Movement  - United States Department of State](https://2017-2021.state.gov/designation-of-the-russian-imperial-movement/index.html)
+A brief overview of the Russian neo-Nazi organization Russian Imperial Movement (RIM), founded in 2002.  The organization is officially recognized as a terrorist group by the US and Canada. [2017-2021.state.gov: Designation of the Russian Imperial Movement  - United States Department of State](https://2017-2021.state.gov/designation-of-the-russian-imperial-movement/index.html)
 
 | [![](/media/1561818421968441346/3_1542302006668296198.jpg)](/media/1561818421968441346/3_1542302006668296198.jpg) |
 | :-: |
 
-The Stanford Center for International Security and Cooperation published an extensive report on the organization in February 2021. It is a deep dive into the org's history, activities, and motivations. I'll summarize a few key dates. [MMP: Russian Imperial Movement](https://cisac.fsi.stanford.edu/mappingmilitants/profiles/russian-imperial-movement)
+The Stanford Center for International Security and Cooperation published an extensive report on the organization in February 2021. It is a deep dive into the org's history, activities, and motivations. I'll summarize a few key dates. [cisac.fsi.stanford.edu: MMP: Russian Imperial Movement](https://cisac.fsi.stanford.edu/mappingmilitants/profiles/russian-imperial-movement)
 
 2002: the group is formed with the sole goal of rebuilding the Russian Empire within its pre-1914 borders and reinstating the monarchy. The initial membership is very low.
 2002-2011: the group grows as does its political influence. Xenophobia, antisemitism, overt ethnocentrism on Русские (ethnic Russians) are embraced by the group. The group takes part in the Russian Marches, ultra-right rallies (NB: Navalny attended these rallies). The group also joins rallies held by the principal party of the country, United Russia.
@@ -141,11 +141,11 @@ In a five-part post, they explain their origins and their part in the war in Don
 | :-: |
 
 If you want to Google translate it, here are the links:
-[Русское Имперское Движение](https://t.me/Rus_imperia/2483)
-[Русское Имперское Движение](https://t.me/Rus_imperia/2484)
-[Русское Имперское Движение](https://t.me/Rus_imperia/2485)
-[Русское Имперское Движение](https://t.me/Rus_imperia/2488)
-[Русское Имперское Движение](https://t.me/Rus_imperia/2489)
+[t.me: Русское Имперское Движение](https://t.me/Rus_imperia/2483)
+[t.me: Русское Имперское Движение](https://t.me/Rus_imperia/2484)
+[t.me: Русское Имперское Движение](https://t.me/Rus_imperia/2485)
+[t.me: Русское Имперское Движение](https://t.me/Rus_imperia/2488)
+[t.me: Русское Имперское Движение](https://t.me/Rus_imperia/2489)
 
 "Volunteer units from Russia.
 RNU (Russian National Unity) - the righteous cause. Baryshnikov estimates the number of RNU volunteers at 3000 people. The Imperial Legion has the "God, Tsar, Ethnos" slogan, i.e. nationalist and conservative orthodox ideas...
@@ -163,24 +163,24 @@ RNU (Russian National Unity) - the righteous cause. Baryshnikov estimates the nu
 | [![](/media/1561818421968441346/3_1542465119090876417.png)](/media/1561818421968441346/3_1542465119090876417.png) |
 | :-: |
 
-On July 13, 2017, though the group was no longer involved in the plausible deniability phase of the Russian invasion of Ukraine, RIM called for enrollment into the Partizan intensive training course, possibly implying recruitment into the Imperial Legion. [Русское Имперское Движение](https://t.me/Rus_imperia/11)
+On July 13, 2017, though the group was no longer involved in the plausible deniability phase of the Russian invasion of Ukraine, RIM called for enrollment into the Partizan intensive training course, possibly implying recruitment into the Imperial Legion. [t.me: Русское Имперское Движение](https://t.me/Rus_imperia/11)
 
 The course is only 7 days long, 12 hours a week and includes live fire exercises, map reading, radio comms, urban warfare, and first aid training. Much like Rusich, RIM uses St. Petersburg as their primary city for training.
 
-It is no secret that the group is extremely racist, xenophobic, and antisemitic. On 02.15.2022 Ukraine passed the legislation criminalizing antisemitism, with 295 for votes. RIM commented: "Now we know for certain how many Jews there are in the Rada. 295." [Русское Имперское Движение](https://t.me/Rus_imperia/9329)
+It is no secret that the group is extremely racist, xenophobic, and antisemitic. On 02.15.2022 Ukraine passed the legislation criminalizing antisemitism, with 295 for votes. RIM commented: "Now we know for certain how many Jews there are in the Rada. 295." [t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9329)
 
-They reposted this video to their channel with the following comment: "I wonder, do Russia's Hassids and Chabad support this 'flashmob?'" [Русское Имперское Движение](https://t.me/Rus_imperia/9439) [pic.twitter.com/r2qGUJs0T4](https://twitter.com/MuKappa/status/1542485812645957636/video/1)
+They reposted this video to their channel with the following comment: "I wonder, do Russia's Hassids and Chabad support this 'flashmob?'" [t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9439) [pic.twitter.com/r2qGUJs0T4](https://twitter.com/MuKappa/status/1542485812645957636/video/1)
 
 | [![](/media/1561818421968441346/7_1542485738255777792/preview.jpg)](/media/1561818421968441346/7_1542485738255777792/uYJnKyAD3KWzIrwF.mp4) |
 | :-: |
 
 They do not shy away from using the slurs against the Jews (yes, that word k***). For example:
-[Русское Имперское Движение](https://t.me/Rus_imperia/9353)
-[Русское Имперское Движение](https://t.me/Rus_imperia/8273)
-[Русское Имперское Движение](https://t.me/Rus_imperia/3255)
-[Русское Имперское Движение](https://t.me/Rus_imperia/9646)
+[t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9353)
+[t.me: Русское Имперское Движение](https://t.me/Rus_imperia/8273)
+[t.me: Русское Имперское Движение](https://t.me/Rus_imperia/3255)
+[t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9646)
 
-On February 24, 2022, on the day of the full-scale Russian invasion of Ukraine, RIM posted their commentary. [Русское Имперское Движение](https://t.me/Rus_imperia/9359)
+On February 24, 2022, on the day of the full-scale Russian invasion of Ukraine, RIM posted their commentary. [t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9359)
 "If a country faced with a choice between war and shame chooses shame, then it gets both war and shame. W. Churchill.
 In a civil war any victory...
 
@@ -208,7 +208,7 @@ Today we all woke up to the news that we've been waiting for 3 months already. P
 "wisdom to use the resource efficiently. ALL must be ready!
 Denis Gariev, director of the Partizan Center for tactical and live-fire training."
 
-RIM is also promoting the standard historic revisionism employed by Russia at large. In this post, [Русское Имперское Движение](https://t.me/Rus_imperia/9473), they start off by saying that "The Russian Cities, What do they have to do with Ukraine?" and many Ukrainian cities with their supposed "Russian" origin.
+RIM is also promoting the standard historic revisionism employed by Russia at large. In this post, [t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9473), they start off by saying that "The Russian Cities, What do they have to do with Ukraine?" and many Ukrainian cities with their supposed "Russian" origin.
 
 | [![](/media/1561818421968441346/3_1542587823152308224.jpg)](/media/1561818421968441346/3_1542587823152308224.jpg) |
 | :-: |
@@ -220,7 +220,7 @@ They also resonate with DShRG Rusich's interpretation of their motivations for t
 
 "matter who is icing them, goblins, Martians, kadyrovites, or those banderlogs themselves. The main point is that they are getting iced. And that's good. And our ethnic Russian lands we shall of course take away from the Ukro-separatists. I not under Vovan, then after...
 
-"Ethnic Russians always return what is theirs. Including Kiev, the mother of all Russian cities, and Russian Galicia, and we are not even talking about Novorossiya which we cleansed from the Turks. And we shall cleanse these lands from the Ukro-occupants." [Русское Имперское Движение](https://t.me/Rus_imperia/9467)
+"Ethnic Russians always return what is theirs. Including Kiev, the mother of all Russian cities, and Russian Galicia, and we are not even talking about Novorossiya which we cleansed from the Turks. And we shall cleanse these lands from the Ukro-occupants." [t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9467)
 
 It is a short but dense post by RIM: 
 1. Russophoboes are the enemy
@@ -232,10 +232,10 @@ It is a short but dense post by RIM:
 It is not the only post calling for extreme measures.
 
 RIM is calling for using anything possible as a weapon, including:
-- Grain ([Русское Имперское Движение](https://t.me/Rus_imperia/9631))
-- Genocide ([Русское Имперское Движение](https://t.me/Rus_imperia/9501) [Русское Имперское Движение](https://t.me/Rus_imperia/9530))
-- POW executions ([Русское Имперское Движение](https://t.me/Rus_imperia/9607))
-- Hiring the North Koreans ([Русское Имперское Движение](https://t.me/Rus_imperia/9692))
+- Grain ([t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9631))
+- Genocide ([t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9501) [t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9530))
+- POW executions ([t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9607))
+- Hiring the North Koreans ([t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9692))
 - And other insanities
 
 On March 24 they announced the deployment of the Imperial Legion's units to the frontline in Ukraine. A deca (unit type) under the command of Consul Dionysus of the Imperial Legion was sent; however, the Legion did not yet announce their general mobilization.
@@ -244,7 +244,7 @@ On March 24 they announced the deployment of the Imperial Legion's units to the 
 | :-: |
 
 Consul Dionysus was declared KIA on April 28. He was killed not far from Izyum. The post reveals that he was also a veteran and took part in the fighting in 2014. 
-Source for both: [Русское Имперское Движение](https://t.me/Rus_imperia/9488) [Русское Имперское Движение](https://t.me/Rus_imperia/9549)
+Source for both: [t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9488) [t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9549)
 
 | [![](/media/1561818421968441346/3_1542603140800856064.png)](/media/1561818421968441346/3_1542603140800856064.png) |
 | :-: |
@@ -256,11 +256,11 @@ On June 29, 2022, the RIM leadership declared partial mobilization of the Imperi
 
 "to arms of today from the legionaries of 2014 is the official status with the Ministry of Defense of the Russian Federation, with appropriate remuneration and guarantees. Legionaries will be supplied with proper equipment along with training..."
 
-RIM and their Imperial Legion are subordinate to the Russian MOD by their own admission. By their own admission, they also seem to be experiencing a manpower shortage. Source: [Русское Имперское Движение](https://t.me/Rus_imperia/9689)
+RIM and their Imperial Legion are subordinate to the Russian MOD by their own admission. By their own admission, they also seem to be experiencing a manpower shortage. Source: [t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9689)
 
-RIM also recently posted an article expressing their frustration with the authorities: the lack of an ideology (according to them Russia should openly declare ethnic Russian exceptionalism) and the stated goals of the war ("denazification," echoes Rusich). [Русское Имперское Движение](https://t.me/Rus_imperia/9663)
+RIM also recently posted an article expressing their frustration with the authorities: the lack of an ideology (according to them Russia should openly declare ethnic Russian exceptionalism) and the stated goals of the war ("denazification," echoes Rusich). [t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9663)
 
-RIM also posts sometimes sympathetic messages to the Third Reich and its collaborators, especially the so-called Russian Liberation Army (ROA). Source: [Русское Имперское Движение](https://t.me/Rus_imperia/9628)
+RIM also posts sometimes sympathetic messages to the Third Reich and its collaborators, especially the so-called Russian Liberation Army (ROA). Source: [t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9628)
 
 | [![](/media/1561818421968441346/3_1542606679870693376.jpg)](/media/1561818421968441346/3_1542606679870693376.jpg) |
 | :-: |
@@ -268,12 +268,12 @@ RIM also posts sometimes sympathetic messages to the Third Reich and its collabo
 This is an ongoing thread and I will add to it as new information comes out. 
 For now, end of the thread.
 
-RIM yet again declares partial mobilization. In the video, they again reiterate that those who serve in the Imperial Legion are under the patronage of the Russian MOD. They are paid and receive compensation in case of injury. They maintain their ideology. [Русское Имперское Движение](https://t.me/Rus_imperia/9704)
+RIM yet again declares partial mobilization. In the video, they again reiterate that those who serve in the Imperial Legion are under the patronage of the Russian MOD. They are paid and receive compensation in case of injury. They maintain their ideology. [t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9704)
 
 | [![](/media/1561818421968441346/3_1543226753329545217.png)](/media/1561818421968441346/3_1543226753329545217.png) |
 | :-: |
 
-RIM continues to promote their recruitment efforts into their Imperial Legion. The message is simple: "The Imperial Legion: Join the Imperial Legion." Note the alpha-omega labarum expressing the religious extremism of the neo-nazi group. Source: [Русское Имперское Движение](https://t.me/Rus_imperia/9733)
+RIM continues to promote their recruitment efforts into their Imperial Legion. The message is simple: "The Imperial Legion: Join the Imperial Legion." Note the alpha-omega labarum expressing the religious extremism of the neo-nazi group. Source: [t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9733)
 
 | [![](/media/1561818421968441346/3_1545462246742138883.jpg)](/media/1561818421968441346/3_1545462246742138883.jpg) |
 | :-: |
@@ -283,9 +283,9 @@ The Imperial Legion claims to be on the "western front," in Ukraine with a bigge
 | [![](/media/1561818421968441346/3_1548381852422905856.jpg)](/media/1561818421968441346/3_1548381852422905856.jpg) | [![](/media/1561818421968441346/3_1548381852431306755.jpg)](/media/1561818421968441346/3_1548381852431306755.jpg) |
 | :-: | :-: |
 
-A deca is not defined by RIM, but it is probably just ten fighters or a platoon-sized unit at most. Also, Consul Dionisys is reported to be still alive. He is a centuria (~100 men) commander and was only WIA. Instead, Decurion Dionisys was killed. Source: [Русское Имперское Движение](https://t.me/Rus_imperia/9737?single)
+A deca is not defined by RIM, but it is probably just ten fighters or a platoon-sized unit at most. Also, Consul Dionisys is reported to be still alive. He is a centuria (~100 men) commander and was only WIA. Instead, Decurion Dionisys was killed. Source: [t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9737?single)
 
-RIM posted an interesting discussion of their banner choices. Source: [Русское Имперское Движение](https://t.me/Rus_imperia/9791)
+RIM posted an interesting discussion of their banner choices. Source: [t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9791)
 Translation follows:
 
 | [![](/media/1561818421968441346/3_1552033957830692865.jpg)](/media/1561818421968441346/3_1552033957830692865.jpg) |
@@ -318,17 +318,17 @@ RIM yet again embraces not only neo-Nazi views but also religious extremism.
 | [![](/media/1561818421968441346/3_1552035084894715909.jpg)](/media/1561818421968441346/3_1552035084894715909.jpg) |
 | :-: |
 
-The Russian Imperial Movement published a map of their conquest plans. While this is an ultra far right group making a claim, it is safe to say that it lines up the Kremlin’s intentions. It won’t stop at Ukraine. [Русское Имперское Движение](https://t.me/Rus_imperia/9822)
+The Russian Imperial Movement published a map of their conquest plans. While this is an ultra far right group making a claim, it is safe to say that it lines up the Kremlin’s intentions. It won’t stop at Ukraine. [t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9822)
 
 | [![](/media/1561818421968441346/3_1556634125351768066.jpg)](/media/1561818421968441346/3_1556634125351768066.jpg) |
 | :-: |
 
-The Imperial Legion of RIM is reporting casualties. On August 4, 2022 Maksim Shtoler was presumably killed in action in the Kharkiv Oblast. RIM continues to reiterative the narrative that Ukraine is a non-existent nation occupying "Russian lands." [Русское Имперское Движение](https://t.me/Rus_imperia/9860)
+The Imperial Legion of RIM is reporting casualties. On August 4, 2022 Maksim Shtoler was presumably killed in action in the Kharkiv Oblast. RIM continues to reiterative the narrative that Ukraine is a non-existent nation occupying "Russian lands." [t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9860)
 
 | [![](/media/1561818421968441346/3_1558867448715173891.jpg)](/media/1561818421968441346/3_1558867448715173891.jpg) |
 | :-: |
 
-Fighters of the Imperial Legion of RIM are awarded RU military decorations: the medal For Courage and the Order of Courage. Those are RU state decorations generally reserved for the RU military. This confirms that RIM is integrated into the RU military. [Русское Имперское Движение](https://t.me/Rus_imperia/9912)
+Fighters of the Imperial Legion of RIM are awarded RU military decorations: the medal For Courage and the Order of Courage. Those are RU state decorations generally reserved for the RU military. This confirms that RIM is integrated into the RU military. [t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9912)
 
 | [![](/media/1561818421968441346/3_1561392734539288583.jpg)](/media/1561818421968441346/3_1561392734539288583.jpg) | [![](/media/1561818421968441346/3_1561392734547726346.jpg)](/media/1561818421968441346/3_1561392734547726346.jpg) | [![](/media/1561818421968441346/3_1561392734744739843.jpg)](/media/1561818421968441346/3_1561392734744739843.jpg) |
 | :-: | :-: | :-: |
@@ -354,4 +354,4 @@ And when the war ends, it will be necessary to continue killing Ukrainians. Not 
 
 "and our children or grandchildren would have to pay with their lives for our short-sightedness and cowardice. Remember: Ukraine = Antirussia. ALWAYS. Do you want Russia to live? Do you want to live? Do you want your children to live? Kill Ukraine..."
 
-S: [Русское Имперское Движение](https://t.me/Rus_imperia/9915)
+S: [t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9915)

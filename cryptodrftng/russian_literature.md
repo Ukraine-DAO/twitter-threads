@@ -48,7 +48,7 @@ I will never read a russian book again. Not reading imperialist russian literatu
 Over 350 of Ukraine’s cultural sites have already been destroyed or damaged by the genocidal russian invasion. If it's Pushkin that you are worrying about right now - that's sad.
 
 If you want to discover 🇺🇦 culture instead - welcome to [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) 
-[Ukrainian Culture - Ukraine DAO](https://www.notion.so/ukraine-dao/Ukrainian-Culture-Ukraine-DAO-c62f3a1ca2194dd8ad98204deafb6010)
+[www.notion.so: Ukrainian Culture - Ukraine DAO](https://www.notion.so/ukraine-dao/Ukrainian-Culture-Ukraine-DAO-c62f3a1ca2194dd8ad98204deafb6010)
 
 Here's what "russian culture" looks like - erasing everything Ukranian out of existence the moment they have a chance to. And we should read Pushkin? LOL.
 
@@ -223,7 +223,7 @@ So [@primusmagestri](https://twitter.com/primusmagestri), can we conclude that a
 
 Important to not let [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) evoke primitive anger. 
 
-✨ Educate yourself - and you will hate russia even more: [Empire, exceptionalism, and the rhyming of history](https://www.bisa.ac.uk/members/working-groups/resg/articles/empire-exceptionalism-and-rhyming-history)
+✨ Educate yourself - and you will hate russia even more: [www.bisa.ac.uk: Empire, exceptionalism, and the rhyming of history](https://www.bisa.ac.uk/members/working-groups/resg/articles/empire-exceptionalism-and-rhyming-history)
 
 | [![](/media/1564327104958943235/3_1531973134416596993.jpg)](/media/1564327104958943235/3_1531973134416596993.jpg) |
 | :-: |
@@ -429,7 +429,7 @@ No I won't "have to" cancel everything. The people opressed by the English & Dut
 | :-: |
 
 The screenshot below is the transcript of a video I translated a couple days ago for another project: 
-[Росія вдарила по школі на Салтівці: загинула жінка, чоловік поранений](https://youtu.be/ROtj9UfqACo)
+[youtu.be: Росія вдарила по школі на Салтівці: загинула жінка, чоловік поранений](https://youtu.be/ROtj9UfqACo)
 
 This is from Kharkiv, in the past - the most pro-russian city in 🇺🇦. Maybe these people know more than those who are not from Ukraine?
 
@@ -473,7 +473,7 @@ I didn't realise [@yermolenko_v](https://twitter.com/yermolenko_v) had that podc
     &mdash; <a href="https://twitter.com/Flash_news_ua/status/1536975460239912964">Link</a>
 </blockquote>
 
-[@yermolenko_v](https://twitter.com/yermolenko_v) for [@ForeignPolicy](https://twitter.com/ForeignPolicy): [From Pushkin to Putin: Russian Literature’s Imperial Ideology](https://foreignpolicy.com/2022/06/25/russia-ukraine-war-literature-classics-imperialism-ideology-nationalism-putin-pushkin-tolstoy-dostoevsky-caucasus/)
+[@yermolenko_v](https://twitter.com/yermolenko_v) for [@ForeignPolicy](https://twitter.com/ForeignPolicy): [foreignpolicy.com: From Pushkin to Putin: Russian Literature’s Imperial Ideology](https://foreignpolicy.com/2022/06/25/russia-ukraine-war-literature-classics-imperialism-ideology-nationalism-putin-pushkin-tolstoy-dostoevsky-caucasus/)
 
 [#russianculture](https://twitter.com/hashtag/russianculture) [#russianliterature](https://twitter.com/hashtag/russianliterature) 
 [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow) [#ArmUkraine](https://twitter.com/hashtag/ArmUkraine) [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine)

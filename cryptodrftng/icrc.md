@@ -10,19 +10,19 @@ Author: [Альона Шевченко](https://twitter.com/cryptodrftng)
 
 Why donating money through Red Cross is a very bad idea?
 
-1) [In Search Of The Red Cross' $500 Million In Haiti Relief](https://www.npr.org/2015/06/03/411524156/in-search-of-the-red-cross-500-million-in-haiti-relief)
+1) [www.npr.org: In Search Of The Red Cross' $500 Million In Haiti Relief](https://www.npr.org/2015/06/03/411524156/in-search-of-the-red-cross-500-million-in-haiti-relief)
 
-2) [10 Disturbing Things ProPublica Learned Investigating the Red Cross’ Sandy Relief Efforts](https://www.propublica.org/article/disturbing-things-about-the-red-crosss-sandy-relief-efforts)
+2) [www.propublica.org: 10 Disturbing Things ProPublica Learned Investigating the Red Cross’ Sandy Relief Efforts](https://www.propublica.org/article/disturbing-things-about-the-red-crosss-sandy-relief-efforts)
 
-3) ["We shouldn’t reflexively send $10 to the Red Cross"](https://www.vox.com/conversations/2017/9/6/16255044/red-cross-houston-hurricane-harvey-irma-interview)
+3) [www.vox.com: "We shouldn’t reflexively send $10 to the Red Cross"](https://www.vox.com/conversations/2017/9/6/16255044/red-cross-houston-hurricane-harvey-irma-interview)
 
-4) [Don’t Give $20 to the Red Cross. We Need a New Kind of Humanitarian Relief.](https://slate.com/business/2017/08/dont-give-money-to-the-red-cross-we-need-a-new-way.html)
+4) [slate.com: Don’t Give $20 to the Red Cross. We Need a New Kind of Humanitarian Relief.](https://slate.com/business/2017/08/dont-give-money-to-the-red-cross-we-need-a-new-way.html)
 
-5) [Australian Red Cross defends spending 10% of bushfire donations on office costs](https://www.theguardian.com/australia-news/2020/jan/24/australian-red-cross-defends-spending-10-of-bushfire-donations-on-office-costs)
+5) [www.theguardian.com: Australian Red Cross defends spending 10% of bushfire donations on office costs](https://www.theguardian.com/australia-news/2020/jan/24/australian-red-cross-defends-spending-10-of-bushfire-donations-on-office-costs)
 
 6) [twitter.com/walterlekh/sta…](https://twitter.com/walterlekh/status/1507892819658166274?s=21&t=sgQXnv_u4yXd5p0swz6oyQ)
 
-7) [Zelensky: "International Committee of the Red Cross is forbidding us to use their emblem on the humanitarian mission vehicles."](https://kyivindependent.com/uncategorized/zelensky-international-committee-of-the-red-cross-is-forbidding-us-to-use-their-emblem-on-the-humanitarian-mission-vehicles/)
+7) [kyivindependent.com: Zelensky: "International Committee of the Red Cross is forbidding us to use their emblem on the humanitarian mission vehicles."](https://kyivindependent.com/uncategorized/zelensky-international-committee-of-the-red-cross-is-forbidding-us-to-use-their-emblem-on-the-humanitarian-mission-vehicles/)
 
 8) [twitter.com/nikamelkozerov…](https://twitter.com/nikamelkozerova/status/1507791498968014857?s=21&t=YnTne8BkY_HDp5AZyXYMyw)
 

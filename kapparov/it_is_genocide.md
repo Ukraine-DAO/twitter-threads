@@ -12,17 +12,17 @@ On genocide and why Ukraine is fighting for more countries than you might think
 
 I've been recently told that Ukraine's claims of genocide by the Russians are emotional and unfounded. I beg to differ.
 
-Some mistakenly think that for mass murder to qualify as genocide a certain number of victims needs to be reached. No. Let's look at the official definition of genocide by the UN. It is two-fold. It has a mental element and a physical element. 2/ [United Nations Office on Genocide Prevention and the Responsibility to Protect](https://www.un.org/en/genocideprevention/genocide.shtml)
+Some mistakenly think that for mass murder to qualify as genocide a certain number of victims needs to be reached. No. Let's look at the official definition of genocide by the UN. It is two-fold. It has a mental element and a physical element. 2/ [www.un.org: United Nations Office on Genocide Prevention and the Responsibility to Protect](https://www.un.org/en/genocideprevention/genocide.shtml)
 
 Let's start with the physical:
 a. "Killing members of the group" - both civilian and military victims count, and there are plenty of both. Bucha, Irpen, Borodyanka, Mariupol. We still don't know how many dead are in the occupied territories of Ukraine. The list is long.
 
 b. "Causing serious bodily or mental harm to members of the group" 4/
-[How the War in Ukraine Is Affecting the Mental Health of Survivors](https://www.verywellmind.com/ukrainian-mental-health-during-the-war-5225389)
+[www.verywellmind.com: How the War in Ukraine Is Affecting the Mental Health of Survivors](https://www.verywellmind.com/ukrainian-mental-health-during-the-war-5225389)
 
-c. "Deliberately inflicting on the group conditions of life calculated to bring about its physical destruction in whole or in part" - Mariupol is 95% destroyed, Kharkiv was indiscriminately shelled until the Russians were pushed back, missile strikes. 5/ [Ukraine: Russia using 'missile terrorism' in wide attacks](https://apnews.com/article/russia-ukraine-business-europe-united-nations-evacuations-d5fead271f5bd1ff19196d9e52253079)
+c. "Deliberately inflicting on the group conditions of life calculated to bring about its physical destruction in whole or in part" - Mariupol is 95% destroyed, Kharkiv was indiscriminately shelled until the Russians were pushed back, missile strikes. 5/ [apnews.com: Ukraine: Russia using 'missile terrorism' in wide attacks](https://apnews.com/article/russia-ukraine-business-europe-united-nations-evacuations-d5fead271f5bd1ff19196d9e52253079)
 
-d. "Imposing measures intended to prevent births within the group" - Zelenskyy: "Russian troops have destroyed or damaged nearly 400 healthcare institutions: hospitals, maternity wards, outpatient clinics." Remember the Mariupol maternity ward? 6/ [Birth Under Fire: Mariupol Midwife Recalls Daily Horrors Of Working Under Siege](https://www.rferl.org/a/mariupol-maternity-hospital-ukraine-russia-war/31868350.html)
+d. "Imposing measures intended to prevent births within the group" - Zelenskyy: "Russian troops have destroyed or damaged nearly 400 healthcare institutions: hospitals, maternity wards, outpatient clinics." Remember the Mariupol maternity ward? 6/ [www.rferl.org: Birth Under Fire: Mariupol Midwife Recalls Daily Horrors Of Working Under Siege](https://www.rferl.org/a/mariupol-maternity-hospital-ukraine-russia-war/31868350.html)
 
 e. "Forcibly transferring children of the group to another group" - 121 000 (one hundred twenty-one thousand) children taken to Russia as of April 13. 7/ [twitter.com/SergiyKyslytsy…](https://twitter.com/SergiyKyslytsya/status/1514236425792888835?s=20&t=kfj49CZ2NhKQNTM-_K4_jg)
 
@@ -62,7 +62,7 @@ In a since-deleted article on RIA Novosti, a Russian state media outlet, the Rus
 And the Russian people are "...in their totality Velikorossy, Belorussians, and Malorossy." Velikorossy, or Great Russians, are what the Russian are calling themselves in this article. Malorossy, or Little Russians, are Ukrainians. This terminology is of old imperial origin.
 
 However, such terminology has been popular among the Russian irredentist circles since the 1990s. And is now adopted by the official authorities, though not openly. Though the article got removed, the Internet remembers. 14/
-[Наступление России и нового мира](https://web.archive.org/web/20220226051154/https://ria.ru/20220226/rossiya-1775162336.html)
+[web.archive.org: Наступление России и нового мира](https://web.archive.org/web/20220226051154/https://ria.ru/20220226/rossiya-1775162336.html)
 
 The Russians were either stupefied by their own propaganda or they severely underestimated the Ukrainians. They are filled with intense hate against the resistance. So much so that they openly call for the murder of two million Ukrainians on state TV 15/
 [twitter.com/Gerashchenko_e…](https://twitter.com/Gerashchenko_en/status/1522939116404543495?s=20&t=qgA8joTwXsiVhcoLVJH9BQ)

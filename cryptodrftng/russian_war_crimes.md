@@ -12,7 +12,7 @@ Is this bot the best place to report russia stealing Ukrainian grain to the Ukra
 
 [#russianWarCrimes](https://twitter.com/hashtag/russianWarCrimes) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow) [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine) 
 
-[Війна 2022 | Україна | Злочини окупантів | Трибунал](https://t.me/russian_war_tribunal_bot)
+[t.me: Війна 2022 | Україна | Злочини окупантів | Трибунал](https://t.me/russian_war_tribunal_bot)
 
 [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) Telegram Info Resources page includes a useful bot that sends you an update once a day on whether putin has died yet. Upsets me once a day 😔 
 
@@ -26,12 +26,12 @@ Is this bot the best place to report russia stealing Ukrainian grain to the Ukra
 
 Facebook Resources [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow) [#ArmUkraine](https://twitter.com/hashtag/ArmUkraine) 
 
-[Facebook - Info Resources](https://ukraine-dao.notion.site/Facebook-Info-Resources-0d25f3d4a079436d8e806fa61c4e3c50)
+[ukraine-dao.notion.site: Facebook - Info Resources](https://ukraine-dao.notion.site/Facebook-Info-Resources-0d25f3d4a079436d8e806fa61c4e3c50)
 
 ✅ Official sources of the [@DefenceU](https://twitter.com/DefenceU) of [@Ukraine](https://twitter.com/Ukraine)   
 
 [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow) [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) 
-[Ministry of Defence - official sources](https://www.notion.so/ukraine-dao/Ministry-of-Defence-official-sources-b6b8732038dd4cccafa2de0dcd6e5c5f)
+[www.notion.so: Ministry of Defence - official sources](https://www.notion.so/ukraine-dao/Ministry-of-Defence-official-sources-b6b8732038dd4cccafa2de0dcd6e5c5f)
 
 [@Jr3597](https://twitter.com/Jr3597) thank you so much! [#russianWarCrimes](https://twitter.com/hashtag/russianWarCrimes) [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow) [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) 
 

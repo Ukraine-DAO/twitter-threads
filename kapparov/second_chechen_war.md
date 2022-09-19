@@ -51,7 +51,7 @@ The situation in Russia was not all that rosy either. The Russian economy contin
 | [![](/media/1530874126491066369/3_1530861765721980928.jpg)](/media/1530874126491066369/3_1530861765721980928.jpg) |
 | :-: |
 
-By the end of the conflict, it is estimated that the first war in Chechnya cost Russia nearly $5.5 billion or 1.4% of its annual GDP. The 1997 Asian financial crisis and tumbling oil prices were the final straw that broke the camel’s back. [The Chechen War in the Context of Contemporary Russian Politics (Chapter 4) - Chechnya](https://www.cambridge.org/core/books/abs/chechnya/chechen-war-in-the-context-of-contemporary-russian-politics/04967F6BE4FE99F84D8442DD720CE25F)
+By the end of the conflict, it is estimated that the first war in Chechnya cost Russia nearly $5.5 billion or 1.4% of its annual GDP. The 1997 Asian financial crisis and tumbling oil prices were the final straw that broke the camel’s back. [www.cambridge.org: The Chechen War in the Context of Contemporary Russian Politics (Chapter 4) - Chechnya](https://www.cambridge.org/core/books/abs/chechnya/chechen-war-in-the-context-of-contemporary-russian-politics/04967F6BE4FE99F84D8442DD720CE25F)
 
 In the summer of 1998, Russia defaulted on its debt and devalued its national currency, making its population even poorer. The situation was serious. Yeltsin had to cancel his summer vacation and go back to Moscow, where he was expected to reshuffle his Cabinet.
 
@@ -71,7 +71,7 @@ Some prospered, becoming powerful oligarchs. Most lived from paycheck to no payc
 | :-: |
 
 Adrian Campbell does a great job analyzing how the 1990s shaped today’s Russia. As the economy continued to stumble Yeltsin started to lose support in the government as well. In May of 1999, the Russian State Duma attempted and failed to impeach Yeltsin.
-[The wild decade: how the 1990s laid the foundations for Vladimir Putin's Russia](https://theconversation.com/the-wild-decade-how-the-1990s-laid-the-foundations-for-vladimir-putins-russia-141098)
+[theconversation.com: The wild decade: how the 1990s laid the foundations for Vladimir Putin's Russia](https://theconversation.com/the-wild-decade-how-the-1990s-laid-the-foundations-for-vladimir-putins-russia-141098)
 
 The first war in Chechnya was one of the five impeachment charges and obtained the highest number of votes, but failed to hit the required amount for impeachment. Later in August Yeltsin appointed Putin, one of his loyalists, as the new prime minister.
 
