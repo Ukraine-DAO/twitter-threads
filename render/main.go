@@ -135,6 +135,10 @@ func tweetTextToMarkdown(t twitter.Tweet, cfg common.RenderConfig) string {
 			linkText := u.DisplayURL
 			if u.Title != "" {
 				linkText = u.Title
+				url, err := url.Parse(u.ExpandedURL)
+				if err == nil {
+					linkText = fmt.Sprintf("%s: %s", url.Host, linkText)
+				}
 			}
 			repls = append(repls, replacement{u.Start, u.End, fmt.Sprintf("[%s](%s)", linkText, u.ExpandedURL)})
 		}
