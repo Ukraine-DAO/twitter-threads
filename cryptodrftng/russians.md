@@ -1289,3 +1289,23 @@ Izyum 💔
     </p>
     &mdash; <a href="https://twitter.com/K_Loukerenko/status/1571110174513070080">Link</a>
 </blockquote>
+
+111/ [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#russiaisanazistate](https://twitter.com/hashtag/russiaisanazistate) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) 
+
+✍️ Write a letter to [@POTUS](https://twitter.com/POTUS) asking him to support the bill designating russia as a state sponsor of terrorism - [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1571103388821229570?s=46&t=OtF6DbDTnbcvrn28g32Ljg)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Insane story from Kharkiv region’s police: 7 Sri Lankans, who were in #Ukraine 🇺🇦 for work and studies, were kidnapped by Russians 🇷🇺, beaten, had their nails torn off, and forced to work for free (clean). https://t.co/G7UOzhhXXc<br />
+    </p>
+    &mdash; <a href="https://twitter.com/rommari/status/1571610912142028802">Link</a>
+</blockquote>
+
+112/ [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#russiaisanazistate](https://twitter.com/hashtag/russiaisanazistate) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    seven sri-lanka citizens share harrowing account of spending months as slaves to russian soldiers in occupied vovchansk in eastern ukraine. starved, tortured, abused daily, @suspilne_news reports https://t.co/aIoDYV5jhP<br />
+    </p>
+    &mdash; <a href="https://twitter.com/maksymeristavi/status/1571727099639263233">Link</a>
+</blockquote>
