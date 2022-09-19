@@ -1309,3 +1309,27 @@ Izyum 💔
     </p>
     &mdash; <a href="https://twitter.com/maksymeristavi/status/1571727099639263233">Link</a>
 </blockquote>
+
+113/ Destruction of cultural heritage is part of the genocide. 
+
+[#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#GenocideofUkrainians](https://twitter.com/hashtag/GenocideofUkrainians) [#russiaisanazistate](https://twitter.com/hashtag/russiaisanazistate) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    The russian occupiers destroyed the monuments of the sacred art of the Polovtsians - the Polovtsian stone women (dating from the IX-XIII centuries), which are located on mount Kremenets near Izyum (now liberated)<br />
+    <br />
+    @ua_industrial_e https://t.co/qRmFmLNPy3<br />
+    </p>
+    &mdash; <a href="https://twitter.com/ukr_arthistory/status/1571610965728268292">Link</a>
+</blockquote>
+
+114/ Kherson 🚨
+ "They started filtration by the neighbourhoods, they go through all houses of a street, a drone in the sky. This is what we need to talk about NOW, so we don't count bodies in mass graves later. Where are all these human rights activists and organisations"
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Почалася фільтрація по районах, йдуть по всім будинкам вулиці, зверху дрон.<br />
+    Ось про що треба говорити ЗАРАЗ, а не потім рахувати трупи в могилах. Де ці всі правозахисники чи інші організації https://t.co/3Muhl5rbSO<br />
+    </p>
+    &mdash; <a href="https://twitter.com/go2the5dogs/status/1571087291636158474">Link</a>
+</blockquote>
