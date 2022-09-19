@@ -7,6 +7,9 @@ Here is a translation of an important part of a sermon by Patriarch Kirill, head
 
 "...But we know that the current spring is somber because of the dismal events related to the worsened political situation in the Donbas and practically the start of armed hostilities. I’d like to say something on this topic. 2/19 [pic.twitter.com/zF1IC1sbQQ](https://twitter.com/MuKappa/status/1528983695947972608/video/1)
 
+| [![](/media/1528985861152546816/7_1528973826217975808/preview.jpg)](/media/1528985861152546816/7_1528973826217975808/XOFa3ZM4p_X5ybUI.mp4) |
+| :-: |
+
 For eight years there have been attempts to destroy what exists in the Donbas. And in the Donbas there exists nonacceptance, fundamental nonacceptance, of the so-called values offered by those who contend for world power [auth: authority to rule the world].
 
 Nowadays, there is a test of loyalty to this power, a certain pass to that happy world, a world of excessive consumption, a world of seeming freedom. And do you know what that test is? The test is very bad, s-simple, and at the same time terrifying.
@@ -14,6 +17,9 @@ Nowadays, there is a test of loyalty to this power, a certain pass to that happy
 It is a gay parade. This requirement to the many to hold a gay parade is a test of loyalty to that certain powerful world. And we know that if people or countries reject these demands they don’t become a part [literally “enter”] of that world. They become alien.
 
 But we know what this is, this sin that is promoted by the so-called marches of dignity. This sin is condemned by the word of God, the Old and New Testaments. At that, by condemning the sin the Lord does not condemn the sinning man. 6/19 [pic.twitter.com/cJ1IJuqKYW](https://twitter.com/MuKappa/status/1528983736477528064/video/1)
+
+| [![](/media/1528985861152546816/7_1528974190564495361/preview.jpg)](/media/1528985861152546816/7_1528974190564495361/fVD7qPT-2z75S0tP.mp4) |
+| :-: |
 
 The Lord [lit. “he”] only calls upon the sinning man to repent but does not call for the sin, through the sinning man and his conduct, to become a living standard… in human behavior’s reaction become respectable and admissible.
 
@@ -26,6 +32,9 @@ Not to say that we are with you politically, not to sign some treaties, but to h
 Thus, we are talking about imposing, by force, a sin condemned by the Lord’s law. And this means imposing on people by force the rejection of God and his truth. That’s why what’s happening today in international relations has not only a political meaning.
 
 We are talking about something else, something more important than politics. We are talking about human salvation, where will humanity end, and on what side of God, the Savior, who came to this world as judge and vindicator. On the right or left side? 12/19 [pic.twitter.com/Z2vhPwwyd0](https://twitter.com/MuKappa/status/1528983781180334080/video/1)
+
+| [![](/media/1528985861152546816/7_1528974913801007104/preview.jpg)](/media/1528985861152546816/7_1528974913801007104/UIlq0Lg9TZ28WGpP.mp4) |
+| :-: |
 
 And today many out of weakness, out of foolishness, out of ignorance, and, more frequently, out of unwillingness to resist, go to that left [meaning: wrong] side.
 

@@ -171,6 +171,9 @@ It is no secret that the group is extremely racist, xenophobic, and antisemitic.
 
 They reposted this video to their channel with the following comment: "I wonder, do Russia's Hassids and Chabad support this 'flashmob?'" [Русское Имперское Движение](https://t.me/Rus_imperia/9439) [pic.twitter.com/r2qGUJs0T4](https://twitter.com/MuKappa/status/1542485812645957636/video/1)
 
+| [![](/media/1561818421968441346/7_1542485738255777792/preview.jpg)](/media/1561818421968441346/7_1542485738255777792/uYJnKyAD3KWzIrwF.mp4) |
+| :-: |
+
 They do not shy away from using the slurs against the Jews (yes, that word k***). For example:
 [Русское Имперское Движение](https://t.me/Rus_imperia/9353)
 [Русское Имперское Движение](https://t.me/Rus_imperia/8273)

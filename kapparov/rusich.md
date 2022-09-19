@@ -155,6 +155,9 @@ Rusich on TG: "Arts and crafts time. We are making presents for the Ukrainian ch
 
 Aleksei Milchakov, Rusich commander, was spotted on the frontlines. Sladkov+ TG channel published the video without acknowledging with whom Sladkov was speaking. Source: [Сладков +](https://t.me/Sladkov_plus/6122) Official Rusich TG hints that it is indeed Milchakov: [ДШРГ Русич](https://t.me/rusichdshrg/434) [pic.twitter.com/Nug4P9r5mw](https://twitter.com/MuKappa/status/1563610990570512389/video/1)
 
+| [![](/media/1570714344899645444/7_1563610871510736896/preview.jpg)](/media/1570714344899645444/7_1563610871510736896/jy9qzb8kSDvA7CqE.mp4) |
+| :-: |
+
 Rusich calls for “carpet bombings of residential areas of Kyiv, Lviv, Vinnitsa, Lutsk (instead of the pathetic singular strikes).” “Only radical measures. And full destruction,” they add. Recall that Rusich is de facto part of the Russian MOD. [ДШРГ Русич](https://t.me/rusichdshrg/510)
 
 | [![](/media/1570714344899645444/3_1570714340315086850.jpg)](/media/1570714344899645444/3_1570714340315086850.jpg) |

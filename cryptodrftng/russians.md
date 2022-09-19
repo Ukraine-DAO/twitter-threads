@@ -456,6 +456,9 @@ Over a thousand civilians were there at the moment of the attack.
 
 [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#ArmUkraine](https://twitter.com/hashtag/ArmUkraine) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow) [pic.twitter.com/Nj0peTOutn](https://twitter.com/cryptodrftng/status/1541441079320379394/video/1)
 
+| [![](/media/1566189007976939523/7_1541441010806525954/preview.jpg)](/media/1566189007976939523/7_1541441010806525954/8THXVBnN88rA8AXm.mp4) |
+| :-: |
+
 [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#ArmUkraine](https://twitter.com/hashtag/ArmUkraine) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow)
 
 <blockquote class="twitter-tweet">

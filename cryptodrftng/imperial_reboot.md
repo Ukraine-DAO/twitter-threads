@@ -186,6 +186,9 @@ Consider comments when Russia "decreased military activities on Kyiv and Chernih
 
 That's how Putin's core supporters feel. They don't view results as a victory. They percieve it as a shame. Putin rose stakes too high and his demands for neutral non-nuclear status are viewed as a domestic policy tool. He needs to present a victory, but nobody believes he's won [pic.twitter.com/ruiHAO3zon](https://twitter.com/kamilkazani/status/1509975832021901312/video/1)
 
+| [![](/media/1509991598595223554/7_1509975551632683011/preview.jpg)](/media/1509991598595223554/7_1509975551632683011/YoX_4nmIRprWKY4y.mp4) |
+| :-: |
+
 Apart from people lamenting current results as a shame and a defeat and calls for continuing the war, we see here a very smart and realistic comment. One commenter mentioned that Putin will retreat by May 9. Why May 9? Because it's a Victory Parade commemorating the WWII
 
 | [![](/media/1509991598595223554/3_1509976029506514946.jpg)](/media/1509991598595223554/3_1509976029506514946.jpg) |
@@ -245,6 +248,9 @@ If a country is building its future, people will be obsessed with it. But if we 
 
 Russian society is indeed highly tolerant to war casualties in Z-context. That's not wrong. But who exactly is tolerant to casualties? The elderly. Fascist warmongering dead worshipping babushkas and dedushkas are more than willing to sacrifice their youngsters for the Victory [pic.twitter.com/6KRyuYIWQj](https://twitter.com/kamilkazani/status/1509977777637928965/video/1)
 
+| [![](/media/1509991598595223554/7_1509977474641375236/preview.jpg)](/media/1509991598595223554/7_1509977474641375236/RMwbL1wJkaN8cfYB.mp4) |
+| :-: |
+
 Polls support this view. What data we have on political preferences in Russian society? Analysts often refer to the Levada as the only independent sociological organisation in Russia. But "the only independent" sounds too much as a controlled opposition. Let's use something else
 
 Consider this poll ordered from the Russian Field agency by a politician Roman Yuneman. Despite his German surname, he is a Russian ethnonationalist. He argues that decision to rush Z was a mistake but now Russia has no choice but to fight till the victory [DropMeFiles – free one-click file sharing service](https://dropmefiles.com/oNhnB)
@@ -294,7 +300,13 @@ As we see from this small yet revealing poll, it is the elderly who most unquest
 
 Strelkov talks about professional soldiers контрактники refusing to leave to Ukraine en masse. When ordered to war, they simply quit their job. And nobody can do anything, because there is no war declared. They just lose their benefits. On the bright side, they keep their legs [pic.twitter.com/G3jFk6ezwQ](https://twitter.com/kamilkazani/status/1509979072365056008/video/1)
 
+| [![](/media/1509991598595223554/7_1509978826864046083/preview.jpg)](/media/1509991598595223554/7_1509978826864046083/hMtUsKtMGo0oinv9.mp4) |
+| :-: |
+
 The elderly support rushing Z and sacrificing the youngsters for the sake of the ancestral cult. But youngsters would rather keep their legs. I like this video where Deputy Minister of Defense awards a soldier who just lost his leg and whishes him to "get on his feet again" [pic.twitter.com/n1N0uZCK64](https://twitter.com/kamilkazani/status/1509979209900384268/video/1)
+
+| [![](/media/1509991598595223554/7_1509979119584522240/preview.jpg)](/media/1509991598595223554/7_1509979119584522240/Echk3OK3czL2Sl4i.mp4) |
+| :-: |
 
 This unwillingness of Russian youngsters to fight explains the ethnic asymmetry in Russian army. Russian government not only sends minorities and pressganged Donbass people to frontline assaults on Mariupol. It even tries to mobilize population of its Caucasian satellite states
 
@@ -302,6 +314,9 @@ This unwillingness of Russian youngsters to fight explains the ethnic asymmetry 
 | :-: |
 
 Watch this video. Ministry of defense of Abkhazia declares it gonna send military aid to Russian forces in Ukraine. Don't you find it weird? Because it absolutely is [pic.twitter.com/kpTJPXELJj](https://twitter.com/kamilkazani/status/1509979462871527426/video/1)
+
+| [![](/media/1509991598595223554/7_1509979443699367939/preview.jpg)](/media/1509991598595223554/7_1509979443699367939/NOmFRIqt-efvFukF.mp4) |
+| :-: |
 
 Abkhazia and South Ossetia are two tiny unrecognised Russian satellite states in Caucasus. In 2008 Russia wage a war against Georgia on behalf of these separatist republics and then recognised them as sovereign states. Their population is tiny: 245 and 53 thousand respectively
 
@@ -325,7 +340,13 @@ All of these factors mean that Russia can't win Z-war with conventional means. I
 
 Which makes me fear that before May 9 Russia may suddenly escalate. Many Westerners fear a nuclear with Russia. I find it nearly impossible. Putin is not that crazy. There are of course a lot of mad chickenhawks - this MP Delyagin suggested nuking Azerbaijan oil industry [pic.twitter.com/Uskr2u8UP5](https://twitter.com/kamilkazani/status/1509981499411636238/video/1)
 
+| [![](/media/1509991598595223554/7_1509981174990610437/preview.jpg)](/media/1509991598595223554/7_1509981174990610437/_rFWcFGSjvLk00D-.mp4) |
+| :-: |
+
 Delyagin was immediately rebutted by Putin's press secretary Peskov and made to apologise. This tough guy just called for nuclear strikes but started humiliating himself and crawling on his knees straight after being rebuked by the higher ups. Very typical [pic.twitter.com/8QsukX9hSi](https://twitter.com/kamilkazani/status/1509982523920629767/video/1)
+
+| [![](/media/1509991598595223554/7_1509982246098382860/preview.jpg)](/media/1509991598595223554/7_1509982246098382860/qvYFjN-dmg5bVlR3.mp4) |
+| :-: |
 
 It shows that contrary to the somewhat popular beliefs Russian leadership is not aiming to raise the stakes indefinitely. They still want a positive outcome for themselves. But if they don't win by late April, they may escalate - to get some victory by a symbolic deadline
 
@@ -384,6 +405,9 @@ The problem lies in Russian nstitutions and in Russian culture. Let me show you 
 | :-: |
 
 That's liberal politician Sobchak discussing the Ukrainian problem in 1991. This interview shows a deep-rooted imperialist mindset under a liberal disguise. The metropoly will weaponize *any* ideology to assert its dominance over the colonies. Any rhetorics will serve the empire [pic.twitter.com/V8azk1W2Oo](https://twitter.com/kamilkazani/status/1509985112850677767/video/1)
+
+| [![](/media/1509991598595223554/7_1509984540000989184/preview.jpg)](/media/1509991598595223554/7_1509984540000989184/W_8nadhi6UZMjm4x.mp4) |
+| :-: |
 
 According to Sobchak Ukraine is governed by the alliance of "extreme nationalists" and "conservative Communist nomenklatura". Any minorities the refuse to abandon their identity are extreme nationalists. And they're closely connected to the Communists of course
 
