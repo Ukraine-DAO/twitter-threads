@@ -1333,3 +1333,31 @@ Izyum 💔
     </p>
     &mdash; <a href="https://twitter.com/go2the5dogs/status/1571087291636158474">Link</a>
 </blockquote>
+
+115/ [@Meta](https://twitter.com/Meta) I have no words for this.
+
+[#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Звісно ж русня почала вливати бабло в рекламу<br />
+    Мразі в @Meta і мразі в рашці<br />
+    Я дуже сподіваюсь що ми знайдемо кожного https://t.co/vKlGtOoR8t<br />
+    </p>
+    &mdash; <a href="https://twitter.com/2Dust/status/1571861572242542592">Link</a>
+</blockquote>
+
+116/ "Most of the bodies have signs of torture: men and women were shot with their hands tied behind their backs." 
+
+No words.
+
+[#Izyum](https://twitter.com/hashtag/Izyum) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Українські фахівці продовжують ексгумацію тіл в #Ізюмі. На більшості тіл наявні сліди тортур: чоловіків і жінок розстрілювали із зв’язаними за спиною руками.<br />
+    Після #Бучі , Ізюмська різанина стала ще одним жахливим злочином #російських загарбників в #Україні.<br />
+    #StandWithUkraine https://t.co/r0dZleLgkJ<br />
+    </p>
+    &mdash; <a href="https://twitter.com/EmineDzheppar/status/1571886242366738433">Link</a>
+</blockquote>
