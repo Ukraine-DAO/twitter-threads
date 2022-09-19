@@ -14,8 +14,8 @@ Author: [{{.AuthorName}}](https://twitter.com/{{.AuthorUsername}})
 {{ .Paragraph }}
 {{ else if .QuotedTweet }}
 {{ .QuotedTweet }}
-{{- else if .Images }}
-|{{ range .Images }} [![]({{ . }})]({{ . }}) |{{ end }}
-|{{ range .Images }} :-: |{{ end }}
+{{- else if .Media }}
+|{{ range .Media }} [![]({{ .DisplayURL }})]({{ .TargetURL }}) |{{ end }}
+|{{ range .Media }} :-: |{{ end }}
 {{ end }}
 {{- end -}}

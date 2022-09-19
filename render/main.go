@@ -66,8 +66,13 @@ type Thread struct {
 
 type Block struct {
 	Paragraph   string
-	Images      []string
+	Media       []Media
 	QuotedTweet string
+}
+
+type Media struct {
+	DisplayURL string
+	TargetURL  string
 }
 
 type PathMapping struct {
@@ -213,27 +218,32 @@ func parseThread(name string, thread common.Thread, state state.ThreadState, med
 	}
 
 	add := func(b Block) { r.Blocks = append(r.Blocks, b) }
+	localOrRemoteURL := func(remote string, local string) string {
+		fpath := filepath.Join(*outputDir, mediaDir, thread.ThreadID, local)
+		_, err := os.Stat(fpath)
+		if errors.Is(err, fs.ErrNotExist) {
+			return remote
+		}
+		return "/" + filepath.Join(mediaDir, thread.ThreadID, local)
+	}
 	for _, t := range chain {
 		add(Block{Paragraph: tweetTextToMarkdown(t, thread.Config)})
 
 		if len(t.Attachments.MediaKeys) > 0 {
-			imgs := []string{}
+			media := []Media{}
 			for _, k := range t.Attachments.MediaKeys {
 				for _, m := range t.Includes.Media {
-					if m.Key == k && m.Type == "photo" {
-						u, fname := m.DisplayURLAndFilename()
-						fpath := filepath.Join(*outputDir, mediaDir, thread.ThreadID, fname)
-						_, err := os.Stat(fpath)
-						if errors.Is(err, fs.ErrNotExist) {
-							imgs = append(imgs, u)
-						} else {
-							imgs = append(imgs, "/"+filepath.Join(mediaDir, thread.ThreadID, fname))
-						}
-						break
+					if m.Key != k {
+						continue
 					}
+					media = append(media, Media{
+						DisplayURL: localOrRemoteURL(m.DisplayURLAndFilename()),
+						TargetURL:  localOrRemoteURL(m.TargetURLAndFilename()),
+					})
+					break
 				}
 			}
-			add(Block{Images: imgs})
+			add(Block{Media: media})
 		}
 
 		for _, rt := range t.ReferencedTweets {
