@@ -1304,3 +1304,12 @@ Thank you very much for the support with refugees, but without Germany those ref
     </p>
     &mdash; <a href="https://twitter.com/aleonala/status/1569889753553850368">Link</a>
 </blockquote>
+
+112/ - Fuck you, Sasha 🤌
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    https://t.co/4YpuIZ2m98<br />
+    </p>
+    &mdash; <a href="https://twitter.com/SniperFella/status/1572864504362422272">Link</a>
+</blockquote>
