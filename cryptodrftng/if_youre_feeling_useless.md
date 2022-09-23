@@ -1313,3 +1313,16 @@ Thank you very much for the support with refugees, but without Germany those ref
     </p>
     &mdash; <a href="https://twitter.com/SniperFella/status/1572864504362422272">Link</a>
 </blockquote>
+
+113/ Germans: - since August, we have had no space and resources to accept Ukrainian refugees, it is difficult for us, we are exhausted 
+
+Also Germans: - No, wait, for the russians, who are cynically killing them, we will definitely come up with something, Willkommen!
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Німці: у нас вже з серпня немає місця і ресурсу приймати українських біженців, нам важко, ми заєбались<br />
+    <br />
+    Теж німці: нє ну для росіян, які їх цинічно вбивають, ми точно шось придумаємо, вількоммен!<br />
+    </p>
+    &mdash; <a href="https://twitter.com/anyasnuff/status/1573172697622016000">Link</a>
+</blockquote>
