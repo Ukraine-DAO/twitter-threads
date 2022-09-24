@@ -85,7 +85,7 @@ type PathMappingEntry struct {
 }
 
 var (
-	prefixThreadCounter = regexp.MustCompile("^[0-9]{1,2}/([xn]|[0-9]{1,2})?")
+	prefixThreadCounter = regexp.MustCompile("^[0-9]{1,2}(/([xn]|[0-9]{1,2})?|\\))")
 	suffixThreadCounter = regexp.MustCompile("[0-9]{1,2}/([xn🧵]|[0-9]{1,2})?$")
 )
 
