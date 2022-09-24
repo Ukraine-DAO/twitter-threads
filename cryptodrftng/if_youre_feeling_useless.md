@@ -1326,3 +1326,34 @@ Also Germans: - No, wait, for the russians, who are cynically killing them, we w
     </p>
     &mdash; <a href="https://twitter.com/anyasnuff/status/1573172697622016000">Link</a>
 </blockquote>
+
+114/ [@petite_michelle](https://twitter.com/petite_michelle) I'm howling 🤣
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    All balls of Russian men were found on Usmanov villa in Bavaria. https://t.co/yCfb0z0MMP<br />
+    </p>
+    &mdash; <a href="https://twitter.com/petite_michelle/status/1573631745026674691">Link</a>
+</blockquote>
+
+115/ "This really isn’t healthy for a democracy as it fixates on tropes & processes not democratic outcomes"
+
+[#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    #Germany’s far left &amp; far right parties represent a tiny fraction of voters &amp; public opinion, yet are given a huge amount of airtime, column inches &amp; toxic levels of publicity. This really isn’t healthy for a democracy as it fixates on tropes &amp; processes not democratic outcomes https://t.co/JeEq6EkidN<br />
+    </p>
+    &mdash; <a href="https://twitter.com/bctallis/status/1573613742302142464">Link</a>
+</blockquote>
+
+116/ Deutsche Bahn: - Today the train is cancelled due to bad weather.
+
+[@Ukrzaliznytsia](https://twitter.com/Ukrzaliznytsia): - The railway got hit by a rocket, the train is 5 min late.
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    СУКА https://t.co/HxZOQz4nGP<br />
+    </p>
+    &mdash; <a href="https://twitter.com/nathnenna_/status/1573576753930551298">Link</a>
+</blockquote>

@@ -1364,3 +1364,37 @@ No words.
     </p>
     &mdash; <a href="https://twitter.com/EmineDzheppar/status/1571886242366738433">Link</a>
 </blockquote>
+
+117/ Vovchansk - [@SarahAshtonLV](https://twitter.com/SarahAshtonLV) 
+
+[#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Hostages kept in Vovchansk just showed me their torture wounds at the hands of Russian war criminals. <br />
+    <br />
+    This includes toenails being ripped off and one who was shot through the foot with a rifle.<br />
+    </p>
+    &mdash; <a href="https://twitter.com/SarahAshtonLV/status/1573622448402173952">Link</a>
+</blockquote>
+
+118/ [@castletongreene](https://twitter.com/castletongreene) - "I'm just so tired. I'm sick of hearing sympathy for Russians from all the people who couldn't find it in themselves to care about Ukrainians this whole time"
+
+[#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [twitter.com/castletongreen…](https://twitter.com/castletongreene/status/1573623920254672896)
+
+119/ Mykhailo Dianov, a musician and a Ukrainian soldier recently released in a prisoner exchange.
+
+[#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Mykhailo Dianov, a musician and a Ukrainian soldier recently released in a prisoner exchange.<br />
+    <br />
+    First photo — Mykhailo during the siege of Azovstal.<br />
+    <br />
+    Second photo — Mykhailo after Russian captivity.<br />
+    <br />
+    I have no words. Terrifying. https://t.co/EaDzGKmc2B<br />
+    </p>
+    &mdash; <a href="https://twitter.com/OstapYarysh/status/1573309789475852288">Link</a>
+</blockquote>
