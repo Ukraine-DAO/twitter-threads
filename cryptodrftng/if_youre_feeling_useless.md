@@ -1357,3 +1357,17 @@ Also Germans: - No, wait, for the russians, who are cynically killing them, we w
     </p>
     &mdash; <a href="https://twitter.com/nathnenna_/status/1573576753930551298">Link</a>
 </blockquote>
+
+117/ Twitter Spaces "Helping Germany Become a Democracy" - co-hosted with [@Bunnyrabert](https://twitter.com/Bunnyrabert) 
+
+[#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0) [#Germany](https://twitter.com/hashtag/Germany) 
+ [twitter.com: Happening now: Space for the SBU](https://twitter.com/i/spaces/1PlKQpWEbqDxE)
+
+118/ ❓Was Germany ever a democracy? [@alamalbert](https://twitter.com/alamalbert), I'm not sure
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    How can we help #Germany to become a democracy again? https://t.co/NwzWLFnvdc<br />
+    </p>
+    &mdash; <a href="https://twitter.com/alamalbert/status/1573847830359429122">Link</a>
+</blockquote>
