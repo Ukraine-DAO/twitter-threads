@@ -21,3 +21,4 @@ Selected Twitter threads, in a more readable shape and preserved for posterity.
 * [Threads in Ukrainian](in_ukrainian/)
   * [Soft Assimilation](in_ukrainian/soft_assimilation.md) (by [Шпіци Веселяться](https://twitter.com/garrossroland))
 * [Russian Protest Strategy](russian_protest_strategy.md) (by [Denis Zakharov](https://twitter.com/betelgeuse1922))
+* [Denis Vs Pussy Riot](denis_vs_pussy_riot.md) (by [Denis Zakharov](https://twitter.com/betelgeuse1922))
