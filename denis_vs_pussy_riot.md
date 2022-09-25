@@ -24,3 +24,11 @@ So cutting the crap, she tells: "We are doing nothing but we will if you give us
 Stop it, you are just making the lack of agency worse. Please, solve our problems, kill Putin, build us democracy and bring a double macchiato with extra crypto donations. And we promise to use all that with extreme gratitude.
 
 I am sure, Ukrainians can speak for themselves, about how offensive, inappropriate and pathetic it is. But I am russian, Nadya, and that's some degrading shit. You call the future of my country people who have no responsibility for anything. And I don't want this future.
+
+And well... How can you find even a single "brick" of remorse or trust by fucking lies? "All russians are thrown as garbage", tells a russian who was (and is) treated as a fucking queen. And you know why, Nadya? Because for a moment, you were a fighter.
+
+So right now, you should either embrace the role of an American midrange leftist waifu or join the fight for real by starting to actively doing something for forgiveness now. Whatever you choose, this "please don't leave poor us" bullshit needs to end!
+
+And this "get forgiveness brick by brick" shows the complete lack of awareness about the amount of trauma, devastation, and death we brought. We are hated, Nadya. You, me, Putin. So don't wait for some tetris growth of forgiveness each business quarter.
+
+I don't know why, but this shit drives me mad more than the worst vatinik in town. Need some vodka right now.
