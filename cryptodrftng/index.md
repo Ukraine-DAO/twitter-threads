@@ -60,3 +60,4 @@ Collection of threads by Alona Shevchenko and a few other authors.
 * [Breakdowns](breakdowns.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
 * [Ovsyannikova](ovsyannikova.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
 * [Why donating money through the Red Cross is a very bad idea?](icrc.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
+* [Mriya Report hosting belarussian \"opposition\"](mriya_report_hosting_belarussian_opposition.md) (by [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng))
