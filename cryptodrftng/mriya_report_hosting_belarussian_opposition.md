@@ -89,3 +89,80 @@ We have something more important - we'll NEVER be pathetic like 🇧🇾
     </p>
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1573621702860410883">Link</a>
 </blockquote>
+
+🚩[@MriyaReport](https://twitter.com/MriyaReport) : "We amplify 🇺🇦 voices - you are blocked,so we can enjoy diverse shit takes on 🇺🇦 of "bOtH sIdEs" - today we have 2 🇷🇺  parrots and 3 pathetic 🇧🇾 "
+
+✨[@BalticSnowTiger](https://twitter.com/BalticSnowTiger) [@YAmzallagh](https://twitter.com/YAmzallagh)  you are such misogynists you think a woman can't possibly see through your BS 🤣
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Ukrainian person: “it’s about genocide”<br />
+    @officejjsmart : “It’s always about you, isn’t it?”<br />
+    Ukrainian person: starts talking <br />
+    @spook_info: “STOP! I’m FUCKING TALKING!”<br />
+    Good Twitter space, thanks, bye<br />
+    </p>
+    &mdash; <a href="https://twitter.com/mqrtl/status/1563693360098983938">Link</a>
+</blockquote>
+
+In other "news"
+
+After all that ruSSians did  to the Crimean Tatars in the past, since 2014 -  AGAIN persecuted 
+❗️tortures
+❗️arbitrary imprisonments
+❗️disappearances
+
+30,000  had to flee
+
+Then this 🇧🇾 scum turns around in MR  to say we had it easy as "we didn't lose anyone"
+
+🚨Тому дорогі [@MriyaReport](https://twitter.com/MriyaReport) 
+
+✨особливо [@BalticSnowTiger](https://twitter.com/BalticSnowTiger) [@YAmzallagh](https://twitter.com/YAmzallagh)  - ви йдете нахуй ✨
+
+Ідіть нахуй разом з [@officejjsmart](https://twitter.com/officejjsmart) [@PKurzin](https://twitter.com/PKurzin) [@Balkunets](https://twitter.com/Balkunets) [@ValeryTsepkalo](https://twitter.com/ValeryTsepkalo) [@a_kotau](https://twitter.com/a_kotau) і  іншими пиздаболами ✨
+
+Знайдіть собі нову роботу, а не присвоюйте собі подвиги ЗСУ. Вони не ваші.
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    I won’t say much today but I will say this. <br />
+    <br />
+    Reasons of ALL Ukraine’s  military successes:<br />
+    <br />
+    1. The Armed Forces of Ukraine.  <br />
+    <br />
+    Each and every person who is safe in Europe or across the ocean - you’re alive because they are heroes. <br />
+    <br />
+    Not the other way around. https://t.co/c8GzXnQ5Zr<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1565092601136660483">Link</a>
+</blockquote>
+
+BTW, next time  🇷🇺 parrot [@officejjsmart](https://twitter.com/officejjsmart) brings another irrelevant "former [because found to be corrupt] oFfiCiAL" to [@MriyaReport](https://twitter.com/MriyaReport) - remind them exactly how pathetic they are 😂
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    It was the honour of a lifetime to meet @FedorovMykhailo - Ukraine&#39;s Vice Prime Minister &amp; Minister of Digital Transformation 💙💛 <br />
+    <br />
+    We are extremely grateful for all the support we had from the Ukrainian government with @KyivTechSummit ❤️‍🔥 https://t.co/iCZcOct6uS<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1568924731394629637">Link</a>
+</blockquote>
+
+Anyway, rant over, I'm fucking off to train my AI system Pavlo Massarenko 
+
+Remember:
+
+✨Never (!) be scared of nasty bitches -  let them scared of you ✨
+
+✨In the world full of Germanies, be an 🇪🇪
+
+❤️‍🔥 Stay based like [@apmassaro3](https://twitter.com/apmassaro3)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    And the lucky man is... @apmassaro3 ✨ https://t.co/NNVuYczPjK<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1568668102656671746">Link</a>
+</blockquote>
