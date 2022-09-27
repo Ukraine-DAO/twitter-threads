@@ -166,3 +166,15 @@ Remember:
     </p>
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1568668102656671746">Link</a>
 </blockquote>
+
+✨[@iamcrumplecat](https://twitter.com/iamcrumplecat) 
+"🇧🇾 oppositioners are jailed, and these are opportunists rats with 🇷🇺 spirits, took off during the first days of the 🇧🇾 protests and still think they can demand something.Especially [@ValeryTsepkalo](https://twitter.com/ValeryTsepkalo) 🐀
+And with regards to Ukraine - they should shut the fuck up."
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @Tetianausua @route6609 @cryptodrftng @MriyaReport @BalticSnowTiger @officejjsmart @PKurzin @Balkunets @ValeryTsepkalo @a_kotau білоруські опозиціонери сидять у в&#39;язниці, а це щурі-пристосуванці з російським душком, які з перших днів білоруського протесту змились і думають що на щось ще претендують. особливо Цепкало🐀<br />
+    А стосовно України - хай заваляться взагалі.<br />
+    </p>
+    &mdash; <a href="https://twitter.com/iamcrumplecat/status/1574667907791028224">Link</a>
+</blockquote>

@@ -1371,3 +1371,16 @@ Also Germans: - No, wait, for the russians, who are cynically killing them, we w
     </p>
     &mdash; <a href="https://twitter.com/alamalbert/status/1573847830359429122">Link</a>
 </blockquote>
+
+119/ [#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0) [@_FriedrichMerz](https://twitter.com/_FriedrichMerz)
+
+Every time I think germans can't go any lower, they prove me wrong 🤮
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Utterly disgraceful comments by @_FriedrichMerz about &#39;Sozialtourismus‘ of Ukranian refugees. <br />
+    There is a genocidal war in their country, and he finds it appropriate to stir up anti-migrant sentiment against them.<br />
+    Shameful.<br />
+    </p>
+    &mdash; <a href="https://twitter.com/HeleneBismarck/status/1574676561147609089">Link</a>
+</blockquote>
