@@ -1398,3 +1398,31 @@ No words.
     </p>
     &mdash; <a href="https://twitter.com/OstapYarysh/status/1573309789475852288">Link</a>
 </blockquote>
+
+120/ Dnipro💔
+
+[#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate)
+[#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Dreadful Russian attack killed two adults and two children, an 8-year-old boy and a 9-year-old girl in Dnipro. Rescuers found fragments of the bodies at the site of the missile attack.<br />
+    #RussiaIsATerroristState https://t.co/xrd5nuCFsc<br />
+    </p>
+    &mdash; <a href="https://twitter.com/maria_avdv/status/1575442575925862402">Link</a>
+</blockquote>
+
+121/ "Everything is in ruins in the yard. Mom says that body parts are found just scattered nearby."
+
+[@stanekrashche](https://twitter.com/stanekrashche) тримайтесь 😭
+
+[#Dnipro](https://twitter.com/hashtag/Dnipro)💔 
+
+[#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Все в уламках на подвір’ї. Мама говорить, що знаходять частини тіл просто розкидані поруч. https://t.co/3JTTf3lU6J<br />
+    </p>
+    &mdash; <a href="https://twitter.com/stanekrashche/status/1575462206501797888">Link</a>
+</blockquote>
