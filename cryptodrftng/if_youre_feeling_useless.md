@@ -1384,3 +1384,26 @@ Every time I think germans can't go any lower, they prove me wrong 🤮
     </p>
     &mdash; <a href="https://twitter.com/HeleneBismarck/status/1574676561147609089">Link</a>
 </blockquote>
+
+120/ [#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    What a bunch of losers. Schade, dass all die Wagenknechts, Prechts, Varwicks, Vads und Co. trotz ihrer schreienden Inkompetenz immer wieder eine große mediale Bühne für ihr Geschwurbel erhalten 🤦‍♂️<br />
+    https://t.co/kU94x26wfw https://t.co/EMAnnjIkM9<br />
+    </p>
+    &mdash; <a href="https://twitter.com/MelnykAndrij/status/1576233355561271297">Link</a>
+</blockquote>
+
+121/ [@Uliana_IN](https://twitter.com/Uliana_IN) do you not understand how important is German economy?! 
+
+Why do you keep Germany-bashing like there's a genocide happening or something??
+
+[#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @MelnykAndrij https://t.co/0mtTJ33jzS<br />
+    </p>
+    &mdash; <a href="https://twitter.com/Uliana_IN/status/1576241780747825154">Link</a>
+</blockquote>
