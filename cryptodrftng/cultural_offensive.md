@@ -62,21 +62,21 @@ TLDR of my opinion - fuck everything russian.
 
 ✨ russia has to continue special cultural operations; it has to continue the cultural offensive
 
-| [![](https://pbs.twimg.com/media/FWHjIWlWAAEqtdB.jpg)](https://pbs.twimg.com/media/FWHjIWlWAAEqtdB.jpg) |
+| [![](/media/1547602790125486082/3_1540762280178089985.jpg)](/media/1547602790125486082/3_1540762280178089985.jpg) |
 | :-: |
 
 ✨ 🇷🇺 must shape the European cultural model by itself. Europe is no longer Europe. russia is Europe.
 
 ✨ russia if free to absorb and assimilate other cultures, as it is the guardian of world culture.
 
-| [![](https://pbs.twimg.com/media/FWHjNgGUYAIw1Ob.jpg)](https://pbs.twimg.com/media/FWHjNgGUYAIw1Ob.jpg) |
+| [![](/media/1547602790125486082/3_1540762368631660546.jpg)](/media/1547602790125486082/3_1540762368631660546.jpg) |
 | :-: |
 
 ✨ It is a moral imperative of each russian to be with their country and broadcast the russian culture beyond the ring of blockade.
 
 ✨ “Do what [you] must and come what may” and each russian must be with russia, no matter what the country does.
 
-| [![](https://pbs.twimg.com/media/FWHje6rUIAMYxy1.jpg)](https://pbs.twimg.com/media/FWHje6rUIAMYxy1.jpg) |
+| [![](/media/1547602790125486082/3_1540762667823931395.jpg)](/media/1547602790125486082/3_1540762667823931395.jpg) |
 | :-: |
 
 [twitter.com/pierre_dalai/s…](https://twitter.com/pierre_dalai/status/1547593948826218506)

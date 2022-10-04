@@ -11,7 +11,7 @@ Here’s what a “vulnerable group”, known as “anti-war, feminists, pro-LGB
 
 Did Putin forced them to do this?
 
-| [![](https://pbs.twimg.com/media/FaLdvYrXgAAFOll.jpg)](https://pbs.twimg.com/media/FaLdvYrXgAAFOll.jpg) |
+| [![](/media/1559082670478528515/3_1559052227171549184.jpg)](/media/1559082670478528515/3_1559052227171549184.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

@@ -22,7 +22,7 @@ I have a 🧵 about them too of course - [twitter.com/ukraine_dao/st…](https:/
 
 [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians)  [twitter.com/pollykhoult/st…](https://twitter.com/pollykhoult/status/1546119390915182593)
 
-| [![](https://pbs.twimg.com/media/FXTwtnkXgAIUIdL.jpg)](https://pbs.twimg.com/media/FXTwtnkXgAIUIdL.jpg) |
+| [![](/media/1546947944867323904/3_1546125238601220098.jpg)](/media/1546947944867323904/3_1546125238601220098.jpg) |
 | :-: |
 
 [@MuKappa](https://twitter.com/MuKappa) let's play a game 👀

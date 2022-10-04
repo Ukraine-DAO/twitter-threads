@@ -5,7 +5,7 @@ Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)
 
 I used to be a cat sitter in my litigation paralegal days because my salary was very low by London standards and I didn't want to ask my parents for help. Reviews are very funny to read but very sweet 😂
 
-| [![](https://pbs.twimg.com/media/FV6Gd5DWQAAM4r7.jpg)](https://pbs.twimg.com/media/FV6Gd5DWQAAM4r7.jpg) | [![](https://pbs.twimg.com/media/FV6Gd5CXkAEPj-W.jpg)](https://pbs.twimg.com/media/FV6Gd5CXkAEPj-W.jpg) | [![](https://pbs.twimg.com/media/FV6Gd5DX0AQHJ8j.jpg)](https://pbs.twimg.com/media/FV6Gd5DX0AQHJ8j.jpg) | [![](https://pbs.twimg.com/media/FV6Gd5BXoAE-Sy2.jpg)](https://pbs.twimg.com/media/FV6Gd5BXoAE-Sy2.jpg) |
+| [![](/media/1539815983791357952/3_1539815970696478720.jpg)](/media/1539815983791357952/3_1539815970696478720.jpg) | [![](/media/1539815983791357952/3_1539815970692370433.jpg)](/media/1539815983791357952/3_1539815970692370433.jpg) | [![](/media/1539815983791357952/3_1539815970696581124.jpg)](/media/1539815983791357952/3_1539815970696581124.jpg) | [![](/media/1539815983791357952/3_1539815970688180225.jpg)](/media/1539815983791357952/3_1539815970688180225.jpg) |
 | :-: | :-: | :-: | :-: |
 
 <blockquote class="twitter-tweet">
@@ -17,5 +17,5 @@ I used to be a cat sitter in my litigation paralegal days because my salary was 
 
 More reviews 😂 Had a very tough time when I got Sasha and moved from that area because some owners were refusing to leave their cats with anyone else and I missed the cats too 💔
 
-| [![](https://pbs.twimg.com/media/FV6GebHWQAYBXA-.jpg)](https://pbs.twimg.com/media/FV6GebHWQAYBXA-.jpg) | [![](https://pbs.twimg.com/media/FV6GebHXkAAr1NM.jpg)](https://pbs.twimg.com/media/FV6GebHXkAAr1NM.jpg) |
+| [![](/media/1539815983791357952/3_1539815979840061446.jpg)](/media/1539815983791357952/3_1539815979840061446.jpg) | [![](/media/1539815983791357952/3_1539815979840147456.jpg)](/media/1539815983791357952/3_1539815979840147456.jpg) |
 | :-: | :-: |

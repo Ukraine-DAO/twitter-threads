@@ -7,7 +7,7 @@ While the drug cartel with tanks AKA 🇷🇺 is busy killing 🇺🇦 civilians
 
 In this 🧵 I'll tell you about one of my best friends - Jelacee 💚 [pic.twitter.com/y1sG1QpfGn](https://twitter.com/cryptodrftng/status/1538595430958759937/video/1)
 
-| [![](https://pbs.twimg.com/ext_tw_video_thumb/1538595392434085889/pu/img/uBTmz9CpbFb8TDFe.jpg)](https://video.twimg.com/ext_tw_video/1538595392434085889/pu/vid/480x848/n9Aaa5AZ3cp23A2_.mp4?tag=12) |
+| [![](/media/1548808938090528771/7_1538595392434085889/preview.jpg)](/media/1548808938090528771/7_1538595392434085889/n9Aaa5AZ3cp23A2_.mp4) |
 | :-: |
 
 I knew [@stookisound](https://twitter.com/stookisound) way before I even came to the UK for the first time in 2013. Like a lot of young people in Ukraine, I was really into trap/EDM music and they were the people behind the absolute trap anthem - a lot of you may recognise this track.
@@ -18,12 +18,12 @@ Once I came to 🇬🇧, he brought me to one of his shows in Brighton and we've
 
 [@stookisound](https://twitter.com/stookisound) were in Ukraine in 2014 when 🇷🇺 invaded and got escorted from the venue to the airport with a 🇺🇦military convoy
 
-| [![](https://pbs.twimg.com/media/FVo0M61WQAAULPC.jpg)](https://pbs.twimg.com/media/FVo0M61WQAAULPC.jpg) |
+| [![](/media/1548808938090528771/3_1538599619256532992.jpg)](/media/1548808938090528771/3_1538599619256532992.jpg) |
 | :-: |
 
 Jelacee has a hilarious story about how he got detained at the airport when vigilant Ukrainians wondered  why two black guys from London came to visit 🇺🇦 for just 1 day - the night before 🇷🇺 invaded. I'm sure [@johnsweeneyroar](https://twitter.com/johnsweeneyroar) with his [@brokenpixelua](https://twitter.com/brokenpixelua) adventures can relate.
 
-| [![](https://pbs.twimg.com/media/FVo2FVNXwAA-UD0.jpg)](https://pbs.twimg.com/media/FVo2FVNXwAA-UD0.jpg) |
+| [![](/media/1548808938090528771/3_1538601687920918528.jpg)](/media/1548808938090528771/3_1538601687920918528.jpg) |
 | :-: |
 
 He was also the first friend I onboarded to Web3 🌱
@@ -34,19 +34,19 @@ Here is Jelacee's Instagram, btw [instagram.com: jELACEE.'s (@jelacee) profile o
 
 Sharing  📷 of him from Sasha's bad hair days 💔
 
-| [![](https://pbs.twimg.com/media/FVo4iDfXwAIpANN.jpg)](https://pbs.twimg.com/media/FVo4iDfXwAIpANN.jpg) |
+| [![](/media/1548808938090528771/3_1538604380404039682.jpg)](/media/1548808938090528771/3_1538604380404039682.jpg) |
 | :-: |
 
 Once he brought a mini-speaker with him to show me the new tracks. A day later I got an email from my building manager saying that the music we were listening to on the fourth floor, the neighbours could hear on the ground floor 🤣🤣
 
-| [![](https://pbs.twimg.com/media/FVo78XbX0AMOaBy.jpg)](https://pbs.twimg.com/media/FVo78XbX0AMOaBy.jpg) |
+| [![](/media/1548808938090528771/3_1538608130967457795.jpg)](/media/1548808938090528771/3_1538608130967457795.jpg) |
 | :-: |
 
 Jelacee wrote intro music for our YouTube channel where we'll start uploading videos soon (thank you to [@jjamesfinnertyy](https://twitter.com/jjamesfinnertyy) for help ❤️) 
 
 Here's one of my favourite tracks from his solo project 💚 [open.spotify.com: fEEL.](https://open.spotify.com/track/6L7UUYPv4OSTKOhIgqoB2v) [pic.twitter.com/Q5pP5YgDt2](https://twitter.com/cryptodrftng/status/1538609905317335042/video/1)
 
-| [![](https://pbs.twimg.com/ext_tw_video_thumb/1538609867530838016/pu/img/NCUP-17PjbDoK5Xv.jpg)](https://video.twimg.com/ext_tw_video/1538609867530838016/pu/vid/888x594/T_7FmK3CRXXzXZSA.mp4?tag=12) |
+| [![](/media/1548808938090528771/7_1538609867530838016/preview.jpg)](/media/1548808938090528771/7_1538609867530838016/T_7FmK3CRXXzXZSA.mp4) |
 | :-: |
 
 Next week he's coming back from 🇺🇸 and we're doing an event for [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) together  ❤️‍🔥
@@ -86,5 +86,5 @@ Super grateful for your help, [@jjamesfinnertyy](https://twitter.com/jjamesfinne
 
 [@jelacee](https://twitter.com/jelacee) [#UKDQuotes](https://twitter.com/hashtag/UKDQuotes) [@Ukraine_DAO](https://twitter.com/Ukraine_DAO)
 
-| [![](https://pbs.twimg.com/media/FX55hEeWIAMU0rA.jpg)](https://pbs.twimg.com/media/FX55hEeWIAMU0rA.jpg) |
+| [![](/media/1548808938090528771/3_1548808930905694211.jpg)](/media/1548808938090528771/3_1548808930905694211.jpg) |
 | :-: |

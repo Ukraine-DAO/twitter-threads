@@ -139,7 +139,7 @@ How to help Ukraine as a foreigner
 
 [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow) [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine)
 
-| [![](https://pbs.twimg.com/media/FVEzhWwWUAMio33.jpg)](https://pbs.twimg.com/media/FVEzhWwWUAMio33.jpg) |
+| [![](/media/1536486554067156993/3_1536065596047118339.jpg)](/media/1536486554067156993/3_1536065596047118339.jpg) |
 | :-: |
 
 [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow)

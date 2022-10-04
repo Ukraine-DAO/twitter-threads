@@ -7,7 +7,7 @@ Just found this screenshot of [@ljxie](https://twitter.com/ljxie) tweet, she's a
 
 I took the screenshot on 19 Feb and spent some time thinking.
 
-| [![](https://pbs.twimg.com/media/FaJv6sDXwAER1bR.jpg)](https://pbs.twimg.com/media/FaJv6sDXwAER1bR.jpg) |
+| [![](/media/1558933183520980993/3_1558931475072008193.jpg)](/media/1558933183520980993/3_1558931475072008193.jpg) |
 | :-: |
 
 A day later I posted this.
@@ -67,7 +67,7 @@ The time between me seeing [@ljxie](https://twitter.com/ljxie) tweet, thinking o
 
 [@zachingrasci](https://twitter.com/zachingrasci)
 
-| [![](https://pbs.twimg.com/media/FaJxd3FWQAEdOjm.jpg)](https://pbs.twimg.com/media/FaJxd3FWQAEdOjm.jpg) |
+| [![](/media/1558933183520980993/3_1558933178840137729.jpg)](/media/1558933183520980993/3_1558933178840137729.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

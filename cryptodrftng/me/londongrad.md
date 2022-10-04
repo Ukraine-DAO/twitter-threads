@@ -86,7 +86,7 @@ Thank you, [@pcaruanagalizia](https://twitter.com/pcaruanagalizia) [@johnsweeney
 
 Dear audience, please meet [@mrevgenylebedev](https://twitter.com/mrevgenylebedev) - Lord of Siberia
 
-| [![](https://pbs.twimg.com/media/FVpXzMcXwAAel6M.jpg)](https://pbs.twimg.com/media/FVpXzMcXwAAel6M.jpg) |
+| [![](/media/1570912187283308544/3_1538638759725613056.jpg)](/media/1570912187283308544/3_1538638759725613056.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -115,7 +115,7 @@ I'll carry on with London later, but let's expand a little and say hello to anot
 
 I deleted one of the tweets in that 🧵 as it doesn't represent my views anymore. Instead sharing the message I sent to [@PeterJHowson](https://twitter.com/PeterJHowson) when he started tweeting me with nonsense YouTube videos, educating me, a RU speaker from Eastern 🇺🇦 about the "Ukrainian Nazis" 🤦‍♀️
 
-| [![](https://pbs.twimg.com/media/FVpaHPnWUAUT3ea.jpg)](https://pbs.twimg.com/media/FVpaHPnWUAUT3ea.jpg) |
+| [![](/media/1570912187283308544/3_1538641303197601797.jpg)](/media/1570912187283308544/3_1538641303197601797.jpg) |
 | :-: |
 
 💦 Adding the first part of [@komarnyckyj](https://twitter.com/komarnyckyj) & [@ncsmiff](https://twitter.com/ncsmiff) documentary about [#Londongrad](https://twitter.com/hashtag/Londongrad) being used as a launderette for dirty russian money

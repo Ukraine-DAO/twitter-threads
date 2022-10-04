@@ -11,13 +11,13 @@ Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)
 
 ✨She's a talented 🇺🇦 graphic designer raising funds for a thermal image device Hikvision Pro LH25 for brigade 241 working at the frontline: [send.monobank.ua/jar/3XdkYPi7YK](https://send.monobank.ua/jar/3XdkYPi7YK)
 
-| [![](https://pbs.twimg.com/media/FWn1bY4WQAMiCqQ.jpg)](https://pbs.twimg.com/media/FWn1bY4WQAMiCqQ.jpg) |
+| [![](/media/1543034223736520704/3_1543034198235168771.jpg)](/media/1543034223736520704/3_1543034198235168771.jpg) |
 | :-: |
 
 Her literature art project aims to promote Ukrainian culture. By drawing illustrations of famous artists who helped to represent 🇺🇦 writers, the digitalized version of art is a way to perpetuate uniqueness and spectacular style of Ukraine.
 [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine)
 
-| [![](https://pbs.twimg.com/media/FWn1b0zXgAESORg.jpg)](https://pbs.twimg.com/media/FWn1b0zXgAESORg.jpg) |
+| [![](/media/1543034223736520704/3_1543034205730471937.jpg)](/media/1543034223736520704/3_1543034205730471937.jpg) |
 | :-: |
 
 ✨In her Instagram: [instagram.com: Collages & Design's (@collage.concept) profile on Instagram • 65 posts](https://instagram.com/collage.concept) — you can order a digital or print version of her illustrations.
@@ -26,12 +26,12 @@ Her literature art project aims to promote Ukrainian culture. By drawing illustr
 
 💙PayPal — ksujul@gmail.com
 
-| [![](https://pbs.twimg.com/media/FWn1cIxWYAETivB.jpg)](https://pbs.twimg.com/media/FWn1cIxWYAETivB.jpg) |
+| [![](/media/1543034223736520704/3_1543034211090718721.jpg)](/media/1543034223736520704/3_1543034211090718721.jpg) |
 | :-: |
 
 💌 Donations are going to help to buy vehicles, night vision devices, radio transmitters, etc, following the official lists from Eastern Military Units and Special Units of Ministry of Defense of Ukraine.
 
-| [![](https://pbs.twimg.com/media/FWn1cglWAAAqPO5.jpg)](https://pbs.twimg.com/media/FWn1cglWAAAqPO5.jpg) |
+| [![](/media/1543034223736520704/3_1543034217482813440.jpg)](/media/1543034223736520704/3_1543034217482813440.jpg) |
 | :-: |
 
 ✨Dedicated page in [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) Partners & Friends to follow soon.

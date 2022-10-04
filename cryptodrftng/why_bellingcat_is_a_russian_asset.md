@@ -192,7 +192,7 @@ Lies about Azov are extremely dumb and repetitive.
 
 If I wanted some good phantasy, I'd go for Tolkien instead.
 
-| [![](https://pbs.twimg.com/media/FZ0p06tWAAIftgd.jpg)](https://pbs.twimg.com/media/FZ0p06tWAAIftgd.jpg) |
+| [![](/media/1559107684363894784/3_1557447035229437954.jpg)](/media/1559107684363894784/3_1557447035229437954.jpg) |
 | :-: |
 
 The genocide in Ukraine is happening right now because Ukrainians were not heard. 

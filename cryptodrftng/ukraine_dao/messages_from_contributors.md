@@ -3,6 +3,104 @@
 Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1535421655111057408), [PingThread](https://pingthread.com/thread/1535421655111057408), [ThreadReader](https://threadreaderapp.com/thread/1535421655111057408.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1535421655111057408)*
 
+King [@cjhtech](https://twitter.com/cjhtech) is everywhere 🔱
+
+| [![](https://pbs.twimg.com/media/FVzpoHEXsAIEhhI.jpg)](https://pbs.twimg.com/media/FVzpoHEXsAIEhhI.jpg) |
+| :-: |
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    ✨Happy CJ Appreciation Day ✨<br />
+    <br />
+    (I just came up with it 🤪)<br />
+    <br />
+    @cjhtech 🇺🇦 https://t.co/DsBnVTfXL5<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1534504571648843777">Link</a>
+</blockquote>
+
+[@Schlomo](https://twitter.com/Schlomo)
+
+| [![](https://pbs.twimg.com/media/FVzslWdWUAMjLFL.jpg)](https://pbs.twimg.com/media/FVzslWdWUAMjLFL.jpg) |
+| :-: |
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Reporting by @Schlomo from @NFT_NYC: &#34;There is things going on&#34;.<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1539364716832821249">Link</a>
+</blockquote>
+
+My gentle-worded question in the beginning 🤣🤣
+"Where the fuck are you??" [@adamspiers](https://twitter.com/adamspiers)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @cryptodrftng 💯% can relate https://t.co/Xr3d4uHMfJ<br />
+    </p>
+    &mdash; <a href="https://twitter.com/adamspiers/status/1536801312276348930">Link</a>
+</blockquote>
+
+😂 Context -
+
+| [![](https://pbs.twimg.com/media/FV4wZ2BWQAQyOT_.jpg)](https://pbs.twimg.com/media/FV4wZ2BWQAQyOT_.jpg) |
+| :-: |
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    For historical records, I would like to take a comment from the &#34;protector of Ukraine&#34; @StephenKolanko1 who recently told me I&#39;m a bitch who must be very grateful for not being in a filtration camp 💝<br />
+    <br />
+    Q1: What does it feel like to be this bitter? https://t.co/Ox1GmgnB3G https://t.co/nvXS1GYeFc<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1538294095604502532">Link</a>
+</blockquote>
+
+Me & Contributor X
+
+| [![](https://pbs.twimg.com/media/FV6DwqlXkAEuApV.jpg)](https://pbs.twimg.com/media/FV6DwqlXkAEuApV.jpg) |
+| :-: |
+
+Typical conversation with [@garbanzo0813](https://twitter.com/garbanzo0813), Ukraine DAO Translation & Writing Lead - [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1506382734750531594)
+
+| [![](https://pbs.twimg.com/media/FV7Av2xXgAUbV7d.jpg)](https://pbs.twimg.com/media/FV7Av2xXgAUbV7d.jpg) |
+| :-: |
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    My student from #Kherson writes to me: “Dr Zarembo, I was cut off from internet but now I have connection, see in (virtual) class”. Never ever could I have imagined teaching IR to students in occupation. Admire their bravery - studying is an act of resistance, too.<br />
+    </p>
+    &mdash; <a href="https://twitter.com/KaterynaZarembo/status/1539652044394401792">Link</a>
+</blockquote>
+
+My favourite accusation of Ukraine DAO 💖
+
+❗️Spoiler alert: yes, it's better to donate to [@Ukraine_DAO](https://twitter.com/Ukraine_DAO), here is why - [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1534710761813155841?s=21&t=l3J5yQNa69CWiOBnKwqrqg)
+
+❌ If god forbid you want to donate to [@ICRC](https://twitter.com/ICRC), a beffer use of funds is to flush your money down the toilet 🚽
+
+| [![](https://pbs.twimg.com/media/FWI5aOlWAAgrRWt.jpg)](https://pbs.twimg.com/media/FWI5aOlWAAgrRWt.jpg) |
+| :-: |
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    1/ Why donating money through Red Cross is a very bad idea?<br />
+    <br />
+    1) https://t.co/il3xLti96E<br />
+    <br />
+    2) https://t.co/BdFzVMvw1O<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1534710761813155841">Link</a>
+</blockquote>
+
+Here's the article, BTW 😂 One of the first articles ever that was released  mentioning me. Started from me saying to [@JamesPurtill](https://twitter.com/JamesPurtill) who called from 🇦🇺 "man, I haven't slept for 4 days but if you want to talk, that's fine, I just might not be making much sense, I'm sorry"
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Alona Shevchenko hasn&#39;t slept in four days. But she&#39;s helped raise $4.1m in crypto for the Ukrainian army https://t.co/DvTGEhaUvb<br />
+    </p>
+    &mdash; <a href="https://twitter.com/abcnews/status/1498730031631065088">Link</a>
+</blockquote>
+
 [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) currently only accepts and distributes crypto AKA magic made up funds 🪄🦄
 
 🧚‍♂️ One of our Dev Pod members has been working on sorting out fiat donations for us, please bear with us ✨

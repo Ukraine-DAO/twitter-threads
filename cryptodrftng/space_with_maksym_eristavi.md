@@ -9,7 +9,7 @@ Speaking to [@maksymeristavi](https://twitter.com/maksymeristavi) was therapy �
 
 ✨Short summary - russian colonialism can go fuck itself
 
-| [![](https://pbs.twimg.com/media/FYIDjEcXoAAsAZC.jpg)](https://pbs.twimg.com/media/FYIDjEcXoAAsAZC.jpg) |
+| [![](/media/1549837183221129216/3_1549805122791907328.jpg)](/media/1549837183221129216/3_1549805122791907328.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -127,7 +127,7 @@ Brief history of a russian agent, colorized ✨
 
 [@evanbmontgomery](https://twitter.com/evanbmontgomery) perfectly summarised Ukraine in one tweet:
 
-| [![](https://pbs.twimg.com/media/FYIUz4xX0AEq_du.jpg)](https://pbs.twimg.com/media/FYIUz4xX0AEq_du.jpg) |
+| [![](/media/1549837183221129216/3_1549824103414222849.jpg)](/media/1549837183221129216/3_1549824103414222849.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

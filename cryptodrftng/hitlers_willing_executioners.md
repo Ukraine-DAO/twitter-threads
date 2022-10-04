@@ -7,7 +7,7 @@ Ok, now this is completely wrong about the Holocaust and this is not supported b
 
 📚I recommend this book to everyone worrying about poor russians who have no idea what's happening and would do something if they could.
 
-| [![](https://pbs.twimg.com/media/FUqR5rQWIAIFifw.jpg)](https://pbs.twimg.com/media/FUqR5rQWIAIFifw.jpg) |
+| [![](/media/1534201103797075968/3_1534199043122929666.jpg)](/media/1534201103797075968/3_1534199043122929666.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -24,7 +24,7 @@ russians: 1️⃣ know about it.
 
 Actions they do to stop it: distracting themselves in between killing civilians to steal a washing machine or a doghouse.
 
-| [![](https://pbs.twimg.com/media/FUqS2qqWYAUSTm7.jpg)](https://pbs.twimg.com/media/FUqS2qqWYAUSTm7.jpg) |
+| [![](/media/1534201103797075968/3_1534200090935582725.jpg)](/media/1534201103797075968/3_1534200090935582725.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -36,7 +36,7 @@ Actions they do to stop it: distracting themselves in between killing civilians 
 
 russian opposition is an oxymoron: [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1531495180314021888?s=21&t=_jJi2KnDa9xddbthzJYe2A)
 
-| [![](https://pbs.twimg.com/media/FUqTxY8WUAovRJm.jpg)](https://pbs.twimg.com/media/FUqTxY8WUAovRJm.jpg) |
+| [![](/media/1534201103797075968/3_1534201099791519754.jpg)](/media/1534201103797075968/3_1534201099791519754.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

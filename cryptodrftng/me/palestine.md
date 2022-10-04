@@ -11,7 +11,7 @@ I’m always baffled when Ukrainians are told “but you didn’t care about �
 
 3) can’t talk for others, but I did care [pic.twitter.com/zAkK2wTJRe](https://twitter.com/cryptodrftng/status/1537747654741999619/video/1)
 
-| [![](https://pbs.twimg.com/ext_tw_video_thumb/1537747604771115008/pu/img/Gm5AbUIjVyrZhEdm.jpg)](https://video.twimg.com/ext_tw_video/1537747604771115008/pu/vid/720x1280/fH-lWnTDMXeCl0IS.mp4?tag=12) |
+| [![](/media/1537748304049672192/7_1537747604771115008/preview.jpg)](/media/1537748304049672192/7_1537747604771115008/fH-lWnTDMXeCl0IS.mp4) |
 | :-: |
 
 <blockquote class="twitter-tweet">

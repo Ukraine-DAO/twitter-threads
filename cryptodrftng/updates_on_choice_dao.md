@@ -13,7 +13,7 @@ Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)
 
 ✨ Our [@drosewritings](https://twitter.com/drosewritings) [@revrfg](https://twitter.com/revrfg) [@cjhtech](https://twitter.com/cjhtech) [@ExpatCrypto3](https://twitter.com/ExpatCrypto3) on board
 
-| [![](https://pbs.twimg.com/media/FYIkCsFXwAMVV33.jpg)](https://pbs.twimg.com/media/FYIkCsFXwAMVV33.jpg) |
+| [![](/media/1551639732282613760/3_1549840850380898307.jpg)](/media/1551639732282613760/3_1549840850380898307.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

@@ -7,7 +7,7 @@ AAAAAAAAAAAAA!!
 
   [@BackAndAlive](https://twitter.com/BackAndAlive) 🔥🔥🔥
 
-| [![](https://pbs.twimg.com/media/FYnMYaBXkAEWKL9.jpg)](https://pbs.twimg.com/media/FYnMYaBXkAEWKL9.jpg) |
+| [![](/media/1552010888953139200/3_1551996266279833601.jpg)](/media/1552010888953139200/3_1551996266279833601.jpg) |
 | :-: |
 
 "The Come Back Alive Foundation has brought to life its largest project so far.  With your help, we purchased the unmanned aerial vehicle complex Bayraktar TB2 at a total cost of $16,502,450." [@BackAndAlive](https://twitter.com/BackAndAlive) 🔥

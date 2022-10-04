@@ -11,7 +11,7 @@ it was very cute
 3 am in the morning
 Alona is fucking grinding"
 
-| [![](https://pbs.twimg.com/media/FX8dUfMXkAIdDFh.jpg)](https://pbs.twimg.com/media/FX8dUfMXkAIdDFh.jpg) |
+| [![](/media/1549061711092715523/3_1548989034646704130.jpg)](/media/1549061711092715523/3_1548989034646704130.jpg) |
 | :-: |
 
 -  The party is over already but she keeps grinding
@@ -22,12 +22,12 @@ I was cleaning it up from russians
 
 *it's just business. nothing personal*
 
-| [![](https://pbs.twimg.com/media/FX8tzFlXkAIm0dZ.jpg)](https://pbs.twimg.com/media/FX8tzFlXkAIm0dZ.jpg) |
+| [![](/media/1549061711092715523/3_1549007152534228994.jpg)](/media/1549061711092715523/3_1549007152534228994.jpg) |
 | :-: |
 
 ✨[@CryptoVladzia](https://twitter.com/CryptoVladzia) this is what I was doing after you left😂
 
-| [![](https://pbs.twimg.com/media/FX8uZjgX0AIReMq.jpg)](https://pbs.twimg.com/media/FX8uZjgX0AIReMq.jpg) | [![](https://pbs.twimg.com/media/FX8uZjwWIAMXNpi.jpg)](https://pbs.twimg.com/media/FX8uZjwWIAMXNpi.jpg) |
+| [![](/media/1549061711092715523/3_1549007813401366530.jpg)](/media/1549061711092715523/3_1549007813401366530.jpg) | [![](/media/1549061711092715523/3_1549007813468364803.jpg)](/media/1549061711092715523/3_1549007813468364803.jpg) |
 | :-: | :-: |
 
 ✨What was probably happening on the other, digital side👇

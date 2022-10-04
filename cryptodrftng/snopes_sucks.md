@@ -11,7 +11,7 @@ So let me make sure I got this right:
 
 Is that supposed to be correct?  [twitter.com/LvivNightingal…](https://twitter.com/LvivNightingale/status/1539843535662448641)
 
-| [![]()]() |
+| [![](/media/1539854666334441473/16_1539844571638759424.)](/media/1539854666334441473/16_1539844571638759424.) |
 | :-: |
 
 "Putin’s comments were misleading on more than one front."

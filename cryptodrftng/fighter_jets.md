@@ -75,7 +75,7 @@ I've been talking about fighter jets so often that the Ukrainian Air Force ([@Kp
 
 The second follower on the screenshot is also much appreciated - [@comegetsomesalo](https://twitter.com/comegetsomesalo) 😂
 
-| [![](https://pbs.twimg.com/media/FVsMiVaXwAEk77M.jpg)](https://pbs.twimg.com/media/FVsMiVaXwAEk77M.jpg) |
+| [![](/media/1551291685908480000/3_1538837481679994881.jpg)](/media/1551291685908480000/3_1538837481679994881.jpg) |
 | :-: |
 
 [@KpsZSU](https://twitter.com/KpsZSU) 🖤❤️ 

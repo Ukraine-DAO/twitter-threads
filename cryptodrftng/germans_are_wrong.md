@@ -94,7 +94,7 @@ If those friends have the 🇩🇪 government support as they became refugees - 
 
 War is expensive and russia wouldn't be able to afford it.
 
-| [![](https://pbs.twimg.com/media/FZ6J9V5WAAEMm7b.jpg)](https://pbs.twimg.com/media/FZ6J9V5WAAEMm7b.jpg) |
+| [![](/media/1557835719871275010/3_1557834208059457537.jpg)](/media/1557835719871275010/3_1557834208059457537.jpg) |
 | :-: |
 
 Not sure why we should be acknowledging their concerns. 

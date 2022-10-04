@@ -7,7 +7,7 @@ Exhibit 1 - 27 Jan 2022 [@Bundeskanzler](https://twitter.com/Bundeskanzler) [@Ol
 
 [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow)
 
-| [![](https://pbs.twimg.com/media/FVNFI2TX0AABZ9Y.jpg)](https://pbs.twimg.com/media/FVNFI2TX0AABZ9Y.jpg) |
+| [![](/media/1536647930005831680/3_1536647916181508096.jpg)](/media/1536647930005831680/3_1536647916181508096.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -47,7 +47,7 @@ Some other Exhibits - in this 🧵
 
 [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow)
 
-| [![](https://pbs.twimg.com/media/FVNFJcRWIAEH4xD.jpg)](https://pbs.twimg.com/media/FVNFJcRWIAEH4xD.jpg) |
+| [![](/media/1536647930005831680/3_1536647926373556225.jpg)](/media/1536647930005831680/3_1536647926373556225.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

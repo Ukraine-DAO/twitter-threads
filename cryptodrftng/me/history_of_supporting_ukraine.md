@@ -9,12 +9,12 @@ Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)
 
 To illustrate - my post from 25 Jan, weeks before the invasion
 
-| [![](https://pbs.twimg.com/media/FXuf-j9UsAMifEm.jpg)](https://pbs.twimg.com/media/FXuf-j9UsAMifEm.jpg) |
+| [![](/media/1548030808627089408/3_1548006794085052419.jpg)](/media/1548030808627089408/3_1548006794085052419.jpg) |
 | :-: |
 
 ✨On this photo - me protesting in Brighton, December 2013. I didn't have any 🇺🇦 friends who could join me so I made that placard and stood at Churchill Square on my own - because people back in Kyiv were fighting oppression. I have a sense of loyalty to them so I'm standing too.
 
-| [![](https://pbs.twimg.com/media/FXug33GVQAEyBjf.jpg)](https://pbs.twimg.com/media/FXug33GVQAEyBjf.jpg) |
+| [![](/media/1548030808627089408/3_1548007778475655169.jpg)](/media/1548030808627089408/3_1548007778475655169.jpg) |
 | :-: |
 
 ✨Jan 2014, I briefly come back to 🇺🇦 & go to Maidan - epicentre the of Revolution of Dignity
@@ -23,7 +23,7 @@ Pro-🇷🇺 outlets will call it "a 🇺🇸-supported insurgency against a leg
 
 All I have to say to them - fuck you.
 
-| [![](https://pbs.twimg.com/media/FXujF6KUcAAOM0s.jpg)](https://pbs.twimg.com/media/FXujF6KUcAAOM0s.jpg) |
+| [![](/media/1548030808627089408/3_1548010218839109632.jpg)](/media/1548030808627089408/3_1548010218839109632.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -39,14 +39,14 @@ All I have to say to them - fuck you.
 
 These are the ones that in July of 2014 I'd grow in my parents' vegetable garden, take them to the local market, sell them to resellers and then send the proceeds to ЗСУ or soldiers wounded while defending 🇺🇦 from 🇷🇺 invasion.
 
-| [![](https://pbs.twimg.com/media/FXukJMmVQAMhM_Q.jpg)](https://pbs.twimg.com/media/FXukJMmVQAMhM_Q.jpg) |
+| [![](/media/1548030808627089408/3_1548011374839676931.jpg)](/media/1548030808627089408/3_1548011374839676931.jpg) |
 | :-: |
 
 ✨This is a only business card I've carried since 2014
 
 [uk.wikipedia.org: Візитка Яроша — Вікіпедія](https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%B7%D0%B8%D1%82%D0%BA%D0%B0_%D0%AF%D1%80%D0%BE%D1%88%D0%B0?wprov=sfti1)
 
-| [![](https://pbs.twimg.com/media/FXuldm0UIAIEUs6.jpg)](https://pbs.twimg.com/media/FXuldm0UIAIEUs6.jpg) |
+| [![](/media/1548030808627089408/3_1548012824986656770.jpg)](/media/1548030808627089408/3_1548012824986656770.jpg) |
 | :-: |
 
 ✨I don't brag about all the things I did to PREVENT this from happening in the first place 
@@ -161,5 +161,5 @@ I do not know how many times and in what words to repeat:
 
 ✨To clarify, [@Kosh800](https://twitter.com/Kosh800):
 
-| [![](https://pbs.twimg.com/media/FXu10EUUYAEjzYc.jpg)](https://pbs.twimg.com/media/FXu10EUUYAEjzYc.jpg) |
+| [![](/media/1548030808627089408/3_1548030803048685569.jpg)](/media/1548030808627089408/3_1548030803048685569.jpg) |
 | :-: |

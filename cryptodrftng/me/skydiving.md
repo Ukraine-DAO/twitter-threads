@@ -9,12 +9,12 @@ Let's end r*ssia faster and go skydiving 🛩
 
 [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine) [#ArmUkraine](https://twitter.com/hashtag/ArmUkraine) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow)
 
-| [![](https://pbs.twimg.com/media/FVws7SaX0AAublc.jpg)](https://pbs.twimg.com/media/FVws7SaX0AAublc.jpg) |
+| [![](/media/1539185134435434498/3_1539154569720221696.jpg)](/media/1539185134435434498/3_1539154569720221696.jpg) |
 | :-: |
 
 .[@VisAxel](https://twitter.com/VisAxel) [@ngc_alex](https://twitter.com/ngc_alex) 🤪 [pic.twitter.com/p5xsePFTqI](https://twitter.com/cryptodrftng/status/1539176861296623619/video/1)
 
-| [![](https://pbs.twimg.com/ext_tw_video_thumb/1539176711039885313/pu/img/3UjTS4gUf6iF2cDz.jpg)](https://video.twimg.com/ext_tw_video/1539176711039885313/pu/vid/1280x684/GuzwnTdqh2T4SXqK.mp4?tag=12) |
+| [![](/media/1539185134435434498/7_1539176711039885313/preview.jpg)](/media/1539185134435434498/7_1539176711039885313/GuzwnTdqh2T4SXqK.mp4) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -26,5 +26,5 @@ Let's end r*ssia faster and go skydiving 🛩
 
 [@VisAxel](https://twitter.com/VisAxel) [@ngc_alex](https://twitter.com/ngc_alex) [pic.twitter.com/NFiXoN4dFR](https://twitter.com/cryptodrftng/status/1539185134435434498/video/1)
 
-| [![](https://pbs.twimg.com/ext_tw_video_thumb/1539185047915450370/pu/img/cStRcCAZJYFkjKV_.jpg)](https://video.twimg.com/ext_tw_video/1539185047915450370/pu/vid/1280x696/5nTbMj2lAm2GiJ_n.mp4?tag=12) |
+| [![](/media/1539185134435434498/7_1539185047915450370/preview.jpg)](/media/1539185134435434498/7_1539185047915450370/5nTbMj2lAm2GiJ_n.mp4) |
 | :-: |

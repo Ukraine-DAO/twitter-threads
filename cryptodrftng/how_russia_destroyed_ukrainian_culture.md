@@ -11,7 +11,7 @@ Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)
 
 ✅ Please respond in replies if you're translating this to avoid double work
 
-| [![](https://pbs.twimg.com/media/FYs-GUOWIAAP57c.jpg)](https://pbs.twimg.com/media/FYs-GUOWIAAP57c.jpg) |
+| [![](/media/1552555174404792321/3_1552402774788284416.jpg)](/media/1552555174404792321/3_1552402774788284416.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

@@ -7,7 +7,7 @@ This is beautiful, thanks for the high praise for my work, [@CalinIonescu5](http
 
 [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow)
 
-| [![](https://pbs.twimg.com/media/FVLMmcUWYAg5Y2X.jpg)](https://pbs.twimg.com/media/FVLMmcUWYAg5Y2X.jpg) |
+| [![](/media/1560439482603769859/3_1536515383695400968.jpg)](/media/1560439482603769859/3_1536515383695400968.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -23,7 +23,7 @@ This is beautiful, thanks for the high praise for my work, [@CalinIonescu5](http
 
 Rare species these days, I know, we are very scary 💞
 
-| [![](https://pbs.twimg.com/media/FVLNOGHXoAM0QTB.jpg)](https://pbs.twimg.com/media/FVLNOGHXoAM0QTB.jpg) |
+| [![](/media/1560439482603769859/3_1536516064930144259.jpg)](/media/1560439482603769859/3_1536516064930144259.jpg) |
 | :-: |
 
 "You are not asking for donations" is the most hilarious accusation I've seen in my life: [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1505576924873203716?s=21&t=xte1kxYUSAoLviA9EjHohA)
@@ -60,7 +60,7 @@ I would LOVE to see it burning 💞 "Wouldn't mind" is an understatement.
 
 🔥 Another option, that doesn't require it burning to the ground - [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1535377348761202690?s=21&t=xte1kxYUSAoLviA9EjHohA)
 
-| [![](https://pbs.twimg.com/media/FVLQv6rXoAIDJJf.jpg)](https://pbs.twimg.com/media/FVLQv6rXoAIDJJf.jpg) |
+| [![](/media/1560439482603769859/3_1536519944510349314.jpg)](/media/1560439482603769859/3_1536519944510349314.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -136,7 +136,7 @@ Re "I revoke your UA citizenship" - 🤣🤣🤣
 
 [#CynicalAttentionWhore](https://twitter.com/hashtag/CynicalAttentionWhore) ❤️
 
-| [![](https://pbs.twimg.com/media/FVLaOQsX0AEU5Lh.jpg)](https://pbs.twimg.com/media/FVLaOQsX0AEU5Lh.jpg) |
+| [![](/media/1560439482603769859/3_1536530361420861441.jpg)](/media/1560439482603769859/3_1536530361420861441.jpg) |
 | :-: |
 
 Thank you for your assessment of my work 😂❤️
@@ -150,7 +150,7 @@ Thank you for your assessment of my work 😂❤️
 
 This is what's he is referring to: [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1532479143534813215?s=21&t=TG1-vqQwzi6T4nPjZpmbeA)
 
-| [![](https://pbs.twimg.com/media/FVLbDE4XoAgcJMR.jpg)](https://pbs.twimg.com/media/FVLbDE4XoAgcJMR.jpg) |
+| [![](/media/1560439482603769859/3_1536531268783022088.jpg)](/media/1560439482603769859/3_1536531268783022088.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -178,7 +178,7 @@ I have changed indeed. I encourage everyone to donate to [@BackAndAlive](https:/
 
 [@jazzuit](https://twitter.com/jazzuit) remember you said I should start making videos where I read all the horrible messages that people send me online? I think I have enough materials over here, I'm ready 😂
 
-| [![](/media/1560439482603769859/3_1536628047948005376.jpg)](/media/1560439482603769859/3_1536628047948005376.jpg) | [![](/media/1560439482603769859/3_1536628047935422465.jpg)](/media/1560439482603769859/3_1536628047935422465.jpg) | [![](https://pbs.twimg.com/media/FVMzEXVWQAEKwD7.jpg)](https://pbs.twimg.com/media/FVMzEXVWQAEKwD7.jpg) |
+| [![](/media/1560439482603769859/3_1536628047948005376.jpg)](/media/1560439482603769859/3_1536628047948005376.jpg) | [![](/media/1560439482603769859/3_1536628047935422465.jpg)](/media/1560439482603769859/3_1536628047935422465.jpg) | [![](/media/1560439482603769859/3_1536628047939518465.jpg)](/media/1560439482603769859/3_1536628047939518465.jpg) |
 | :-: | :-: | :-: |
 
 Interesting fantasy, [@CalinIonescu5](https://twitter.com/CalinIonescu5) - didn't know that's what attracted you about me. 

@@ -5,7 +5,7 @@ Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)
 
 I've been trying to tell people since 2014. Here is a slide from my presentation in 2015. Back then, it was a crazy accusation in 🇬🇧 to say that 🇷🇺 is becoming a fascist state. I was a 20yo from a rural area in Ukraine with no platform whatsoever. 🧵- [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1499207267949977601?s=21&t=Zs_CbSFv2KNiZWyCDk1KHA)
 
-| [![](https://pbs.twimg.com/media/FU7uw37WAAEpTvA.jpg)](https://pbs.twimg.com/media/FU7uw37WAAEpTvA.jpg) |
+| [![](/media/1535449404387336195/3_1535427046393905153.jpg)](/media/1535449404387336195/3_1535427046393905153.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -102,7 +102,7 @@ It was awful to see the same hosts I knew, broadcasting from bomb shelters, some
 
 My friend said to me later that I was smiling too much for the first day of airstrikes but dad called me straight after this crying from happiness - that's what people in 🇺🇦 wanted to see - Ukrainians smiling and big protests, to know that they're not alone. [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine)
 
-| [![](https://pbs.twimg.com/media/FU76hy9WIAAoV-g.jpg)](https://pbs.twimg.com/media/FU76hy9WIAAoV-g.jpg) | [![](https://pbs.twimg.com/media/FU76hzrXEAEAQkf.jpg)](https://pbs.twimg.com/media/FU76hzrXEAEAQkf.jpg) |
+| [![](/media/1535449404387336195/3_1535439981501620224.jpg)](/media/1535449404387336195/3_1535439981501620224.jpg) | [![](/media/1535449404387336195/3_1535439981694619649.jpg)](/media/1535449404387336195/3_1535439981694619649.jpg) |
 | :-: | :-: |
 
 It was also kinda my version of telling the russian warship to fuck off - we knew that the enemy is obviously watching that channel and that it wants to see us broken, crying, in panic. It was important to not give them that - they will be crying instead. [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine)
@@ -112,7 +112,7 @@ You can leave her a birthday message here: [twitter.com/cryptodrftng/s…](https
 
 [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow)
 
-| [![](https://pbs.twimg.com/media/FU7853-WIAIqP07.jpg)](https://pbs.twimg.com/media/FU7853-WIAIqP07.jpg) |
+| [![](/media/1535449404387336195/3_1535442594188107778.jpg)](/media/1535449404387336195/3_1535442594188107778.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -138,7 +138,7 @@ Will share more about mum tomorrow, but here's my favourite recent quote from he
 
 This is what I posted on the night of the 24th. Obviously I was in a state of shock and angry that after all these years of 🇺🇦 trying to tell the world about 🇷🇺, we were not heard. Our experience was belittled and we were called russophobic Nazis: [www.instagram.com: Alona #SaveAzov #ꑭ (@alona_ukrainedao) • Instagram photo](https://www.instagram.com/p/CaWVSBqNhkb/?igshid=YmMyMTA2M2Y=)
 
-| [![](https://pbs.twimg.com/media/FU8AyToWIAAq0By.jpg)](https://pbs.twimg.com/media/FU8AyToWIAAq0By.jpg) |
+| [![](/media/1535449404387336195/3_1535446862219583488.jpg)](/media/1535449404387336195/3_1535446862219583488.jpg) |
 | :-: |
 
 In the post I left a link to [@BackAndAlive](https://twitter.com/BackAndAlive), here's a new one: [www.comebackalive.in.ua: Donate | comebackalive](https://www.comebackalive.in.ua/donate)

@@ -7,7 +7,7 @@ Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)
 
 🪐 Darth Vader from the Ukrainian Internet Party actually once tried to run for president in Ukraine - mini-🧵
 
-| [![](https://pbs.twimg.com/media/FWNacluXkAMVKIo.jpg)](https://pbs.twimg.com/media/FWNacluXkAMVKIo.jpg) |
+| [![](/media/1541175516027404288/3_1541174944700272643.jpg)](/media/1541175516027404288/3_1541174944700272643.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -25,7 +25,7 @@ Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)
 
 ⚡️ to strengthen the Armed Forces of Ukraine (by building an orbital combat space station)
 
-| [![](https://pbs.twimg.com/media/FWNadKMX0AAWWlj.jpg)](https://pbs.twimg.com/media/FWNadKMX0AAWWlj.jpg) |
+| [![](/media/1541175516027404288/3_1541174954489794560.jpg)](/media/1541175516027404288/3_1541174954489794560.jpg) |
 | :-: |
 
 ✨ raise salaries and pensions to the cosmic level (the “Bottomless Budget” program)
@@ -34,10 +34,10 @@ Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)
 
 ✨ recognize the Sith language as the second state language
 
-| [![](https://pbs.twimg.com/media/FWNa0DjWQAAN7T3.jpg)](https://pbs.twimg.com/media/FWNa0DjWQAAN7T3.jpg) |
+| [![](/media/1541175516027404288/3_1541175347844104192.jpg)](/media/1541175516027404288/3_1541175347844104192.jpg) |
 | :-: |
 
 I'm not making it up, btw:  [amp.theguardian.com: Ukraine's Darth Vader bids to lead nation to the dark side | Ukraine | The Guardian](https://amp.theguardian.com/world/2014/mar/31/ukraine-darth-vader-president-internet-party)
 
-| [![](https://pbs.twimg.com/media/FWNa9kLX0AEoRX1.jpg)](https://pbs.twimg.com/media/FWNa9kLX0AEoRX1.jpg) |
+| [![](/media/1541175516027404288/3_1541175511220736001.jpg)](/media/1541175516027404288/3_1541175511220736001.jpg) |
 | :-: |
