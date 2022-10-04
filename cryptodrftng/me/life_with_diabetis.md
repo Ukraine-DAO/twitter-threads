@@ -5,7 +5,7 @@ Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)
 
 In March 2020, just as the pandemic was hitting the UK where I'm based, I was diagnosed with [#type1diabetes](https://twitter.com/hashtag/type1diabetes) which is an incurable autoimmune disorder that requires extremely complex care. Exhausted rn but will later post about life with a disability in this 🧵  [twitter.com/NataliaHodgins…](https://twitter.com/NataliaHodgins/status/1532666873069744128)
 
-| [![](https://pbs.twimg.com/media/FUmhJ8JWYAYMAiN.jpg)](https://pbs.twimg.com/media/FUmhJ8JWYAYMAiN.jpg) |
+| [![](/media/1562754475773034497/3_1533934340232601606.jpg)](/media/1562754475773034497/3_1533934340232601606.jpg) |
 | :-: |
 
 I'll write up this 🧵 about type 1 diabetes soon, I promise 😅
@@ -27,14 +27,14 @@ That being said, I'm VERY grateful that it happened to me and I don't see it as 
 
 Attaching Insta stories from last year about living with it.
 
-| [![](https://pbs.twimg.com/media/FZrZCLtWAAABv6x.jpg)](https://pbs.twimg.com/media/FZrZCLtWAAABv6x.jpg) |
+| [![](/media/1562754475773034497/3_1556795252735868928.jpg)](/media/1562754475773034497/3_1556795252735868928.jpg) |
 | :-: |
 
 If you have type 1 diabetes, you don't know for sure whether you'll wake up when you go to bed. It's called "dead in bed (DIB) syndrome". 
 
 Some people my age I know have died from it. That makes me feel grateful when I wake up - waking up is simply not guaranteed to me.
 
-| [![](https://pbs.twimg.com/media/FZraB7XXEAIsLGy.jpg)](https://pbs.twimg.com/media/FZraB7XXEAIsLGy.jpg) |
+| [![](/media/1562754475773034497/3_1556796347860324354.jpg)](/media/1562754475773034497/3_1556796347860324354.jpg) |
 | :-: |
 
 I almost always wear a glucose monitoring sensor, either [@dexcom](https://twitter.com/dexcom) or Libre. 
@@ -43,7 +43,7 @@ Unlike most people with type 1 diabetes (T1D) in the UK, I've never used an insu
 
 Before the 24th Feb I trained jiujitsu every day - not a good combo with pumps.
 
-| [![](https://pbs.twimg.com/media/FZra-TCXoAEEl8w.jpg)](https://pbs.twimg.com/media/FZra-TCXoAEEl8w.jpg) |
+| [![](/media/1562754475773034497/3_1556797385006882817.jpg)](/media/1562754475773034497/3_1556797385006882817.jpg) |
 | :-: |
 
 A very common misconception about Type 1 Diabetes is that I can't eat sugar.
@@ -52,7 +52,7 @@ A very common misconception about Type 1 Diabetes is that I can't eat sugar.
 
 I'd always prefer to leave the house without insulin to leaving without sugar.
 
-| [![](https://pbs.twimg.com/media/FZrbrYbXEAE9z41.jpg)](https://pbs.twimg.com/media/FZrbrYbXEAE9z41.jpg) |
+| [![](/media/1562754475773034497/3_1556798159547994113.jpg)](/media/1562754475773034497/3_1556798159547994113.jpg) |
 | :-: |
 
 Things people with Type 1 Diabetes DO NOT want to hear:
@@ -63,7 +63,7 @@ Things people with Type 1 Diabetes DO NOT want to hear:
 
 ❗️"Do you have the good type or the bad type?" (I personally have the gangsta type 🔫)
 
-| [![](https://pbs.twimg.com/media/FZrdH2HWYAEuB4b.jpg)](https://pbs.twimg.com/media/FZrdH2HWYAEuB4b.jpg) |
+| [![](/media/1562754475773034497/3_1556799748065091585.jpg)](/media/1562754475773034497/3_1556799748065091585.jpg) |
 | :-: |
 
 Things people with T1D don't want to hear - Part II  
@@ -72,7 +72,7 @@ Things people with T1D don't want to hear - Part II
 
 ⁉️"I could never do this." - I wasn't planning to either, for the first 26 years of my life.
 
-| [![](https://pbs.twimg.com/media/FZreAUMXoAIUfy_.jpg)](https://pbs.twimg.com/media/FZreAUMXoAIUfy_.jpg) |
+| [![](/media/1562754475773034497/3_1556800718211883010.jpg)](/media/1562754475773034497/3_1556800718211883010.jpg) |
 | :-: |
 
 For the love of god, avoid asking "What did you do to get it?"
@@ -81,7 +81,7 @@ For the love of god, avoid asking "What did you do to get it?"
 
 I was training Brazilian jiujitsu and having a fairly healthy diet when I was diagnosed. It's not something I could've prevented.
 
-| [![](https://pbs.twimg.com/media/FZrexezWIAAGTbD.jpg)](https://pbs.twimg.com/media/FZrexezWIAAGTbD.jpg) |
+| [![](/media/1562754475773034497/3_1556801562873307136.jpg)](/media/1562754475773034497/3_1556801562873307136.jpg) |
 | :-: |
 
 On a related note - some Twitter Spaces hosts who've been abusive to me online tried to guilt trip me basically saying that the fact that they have autism / Asperger's gives them a carte blanche to be assholes.
@@ -102,7 +102,7 @@ Number of times I've weaponised my disability to justify being a bitch to people
 
 Since the 24th Feb until now I've barely ever mentioned that I have a disability, but the bottom line is that I'm not the right person to be guiltripped with someone's Asperger's.
 
-| [![]()]() |
+| [![](/media/1562754475773034497/16_1556804441243779073.)](/media/1562754475773034497/16_1556804441243779073.) |
 | :-: |
 
 ✨ Being diagnosed with Type 1 Diabetes means a COMPLETE change of lifestyle, whatever your lifestyle is before you develop T1D. 

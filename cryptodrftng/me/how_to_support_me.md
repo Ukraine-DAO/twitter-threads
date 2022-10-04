@@ -223,7 +223,7 @@ Meme I posted in 2013:
 
 Surrender was never an option and we've always used memes to communicate it 🔪
 
-| [![](https://pbs.twimg.com/media/FaJmSB2XEAEy0_u.jpg)](https://pbs.twimg.com/media/FaJmSB2XEAEy0_u.jpg) |
+| [![](/media/1558923045682790403/3_1558920880943730689.jpg)](/media/1558923045682790403/3_1558920880943730689.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

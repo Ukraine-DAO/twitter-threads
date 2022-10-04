@@ -9,7 +9,7 @@ Same Kyiv location, same beautiful [@iamksushapls](https://twitter.com/iamksusha
 
 [#CryptodrftngUkraine](https://twitter.com/hashtag/CryptodrftngUkraine)
 
-| [![](https://pbs.twimg.com/media/FZg_GW8XoAAfA17.jpg)](https://pbs.twimg.com/media/FZg_GW8XoAAfA17.jpg) | [![](https://pbs.twimg.com/media/FZg_GXaWYAUlymg.jpg)](https://pbs.twimg.com/media/FZg_GXaWYAUlymg.jpg) |
+| [![](/media/1556063235308396545/3_1556063049727057920.jpg)](/media/1556063235308396545/3_1556063049727057920.jpg) | [![](/media/1556063235308396545/3_1556063049852805125.jpg)](/media/1556063235308396545/3_1556063049852805125.jpg) |
 | :-: | :-: |
 
 Ksusha is the person behind this amazing project 👇

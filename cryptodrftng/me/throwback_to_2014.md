@@ -23,7 +23,7 @@ In the first months of the Euromaidan in 2013, I was protesting in Brighton wher
 
 I didn't have any 🇺🇦 friends who could join me so I made this placard and stood at Churchill Square on my own - as my friends back in Kyiv were fighting with Berkut.
 
-| [![](https://pbs.twimg.com/media/FaVFZoWXEAMFcIK.jpg)](https://pbs.twimg.com/media/FaVFZoWXEAMFcIK.jpg) |
+| [![](/media/1559766867652345856/3_1559729152583995395.jpg)](/media/1559766867652345856/3_1559729152583995395.jpg) |
 | :-: |
 
 ✨Jan 2014, I briefly come back to 🇺🇦 & go to Maidan - epicentre the of Revolution of Dignity
@@ -34,7 +34,7 @@ All I have to say to them:
 
 fuck you.
 
-| [![](https://pbs.twimg.com/media/FaVF5T8XoAMb64F.jpg)](https://pbs.twimg.com/media/FaVF5T8XoAMb64F.jpg) |
+| [![](/media/1559766867652345856/3_1559729696862085123.jpg)](/media/1559766867652345856/3_1559729696862085123.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -52,7 +52,7 @@ It happened as we could not allow Kremlin's puppets to violate our right to peac
 
 Freedom is the very core of the Ukrainian culture.
 
-| [![](https://pbs.twimg.com/media/FaVHaGBWYAId91N.jpg)](https://pbs.twimg.com/media/FaVHaGBWYAId91N.jpg) | [![](https://pbs.twimg.com/media/FaVHaF7WAAE6am7.jpg)](https://pbs.twimg.com/media/FaVHaF7WAAE6am7.jpg) |
+| [![](/media/1559766867652345856/3_1559731359572189186.jpg)](/media/1559766867652345856/3_1559731359572189186.jpg) | [![](/media/1559766867652345856/3_1559731359546998785.jpg)](/media/1559766867652345856/3_1559731359546998785.jpg) |
 | :-: | :-: |
 
 "Winter on Fire" on Netflix is a good place to start if you want to know more.
@@ -63,28 +63,28 @@ If they don't represent them, we protest.
 
 And if they push back with violence, we'll kick them out - at any cost.
 
-| [![](https://pbs.twimg.com/media/FaVIcH-WQAAHkBi.jpg)](https://pbs.twimg.com/media/FaVIcH-WQAAHkBi.jpg) |
+| [![](/media/1559766867652345856/3_1559732493967835136.jpg)](/media/1559766867652345856/3_1559732493967835136.jpg) |
 | :-: |
 
 In Jan-Feb 2014, mornings would start from checking the lists of people who died or went missing to see if any of my friends were there. 
 
 Just like these days, I stopped leaving the house. I was overwhelmed with a sense of guilt for not being there for them physically.
 
-| [![](https://pbs.twimg.com/media/FaVJ7TqXEAMqtIm.jpg)](https://pbs.twimg.com/media/FaVJ7TqXEAMqtIm.jpg) |
+| [![](/media/1559766867652345856/3_1559734129192800259.jpg)](/media/1559766867652345856/3_1559734129192800259.jpg) |
 | :-: |
 
 Just like now, I was trying to help by doing info support, raising awareness and trying to make sense of what was happening myself.
 
 Wondering how come I have a meme for every situation when it comes to Ukraine? I've been shitposting about this since 2013
 
-| [![](https://pbs.twimg.com/media/FaVK__1WQAAkhQa.jpg)](https://pbs.twimg.com/media/FaVK__1WQAAkhQa.jpg) |
+| [![](/media/1559766867652345856/3_1559735309281148928.jpg)](/media/1559766867652345856/3_1559735309281148928.jpg) |
 | :-: |
 
 At some point this 🇷🇺 propagandist bitch from "НТВ" messaged me asking for another activist's contact details. I told her she could go fuck herself. I couldn't understand how a woman could be so horrible.
 
 The first half of my reply to her references examples of 🇷🇺 fake news.
 
-| [![](https://pbs.twimg.com/media/FaVMSWGX0AAeuO1.jpg)](https://pbs.twimg.com/media/FaVMSWGX0AAeuO1.jpg) |
+| [![](/media/1559766867652345856/3_1559736724007407616.jpg)](/media/1559766867652345856/3_1559736724007407616.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -101,7 +101,7 @@ I genuinely thought nothing worse could ever happen after this.
 
 But for russians that wasn't enough.
 
-| [![](https://pbs.twimg.com/media/FaVNnzhXgAEofPv.jpg)](https://pbs.twimg.com/media/FaVNnzhXgAEofPv.jpg) |
+| [![](/media/1559766867652345856/3_1559738192194142209.jpg)](/media/1559766867652345856/3_1559738192194142209.jpg) |
 | :-: |
 
 I remember very well this sickening feeling when I was watching russian news 
@@ -134,21 +134,21 @@ Back then, it was a ridiculous accusation in 🇬🇧 to say 🇷🇺 was becomi
 
 People laughed at me.
 
-| [![](https://pbs.twimg.com/media/FaVQarlWIAcpPw6.jpg)](https://pbs.twimg.com/media/FaVQarlWIAcpPw6.jpg) |
+| [![](/media/1559766867652345856/3_1559741265259929607.jpg)](/media/1559766867652345856/3_1559741265259929607.jpg) |
 | :-: |
 
 Exactly the same ignorance and arrogance I encounter every day now, I was dealing with the same back then.
 
 I had no platform. No one would listen to a 20yo 🇺🇦 girl who is talking some nonsense saying russians are fascists. How could they be, after all? They are so cultured🧐
 
-| [![](https://pbs.twimg.com/media/FaVR3LTXkAAkNxe.jpg)](https://pbs.twimg.com/media/FaVR3LTXkAAkNxe.jpg) |
+| [![](/media/1559766867652345856/3_1559742854322425856.jpg)](/media/1559766867652345856/3_1559742854322425856.jpg) |
 | :-: |
 
 Eventually it became impossible to handle - it was just too much for one person. I slowed down with this work which I'll never forgive myself for. 
 
 I did all these degrees and went on to work in litigation. Most of the time, I hated it but I wasn't sure what I wanted to do.
 
-| [![](https://pbs.twimg.com/media/FaVTQ15XgAIMHdc.jpg)](https://pbs.twimg.com/media/FaVTQ15XgAIMHdc.jpg) |
+| [![](/media/1559766867652345856/3_1559744394764451842.jpg)](/media/1559766867652345856/3_1559744394764451842.jpg) |
 | :-: |
 
 The whole time I maintained close connections with the 🇺🇦 diaspora in the UK. I've never been associated with any political party or ideology. 
@@ -192,7 +192,7 @@ Why would I be grateful for being forever dependent on all this stuff?
 
 It taught me what many older people clearly still haven't learned yet.
 
-| [![](https://pbs.twimg.com/media/FaVZT1QWQAAEcRc.jpg)](https://pbs.twimg.com/media/FaVZT1QWQAAEcRc.jpg) |
+| [![](/media/1559766867652345856/3_1559751043201777664.jpg)](/media/1559766867652345856/3_1559751043201777664.jpg) |
 | :-: |
 
 I've realised that tomorrow isn't promised.

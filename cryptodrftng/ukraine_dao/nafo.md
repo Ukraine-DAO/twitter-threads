@@ -11,7 +11,7 @@ We were not planning to, but we can!
 
 [#WeAreNAFO](https://twitter.com/hashtag/WeAreNAFO)
 
-| [![](https://pbs.twimg.com/media/FZ9XJLLXgAAmdrI.jpg)](https://pbs.twimg.com/media/FZ9XJLLXgAAmdrI.jpg) |
+| [![](/media/1572268213974732804/3_1558059811224387584.jpg)](/media/1572268213974732804/3_1558059811224387584.jpg) |
 | :-: |
 
 I was actually alluding to being the Queen of [#Fellas](https://twitter.com/hashtag/Fellas) a while ago but no one understood why 💔
@@ -187,7 +187,7 @@ CIA doesn't exist.
 
 [@marlowc2324](https://twitter.com/marlowc2324) [@BravoKilo6464](https://twitter.com/BravoKilo6464) [#NAFO](https://twitter.com/hashtag/NAFO)
 
-| [![](https://pbs.twimg.com/media/FdHRmzsWIAMh7OO.jpg)](https://pbs.twimg.com/media/FdHRmzsWIAMh7OO.jpg) | [![](https://pbs.twimg.com/media/FdHRmzwXEAAk9fM.jpg)](https://pbs.twimg.com/media/FdHRmzwXEAAk9fM.jpg) |
+| [![](/media/1572268213974732804/3_1572268209570455555.jpg)](/media/1572268213974732804/3_1572268209570455555.jpg) | [![](/media/1572268213974732804/3_1572268209587294208.jpg)](/media/1572268213974732804/3_1572268209587294208.jpg) |
 | :-: | :-: |
 
 <blockquote class="twitter-tweet">

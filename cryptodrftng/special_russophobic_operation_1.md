@@ -40,7 +40,7 @@ TLDR of today:
 
 [@betelgeuse1922](https://twitter.com/betelgeuse1922) a few people messaged me afterwards saying that they realised I'm not as mental as they thought 😂 thanks for helping me communicate that I'm not a vengeful nutcase trying to kill all the innocent [#russianbabies](https://twitter.com/hashtag/russianbabies) 💙💛 see you next week & [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine) 🇺🇦
 
-| [![](https://pbs.twimg.com/media/FUrSSusXwAEcqnP.jpg)](https://pbs.twimg.com/media/FUrSSusXwAEcqnP.jpg) |
+| [![](/media/1534271075755884549/3_1534269842286690305.jpg)](/media/1534271075755884549/3_1534269842286690305.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

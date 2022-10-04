@@ -5,7 +5,7 @@ Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)
 
 King [@cjhtech](https://twitter.com/cjhtech) is everywhere 🔱
 
-| [![](https://pbs.twimg.com/media/FVzpoHEXsAIEhhI.jpg)](https://pbs.twimg.com/media/FVzpoHEXsAIEhhI.jpg) |
+| [![](/media/1572454265087557632/3_1539362047955283970.jpg)](/media/1572454265087557632/3_1539362047955283970.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -21,7 +21,7 @@ King [@cjhtech](https://twitter.com/cjhtech) is everywhere 🔱
 
 [@Schlomo](https://twitter.com/Schlomo)
 
-| [![](https://pbs.twimg.com/media/FVzslWdWUAMjLFL.jpg)](https://pbs.twimg.com/media/FVzslWdWUAMjLFL.jpg) |
+| [![](/media/1572454265087557632/3_1539365299081859075.jpg)](/media/1572454265087557632/3_1539365299081859075.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -43,7 +43,7 @@ My gentle-worded question in the beginning 🤣🤣
 
 😂 Context -
 
-| [![](https://pbs.twimg.com/media/FV4wZ2BWQAQyOT_.jpg)](https://pbs.twimg.com/media/FV4wZ2BWQAQyOT_.jpg) |
+| [![](/media/1572454265087557632/3_1539721343163318276.jpg)](/media/1572454265087557632/3_1539721343163318276.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -57,12 +57,12 @@ My gentle-worded question in the beginning 🤣🤣
 
 Me & Contributor X
 
-| [![](https://pbs.twimg.com/media/FV6DwqlXkAEuApV.jpg)](https://pbs.twimg.com/media/FV6DwqlXkAEuApV.jpg) |
+| [![](/media/1572454265087557632/3_1539812994695270401.jpg)](/media/1572454265087557632/3_1539812994695270401.jpg) |
 | :-: |
 
 Typical conversation with [@garbanzo0813](https://twitter.com/garbanzo0813), Ukraine DAO Translation & Writing Lead - [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1506382734750531594)
 
-| [![](https://pbs.twimg.com/media/FV7Av2xXgAUbV7d.jpg)](https://pbs.twimg.com/media/FV7Av2xXgAUbV7d.jpg) |
+| [![](/media/1572454265087557632/3_1539880050996248581.jpg)](/media/1572454265087557632/3_1539880050996248581.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -78,7 +78,7 @@ My favourite accusation of Ukraine DAO 💖
 
 ❌ If god forbid you want to donate to [@ICRC](https://twitter.com/ICRC), a beffer use of funds is to flush your money down the toilet 🚽
 
-| [![](https://pbs.twimg.com/media/FWI5aOlWAAgrRWt.jpg)](https://pbs.twimg.com/media/FWI5aOlWAAgrRWt.jpg) |
+| [![](/media/1572454265087557632/3_1540857145268240392.jpg)](/media/1572454265087557632/3_1540857145268240392.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -105,7 +105,7 @@ Here's the article, BTW 😂 One of the first articles ever that was released  m
 
 🧚‍♂️ One of our Dev Pod members has been working on sorting out fiat donations for us, please bear with us ✨
 
-| [![](https://pbs.twimg.com/media/FWI69HPXEAYRdlW.jpg)](https://pbs.twimg.com/media/FWI69HPXEAYRdlW.jpg) |
+| [![](/media/1572454265087557632/3_1540858844104036358.jpg)](/media/1572454265087557632/3_1540858844104036358.jpg) |
 | :-: |
 
 [@ndboulton](https://twitter.com/ndboulton): - I'm actually a PR-specialist!
@@ -114,7 +114,7 @@ Here's the article, BTW 😂 One of the first articles ever that was released  m
 
 I’m done🤣
 
-| [![](https://pbs.twimg.com/media/FWJ57b6XkAAYR6w.jpg)](https://pbs.twimg.com/media/FWJ57b6XkAAYR6w.jpg) | [![](https://pbs.twimg.com/media/FWJ57bxXwAAlE5l.jpg)](https://pbs.twimg.com/media/FWJ57bxXwAAlE5l.jpg) |
+| [![](/media/1572454265087557632/3_1540928084525944832.jpg)](/media/1572454265087557632/3_1540928084525944832.jpg) | [![](/media/1572454265087557632/3_1540928084488208384.jpg)](/media/1572454265087557632/3_1540928084488208384.jpg) |
 | :-: | :-: |
 
 Ukraine DAO Fact Checking chat (currently named The Satanic Temple)
@@ -124,12 +124,12 @@ Ukraine DAO Fact Checking chat (currently named The Satanic Temple)
 [@cryptodrftng](https://twitter.com/cryptodrftng): - Not many people in this chat have that as a threat.
 [@MuKappa](https://twitter.com/MuKappa): - True.
 
-| [![](https://pbs.twimg.com/media/FWOecp4XkAEqukt.jpg)](https://pbs.twimg.com/media/FWOecp4XkAEqukt.jpg) |
+| [![](/media/1572454265087557632/3_1541249712606646273.jpg)](/media/1572454265087557632/3_1541249712606646273.jpg) |
 | :-: |
 
 "Your security is on our minds. Just remind us the password" 😂
 
-| [![](https://pbs.twimg.com/media/FWSCEsRWYAAgNTE.jpg)](https://pbs.twimg.com/media/FWSCEsRWYAAgNTE.jpg) | [![](https://pbs.twimg.com/media/FWSCEsVWAAIDO8P.jpg)](https://pbs.twimg.com/media/FWSCEsVWAAIDO8P.jpg) |
+| [![](/media/1572454265087557632/3_1541499989582569472.jpg)](/media/1572454265087557632/3_1541499989582569472.jpg) | [![](/media/1572454265087557632/3_1541499989599322114.jpg)](/media/1572454265087557632/3_1541499989599322114.jpg) |
 | :-: | :-: |
 
 [@MuKappa](https://twitter.com/MuKappa) [@ndboulton](https://twitter.com/ndboulton) [@Ukraine_DAO](https://twitter.com/Ukraine_DAO)
@@ -145,19 +145,19 @@ Ukraine DAO Fact Checking chat (currently named The Satanic Temple)
 
 [@ndboulton](https://twitter.com/ndboulton)
 
-| [![](https://pbs.twimg.com/media/FWugfR7WAAI_bG4.jpg)](https://pbs.twimg.com/media/FWugfR7WAAI_bG4.jpg) |
+| [![](/media/1572454265087557632/3_1543503756553224194.jpg)](/media/1572454265087557632/3_1543503756553224194.jpg) |
 | :-: |
 
 [@ndboulton](https://twitter.com/ndboulton) giving permission to publish the messages above is my second favourite thing ever 
 
 [@LvivNightingale](https://twitter.com/LvivNightingale)
 
-| [![](https://pbs.twimg.com/media/FWug8J7WQAA-T8N.jpg)](https://pbs.twimg.com/media/FWug8J7WQAA-T8N.jpg) |
+| [![](/media/1572454265087557632/3_1543504252621963264.jpg)](/media/1572454265087557632/3_1543504252621963264.jpg) |
 | :-: |
 
 [@air0ee](https://twitter.com/air0ee) [@LvivNightingale](https://twitter.com/LvivNightingale)
 
-| [![](https://pbs.twimg.com/media/FW3Kf-HX0AA2tlR.jpg)](https://pbs.twimg.com/media/FW3Kf-HX0AA2tlR.jpg) | [![](https://pbs.twimg.com/media/FW3Kf-CXgAIsiX5.jpg)](https://pbs.twimg.com/media/FW3Kf-CXgAIsiX5.jpg) |
+| [![](/media/1572454265087557632/3_1544112897856622592.jpg)](/media/1572454265087557632/3_1544112897856622592.jpg) | [![](/media/1572454265087557632/3_1544112897835630594.jpg)](/media/1572454265087557632/3_1544112897835630594.jpg) |
 | :-: | :-: |
 
 Once [@ndboulton](https://twitter.com/ndboulton) and I were listening to this Twitter Space when someone started crying there saying 
@@ -181,7 +181,7 @@ Old but good 😂 [@jazzuit](https://twitter.com/jazzuit) [@ndboulton](https://t
 
 [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1525628999728304129?s=21&t=wEazBIm_BsXaJ9zj6GmVOA)
 
-| [![](https://pbs.twimg.com/media/FXGFdu6XEAMj-db.jpg)](https://pbs.twimg.com/media/FXGFdu6XEAMj-db.jpg) |
+| [![](/media/1572454265087557632/3_1545162893020303363.jpg)](/media/1572454265087557632/3_1545162893020303363.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -237,7 +237,7 @@ Old but good 😂 [@jazzuit](https://twitter.com/jazzuit) [@ndboulton](https://t
 
  [#UKDQuotes](https://twitter.com/hashtag/UKDQuotes)
 
-| [![](https://pbs.twimg.com/media/FXhVJd2XEAA3nfe.jpg)](https://pbs.twimg.com/media/FXhVJd2XEAA3nfe.jpg) |
+| [![](/media/1572454265087557632/3_1547080093121581056.jpg)](/media/1572454265087557632/3_1547080093121581056.jpg) |
 | :-: |
 
 [#UKDQuotes](https://twitter.com/hashtag/UKDQuotes) [@jelacee](https://twitter.com/jelacee)
@@ -256,7 +256,7 @@ Old but good 😂 [@jazzuit](https://twitter.com/jazzuit) [@ndboulton](https://t
 
 ⚡️If someone doesn't know who I'm talking about: [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1546227792182132736?s=21&t=FvBtxxgB0kuPLrT1s4LGjQ)
 
-| [![](https://pbs.twimg.com/media/FYJUs1bXoAAYa-g.jpg)](https://pbs.twimg.com/media/FYJUs1bXoAAYa-g.jpg) |
+| [![](/media/1572454265087557632/3_1549894351001722880.jpg)](/media/1572454265087557632/3_1549894351001722880.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -307,7 +307,7 @@ Building Impact-Driven DAOs Debrief - [@Ukraine_DAO](https://twitter.com/Ukraine
 
  [#Hack4Ukraine](https://twitter.com/hashtag/Hack4Ukraine)
 
-| [![](https://pbs.twimg.com/media/FY2urWZXoAEpqCz.jpg)](https://pbs.twimg.com/media/FY2urWZXoAEpqCz.jpg) |
+| [![](/media/1572454265087557632/3_1553089506282283009.jpg)](/media/1572454265087557632/3_1553089506282283009.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -326,19 +326,19 @@ I think this is the least that [@MuKappa](https://twitter.com/MuKappa) deserves 
 
 [#UKDQuotes](https://twitter.com/hashtag/UKDQuotes)
 
-| [![](https://pbs.twimg.com/media/FY3h0ZaXwAAybFb.jpg)](https://pbs.twimg.com/media/FY3h0ZaXwAAybFb.jpg) |
+| [![](/media/1572454265087557632/3_1553145736803631104.jpg)](/media/1572454265087557632/3_1553145736803631104.jpg) |
 | :-: |
 
 One of my favourite things about [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) team is that people magically start speaking Ukrainian even though we aren't teaching them atm ✨
 
-| [![](https://pbs.twimg.com/media/FY5tuaMWYAEap0_.jpg)](https://pbs.twimg.com/media/FY5tuaMWYAEap0_.jpg) |
+| [![](/media/1572454265087557632/3_1553299565561929729.jpg)](/media/1572454265087557632/3_1553299565561929729.jpg) |
 | :-: |
 
 [@garbanzo0813](https://twitter.com/garbanzo0813) 
 
 Discussions in the group chat of [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) Translation & Writing Pod
 
-| [![](https://pbs.twimg.com/media/FZqcyAvXwAUXEoV.jpg)](https://pbs.twimg.com/media/FZqcyAvXwAUXEoV.jpg) |
+| [![](/media/1572454265087557632/3_1556729004216008709.jpg)](/media/1572454265087557632/3_1556729004216008709.jpg) |
 | :-: |
 
 [@MuKappa](https://twitter.com/MuKappa)
@@ -392,7 +392,7 @@ Ancient wisdom of [@Ukraine_DAO](https://twitter.com/Ukraine_DAO)
 
 [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1559551618307264514?s=21&t=sBvEFNrpJQcFizRXzZXg8g)
 
-| [![](https://pbs.twimg.com/media/FaSku0uXgAEKQuq.jpg)](https://pbs.twimg.com/media/FaSku0uXgAEKQuq.jpg) |
+| [![](/media/1572454265087557632/3_1559552495311093761.jpg)](/media/1572454265087557632/3_1559552495311093761.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -424,7 +424,7 @@ I'll add another ancient Ukrainian saying:
 
 [@Ukraine_DAO](https://twitter.com/Ukraine_DAO)
 
-| [![](https://pbs.twimg.com/media/FaUXoemXEAAD505.jpg)](https://pbs.twimg.com/media/FaUXoemXEAAD505.jpg) |
+| [![](/media/1572454265087557632/3_1559678830129909760.jpg)](/media/1572454265087557632/3_1559678830129909760.jpg) |
 | :-: |
 
 [@NanTyrus](https://twitter.com/NanTyrus) goes to Ukrainian Social Club twice: 
@@ -442,7 +442,7 @@ I'll add another ancient Ukrainian saying:
 
 [#UKDMemes](https://twitter.com/hashtag/UKDMemes) [@Ukraine_DAO](https://twitter.com/Ukraine_DAO)
 
-| [![](https://pbs.twimg.com/media/FadFKwkXwAIcn2l.jpg)](https://pbs.twimg.com/media/FadFKwkXwAIcn2l.jpg) |
+| [![](/media/1572454265087557632/3_1560291847045627906.jpg)](/media/1572454265087557632/3_1560291847045627906.jpg) |
 | :-: |
 
 🚬 [#UKDMemes](https://twitter.com/hashtag/UKDMemes)  [@Ukraine_DAO](https://twitter.com/Ukraine_DAO)
@@ -496,7 +496,7 @@ Excellent [@navalny](https://twitter.com/navalny) explainer, I'm going to frame 
 
 [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1543522997633425414?s=21&t=aOuOb_T3c4ITzfUe7aSp8w)
 
-| [![](https://pbs.twimg.com/media/FagjEgLXEAAdLru.jpg)](https://pbs.twimg.com/media/FagjEgLXEAAdLru.jpg) |
+| [![](/media/1572454265087557632/3_1560535831147909120.jpg)](/media/1572454265087557632/3_1560535831147909120.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -516,7 +516,7 @@ Excellent [@navalny](https://twitter.com/navalny) explainer, I'm going to frame 
 
 [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1560804734310776833?s=21&t=n4enBEx9ZwPrGQHzsE7LmQ)
 
-| [![](https://pbs.twimg.com/media/FanYxOYX0AAWa7o.jpg)](https://pbs.twimg.com/media/FanYxOYX0AAWa7o.jpg) |
+| [![](/media/1572454265087557632/3_1561017086046097408.jpg)](/media/1572454265087557632/3_1561017086046097408.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -533,7 +533,7 @@ Excellent [@navalny](https://twitter.com/navalny) explainer, I'm going to frame 
 
 I must admit we were naive - russians don't pick up their soldiers bodies
 
-| [![](https://pbs.twimg.com/media/Fa39jrLaUAE2rer.jpg)](https://pbs.twimg.com/media/Fa39jrLaUAE2rer.jpg) | [![](https://pbs.twimg.com/media/Fa39jrVUEAAKaPg.jpg)](https://pbs.twimg.com/media/Fa39jrVUEAAKaPg.jpg) |
+| [![](/media/1572454265087557632/3_1562183435095265281.jpg)](/media/1572454265087557632/3_1562183435095265281.jpg) | [![](/media/1572454265087557632/3_1562183435136798720.jpg)](/media/1572454265087557632/3_1562183435136798720.jpg) |
 | :-: | :-: |
 
 "Alona can't wake up? Whisper "but not all russians..." 🤣 [#UKDQuotes](https://twitter.com/hashtag/UKDQuotes)

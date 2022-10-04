@@ -9,7 +9,7 @@ Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)
 
 The russian tanks were already in [redacted] so people brought Molotov cocktails & ...
 
-| [![](https://pbs.twimg.com/media/FWwV6okWQAU5iBQ.jpg)](https://pbs.twimg.com/media/FWwV6okWQAU5iBQ.jpg) |
+| [![](/media/1543635869843787779/3_1543632869347704837.jpg)](/media/1543635869843787779/3_1543632869347704837.jpg) |
 | :-: |
 
 ... Orthodox Christian icons for the defenders. 
@@ -30,7 +30,7 @@ Day 34.
 
 [cryptodrftng.substack.com: Drftng with Ukraine](https://cryptodrftng.substack.com)
 
-| [![](https://pbs.twimg.com/media/FWwXktAWYAIcWLk.jpg)](https://pbs.twimg.com/media/FWwXktAWYAIcWLk.jpg) |
+| [![](/media/1543635869843787779/3_1543634691605028866.jpg)](/media/1543635869843787779/3_1543634691605028866.jpg) |
 | :-: |
 
 Ukraine DAO Trucks are operated by my parents. 

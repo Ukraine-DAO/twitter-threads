@@ -33,7 +33,7 @@ Normalise silence as a response to injustice and before you know it, you wake up
 
 [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow) [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine) 🇺🇦
 
-| [![](https://pbs.twimg.com/media/FVZ_quTXoAE0EBQ.jpg)](https://pbs.twimg.com/media/FVZ_quTXoAE0EBQ.jpg) |
+| [![](/media/1537569955721449472/3_1537556694754107393.jpg)](/media/1537569955721449472/3_1537556694754107393.jpg) |
 | :-: |
 
 🌸 Reminder on how to stay up to date with [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) 

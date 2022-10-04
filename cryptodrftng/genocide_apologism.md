@@ -29,7 +29,7 @@ And the moment I pointed this out, I got blocked.
 
 [@PeterCorless](https://twitter.com/PeterCorless) is literally a genocide apologist. If you follow him, please keep that in mind.
 
-| [![](https://pbs.twimg.com/media/FXh11H2WQAEs8xS.jpg)](https://pbs.twimg.com/media/FXh11H2WQAEs8xS.jpg) |
+| [![](/media/1547133052769501190/3_1547116027502280705.jpg)](/media/1547133052769501190/3_1547116027502280705.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
