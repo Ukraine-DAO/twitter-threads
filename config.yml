@@ -8,6 +8,194 @@ root:
       config:
         collapse_in_parent: true
       subdirs:
+        me:
+          title: About me
+          description: Threads about myself
+          twitter_block_for_12_hours: 1517686615174434816 # 37
+          life_with_diabetis:
+            thread_id: 1562754475773034497 # 92
+            title: Alona\'s Life with Type 1 Diabetes
+          harassment_from_hansworldtravls:
+            thread_id: 1535501202888204289 # 103
+            title: "@HansWorldTravls / @Ukrainesgrains continued abuse & harrassment."
+          telling_about_russia_since_2014:
+            thread_id: 1535449404387336195 # 107
+            title: About trying to tell people since 2014 that russia is a fascist state
+          day_110:
+            thread_id: 1538711565825888258 # 112
+            title: "Day 110. Over eight years of convincing the world about what is really happening in Ukraine"
+          being_compared_to_russians:
+            thread_id: 1560439482603769859 # 115
+            title: "Occasion no. 37489273 of me being accused of being as bad as the ruscists committing #GenocideOfUkrainians"
+          unsolicited_advice:
+            thread_id: 1536620780603297793 # 116
+            title: "⚡️UNSOLICITED ADIVCE TO UKRAINIANS ⚡️ "
+          germanys_support:
+            thread_id: 1536647930005831680 # 117
+            title: "Germany’s support for Ukraine…"
+          speaking_with_ahmed_ghappour:
+            thread_id: 1537569955721449472 # 120
+            title: "Speaking with Ahmed Ghappour"
+          joining_space_without_shitstorm:
+            thread_id: 1537705983346081792 # 128
+            title: "Alona managed to join a space without causing a Twitter shitstorm"
+          palestine:
+            thread_id: 1537748304049672192 # 130
+            title: "Ukrainians being told they didn’t care about Palestine"
+          jelacee:
+            thread_id: 1548808938090528771 # 133
+            title: "A thread about one of Alona’s best friends Jelacee"
+          londongrad:
+            thread_id: 1570912187283308544 # 134
+            title: "A thread about Londongrad"
+          diabetis:
+            thread_id: 1538677301147316226 # 136
+            title: "The struggles of being diagnosed with Type-1 Diabetes at age 26"
+          boxing:
+            thread_id: 1538796493586501633 # 141
+            title: "✨ Indija / boxing"
+          skydiving:
+            thread_id: 1539185134435434498 # 143
+            title: "Day 118 - let’s end russia faster and go sky-diving"
+          namecalling_by_ukraine_supporters:
+            thread_id: 1539715880451448833 # 144
+            title: "A very outdated and incomplete list of things Alona has been recently called by Ukraine's \"supporters\""
+          pet_story:
+            thread_id: 1539806713318096898 # 146
+            title: "Favourite pet story"
+          previous_career:
+            thread_id: 1539815983791357952 # 147
+            title: "Alona’s reviews in her previous career"
+          recommended_artist:
+            thread_id: 1540740976414785541 # 166
+            title: "My recommended artist"
+          my_family:
+            thread_id: 1543635869843787779 # 179
+            title: "My family post full-scale russian invasion of Ukraine"
+          writing_skills:
+            thread_id: 1545493580575285251 # 182
+            title: "A thread on the writing skills"
+          work_ethic:
+            thread_id: 1549061711092715523 # 193
+            title: "Alona’s work ethic"
+          history_of_supporting_ukraine:
+            thread_id: 1548030808627089408 # 197
+            title: "Alona’s history supporting Ukraine"
+          viktor_grudakov:
+            thread_id: 1556047694417858577 # 210
+            title: "A thread on Viktor Grudakov and his ZSU design"
+          kseniia:
+            thread_id: 1556063235308396545 # 212
+            title: "A short thread on Alona’s friend, Kseniia"
+          how_to_support_me:
+            thread_id: 1558923045682790403 # 215
+            title: "What does Alona do and how can you support her work"
+          the_only_time_i_cried:
+            thread_id: 1557037596160712704 # 216
+            title: "The only time Alona cried"
+          martial_arts:
+            thread_id: 1557818242026151938 # 226
+            title: "Alona’s training in martial arts"
+          why_alona_tweets:
+            thread_id: 1557838455413129219 # 228
+            title: "Why Alona tweets"
+          about_denis:
+            thread_id: 1559102710217166848 # 236
+            title: "A mini-thread about Denis @betelgeuse1922"
+          throwback_to_2014:
+            thread_id: 1559766867652345856 # 237
+            title: "Throwback to 2014"
+
+        ukraine_dao:
+          title: Ukraine DAO
+          description: Threads about Ukraine DAO
+          what_is_ukraine_dao:
+            thread_id: 1536479120846118914 # 91
+            title: What is Ukraine DAO and how does it work?
+          about_ukraine_dao:
+            thread_id: 1541165511291150336 # 172
+            title: "A little more about Ukraine DAO"
+          about_ukraine_dao_2:
+            thread_id: 1545106753766948864 # 181
+            title: "A little more on Ukraine DAO"
+          how_ukraine_dao_started: # 2
+            thread_id: 1525299116636622850
+            title: How Ukraine DAO started
+          history:
+            thread_id: 1552718566834708480 # 205
+            title: "Ukraine DAO history - from grassroots activism to civic duties"
+          history_2:
+            thread_id: 1558933183520980993 # 234
+            title: "A bit more on the history of Ukraine DAO"
+          why_ukraine_dao_matters:
+            thread_id: 1541260452084293634 # 174
+            title: "Why Ukraine DAO matters"
+          ukraine_dao_trucks: # 20
+            thread_id: 1532560059300978688
+            title: Ukraine DAO Trucks
+          ukrainian_political_culture: 1513978983385284617 # 71
+          conversation_with_aspen_masterind:
+            thread_id: 1534633882406080512 # 96
+            title: Ukraine DAO team in conversation with Aspen Mastermind about Ukraine
+          messages_from_contributors:
+            thread_id: 1572454265087557632 # 105
+            title: "My favourite messages from Ukraine DAO contributors ❤️"
+          starling_lab_partnership:
+            thread_id: 1536486554067156993 # 109
+            title: Announcement of Ukraine DAO’s partnership with Starling Lab
+          tankgirljunkie: 1557108429193461761 # 217
+          on_twitter_lists:
+            thread_id: 1556433414164815878 # 124
+            title: "A thread with Twitter lists"
+          disclosure:
+            thread_id: 1537699802183614465 # 127
+            title: "Fun fact - Disclosure raised funds for Ukraine DAO"
+          interview_with_padraig_belton:
+            thread_id: 1538905606173622275 # 142
+            title: "Alona’s interview with Padraig Belton, BBC on a Twitter Space"
+          daos_for_activism:
+            thread_id: 1571016072773668864 # 191
+            title: "How DAOs are used for activism"
+          updates_on_come_back_alive:
+            thread_id: 1552010888953139200 # 200
+            title: "Updates on Come Back Alive"
+          ukraine_dao_merch_for_germany:
+            thread_id: 1552253817646899200 # 202
+            title: "Ukraine DAO merch for Germany (comedy gold)"
+          efficient_dao:
+            thread_id: 1563421240139718658 # 207
+            title: "How to be efficient as a DAO: Ukraine DAO case study"
+          history_of_ethereum:
+            thread_id: 1553344609841025024 # 208
+            title: "On the history of Ethereum, Vitalik and Dima Buterins "
+          twitter_suspension:
+            thread_id: 1556065666616201216 # 209
+            title: "Alona is back! A thread on updates over the Twitter suspension period"
+          press_coverage:
+            thread_id: 1557292339491741696 # 219
+            title: "Ukraine DAO press coverage"
+          space_with_expatcrypto2:
+            thread_id: 1557532724344356870 # 223
+            title: "Space with ExpatCrypto3"
+          untold_stories:
+            thread_id: 1557542092578197504 # 224
+            title: "Alona scheduled to be on Untold Stories hosted by Charlie Shrem"
+          deeparocks_on_ukraine_dao:
+            thread_id: 1557547021778800644 # 225
+            title: "A piece on Ukraine DAO by @deeparocks and BanklessDAO update"
+          nafo:
+            thread_id: 1572268213974732804 # 229
+            title: "“NAFO is funded by Ukraine DAO”"
+          interview_with_cryptovladzia:
+            thread_id: 1559859522893651969 # 238
+            title: "Interview with @cryptovladzia"
+          freerossdao_helped_create_ukraine_dao:
+            thread_id: 1560326942209052672 # 240
+            title: "How FreeRossDAO helped create Ukraine DAO"
+          raypaxful:
+            thread_id: 1560339270476365831 # 241
+            title: "A mini-thread on @raypaxful"
+
         reuters:
           title: Reuters
           description: About russian propaganda agency Reuters.
@@ -23,10 +211,13 @@ root:
           conversation_in_walter_reports:
             thread_id: 1538590308522463233 # 52
             title: Conversation in Walter Report about Reuters
+          looking_for_reuters_lies:
+            thread_id: 1537715389286735872 # 129
+            title: "Recording of space about looking for lies in reuters articles"
+          difference_betweet_trf_and_trc:
+            thread_id: 1539737337298575362 # 145
+            title: "Difference between TRF and TRC"
 
-      how_ukraine_dao_started: # 2
-        thread_id: 1525299116636622850
-        title: How Ukraine DAO started
       1000_cuts: # 3
         thread_id: 1536666333940789251
         title: Each of us has been in agony from 1000s propaganda cuts
@@ -41,7 +232,6 @@ root:
       generalizing: 1529066163434622977 # 8
       does_it_make_sense: 1517241275409387522 # 10
       imperial_reboot: 1509991598595223554 # 15
-      tankgirljunkie: 1557108429193461761 # 217
       christopher_j_m: 1560671494950506496 # 242
       silenced_1: # 11
         thread_id: 1506185499077193731
@@ -63,9 +253,6 @@ root:
       darvo: # 17
         thread_id: 1527913316957446144
         title: DARVO
-      ukraine_dao_trucks: # 20
-        thread_id: 1532560059300978688
-        title: Ukraine DAO Trucks
       on_genocide_denial: # 28
         thread_id: 1530435099849895936
         title: On denial of genocide of Ukrainians
@@ -82,7 +269,6 @@ root:
         thread_id: 1505429104572653568
         title: My first encounter with a russian propagandist, 2014 🕊
       mastodon: 1529854934358933504 # 36
-      twitter_block_for_12_hours: 1517686615174434816 # 37
       what_russia_should_do_with_ukraine: # 42
         thread_id: 1530577568226848768
         title: "“What russia should do with Ukraine”. German, French, Annotated version"
@@ -127,7 +313,6 @@ root:
         title: "Full list factors qualifying you to tell me how I should feel during #GenocideOfUkrainians"
       remaining_calm: 1532469268037656587 # 67
       on_apologising_to_russians: 1560471350803841025 # 69
-      ukrainian_political_culture: 1513978983385284617 # 71
       collective_responsiblity: 1558027683782692865 # 72
       ukrainian_corruption_stereotypes: 1532476015695773696 # 73
       empathy_for_ukrainians: 1541467428894507008 # 75
@@ -146,11 +331,199 @@ root:
       dont_take_it_personally_if_i_dont_reply:
         thread_id: 1534656462127079425 # 87
         title: "TLDR: if I don't reply, please don't take it personally"
-      breakdowns: 1535531355374772225 # 88
       ovsyannikova: 1536438482280800259 # 89
       icrc:
         thread_id: 1534725840696754176 # 102
         title: Why donating money through the Red Cross is a very bad idea?
+      kind_messages_to_ukrauinians:
+        thread_id: 1572769240926789633 # 90
+        title: Kind messages addressed to all Ukrainian people
+      hitlers_willing_executioners:
+        thread_id: 1534201103797075968 # 94
+        title: Hitler\'s willing executioners
+      special_russophobic_operation_1:
+        thread_id: 1534271075755884549 # 95
+        title: Special russophobic operation - 1 🎙 TLDR & the recording
+      bullying_of_ukrainians:
+        thread_id: 1534717078619533314 # 98
+        title: Social media bullying of Ukrainians
+      about_lists:
+        thread_id: 1534707275109105670 # 101
+        title: Thread about lists
+      mental_health:
+        thread_id: 1535531355374772225 # 108
+        title: "Mental health of Ukrainians + People in Ukraine"
+      educating_about_azov:
+        thread_id: 1572758244195459074 # 110
+        title: Educating about Azov
+      why_i_hate_everything_russian:
+        thread_id: 1536432849410301952 # 111
+        title: Why I hate everything russian now
+      brief_history_of_russia:
+        thread_id: 1536485546519842816 # 113
+        title: "A brief history of russia"
+      roman_ratushny:
+        thread_id: 1536831681105207302 # 118
+        title: "Thread dedicated to Roma Ratushny 💔"
+      volodymyr_demchenko:
+        thread_id: 1537259644841754624 # 119
+        title: "About Volodymyr Demchenko"
+      ukrainian_creatives:
+        thread_id: 1537692838976266241 # 126
+        title: "A thread about Ukrainian creatives, including Volodymyr Yatsenko"
+      ukrainian_newspapers:
+        thread_id: 1538258484252262402 # 131
+        title: "Ukrainian newspapers"
+      arming_ukraine_is_everyones_interest:
+        thread_id: 1543562497172688897 # 132
+        title: "The US is acting in its self-interests, and so should every country, and that means arming Ukraine"
+      sofiadate:
+        thread_id: 1538803567930269697 # 135
+        title: "About dating Ukrainian women websites - specifically, sofiadate.com"
+      language_in_journalism:
+        thread_id: 1538694059014995972 # 137
+        title: "Thread about the usage of language in journalism around Ukraine"
+      fighter_jets:
+        thread_id: 1551291685908480000 # 138
+        title: "Ukraine needs fighter jets"
+      mental_health_2:
+        thread_id: 1538762720761331712 # 139
+        title: "Thread about the mental health of Ukrainians, and the help they can get"
+      russia_is_xenophobia:
+        thread_id: 1538777605612216329 # 140
+        title: "Queerphobia, racism, xenophobia, bullying of journalists and all colonial garbage is russia"
+      snopes_sucks:
+        thread_id: 1539854666334441473 # 148
+        title: "Thread about @Snopes calling themselves ‘fact checkers’"
+      misinformation_about_azov:
+        thread_id: 1539854122362572800 # 149
+        title: "Thread countering misinformation about Azov"
+      recommended_journalists:
+        thread_id: 1539871919775809536 # 164
+        title: "A thread on recommended journalists"
+      language_in_journalism_case_study:
+        thread_id: 1539932866683052033 # 165
+        title: "How to use proper language and fact check in journalism - a case study"
+      russian_orthodox_church:
+        thread_id: 1540753664729423872 # 167
+        title: "Another thread of the russian Orthodox Church"
+      cultural_offensive:
+        thread_id: 1547602790125486082 # 168
+        title: "“A cultural offensive” by the russians, their view"
+      pussyriot:
+        thread_id: 1573584299319754753 # 169
+        title: "Pussyriot misinformation and appropriation"
+      why_threads_matter:
+        thread_id: 1540944906704887808 # 171
+        title: "Why the thread’s matter"
+      darth_vader:
+        thread_id: 1541175516027404288 # 173
+        title: "A fun little story on Darth Vader in Ukrainian politics"
+      us_is_not_doing_its_job:
+        thread_id: 1541324260324564992 # 175
+        title: "Why the UN is not doing its job"
+      russian_attitudes_and_economy:
+        thread_id: 1541378142853599232 # 176
+        title: "A mini-thread on russian attitudes and economy"
+      fundraiser:
+        thread_id: 1543034223736520704 # 178
+        title: "A fundraiser alert"
+      freerossdao_and_female_participation:
+        thread_id: 1551417332567769088 # 180
+        title: "On FreeRossDAO and female participation"
+      russian_orthodox_church_2:
+        thread_id: 1546947944867323904 # 183
+        title: "Why the ROC is a not a church"
+      pussyriot_2:
+        thread_id: 1546297600730714113 # 184
+        title: "More cultural appropriation by PussyRiot"
+      how_to_host_twitter_spaces:
+        thread_id: 1546449062576144384 # 185
+        title: "How to host Twitter spaces"
+      updates_on_ukraine_dao_and_freerossdao:
+        thread_id: 1546906812359786496 # 186
+        title: "Updates on Ukraine DAO and FreeRossDAO"
+      genocide_apologism:
+        thread_id: 1547133052769501190 # 187
+        title: "On genocide apologism"
+      genocide_and_deaf_ears:
+        thread_id: 1552758927561039872 # 188
+        title: "A thread on genocide and deaf ears"
+      # foreignaffairs:
+      #   thread_id: 1547354057366552578 # 189
+      #   title: "A thread on the ForeignAffairs"
+      occupied_kherson:
+        thread_id: 1548176761279508480 # 190
+        title: "On life in Kherson under russian occupation"
+      how_to_support_ukrainians:
+        thread_id: 1548891429845536768 # 192
+        title: "How to and not to support Ukrainians"
+      russians_and_their_friends:
+        thread_id: 1576551020024320000 # 194
+        title: "A thread on russians and their friends"
+      space_with_maksym_eristavi:
+        thread_id: 1549837183221129216 # 195
+        title: "A thread on some key takeaways from a Twitter space with Maksym Eristavi"
+      updates_on_choice_dao:
+        thread_id: 1551639732282613760 # 196
+        title: "Updates on ChoiceDAO"
+      mental_health_resources:
+        thread_id: 1552794949342699527 # 198
+        title: "A list of resources available to the Ukrainians, home and abroad, for mental health support"
+      kherson:
+        thread_id: 1550755243671052290 # 199
+        title: "A thread on Kherson and the Kherson Oblast"
+      choose_whom_you_listen_to_carefully:
+        thread_id: 1552017774263910400 # 201
+        title: "Dear West choose whom you listen to carefully"
+      how_russia_destroyed_ukrainian_culture:
+        thread_id: 1552555174404792321 # 203
+        title: "Translation of a Spravdi Instagram post: How russia destroyed Ukrainians and our culture."
+      difference_between_ukrainians_and_russians:
+        thread_id: 1552894930196070400 # 206
+        title: "A short thread on the critical differences between the Ukrainians and russians"
+      twitters_suspension_policies:
+        thread_id: 1556053283088875522 # 211
+        title: "On the Twitter’s broken suspension policies"
+      conversation_with_ferlain:
+        thread_id: 1556085544341458945 # 213
+        title: "Alona’s conversation with a fellow Ukrainian, Ferlain"
+      words_missing_in_svynosobacha:
+        thread_id: 1556725030658183168 # 214
+        title: "A list of Ukrainian words missing from the svynosobacha language"
+      truth_about_azov:
+        thread_id: 1557264433050750976 # 218
+        title: "The truth about Azov"
+      right_to_hate_russians:
+        thread_id: 1557352340096786440 # 220
+        title: "Why the Ukrainians have the right to hate the russians"
+      no_russians_eu:
+        thread_id: 1557599112614526978 # 221
+        title: "Why the russians are not to be allowed in the EU"
+      why_bellingcat_is_a_russian_asset:
+        thread_id: 1559107684363894784 # 222
+        title: "Why Bellingcat is on the foreign assets list"
+      germans_are_wrong:
+        thread_id: 1557835719871275010 # 227
+        title: "The Germans’ perspective is not correct and here is why"
+      dont_listen_to_russians_about_visaban:
+        thread_id: 1558942999555588096 # 230
+        title: "A mini-thread on why the russians should not be listened to about the #visaban"
+      dont_listen_to_russian_opposition_about_visaban:
+        thread_id: 1558870886899400705 # 231
+        title: "The russian “liberal opposition” should not be listened to about the #visaban"
+      russians_are_sheep:
+        thread_id: 1558904988197392390 # 232
+        title: "The russians are incapable of resistance"
+      failures_of_european_politicians:
+        thread_id: 1558915836387201026 # 233
+        title: "On the failures of the European politicians"
+      pussyriot_3:
+        thread_id: 1559082670478528515 # 235
+        title: "A Pussyriot case study and why the #visaban needs to be implemented"
+      story_from_mariupol_resident:
+        thread_id: 1560025689394487300 # 239
+        title: "A poignant story from a Mariupol resident"
       mriya_report_hosting_belarussian_opposition:
         thread_id: 1574513780893048840
         title: Mriya Report hosting belarussian \"opposition\"
