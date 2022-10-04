@@ -120,3 +120,12 @@ Must read on this
 
 | [![](/media/1560671494950506496/3_1560671486704238592.jpg)](/media/1560671494950506496/3_1560671486704238592.jpg) | [![](/media/1560671494950506496/3_1560671486670786562.jpg)](/media/1560671494950506496/3_1560671486670786562.jpg) | [![](/media/1560671494950506496/3_1560671486670737414.jpg)](/media/1560671494950506496/3_1560671486670737414.jpg) | [![](/media/1560671494950506496/3_1560671486712717312.jpg)](/media/1560671494950506496/3_1560671486712717312.jpg) |
 | :-: | :-: | :-: | :-: |
+
+[@FT](https://twitter.com/FT) this has to be a joke.
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Some professional news: Right up to when Russia launched its large scale offensive of Feb 24, 2022, Miller was known for pushing the Kremlin propaganda lie about &#34;Nazi extremists&#34; in Ukraine, particular re the Azov regiment. Recall Putin claimed RU was &#34;fighting Nazis&#34; in UA. https://t.co/Up0oKxuRDg<br />
+    </p>
+    &mdash; <a href="https://twitter.com/GicAriana/status/1577151456507224064">Link</a>
+</blockquote>
