@@ -2,8 +2,10 @@
 redirect_from:
   - /breakdowns
   - /breakdowns.md
+  - /cryptodrftng/breakdowns
+  - /cryptodrftng/breakdowns.md
 ---
-# Breakdowns
+# Mental health of Ukrainians + People in Ukraine
 
 Author: [Альона Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1535523020072177669), [PingThread](https://pingthread.com/thread/1535523020072177669), [ThreadReader](https://threadreaderapp.com/thread/1535523020072177669.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1535523020072177669)*

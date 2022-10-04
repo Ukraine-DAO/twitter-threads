@@ -2,6 +2,8 @@
 redirect_from:
   - /ukraine_dao_trucks
   - /ukraine_dao_trucks.md
+  - /cryptodrftng/ukraine_dao_trucks
+  - /cryptodrftng/ukraine_dao_trucks.md
 ---
 # Ukraine DAO Trucks
 

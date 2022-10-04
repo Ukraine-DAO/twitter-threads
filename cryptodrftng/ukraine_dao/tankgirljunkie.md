@@ -2,6 +2,8 @@
 redirect_from:
   - /tankgirljunkie
   - /tankgirljunkie.md
+  - /cryptodrftng/tankgirljunkie
+  - /cryptodrftng/tankgirljunkie.md
 ---
 # Tankgirljunkie
 

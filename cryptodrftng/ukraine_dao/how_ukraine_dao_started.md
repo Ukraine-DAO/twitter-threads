@@ -2,6 +2,8 @@
 redirect_from:
   - /how_ukraine_dao_started
   - /how_ukraine_dao_started.md
+  - /cryptodrftng/how_ukraine_dao_started
+  - /cryptodrftng/how_ukraine_dao_started.md
 ---
 # How Ukraine DAO started
 

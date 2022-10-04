@@ -2,6 +2,8 @@
 redirect_from:
   - /ukrainian_political_culture
   - /ukrainian_political_culture.md
+  - /cryptodrftng/ukrainian_political_culture
+  - /cryptodrftng/ukrainian_political_culture.md
 ---
 # Ukrainian Political Culture
 

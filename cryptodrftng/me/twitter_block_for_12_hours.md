@@ -2,6 +2,8 @@
 redirect_from:
   - /twitter_block_for_12_hours
   - /twitter_block_for_12_hours.md
+  - /cryptodrftng/twitter_block_for_12_hours
+  - /cryptodrftng/twitter_block_for_12_hours.md
 ---
 # Twitter Block For 12 Hours
 
