@@ -5,7 +5,7 @@ Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)
 
 🧵 about lists. I have been making "lists" actually. They are just different lists. Here are my posts from 22 February 2022, after 8 years of trying to tell people that russia is a fascist state that intends to commit [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians)
 
-| [![](https://pbs.twimg.com/media/FUxeJKzWQAAVqsK.jpg)](https://pbs.twimg.com/media/FUxeJKzWQAAVqsK.jpg) | [![](https://pbs.twimg.com/media/FUxeJMUXEAE4Wer.jpg)](https://pbs.twimg.com/media/FUxeJMUXEAE4Wer.jpg) |
+| [![](/media/1534707275109105670/3_1534705084638052352.jpg)](/media/1534707275109105670/3_1534705084638052352.jpg) | [![](/media/1534707275109105670/3_1534705085044953089.jpg)](/media/1534707275109105670/3_1534705085044953089.jpg) |
 | :-: | :-: |
 
 <blockquote class="twitter-tweet">
@@ -29,17 +29,17 @@ Me: -Of course.
 
 My post from 22 Feb 2022: "If you or someone in your family have ever experienced racism, sexism, homophobia, abuse, violence, discrimination or opression of any kind - you have to show solidarity to Ukraine."
 
-| [![](https://pbs.twimg.com/media/FUxfApQWUAEwq07.jpg)](https://pbs.twimg.com/media/FUxfApQWUAEwq07.jpg) | [![](https://pbs.twimg.com/media/FUxfAqyXEAAe_dc.jpg)](https://pbs.twimg.com/media/FUxfAqyXEAAe_dc.jpg) |
+| [![](/media/1534707275109105670/3_1534706037705560065.jpg)](/media/1534707275109105670/3_1534706037705560065.jpg) | [![](/media/1534707275109105670/3_1534706038116651008.jpg)](/media/1534707275109105670/3_1534706038116651008.jpg) |
 | :-: | :-: |
 
 22 Feb 2022 - "We won't live under a dictatorship"
 
-| [![](https://pbs.twimg.com/media/FUxfdCGWIAARif3.jpg)](https://pbs.twimg.com/media/FUxfdCGWIAARif3.jpg) |
+| [![](/media/1534707275109105670/3_1534706525410828288.jpg)](/media/1534707275109105670/3_1534706525410828288.jpg) |
 | :-: |
 
 Another post from 22 Feb 2022. I am making lists indeed, [@NovelSci](https://twitter.com/NovelSci) 🙃 I've been making for years. Good luck to all the genocide apologists - [@Reuters](https://twitter.com/Reuters), [@jacobin](https://twitter.com/jacobin), [@nytimes](https://twitter.com/nytimes) and many others. All of them will hear from us.
 
 [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians)
 
-| [![](https://pbs.twimg.com/media/FUxgIfgWUAE15xo.jpg)](https://pbs.twimg.com/media/FUxgIfgWUAE15xo.jpg) |
+| [![](/media/1534707275109105670/3_1534707272038895617.jpg)](/media/1534707275109105670/3_1534707272038895617.jpg) |
 | :-: |

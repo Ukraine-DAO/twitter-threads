@@ -39,7 +39,7 @@ Comment from myself:
 
 ❗️russia needs to be denazified, demilitarized and cease to exist in its current form.
 
-| [![](https://pbs.twimg.com/media/FVtKexEWYAEVKyb.jpg)](https://pbs.twimg.com/media/FVtKexEWYAEVKyb.jpg) |
+| [![](/media/1538905606173622275/3_1538905590105268225.jpg)](/media/1538905606173622275/3_1538905590105268225.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

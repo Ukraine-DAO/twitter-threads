@@ -60,7 +60,7 @@ Ukrainians are sacrificing their lives, for people from other countries, there i
 
 All I can say to [@StephenKolanko1](https://twitter.com/StephenKolanko1) - go fuck yourself.
 
-| [![](https://pbs.twimg.com/media/FVk9j7YXwAAQdNU.jpg)](https://pbs.twimg.com/media/FVk9j7YXwAAQdNU.jpg) |
+| [![](/media/1543562497172688897/3_1538328435168362496.jpg)](/media/1543562497172688897/3_1538328435168362496.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -78,7 +78,7 @@ P.S. in case you didn't know, [@StephenKolanko1](https://twitter.com/StephenKola
 
 They didn't teach you that at your Third Reich University, did they? Having to learn from a Ukrainian person about it must be a tough pill to swallow 💞
 
-| [![](https://pbs.twimg.com/media/FVk-1Y7WYAAKa3F.jpg)](https://pbs.twimg.com/media/FVk-1Y7WYAAKa3F.jpg) |
+| [![](/media/1543562497172688897/3_1538329834669105152.jpg)](/media/1543562497172688897/3_1538329834669105152.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

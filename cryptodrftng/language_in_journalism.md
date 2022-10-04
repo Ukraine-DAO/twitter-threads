@@ -70,7 +70,7 @@ I'm launching a fundraiser in a few days for the vehicles my dad (he runs UKD Tr
 
 He's already donated several of them to [@DefenceU](https://twitter.com/DefenceU). Will check exactly how many when he wakes up but the last figure I remember was 4 of these:
 
-| [![](https://pbs.twimg.com/media/FVqKFzzXwAMlUuL.jpg)](https://pbs.twimg.com/media/FVqKFzzXwAMlUuL.jpg) |
+| [![](/media/1538694059014995972/3_1538694055110098947.jpg)](/media/1538694059014995972/3_1538694055110098947.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

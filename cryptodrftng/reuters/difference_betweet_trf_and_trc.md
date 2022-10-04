@@ -8,7 +8,7 @@ This mugshot from [@TRF_Stories](https://twitter.com/TRF_Stories) is forever my 
 🎥 The video is in this playlist: 
 [youtube.com: Ukraine DAO Videos](https://youtube.com/playlist?list=PL2DxlhavC4ms4G_vxHXe7gyh8__W6TEH_)
 
-| [![](https://pbs.twimg.com/media/FV4-uJaWIAMNNJN.jpg)](https://pbs.twimg.com/media/FV4-uJaWIAMNNJN.jpg) |
+| [![](/media/1539737337298575362/3_1539737085128613891.jpg)](/media/1539737337298575362/3_1539737085128613891.jpg) |
 | :-: |
 
 For those wondering how come I voluntarily filmed with someone with "Reuters" in their job title,

@@ -5,7 +5,7 @@ Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)
 
 Hey [@NewellJeffOne](https://twitter.com/NewellJeffOne) the way Ukrainians fight for each other is a topic for a separate 🧵 but here's a quick summary of what it means to be Ukrainian - perfect description of why svynosobaky fucked with the wrong country 👇
 
-| [![](https://pbs.twimg.com/media/FYz881wXkAATGYQ.jpg)](https://pbs.twimg.com/media/FYz881wXkAATGYQ.jpg) |
+| [![](/media/1552894930196070400/3_1552894093688279040.jpg)](/media/1552894930196070400/3_1552894093688279040.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

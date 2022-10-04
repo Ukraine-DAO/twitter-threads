@@ -103,7 +103,7 @@ BREAKING NEWS: A 🇺🇦 person can live wherever the fuck they want and they d
 
 📸 insta post: [www.instagram.com: Alona #SaveAzov #ꑭ (@alona_ukrainedao) • Instagram photo](https://www.instagram.com/p/CgxIrlptazA/?igshid=YmMyMTA2M2Y=)
 
-| [![](https://pbs.twimg.com/media/FZgQC-KXEAUSirF.jpg)](https://pbs.twimg.com/media/FZgQC-KXEAUSirF.jpg) |
+| [![](/media/1556065666616201216/3_1556011314488741893.jpg)](/media/1556065666616201216/3_1556011314488741893.jpg) |
 | :-: |
 
 ❗️I didn't go to my house because ruscists are using the biggest nuclear power plant in the world as a shield for their artillery positions
@@ -114,7 +114,7 @@ I still feel much better in 🇺🇦 than in 🇬🇧
 
 Because it's my home.
 
-| [![](https://pbs.twimg.com/media/FZgRHOIXkAMv-RC.jpg)](https://pbs.twimg.com/media/FZgRHOIXkAMv-RC.jpg) |
+| [![](/media/1556065666616201216/3_1556012487006457859.jpg)](/media/1556065666616201216/3_1556012487006457859.jpg) |
 | :-: |
 
 The photo above was taken by [@brokenpixelua](https://twitter.com/brokenpixelua) - 🇺🇦 film maker turned soldier, loved in our community. 
@@ -123,7 +123,7 @@ The photo above was taken by [@brokenpixelua](https://twitter.com/brokenpixelua)
 
 🤷‍♀️ He doesn't write that much there atm - too busy making russian occupants better at the frontline.
 
-| [![](https://pbs.twimg.com/media/FZgXpNZXgAIa_Oa.jpg)](https://pbs.twimg.com/media/FZgXpNZXgAIa_Oa.jpg) |
+| [![](/media/1556065666616201216/3_1556019667994640386.jpg)](/media/1556065666616201216/3_1556019667994640386.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

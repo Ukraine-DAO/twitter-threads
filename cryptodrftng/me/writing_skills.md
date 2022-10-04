@@ -39,7 +39,7 @@ Another crucially important thing is keeping it personal - not reducing the dama
 
 [cryptodrftng.substack.com: Day 59. Odesa & Mariupol.](https://cryptodrftng.substack.com/p/day-59-odesa-and-mariupol)
 
-| [![](https://pbs.twimg.com/media/FXKw-sCXoAInWKp.jpg)](https://pbs.twimg.com/media/FXKw-sCXoAInWKp.jpg) |
+| [![](/media/1545493580575285251/3_1545492213160976386.jpg)](/media/1545493580575285251/3_1545492213160976386.jpg) |
 | :-: |
 
 And yes, I hate russians. Not all of them, but I'm under no obligation to be looking for 🦄 at the moment. 

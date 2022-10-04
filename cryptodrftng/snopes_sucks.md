@@ -87,7 +87,7 @@ Here's another 🧵 about Azov, [@snopes](https://twitter.com/snopes)
 
 Community - please help me make sure this 🧵 is seen by [@snopes](https://twitter.com/snopes) by tagging them in replies.
 
-| [![](https://pbs.twimg.com/media/FV6kd3GXoAEl_Up.jpg)](https://pbs.twimg.com/media/FV6kd3GXoAEl_Up.jpg) |
+| [![](/media/1539854666334441473/3_1539848955521114113.jpg)](/media/1539854666334441473/3_1539848955521114113.jpg) |
 | :-: |
 
 This is who [@snopes](https://twitter.com/snopes) referenced btw.
@@ -95,7 +95,7 @@ This is who [@snopes](https://twitter.com/snopes) referenced btw.
 
  [#ꑭ](https://twitter.com/hashtag/%EA%91%AD) [#SaveAzov](https://twitter.com/hashtag/SaveAzov)
 
-| [![](https://pbs.twimg.com/media/FV6lOUvXkAEh-pn.jpg)](https://pbs.twimg.com/media/FV6lOUvXkAEh-pn.jpg) |
+| [![](/media/1539854666334441473/3_1539849788111425537.jpg)](/media/1539854666334441473/3_1539849788111425537.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

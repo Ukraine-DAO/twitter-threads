@@ -9,14 +9,14 @@ My conversation from about 22 Feb with a friend who was understandably terrified
 
 ❗️When my parents were telling me to continue tell the truth, they realised what could happen to them.
 
-| [![](https://pbs.twimg.com/media/FXiS_UqXkAIasNP.jpg)](https://pbs.twimg.com/media/FXiS_UqXkAIasNP.jpg) |
+| [![](/media/1552758927561039872/3_1547148088577593346.jpg)](/media/1552758927561039872/3_1547148088577593346.jpg) |
 | :-: |
 
 I posted that conversation on my Instagram the same day. That post is still there - [www.instagram.com: Alona #SaveAzov #ꑭ on Instagram: "On the next slide you will see the first conversation I started my day with. I know for a fact that Russian forces are creating lists of Ukrainians to be killed or sent to camps in the event of further occupation. I am certain that my family will be on that list bec](https://www.instagram.com/p/CaSi1KstFfu/)
 
 The last few weeks before the invasion were nerve-wrecking to the extent I can't even explain - awful desperation of trying to tell everyone what was about to happen.
 
-| [![](https://pbs.twimg.com/media/FXiT2m7XoAA30w3.jpg)](https://pbs.twimg.com/media/FXiT2m7XoAA30w3.jpg) |
+| [![](/media/1552758927561039872/3_1547149038373543936.jpg)](/media/1552758927561039872/3_1547149038373543936.jpg) |
 | :-: |
 
 When I posted this, I had about 300 followers on Twitter. 
@@ -27,7 +27,7 @@ Ukraine DAO obviously wasn't a thing yet, even though social media accounts for 
 
 But I already had people online telling me that Holodomor never happened.
 
-| [![](https://pbs.twimg.com/media/FXiUsh0WAAMF_Ow.jpg)](https://pbs.twimg.com/media/FXiUsh0WAAMF_Ow.jpg) |
+| [![](/media/1552758927561039872/3_1547149964714835971.jpg)](/media/1552758927561039872/3_1547149964714835971.jpg) |
 | :-: |
 
 I'm bullied online every single day 24/7, which I diligently document. 
@@ -49,7 +49,7 @@ The real purpose of my work is to do everything I can to make sure that [#Genoci
 
 And I'm surprised by how many people have been outraged and offended by me doing this work.
 
-| [![](https://pbs.twimg.com/media/FXiYau8WYAEeAhh.jpg)](https://pbs.twimg.com/media/FXiYau8WYAEeAhh.jpg) |
+| [![](/media/1552758927561039872/3_1547154057046941697.jpg)](/media/1552758927561039872/3_1547154057046941697.jpg) |
 | :-: |
 
 In addition to the lists you see on Twitter and Notion, [#russianWarCrimes](https://twitter.com/hashtag/russianWarCrimes) are also now recorded on blockchain. 
@@ -76,7 +76,7 @@ You can read up on our work with Starling Lab's Project Dokaz on this page - [uk
 
 [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow)
 
-| [![](https://pbs.twimg.com/media/FXibIsoWAAgP1A6.jpg)](https://pbs.twimg.com/media/FXibIsoWAAgP1A6.jpg) |
+| [![](/media/1552758927561039872/3_1547157045723398152.jpg)](/media/1552758927561039872/3_1547157045723398152.jpg) |
 | :-: |
 
 We need to hold ruSSians accountable for their actions 

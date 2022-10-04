@@ -9,7 +9,7 @@ When I thought the German dude could not go any lower, he decided to make fun of
 
 ✅ Criminal record for DUI in the state of Colorado
 
-| [![](https://pbs.twimg.com/media/FU6XoTdWAAEAPms.jpg)](https://pbs.twimg.com/media/FU6XoTdWAAEAPms.jpg) |
+| [![](/media/1535501202888204289/3_1535331241653829633.jpg)](/media/1535501202888204289/3_1535331241653829633.jpg) |
 | :-: |
 
 About his "concerns"
@@ -24,7 +24,7 @@ I'm paid a fix amount of 5k USD per month to cover my rent and bills, which was 
 
 Please report [@HansWorldTravls](https://twitter.com/HansWorldTravls) [@UkrainesGrains](https://twitter.com/UkrainesGrains) accounts for targeted harrassment. He needs to sober up a bit ❤️
 
-| [![](https://pbs.twimg.com/media/FU6Xo6IXsAAR11h.jpg)](https://pbs.twimg.com/media/FU6Xo6IXsAAR11h.jpg) |
+| [![](/media/1535501202888204289/3_1535331252034842624.jpg)](/media/1535501202888204289/3_1535331252034842624.jpg) |
 | :-: |
 
 Thank you, [@KevinDuska](https://twitter.com/KevinDuska) 😂 Give me your Paypal
@@ -53,7 +53,7 @@ He's back 😂
 
 Please report [@HansWorldTravls](https://twitter.com/HansWorldTravls) [@UkrainesGrains](https://twitter.com/UkrainesGrains) for targeted harassment [@TwitterSupport](https://twitter.com/TwitterSupport)
 
-| [![](https://pbs.twimg.com/media/FU8erABXwAIpl6d.jpg)](https://pbs.twimg.com/media/FU8erABXwAIpl6d.jpg) |
+| [![](/media/1535501202888204289/3_1535479722045587458.jpg)](/media/1535501202888204289/3_1535479722045587458.jpg) |
 | :-: |
 
 [@HansWorldTravls](https://twitter.com/HansWorldTravls) @UkrainesGraines

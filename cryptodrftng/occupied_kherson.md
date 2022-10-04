@@ -7,7 +7,7 @@ Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)
 
 [#russiaisaterrorisstate](https://twitter.com/hashtag/russiaisaterrorisstate) [#genocideofukrainians](https://twitter.com/hashtag/genocideofukrainians) [#standwithukraine](https://twitter.com/hashtag/standwithukraine)
 
-| [![](https://pbs.twimg.com/media/FXwthjkVEAA5NHk.jpg)](https://pbs.twimg.com/media/FXwthjkVEAA5NHk.jpg) |
+| [![](/media/1548176761279508480/3_1548162426415157248.jpg)](/media/1548176761279508480/3_1548162426415157248.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -23,7 +23,7 @@ Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)
 
 [#russiaisaterrorisstate](https://twitter.com/hashtag/russiaisaterrorisstate) [#genocideofukrainians](https://twitter.com/hashtag/genocideofukrainians) [#standwithukraine](https://twitter.com/hashtag/standwithukraine)
 
-| [![](https://pbs.twimg.com/media/FXwu3J6VEAQQ2Ej.jpg)](https://pbs.twimg.com/media/FXwu3J6VEAQQ2Ej.jpg) |
+| [![](/media/1548176761279508480/3_1548163896996859908.jpg)](/media/1548176761279508480/3_1548163896996859908.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -37,7 +37,7 @@ Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)
 
 [#russiaisaterrorisstate](https://twitter.com/hashtag/russiaisaterrorisstate) [#genocideofukrainians](https://twitter.com/hashtag/genocideofukrainians) [#standwithukraine](https://twitter.com/hashtag/standwithukraine)
 
-| [![](https://pbs.twimg.com/media/FXwwfWSUYAA2Gdd.jpg)](https://pbs.twimg.com/media/FXwwfWSUYAA2Gdd.jpg) |
+| [![](/media/1548176761279508480/3_1548165687025098752.jpg)](/media/1548176761279508480/3_1548165687025098752.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -51,7 +51,7 @@ Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)
 
 [#russiaisaterrorisstate](https://twitter.com/hashtag/russiaisaterrorisstate) [#genocideofukrainians](https://twitter.com/hashtag/genocideofukrainians) [#standwithukraine](https://twitter.com/hashtag/standwithukraine)
 
-| [![](https://pbs.twimg.com/media/FXwxTouVUAEnfci.jpg)](https://pbs.twimg.com/media/FXwxTouVUAEnfci.jpg) |
+| [![](/media/1548176761279508480/3_1548166585327636481.jpg)](/media/1548176761279508480/3_1548166585327636481.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -65,14 +65,14 @@ Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)
 
 [#russiaisaterrorisstate](https://twitter.com/hashtag/russiaisaterrorisstate) [#genocideofukrainians](https://twitter.com/hashtag/genocideofukrainians) [#standwithukraine](https://twitter.com/hashtag/standwithukraine)
 
-| [![](https://pbs.twimg.com/media/FXw1IflVUAI7R8A.jpg)](https://pbs.twimg.com/media/FXw1IflVUAI7R8A.jpg) |
+| [![](/media/1548176761279508480/3_1548170791941918722.jpg)](/media/1548176761279508480/3_1548170791941918722.jpg) |
 | :-: |
 
 [@Aizek01625936](https://twitter.com/Aizek01625936) - [#Kherson](https://twitter.com/hashtag/Kherson) 
 
 [#russiaisaterrorisstate](https://twitter.com/hashtag/russiaisaterrorisstate) [#genocideofukrainians](https://twitter.com/hashtag/genocideofukrainians) [#standwithukraine](https://twitter.com/hashtag/standwithukraine)
 
-| [![](https://pbs.twimg.com/media/FXw14lTVEAELw0E.jpg)](https://pbs.twimg.com/media/FXw14lTVEAELw0E.jpg) |
+| [![](/media/1548176761279508480/3_1548171618110738433.jpg)](/media/1548176761279508480/3_1548171618110738433.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -86,7 +86,7 @@ Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)
 
 [#russiaisaterrorisstate](https://twitter.com/hashtag/russiaisaterrorisstate) [#genocideofukrainians](https://twitter.com/hashtag/genocideofukrainians) [#standwithukraine](https://twitter.com/hashtag/standwithukraine)
 
-| [![](https://pbs.twimg.com/media/FXw2o7MVUAA6ixU.jpg)](https://pbs.twimg.com/media/FXw2o7MVUAA6ixU.jpg) |
+| [![](/media/1548176761279508480/3_1548172448620695552.jpg)](/media/1548176761279508480/3_1548172448620695552.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -100,7 +100,7 @@ Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)
 
 [#russiaisaterrorisstate](https://twitter.com/hashtag/russiaisaterrorisstate) [#genocideofukrainians](https://twitter.com/hashtag/genocideofukrainians) [#standwithukraine](https://twitter.com/hashtag/standwithukraine)
 
-| [![](https://pbs.twimg.com/media/FXw3XRWVEAALDtZ.jpg)](https://pbs.twimg.com/media/FXw3XRWVEAALDtZ.jpg) |
+| [![](/media/1548176761279508480/3_1548173244842184704.jpg)](/media/1548176761279508480/3_1548173244842184704.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -114,7 +114,7 @@ Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)
 
 [#russiaisaterrorisstate](https://twitter.com/hashtag/russiaisaterrorisstate) [#genocideofukrainians](https://twitter.com/hashtag/genocideofukrainians) [#standwithukraine](https://twitter.com/hashtag/standwithukraine)
 
-| [![](https://pbs.twimg.com/media/FXw4cFwVEAEI5Iw.jpg)](https://pbs.twimg.com/media/FXw4cFwVEAEI5Iw.jpg) |
+| [![](/media/1548176761279508480/3_1548174427140984833.jpg)](/media/1548176761279508480/3_1548174427140984833.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -153,7 +153,7 @@ Don't worry about us, the situation is difficult, but we hanging in there, waiti
 
 🚨And from [@OSINT88](https://twitter.com/OSINT88) too, very curious to hear his view - [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1531363976658964480?s=21&t=om1spS2E24XYO_URWcjGAQ)
 
-| [![](https://pbs.twimg.com/media/FXw6YDRUYAkvjfM.jpg)](https://pbs.twimg.com/media/FXw6YDRUYAkvjfM.jpg) |
+| [![](/media/1548176761279508480/3_1548176556777824265.jpg)](/media/1548176761279508480/3_1548176556777824265.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

@@ -5,7 +5,7 @@ Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)
 
 People have been asking us for [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) merch so we are considering to appeal to the German segment of the community first.
 
-| [![](https://pbs.twimg.com/media/FYnbOqCWAAE2YnU.jpg)](https://pbs.twimg.com/media/FYnbOqCWAAE2YnU.jpg) |
+| [![](/media/1552253817646899200/3_1552012591454617601.jpg)](/media/1552253817646899200/3_1552012591454617601.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

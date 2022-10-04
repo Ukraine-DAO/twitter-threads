@@ -25,7 +25,7 @@ Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)
 
 ❗️We remain a completely independent, grassroot effort and currently focus on helping 🇺🇦 in info warfare
 
-| [![](https://pbs.twimg.com/media/FZya9yqX0AI4qp5.jpg)](https://pbs.twimg.com/media/FZya9yqX0AI4qp5.jpg) |
+| [![](/media/1557292339491741696/3_1557289957525540866.jpg)](/media/1557292339491741696/3_1557289957525540866.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

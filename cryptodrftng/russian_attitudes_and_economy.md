@@ -7,7 +7,7 @@ I want to quote [@M_Simonyan](https://twitter.com/M_Simonyan) Liar-in-Chief of [
 
 "We showed everyone what we wanted. Previously, they didn’t even want to talk to us about security, but now there is a line of people wanting admire the views of Moscow in February...
 
-| [![](https://pbs.twimg.com/media/FWQTL79XkAYCh8I.jpg)](https://pbs.twimg.com/media/FWQTL79XkAYCh8I.jpg) |
+| [![](/media/1541378142853599232/3_1541378068262129670.jpg)](/media/1541378142853599232/3_1541378068262129670.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">
@@ -23,7 +23,7 @@ I want to quote [@M_Simonyan](https://twitter.com/M_Simonyan) Liar-in-Chief of [
 
 ✨ To familiriase yourself with 🇷🇺 propaganda more, learn about [@Reuters](https://twitter.com/Reuters) [#reuterslies](https://twitter.com/hashtag/reuterslies) - [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1535384484811575296?s=21&t=mmD27MAVfSO3kdO2LgMipg)
 
-| [![](https://pbs.twimg.com/media/FWQTO0QXwAAFJGb.jpg)](https://pbs.twimg.com/media/FWQTO0QXwAAFJGb.jpg) |
+| [![](/media/1541378142853599232/3_1541378117733957632.jpg)](/media/1541378142853599232/3_1541378117733957632.jpg) |
 | :-: |
 
 <blockquote class="twitter-tweet">

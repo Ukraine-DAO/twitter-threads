@@ -9,14 +9,14 @@ Someone just sent me this and I want to throw up. They say they get targeted ads
 
 P.S. You got the hair colour wrong, that's not what Ukrainian women look like. Assholes.
 
-| [![](https://pbs.twimg.com/media/FVpss0jXsAAsSYD.jpg)](https://pbs.twimg.com/media/FVpss0jXsAAsSYD.jpg) |
+| [![](/media/1538803567930269697/3_1538661739977486336.jpg)](/media/1538803567930269697/3_1538661739977486336.jpg) |
 | :-: |
 
 [www.sofiadate.com: Build a lasting union with adorable women | SofiaDate.com](https://www.sofiadate.com/)
 
 *dies of cringe*
 
-| [![](https://pbs.twimg.com/media/FVpstM9XoAEbSbc.jpg)](https://pbs.twimg.com/media/FVpstM9XoAEbSbc.jpg) |
+| [![](/media/1538803567930269697/3_1538661746528985089.jpg)](/media/1538803567930269697/3_1538661746528985089.jpg) |
 | :-: |
 
 Since we are on this topic, sharing an example of a fragile male ego hurting from encoutering a woman who is better educated on the subject than him - humbling experience for many Western men. 

@@ -9,7 +9,7 @@ A message I receive shortly after - people are worried 😂
 
 [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow) [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine)
 
-| [![](https://pbs.twimg.com/media/FVcHbVBXsAAZLFK.jpg)](https://pbs.twimg.com/media/FVcHbVBXsAAZLFK.jpg) |
+| [![](/media/1537705983346081792/3_1537705963851067392.jpg)](/media/1537705983346081792/3_1537705963851067392.jpg) |
 | :-: |
 
 It's very funny to hear people say to each other "it's important to listen to people with different political views" when they talk about me - 99% of the things I say are supported by the vast majority of the Ukrainians I know. [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow) [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine)
