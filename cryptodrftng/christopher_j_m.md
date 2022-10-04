@@ -129,3 +129,14 @@ Must read on this
     </p>
     &mdash; <a href="https://twitter.com/GicAriana/status/1577151456507224064">Link</a>
 </blockquote>
+
+[@FT](https://twitter.com/FT) [#NAFO](https://twitter.com/hashtag/NAFO) [#NAFOArticle5](https://twitter.com/hashtag/NAFOArticle5)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Dropped a letter to @FT about the topic.<br />
+    <br />
+    I think we might also want to invoke #NAFO #NAFOarticle5 to help us to bring some attention to this shameful assignment. https://t.co/yymmizBe8b https://t.co/iufSXfzMMt<br />
+    </p>
+    &mdash; <a href="https://twitter.com/uncleLem/status/1577228522484998144">Link</a>
+</blockquote>
