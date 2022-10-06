@@ -15,3 +15,4 @@
 * [DShRG Rusich - ДШРГ Русич](rusich.md) (by [Madi Kapparov](https://twitter.com/MuKappa))
 * [Russian Imperial Movement - Русское Имперское Движениe](russian_imperial_movement.md) (by [Madi Kapparov](https://twitter.com/MuKappa))
 * [Nazism is mainstream in russia](nazism.md) (by [Madi Kapparov](https://twitter.com/MuKappa))
+* [The russians will lose this war, but I do not think it is a matter of months](russia_will_lose.md) (by [Madi Kapparov](https://twitter.com/MuKappa))

@@ -19,6 +19,7 @@ Selected Twitter threads, in a more readable shape and preserved for posterity.
   * [DShRG Rusich - ДШРГ Русич](kapparov/rusich.md) (by [Madi Kapparov](https://twitter.com/MuKappa))
   * [Russian Imperial Movement - Русское Имперское Движениe](kapparov/russian_imperial_movement.md) (by [Madi Kapparov](https://twitter.com/MuKappa))
   * [Nazism is mainstream in russia](kapparov/nazism.md) (by [Madi Kapparov](https://twitter.com/MuKappa))
+  * [The russians will lose this war, but I do not think it is a matter of months](kapparov/russia_will_lose.md) (by [Madi Kapparov](https://twitter.com/MuKappa))
 * [Threads in Ukrainian](in_ukrainian/)
   * [Soft Assimilation](in_ukrainian/soft_assimilation.md) (by [Шпіци Веселяться](https://twitter.com/garrossroland))
 * [Russian Protest Strategy](russian_protest_strategy.md) (by [Denis Zakharov](https://twitter.com/betelgeuse1922))
