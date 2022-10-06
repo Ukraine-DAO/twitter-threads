@@ -110,6 +110,10 @@ updating:
 
 	byAuthorID := map[string][]string{}
 	for id, ts := range state.Threads {
+		if ts.Tweets[0].AuthorID == "" {
+			// Broken thread
+			continue
+		}
 		byAuthorID[ts.Tweets[0].AuthorID] = append(byAuthorID[ts.Tweets[0].AuthorID], id)
 	}
 
