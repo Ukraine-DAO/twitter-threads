@@ -3,6 +3,72 @@
 Author: [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng)  
 *Links to this thread: [Twitter](https://twitter.com/cryptodrftng/status/1535421655111057408), [PingThread](https://pingthread.com/thread/1535421655111057408), [ThreadReader](https://threadreaderapp.com/thread/1535421655111057408.html), [Web Archive](https://web.archive.org/web/*/https://twitter.com/cryptodrftng/status/1535421655111057408)*
 
+Starting a 🧵 with my favourite messages that I receive from Ukraine DAO contributors and friends, this stuff deserves to be seen. 
+
+This is one of our team members replying to my "how are you?"
+
+| [![](/media/1572454265087557632/3_1535421651919282177.jpg)](/media/1572454265087557632/3_1535421651919282177.jpg) |
+| :-: |
+
+[@ndboulton](https://twitter.com/ndboulton) [#TheAlonaShow](https://twitter.com/hashtag/TheAlonaShow) 😂
+
+| [![](/media/1572454265087557632/3_1535585188977180673.jpg)](/media/1572454265087557632/3_1535585188977180673.jpg) |
+| :-: |
+
+Not entirely sure what's happening anymore on [#TheAlonaShow](https://twitter.com/hashtag/TheAlonaShow) but I'll just leave it here :)
+
+| [![](/media/1572454265087557632/3_1536693619914063875.jpg)](/media/1572454265087557632/3_1536693619914063875.jpg) |
+| :-: |
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @cryptodrftng @tiinakatariina @wowanyname4now &#34;but the Ukrainian lady has a special weapon up her sleeve that the western men weren&#39;t expecting... she pounces back with logic and reason... they weren&#39;t expecting that... most of them flee but one or two are willing to die on this hill they have built for themselves...&#34;<br />
+    </p>
+    &mdash; <a href="https://twitter.com/ndboulton/status/1535596044368728073">Link</a>
+</blockquote>
+
+[@ndboulton](https://twitter.com/ndboulton): *sends me a completed task* 
+
+[#UkraineDAOCulture](https://twitter.com/hashtag/UkraineDAOCulture) [@Ukraine_DAO](https://twitter.com/Ukraine_DAO)
+
+| [![](/media/1572454265087557632/3_1537608732770713601.jpg)](/media/1572454265087557632/3_1537608732770713601.jpg) |
+| :-: |
+
+This quote was allegedly fact-checked by Noam Chomsky who has been writing about politics since before the Ice Age and still managed to say enough in the last few months for my friend from Palestine to start hating him.
+
+| [![](/media/1572454265087557632/3_1537742530573488128.jpg)](/media/1572454265087557632/3_1537742530573488128.jpg) |
+| :-: |
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Typical &#34;whataboutism&#34;, comes up about Palestine a lot. Meanwhile, my friend who is actually from Palestine🇵🇸: https://t.co/OLhSgurDfj https://t.co/3PZaJMsi4G<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1517716682353033216">Link</a>
+</blockquote>
+
+✨ "How to Manage an English Man 101" 
+
+1️⃣ ask clear questions 
+
+2️⃣ if needed - clarify
+
+3️⃣ in case if insufficient output - clarify further 
+
+P.S. I'm sure Wandsworth is beautiful, I just haven't been there 😂
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    More stellar management skills from Ukrainians going through a genocide<br />
+    @cryptodrftng https://t.co/DJX4nJN34O<br />
+    </p>
+    &mdash; <a href="https://twitter.com/ndboulton/status/1538201652028657666">Link</a>
+</blockquote>
+
+TLDR of Twitter Spaces from a [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) contributor:
+
+| [![](/media/1572454265087557632/3_1538772743964983296.jpg)](/media/1572454265087557632/3_1538772743964983296.jpg) |
+| :-: |
+
 King [@cjhtech](https://twitter.com/cjhtech) is everywhere 🔱
 
 | [![](/media/1572454265087557632/3_1539362047955283970.jpg)](/media/1572454265087557632/3_1539362047955283970.jpg) |

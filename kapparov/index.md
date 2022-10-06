@@ -14,3 +14,4 @@
 * [On the Protests in Karakalpakstan, Uzbekistan](protests_in_karakalpakstan.md) (by [Madi Kapparov](https://twitter.com/MuKappa))
 * [DShRG Rusich - ДШРГ Русич](rusich.md) (by [Madi Kapparov](https://twitter.com/MuKappa))
 * [Russian Imperial Movement - Русское Имперское Движениe](russian_imperial_movement.md) (by [Madi Kapparov](https://twitter.com/MuKappa))
+* [Nazism is mainstream in russia](nazism.md) (by [Madi Kapparov](https://twitter.com/MuKappa))
