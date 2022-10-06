@@ -355,3 +355,8 @@ And when the war ends, it will be necessary to continue killing Ukrainians. Not 
 "and our children or grandchildren would have to pay with their lives for our short-sightedness and cowardice. Remember: Ukraine = Antirussia. ALWAYS. Do you want Russia to live? Do you want to live? Do you want your children to live? Kill Ukraine..."
 
 S: [t.me: Русское Имперское Движение](https://t.me/Rus_imperia/9915)
+
+RIM in Izyum, August 2022. RIM should be added to the list of suspects behind the mass graves found in Izyum. Source: [t.me: Русское Имперское Движение](https://t.me/Rus_imperia/10065)
+
+| [![](/media/1561818421968441346/3_1577547843614789634.jpg)](/media/1561818421968441346/3_1577547843614789634.jpg) |
+| :-: |

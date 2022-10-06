@@ -1426,3 +1426,16 @@ No words.
     </p>
     &mdash; <a href="https://twitter.com/stanekrashche/status/1575462206501797888">Link</a>
 </blockquote>
+
+122/ Kharkiv region 💔 
+
+[#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow)
+
+cc: [@elonmusk](https://twitter.com/elonmusk)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    This is the evidence found in one of the torture rooms discovered in the liberated village of #Kharkiv region. This is what russians did on the lands they thought they would occupy &#34;forever&#34;. Is this the &#39;peace&#39; that @elonmusk and other &#34;independent thinkers&#34; are vouching for? https://t.co/Jnf7wqDWTd<br />
+    </p>
+    &mdash; <a href="https://twitter.com/OlgaOfUzhhorod/status/1577357947117735937">Link</a>
+</blockquote>

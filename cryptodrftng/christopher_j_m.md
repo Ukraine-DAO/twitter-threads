@@ -140,3 +140,30 @@ Must read on this
     </p>
     &mdash; <a href="https://twitter.com/uncleLem/status/1577228522484998144">Link</a>
 </blockquote>
+
+📌
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Look, I’ll be honest with you. It hurts to see a certain western journo who pretty much built his entire career on spreading scary stories about Azov and turning them into a huge boogeyman for the entire world, as well as exaggerating the influence and role of far-right<br />
+    </p>
+    &mdash; <a href="https://twitter.com/rynkrynk/status/1577269510532259841">Link</a>
+</blockquote>
+
+📌 [@ChristopherJM](https://twitter.com/ChristopherJM)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    organisations in Ukrainian society and crying wolf about “Ukrainian Nazis” get a solid job writing for Ukraine for a large, respectable outlet (and a ton of heartfelt congratulations from people I respect). Sure, people make mistakes. But the fact that this guy has banned pretty<br />
+    </p>
+    &mdash; <a href="https://twitter.com/rynkrynk/status/1577269512470073345">Link</a>
+</blockquote>
+
+📌[@ChristopherJM](https://twitter.com/ChristopherJM)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    much ALL of Ukrainian twitter and hasn’t even once admitted that his fear-mongering has helped Russian propaganda AND put the defenders of Azovstal into huge danger and robbed them of the support they deserved… I can’t and won’t get over it. Sorry.<br />
+    </p>
+    &mdash; <a href="https://twitter.com/rynkrynk/status/1577269514588147714">Link</a>
+</blockquote>

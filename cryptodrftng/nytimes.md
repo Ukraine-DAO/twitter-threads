@@ -138,3 +138,32 @@ Never happened before with [@nytimes](https://twitter.com/nytimes) and here we g
     </p>
     &mdash; <a href="https://twitter.com/IlvesToomas/status/1564133067400380418">Link</a>
 </blockquote>
+
+Never happened before and here we go again 🤢
+
+[@nytimes](https://twitter.com/nytimes) [#UKDFactCheck](https://twitter.com/hashtag/UKDFactCheck) [@Ukraine_DAO](https://twitter.com/Ukraine_DAO)
+
+| [![](/media/1564220899800276992/3_1577753004891160647.jpg)](/media/1564220899800276992/3_1577753004891160647.jpg) |
+| :-: |
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    У NYT вийшла стаття, де анонімні джерела стверджують,що розвідувальні відомства  США надали їх владі звіт,згідно з яким підрив авто даші дугіної був операцією українських спецслужб.<br />
+    <br />
+    Автори неприховано це засуджують,повторюючи на різний лад два аргументи,які не витримують критики<br />
+    </p>
+    &mdash; <a href="https://twitter.com/OKhudetska/status/1577718915698159616">Link</a>
+</blockquote>
+
+💬 "Mr. Ponomarev claimed to be in contact with the National Republican Army and was aware of the operation against Ms. Dugina several hours before it occurred."
+
+- So did I, lol 
+
+[#UKDMemes](https://twitter.com/hashtag/UKDMemes) [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) (🇺🇦, 🇺🇦)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    She was warned… 🚬🤣 @ohrwurm_AT #UKDMemes @Ukraine_DAO #бавовна https://t.co/d18ayKa8UX<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1561158448246657025">Link</a>
+</blockquote>
