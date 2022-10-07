@@ -167,3 +167,16 @@ Never happened before and here we go again 🤢
     </p>
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1561158448246657025">Link</a>
 </blockquote>
+
+Rare good news in this 🧵 
+
+[#NobelPeacePrice2022](https://twitter.com/hashtag/NobelPeacePrice2022) [@nytimes](https://twitter.com/nytimes)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    ✅ This may also be the first recorded in human history case of @nytimes understanding Ukraine&#39;s scepticism about anything. <br />
+    <br />
+    Thanks @nytimes! https://t.co/EHpbVH3EDy<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1578467525712805889">Link</a>
+</blockquote>
