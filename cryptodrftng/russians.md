@@ -1439,3 +1439,14 @@ cc: [@elonmusk](https://twitter.com/elonmusk)
     </p>
     &mdash; <a href="https://twitter.com/OlgaOfUzhhorod/status/1577357947117735937">Link</a>
 </blockquote>
+
+123/ Lyman 💔
+
+[#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Freed Lyman in Donetsk region. A mass grave was found here, in which 180 people were buried. Whole families lie in mass graves, there are burials of children born in 2019-2021. https://t.co/R2YQSdd67o<br />
+    </p>
+    &mdash; <a href="https://twitter.com/James67809768/status/1578440706544513025">Link</a>
+</blockquote>

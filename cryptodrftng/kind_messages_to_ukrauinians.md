@@ -870,3 +870,14 @@ I'm just going to leave this here 😂
     </p>
     &mdash; <a href="https://twitter.com/kell93150987/status/1577293673615736832">Link</a>
 </blockquote>
+
+Thank you, [@abstractedaway](https://twitter.com/abstractedaway) 🥺
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @cryptodrftng You get attacked for speaking truth by those whose hearsay has a trail that ultimately leads to rubles.<br />
+    <br />
+    Thank you for all you do for the movement despite all gaslighting nonsense.  Keep inspiring others to what they&#39;re able to do, too!<br />
+    </p>
+    &mdash; <a href="https://twitter.com/abstractedaway/status/1578560630067724288">Link</a>
+</blockquote>
