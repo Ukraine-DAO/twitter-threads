@@ -1407,3 +1407,12 @@ Why do you keep Germany-bashing like there's a genocide happening or something??
     </p>
     &mdash; <a href="https://twitter.com/Uliana_IN/status/1576241780747825154">Link</a>
 </blockquote>
+
+122/ In 🇩🇪!
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    &#34;Gaslighting is when the temperature drops below 18 degrees&#34; - @cryptodrftng<br />
+    </p>
+    &mdash; <a href="https://twitter.com/ndboulton/status/1578993679205031937">Link</a>
+</blockquote>
