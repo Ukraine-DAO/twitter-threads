@@ -159,6 +159,8 @@ type Tweet struct {
 	Entities         Entities          `json:"entities,omitempty"`
 	Attachments      Attachments       `json:"attachments,omitempty"`
 	Includes         TweetIncludes     `json:"includes,omitempty"`
+	CreatedAt        string            `json:"created_at,omitempty"`
+	InReplyToUserID  string            `json:"in_reply_to_user_id,omitempty"`
 
 	RequestConfig common.RequestConfig `json:",omitempty"`
 }
