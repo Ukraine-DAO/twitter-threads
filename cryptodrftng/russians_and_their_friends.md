@@ -906,3 +906,12 @@ JFC, they are really all the same.
     </p>
     &mdash; <a href="https://twitter.com/SofiOksanen/status/1576997435821285377">Link</a>
 </blockquote>
+
+[#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F) early stages
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Meanwhile in Russia https://t.co/fEgqYqmvoj<br />
+    </p>
+    &mdash; <a href="https://twitter.com/golub/status/1579219337122283520">Link</a>
+</blockquote>

@@ -1450,3 +1450,31 @@ cc: [@elonmusk](https://twitter.com/elonmusk)
     </p>
     &mdash; <a href="https://twitter.com/James67809768/status/1578440706544513025">Link</a>
 </blockquote>
+
+124/ Zaporizhzhia 💔 
+
+russia will cease to exist for all of this. 
+
+[#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    A third apartment building has been hit in Zaporizhzhia. That&#39;s 3 collapsed buildings in 4 days. https://t.co/4RZLeikVV0<br />
+    </p>
+    &mdash; <a href="https://twitter.com/alinavictoriaw/status/1579274526348935168">Link</a>
+</blockquote>
+
+125/ Zaporizhzhia 💔
+
+[@maksymeristavi](https://twitter.com/maksymeristavi) обняла обняла обняла 🫂❤️‍🩹 
+
+росії не існуватиме.
+
+[#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    another night of genocide in my home city zaporizhia in southern ukraine. https://t.co/eMNMP0qpzB<br />
+    </p>
+    &mdash; <a href="https://twitter.com/maksymeristavi/status/1579281976129126401">Link</a>
+</blockquote>
