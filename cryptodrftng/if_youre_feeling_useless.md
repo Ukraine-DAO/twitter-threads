@@ -1416,3 +1416,28 @@ Why do you keep Germany-bashing like there's a genocide happening or something??
     </p>
     &mdash; <a href="https://twitter.com/ndboulton/status/1578993679205031937">Link</a>
 </blockquote>
+
+123/ "Ніколи  такого не було і от знову"
+
+[#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0) 😒
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    #BREAKING German cyber security chief to be sacked after alleged Russia ties https://t.co/hsydkDs1G5<br />
+    </p>
+    &mdash; <a href="https://twitter.com/AFP/status/1579390800110448640">Link</a>
+</blockquote>
+
+124/ Interesting detail: 
+
+📌 When you see all that nonsense about "Ukrainian Nazis" online, a lot of the time most of that signal is coming from Germany. 
+
+This isn't from the article, it's just what I know from the folks studying 🇷🇺 disinfo on social media.
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Germany&#39;s cyber security agency chief is facing the sack over alleged ties with Russian intelligence services, government sources told AFP on Monday, amid heightened vigilance over potential sabotage activities by Moscow.<br />
+    https://t.co/eidZ2Gea2m<br />
+    </p>
+    &mdash; <a href="https://twitter.com/AFP/status/1579486924061822976">Link</a>
+</blockquote>
