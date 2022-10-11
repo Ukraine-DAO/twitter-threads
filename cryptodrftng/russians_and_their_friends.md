@@ -915,3 +915,21 @@ JFC, they are really all the same.
     </p>
     &mdash; <a href="https://twitter.com/golub/status/1579219337122283520">Link</a>
 </blockquote>
+
+[#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F) знов нуждаєтся в паддєржкє
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    кагда ва вкусвіллє больше нєт любімово лавандового латте на альтернатівном https://t.co/ZDtyF2Jy23<br />
+    </p>
+    &mdash; <a href="https://twitter.com/N0K1V/status/1579441598555107328">Link</a>
+</blockquote>
+
+[@N0K1V](https://twitter.com/N0K1V) чого ви насміхаєтесь?? А раптом там взагалі бариста налив кокосове молоко замість мигдального?! 💔💔💔💔💔💔
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    коротко о моем состоянии https://t.co/L10PDD0qzN<br />
+    </p>
+    &mdash; <a href="https://twitter.com/sheremyova/status/1572558155628032001">Link</a>
+</blockquote>

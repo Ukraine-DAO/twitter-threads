@@ -1441,3 +1441,32 @@ This isn't from the article, it's just what I know from the folks studying 🇷�
     </p>
     &mdash; <a href="https://twitter.com/AFP/status/1579486924061822976">Link</a>
 </blockquote>
+
+125/ Posted with no comment. [#germany](https://twitter.com/hashtag/germany)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    German far-right screaming &#34;Nazis out&#34; and &#34;piss of you pigs, you live on our benefits&#34; at Ukrainian demo in Leipzig https://t.co/iatzGy4cSk<br />
+    </p>
+    &mdash; <a href="https://twitter.com/derJamesJackson/status/1579603423179460608">Link</a>
+</blockquote>
+
+126/ [#germany](https://twitter.com/hashtag/germany) "German far-right screaming "Nazis out" and "piss of you pigs, you live on our benefits" at Ukrainian demo in Leipzig"
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    2014 Den Ukrainer*innen wird „Nazis raus“ und „Ihr Schweine verpisst euch, ihr lebt auf unsere Kosten“ entgegen geschrieen. #le1010 https://t.co/tx4KG1YJsm<br />
+    </p>
+    &mdash; <a href="https://twitter.com/marcoIsantos/status/1579536357458063360">Link</a>
+</blockquote>
+
+127/ [#germany](https://twitter.com/hashtag/germany)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    This harassment is a widespread phenomenon across Germany, as I reported for @Euronews, with a lot of it coming from Russians and Russian-Germans<br />
+    <br />
+    https://t.co/5rJZ3VWJD0<br />
+    </p>
+    &mdash; <a href="https://twitter.com/derJamesJackson/status/1579758038432436225">Link</a>
+</blockquote>
