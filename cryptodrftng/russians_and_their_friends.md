@@ -933,3 +933,29 @@ JFC, they are really all the same.
     </p>
     &mdash; <a href="https://twitter.com/sheremyova/status/1572558155628032001">Link</a>
 </blockquote>
+
+✨russian air defense system Pancer S fires a missile into its own residential building. 
+
+✨afterwards firemen come and run over an old lady.
+
+
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    One of the most &#34;russia moment&#34; so far:<br />
+    russian air defense system Pancer S fired a missile into it&#39;s own residential building. Afterwards firemen came and runover the old lady.<br />
+    🤡🤡🤡 https://t.co/qV1rmoFCOy<br />
+    </p>
+    &mdash; <a href="https://twitter.com/yurapalyanytsia/status/1580536092876734466">Link</a>
+</blockquote>
+
+✨ [#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F)  ✨
+
+
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    https://t.co/KL4GIa4sgn<br />
+    </p>
+    &mdash; <a href="https://twitter.com/yurapalyanytsia/status/1580536285462401025">Link</a>
+</blockquote>
