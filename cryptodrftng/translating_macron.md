@@ -175,3 +175,8 @@ Translation: "Emmanuel Macron loses all credibility because of worrying too much
     </p>
     &mdash; <a href="https://twitter.com/HEtnunc/status/1562918346571632640">Link</a>
 </blockquote>
+
+"Si tu veux connaître quelqu'un, n'écoute pas ce qu'il dit mais regarde ce qu'il fait."
+
+| [![](/media/1563422043311288321/3_1580509691460952064.jpg)](/media/1563422043311288321/3_1580509691460952064.jpg) |
+| :-: |

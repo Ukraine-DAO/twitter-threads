@@ -1470,3 +1470,17 @@ This isn't from the article, it's just what I know from the folks studying 🇷�
     </p>
     &mdash; <a href="https://twitter.com/derJamesJackson/status/1579758038432436225">Link</a>
 </blockquote>
+
+128/ [#GermanyIsCompromised](https://twitter.com/hashtag/GermanyIsCompromised)
+
+What a surprise. I mean, who could've thought? 🥲
+
+cc: [@berlin_bridge](https://twitter.com/berlin_bridge) 🫂
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Remember the 🇩🇪 IT company @janboehm revealed is a russian company founded by an ex-KGB agent? I spoke w/ cybersecurity experts about it &amp; yes, it gets worse.<br />
+    🚨 #Protelion had opportunity to compromise every company that used their software &amp; give Moscow access to their network https://t.co/k6e2mJCEDo<br />
+    </p>
+    &mdash; <a href="https://twitter.com/berlin_bridge/status/1580309548748791808">Link</a>
+</blockquote>
