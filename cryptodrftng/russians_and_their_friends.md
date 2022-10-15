@@ -959,3 +959,29 @@ JFC, they are really all the same.
     </p>
     &mdash; <a href="https://twitter.com/yurapalyanytsia/status/1580536285462401025">Link</a>
 </blockquote>
+
+[#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F) baby military uniform 🧸
+
+“Дєті - не для політікі!
+
+Дєті - для войни!”
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Sorry, is it just me or this is a little weird? https://t.co/dS1PGjjNle<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1581129382344937473">Link</a>
+</blockquote>
+
+💬 cybersoroka: “Kids military form was found on liberated Kherson territories.. 🫠” 
+
+[#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    СБУ: в обмін за голоси на псевдореферендумі рашисти пропонували людям «військову форму» на дітей<br />
+    <br />
+    ➡️ https://t.co/8AGh8qPx4v https://t.co/EDsRwNdc83<br />
+    </p>
+    &mdash; <a href="https://twitter.com/ServiceSsu/status/1581178855477620737">Link</a>
+</blockquote>
