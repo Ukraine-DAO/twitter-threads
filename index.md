@@ -22,6 +22,7 @@ Selected Twitter threads, in a more readable shape and preserved for posterity.
   * [The russians will lose this war, but I do not think it is a matter of months](kapparov/russia_will_lose.md) (by [Madi Kapparov](https://twitter.com/MuKappa))
 * [Threads in Ukrainian](in_ukrainian/)
   * [Soft Assimilation](in_ukrainian/soft_assimilation.md) (by [Шпіци Веселяться](https://twitter.com/garrossroland))
+  * [Йобана русня розстрілювала цивільні автівки на Київщині](in_ukrainian/civilian_cars_shot_by_russians.md) (by [Ей, Маріє](https://twitter.com/horbanka))
 * [Russian Protest Strategy](russian_protest_strategy.md) (by [Denis Zakharov](https://twitter.com/betelgeuse1922))
 * [Denis Vs Pussy Riot](denis_vs_pussy_riot.md) (by [Denis Zakharov](https://twitter.com/betelgeuse1922))
 * [Xenia Sobchak](xenia_sobchak.md) (by [Denis Zakharov](https://twitter.com/betelgeuse1922))
