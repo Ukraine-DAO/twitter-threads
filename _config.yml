@@ -1,3 +1,8 @@
+title: Ukraine DAO Twitter threads
+tagline: Important Twitter threads selected by Ukraine DAO contributors
+twitter:
+  username: Ukraine_DAO
+
 theme: jekyll-theme-midnight
 markdown: gfm
 plugins:
