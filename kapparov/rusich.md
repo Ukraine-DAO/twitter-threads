@@ -162,3 +162,21 @@ Rusich calls for “carpet bombings of residential areas of Kyiv, Lviv, Vinnitsa
 
 | [![](/media/1570714344899645444/3_1570714340315086850.jpg)](/media/1570714344899645444/3_1570714340315086850.jpg) |
 | :-: |
+
+The old Rusich Telegram channel closed in early September. The new one ([t.me: ДШРГ Русич](https://t.me/dshrg2)) was started on September 23.
+
+On October 25 Rusich posted their desires of the measures to be taken in Ukraine ([t.me: ДШРГ Русич](https://t.me/dshrg2/241)):
+
+"In general, we believe that everyone, primarily the non-white population of Ukraine (females older than 10 years, and males 5) should be physically destroyed...
+
+| [![](/media/1570714344899645444/3_1584973154274971678.jpg)](/media/1570714344899645444/3_1584973154274971678.jpg) |
+| :-: |
+
+"...(part through scientific experiments). The remaining boys should be raised as Janissaries in the military service of russia, and the girls, after completing the courses for diligent wives and with passports of non-citizens of the russian federation (no civil rights,...
+
+"...except that one cannot torture, kill, and sell them, while their children should be fully fledged citizens) - will be given to ethnic russian soldiers 2-3 pieces per person. The bl*ckies can be distributed to ethnic non-russians, but only those who fought for russia...
+
+"And that's how the demographic problem is resolved.
+
+All the property of former Ukraine must also be divided among the soldiers.
+The soldiers must be compensated for their risks in the war, and the measly 200k per month (not much can be bought) is not very motivating."
