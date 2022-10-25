@@ -591,3 +591,6 @@ root:
   on_kama_and_russian_tactics:
     thread_id: 1581690037929799680
     title: On attack against Kama and russian media tactics
+  dont_trust_russians_to_translate:
+    thread_id: 1584921710058475524
+    title: "Don't trust russians to serve as translators"
