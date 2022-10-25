@@ -28,3 +28,4 @@ Selected Twitter threads, in a more readable shape and preserved for posterity.
 * [Xenia Sobchak](xenia_sobchak.md) (by [Denis Zakharov](https://twitter.com/betelgeuse1922))
 * [Russians In Ireland](russians_in_ireland.md) (by [Anton Dykyi 🇺🇦 🇬🇧](https://twitter.com/AntonDykyi))
 * [On attack against Kama and russian media tactics](on_kama_and_russian_tactics.md) (by [Fellafucius](https://twitter.com/Slushy_buck))
+* [Don't trust russians to serve as translators](dont_trust_russians_to_translate.md) (by [Ketkin](https://twitter.com/Ketkin_biophys))
