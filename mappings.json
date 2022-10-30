@@ -80,10 +80,11 @@
       ]
     },
     "1517686612167217153": {
-      "Name": "cryptodrftng/me/twitter_block_for_12_hours",
+      "Name": "cryptodrftng/personal/twitter_block_for_12_hours",
       "OldNames": [
         "twitter_block_for_12_hours",
-        "cryptodrftng/twitter_block_for_12_hours"
+        "cryptodrftng/twitter_block_for_12_hours",
+        "cryptodrftng/me/twitter_block_for_12_hours"
       ]
     },
     "1519100644849770497": {
@@ -347,7 +348,10 @@
       "Name": "cryptodrftng/ukraine_dao/what_is_ukraine_dao"
     },
     "1533934344854814720": {
-      "Name": "cryptodrftng/me/life_with_diabetis"
+      "Name": "cryptodrftng/personal/life_with_diabetis",
+      "OldNames": [
+        "cryptodrftng/me/life_with_diabetis"
+      ]
     },
     "1533944022997286912": {
       "Name": "kapparov/fate_of_russia_1"
@@ -380,13 +384,19 @@
       ]
     },
     "1535331245839855616": {
-      "Name": "cryptodrftng/me/harassment_from_hansworldtravls"
+      "Name": "cryptodrftng/personal/harassment_from_hansworldtravls",
+      "OldNames": [
+        "cryptodrftng/me/harassment_from_hansworldtravls"
+      ]
     },
     "1535421655111057408": {
       "Name": "cryptodrftng/ukraine_dao/messages_from_contributors"
     },
     "1535427049954869249": {
-      "Name": "cryptodrftng/me/telling_about_russia_since_2014"
+      "Name": "cryptodrftng/personal/telling_about_russia_since_2014",
+      "OldNames": [
+        "cryptodrftng/me/telling_about_russia_since_2014"
+      ]
     },
     "1535523020072177669": {
       "Name": "cryptodrftng/mental_health",
@@ -408,19 +418,31 @@
       "Name": "cryptodrftng/why_i_hate_everything_russian"
     },
     "1536432034796777472": {
-      "Name": "cryptodrftng/me/day_110"
+      "Name": "cryptodrftng/personal/day_110",
+      "OldNames": [
+        "cryptodrftng/me/day_110"
+      ]
     },
     "1536484260546236419": {
       "Name": "cryptodrftng/brief_history_of_russia"
     },
     "1536515388330192896": {
-      "Name": "cryptodrftng/me/being_compared_to_russians"
+      "Name": "cryptodrftng/personal/being_compared_to_russians",
+      "OldNames": [
+        "cryptodrftng/me/being_compared_to_russians"
+      ]
     },
     "1536615572229832704": {
-      "Name": "cryptodrftng/me/unsolicited_advice"
+      "Name": "cryptodrftng/personal/unsolicited_advice",
+      "OldNames": [
+        "cryptodrftng/me/unsolicited_advice"
+      ]
     },
     "1536647919851511810": {
-      "Name": "cryptodrftng/me/germanys_support"
+      "Name": "cryptodrftng/personal/germanys_support",
+      "OldNames": [
+        "cryptodrftng/me/germanys_support"
+      ]
     },
     "1536831681105207302": {
       "Name": "cryptodrftng/roman_ratushny"
@@ -429,7 +451,10 @@
       "Name": "cryptodrftng/volodymyr_demchenko"
     },
     "1537556687237832705": {
-      "Name": "cryptodrftng/me/speaking_with_ahmed_ghappour"
+      "Name": "cryptodrftng/personal/speaking_with_ahmed_ghappour",
+      "OldNames": [
+        "cryptodrftng/me/speaking_with_ahmed_ghappour"
+      ]
     },
     "1537662578268295170": {
       "Name": "cryptodrftng/ukraine_dao/on_twitter_lists"
@@ -441,13 +466,19 @@
       "Name": "cryptodrftng/ukraine_dao/disclosure"
     },
     "1537705968548593665": {
-      "Name": "cryptodrftng/me/joining_space_without_shitstorm"
+      "Name": "cryptodrftng/personal/joining_space_without_shitstorm",
+      "OldNames": [
+        "cryptodrftng/me/joining_space_without_shitstorm"
+      ]
     },
     "1537715389286735872": {
       "Name": "cryptodrftng/reuters/looking_for_reuters_lies"
     },
     "1537747654741999619": {
-      "Name": "cryptodrftng/me/palestine"
+      "Name": "cryptodrftng/personal/palestine",
+      "OldNames": [
+        "cryptodrftng/me/palestine"
+      ]
     },
     "1538256417567690752": {
       "Name": "cryptodrftng/ukrainian_newspapers"
@@ -456,16 +487,25 @@
       "Name": "cryptodrftng/arming_ukraine_is_everyones_interest"
     },
     "1538595430958759937": {
-      "Name": "cryptodrftng/me/jelacee"
+      "Name": "cryptodrftng/personal/jelacee",
+      "OldNames": [
+        "cryptodrftng/me/jelacee"
+      ]
     },
     "1538618555196919808": {
-      "Name": "cryptodrftng/me/londongrad"
+      "Name": "cryptodrftng/personal/londongrad",
+      "OldNames": [
+        "cryptodrftng/me/londongrad"
+      ]
     },
     "1538661743811080194": {
       "Name": "cryptodrftng/sofiadate"
     },
     "1538677294121857030": {
-      "Name": "cryptodrftng/me/diabetis"
+      "Name": "cryptodrftng/personal/diabetis",
+      "OldNames": [
+        "cryptodrftng/me/diabetis"
+      ]
     },
     "1538680416583950336": {
       "Name": "cryptodrftng/language_in_journalism"
@@ -480,7 +520,10 @@
       "Name": "cryptodrftng/russia_is_xenophobia"
     },
     "1538796435793137665": {
-      "Name": "cryptodrftng/me/boxing"
+      "Name": "cryptodrftng/personal/boxing",
+      "OldNames": [
+        "cryptodrftng/me/boxing"
+      ]
     },
     "1538863150656897024": {
       "Name": "kapparov/fate_of_russia_3"
@@ -489,19 +532,31 @@
       "Name": "cryptodrftng/ukraine_dao/interview_with_padraig_belton"
     },
     "1539154575902576641": {
-      "Name": "cryptodrftng/me/skydiving"
+      "Name": "cryptodrftng/personal/skydiving",
+      "OldNames": [
+        "cryptodrftng/me/skydiving"
+      ]
     },
     "1539707388831436808": {
-      "Name": "cryptodrftng/me/namecalling_by_ukraine_supporters"
+      "Name": "cryptodrftng/personal/namecalling_by_ukraine_supporters",
+      "OldNames": [
+        "cryptodrftng/me/namecalling_by_ukraine_supporters"
+      ]
     },
     "1539737090266636288": {
       "Name": "cryptodrftng/reuters/difference_betweet_trf_and_trc"
     },
     "1539806708473729024": {
-      "Name": "cryptodrftng/me/pet_story"
+      "Name": "cryptodrftng/personal/pet_story",
+      "OldNames": [
+        "cryptodrftng/me/pet_story"
+      ]
     },
     "1539815975981285376": {
-      "Name": "cryptodrftng/me/previous_career"
+      "Name": "cryptodrftng/personal/previous_career",
+      "OldNames": [
+        "cryptodrftng/me/previous_career"
+      ]
     },
     "1539844578152415232": {
       "Name": "cryptodrftng/snopes_sucks"
@@ -522,7 +577,10 @@
       "Name": "cryptodrftng/cultural_offensive"
     },
     "1540740954830696449": {
-      "Name": "cryptodrftng/me/recommended_artist"
+      "Name": "cryptodrftng/personal/recommended_artist",
+      "OldNames": [
+        "cryptodrftng/me/recommended_artist"
+      ]
     },
     "1540753664729423872": {
       "Name": "cryptodrftng/russian_orthodox_church"
@@ -558,7 +616,10 @@
       "Name": "cryptodrftng/fundraiser"
     },
     "1543632876859756544": {
-      "Name": "cryptodrftng/me/my_family"
+      "Name": "cryptodrftng/personal/my_family",
+      "OldNames": [
+        "cryptodrftng/me/my_family"
+      ]
     },
     "1544650556794355712": {
       "Name": "kapparov/protests_in_karakalpakstan"
@@ -570,7 +631,10 @@
       "Name": "cryptodrftng/ukraine_dao/about_ukraine_dao_2"
     },
     "1545490922854555648": {
-      "Name": "cryptodrftng/me/writing_skills"
+      "Name": "cryptodrftng/personal/writing_skills",
+      "OldNames": [
+        "cryptodrftng/me/writing_skills"
+      ]
     },
     "1546124595715084289": {
       "Name": "cryptodrftng/russian_orthodox_church_2"
@@ -591,7 +655,10 @@
       "Name": "cryptodrftng/genocide_and_deaf_ears"
     },
     "1548006799042703365": {
-      "Name": "cryptodrftng/me/history_of_supporting_ukraine"
+      "Name": "cryptodrftng/personal/history_of_supporting_ukraine",
+      "OldNames": [
+        "cryptodrftng/me/history_of_supporting_ukraine"
+      ]
     },
     "1548162430445899776": {
       "Name": "cryptodrftng/occupied_kherson"
@@ -603,7 +670,10 @@
       "Name": "cryptodrftng/how_to_support_ukrainians"
     },
     "1548989043349807105": {
-      "Name": "cryptodrftng/me/work_ethic"
+      "Name": "cryptodrftng/personal/work_ethic",
+      "OldNames": [
+        "cryptodrftng/me/work_ethic"
+      ]
     },
     "1549196168391016458": {
       "Name": "cryptodrftng/russians_and_their_friends"
@@ -648,13 +718,19 @@
       "Name": "cryptodrftng/ukraine_dao/twitter_suspension"
     },
     "1556046124087218176": {
-      "Name": "cryptodrftng/me/viktor_grudakov"
+      "Name": "cryptodrftng/personal/viktor_grudakov",
+      "OldNames": [
+        "cryptodrftng/me/viktor_grudakov"
+      ]
     },
     "1556052404319277057": {
       "Name": "cryptodrftng/twitters_suspension_policies"
     },
     "1556063055074791425": {
-      "Name": "cryptodrftng/me/kseniia"
+      "Name": "cryptodrftng/personal/kseniia",
+      "OldNames": [
+        "cryptodrftng/me/kseniia"
+      ]
     },
     "1556079306748706817": {
       "Name": "cryptodrftng/conversation_with_ferlain"
@@ -663,10 +739,16 @@
       "Name": "cryptodrftng/words_missing_in_svynosobacha"
     },
     "1556955086181498880": {
-      "Name": "cryptodrftng/me/how_to_support_me"
+      "Name": "cryptodrftng/personal/how_to_support_me",
+      "OldNames": [
+        "cryptodrftng/me/how_to_support_me"
+      ]
     },
     "1557036491121086468": {
-      "Name": "cryptodrftng/me/the_only_time_i_cried"
+      "Name": "cryptodrftng/personal/the_only_time_i_cried",
+      "OldNames": [
+        "cryptodrftng/me/the_only_time_i_cried"
+      ]
     },
     "1557108429193461761": {
       "Name": "cryptodrftng/ukraine_dao/tankgirljunkie",
@@ -700,13 +782,19 @@
       "Name": "cryptodrftng/ukraine_dao/deeparocks_on_ukraine_dao"
     },
     "1557802256564625410": {
-      "Name": "cryptodrftng/me/martial_arts"
+      "Name": "cryptodrftng/personal/martial_arts",
+      "OldNames": [
+        "cryptodrftng/me/martial_arts"
+      ]
     },
     "1557822824169046016": {
       "Name": "cryptodrftng/germans_are_wrong"
     },
     "1557838213762486273": {
-      "Name": "cryptodrftng/me/why_alona_tweets"
+      "Name": "cryptodrftng/personal/why_alona_tweets",
+      "OldNames": [
+        "cryptodrftng/me/why_alona_tweets"
+      ]
     },
     "1558059816450306048": {
       "Name": "cryptodrftng/ukraine_dao/nafo"
@@ -730,10 +818,16 @@
       "Name": "cryptodrftng/pussyriot_3"
     },
     "1559102257253187593": {
-      "Name": "cryptodrftng/me/about_denis"
+      "Name": "cryptodrftng/personal/about_denis",
+      "OldNames": [
+        "cryptodrftng/me/about_denis"
+      ]
     },
     "1559728478513238016": {
-      "Name": "cryptodrftng/me/throwback_to_2014"
+      "Name": "cryptodrftng/personal/throwback_to_2014",
+      "OldNames": [
+        "cryptodrftng/me/throwback_to_2014"
+      ]
     },
     "1559855017498124288": {
       "Name": "cryptodrftng/ukraine_dao/interview_with_cryptovladzia"
