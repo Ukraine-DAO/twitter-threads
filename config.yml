@@ -120,9 +120,9 @@ root:
             thread_id: 1539737337298575362 # 145
             title: "Difference between TRF and TRC"
 
-        me:
+        personal:
           title: About Alona
-          description: Threads about Alona
+          description: Threads with background info
           config:
             collapse_in_parent: true
           twitter_block_for_12_hours: 1517686615174434816 # 37
