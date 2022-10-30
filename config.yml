@@ -8,104 +8,6 @@ root:
       config:
         collapse_in_parent: true
       subdirs:
-        me:
-          title: About me
-          description: Threads about myself
-          twitter_block_for_12_hours: 1517686615174434816 # 37
-          life_with_diabetis:
-            thread_id: 1562754475773034497 # 92
-            title: Alona\'s Life with Type 1 Diabetes
-          harassment_from_hansworldtravls:
-            thread_id: 1535501202888204289 # 103
-            title: "@HansWorldTravls / @Ukrainesgrains continued abuse & harrassment."
-          telling_about_russia_since_2014:
-            thread_id: 1535449404387336195 # 107
-            title: About trying to tell people since 2014 that russia is a fascist state
-          day_110:
-            thread_id: 1538711565825888258 # 112
-            title: "Day 110. Over eight years of convincing the world about what is really happening in Ukraine"
-          being_compared_to_russians:
-            thread_id: 1560439482603769859 # 115
-            title: "Occasion no. 37489273 of me being accused of being as bad as the ruscists committing #GenocideOfUkrainians"
-          unsolicited_advice:
-            thread_id: 1536620780603297793 # 116
-            title: "⚡️UNSOLICITED ADIVCE TO UKRAINIANS ⚡️ "
-          germanys_support:
-            thread_id: 1536647930005831680 # 117
-            title: "Germany’s support for Ukraine…"
-          speaking_with_ahmed_ghappour:
-            thread_id: 1537569955721449472 # 120
-            title: "Speaking with Ahmed Ghappour"
-          joining_space_without_shitstorm:
-            thread_id: 1537705983346081792 # 128
-            title: "Alona managed to join a space without causing a Twitter shitstorm"
-          palestine:
-            thread_id: 1537748304049672192 # 130
-            title: "Ukrainians being told they didn’t care about Palestine"
-          jelacee:
-            thread_id: 1548808938090528771 # 133
-            title: "A thread about one of Alona’s best friends Jelacee"
-          londongrad:
-            thread_id: 1570912187283308544 # 134
-            title: "A thread about Londongrad"
-          diabetis:
-            thread_id: 1538677301147316226 # 136
-            title: "The struggles of being diagnosed with Type-1 Diabetes at age 26"
-          boxing:
-            thread_id: 1538796493586501633 # 141
-            title: "✨ Indija / boxing"
-          skydiving:
-            thread_id: 1539185134435434498 # 143
-            title: "Day 118 - let’s end russia faster and go sky-diving"
-          namecalling_by_ukraine_supporters:
-            thread_id: 1539715880451448833 # 144
-            title: "A very outdated and incomplete list of things Alona has been recently called by Ukraine's \"supporters\""
-          pet_story:
-            thread_id: 1539806713318096898 # 146
-            title: "Favourite pet story"
-          previous_career:
-            thread_id: 1539815983791357952 # 147
-            title: "Alona’s reviews in her previous career"
-          recommended_artist:
-            thread_id: 1540740976414785541 # 166
-            title: "My recommended artist"
-          my_family:
-            thread_id: 1543635869843787779 # 179
-            title: "My family post full-scale russian invasion of Ukraine"
-          writing_skills:
-            thread_id: 1545493580575285251 # 182
-            title: "A thread on the writing skills"
-          work_ethic:
-            thread_id: 1549061711092715523 # 193
-            title: "Alona’s work ethic"
-          history_of_supporting_ukraine:
-            thread_id: 1548030808627089408 # 197
-            title: "Alona’s history supporting Ukraine"
-          viktor_grudakov:
-            thread_id: 1556047694417858577 # 210
-            title: "A thread on Viktor Grudakov and his ZSU design"
-          kseniia:
-            thread_id: 1556063235308396545 # 212
-            title: "A short thread on Alona’s friend, Kseniia"
-          how_to_support_me:
-            thread_id: 1558923045682790403 # 215
-            title: "What does Alona do and how can you support her work"
-          the_only_time_i_cried:
-            thread_id: 1557037596160712704 # 216
-            title: "The only time Alona cried"
-          martial_arts:
-            thread_id: 1557818242026151938 # 226
-            title: "Alona’s training in martial arts"
-          why_alona_tweets:
-            thread_id: 1557838455413129219 # 228
-            title: "Why Alona tweets"
-          about_denis:
-            thread_id: 1559102710217166848 # 236
-            title: "A mini-thread about Denis @betelgeuse1922"
-          throwback_to_2014:
-            thread_id: 1559766867652345856 # 237
-            title: "Throwback to 2014"
-
         ukraine_dao:
           title: Ukraine DAO
           description: Threads about Ukraine DAO
@@ -217,6 +119,106 @@ root:
           difference_betweet_trf_and_trc:
             thread_id: 1539737337298575362 # 145
             title: "Difference between TRF and TRC"
+
+        me:
+          title: About Alona
+          description: Threads about Alona
+          config:
+            collapse_in_parent: true
+          twitter_block_for_12_hours: 1517686615174434816 # 37
+          life_with_diabetis:
+            thread_id: 1562754475773034497 # 92
+            title: Alona\'s Life with Type 1 Diabetes
+          harassment_from_hansworldtravls:
+            thread_id: 1535501202888204289 # 103
+            title: "@HansWorldTravls / @Ukrainesgrains continued abuse & harrassment."
+          telling_about_russia_since_2014:
+            thread_id: 1535449404387336195 # 107
+            title: About trying to tell people since 2014 that russia is a fascist state
+          day_110:
+            thread_id: 1538711565825888258 # 112
+            title: "Day 110. Over eight years of convincing the world about what is really happening in Ukraine"
+          being_compared_to_russians:
+            thread_id: 1560439482603769859 # 115
+            title: "Occasion no. 37489273 of me being accused of being as bad as the ruscists committing #GenocideOfUkrainians"
+          unsolicited_advice:
+            thread_id: 1536620780603297793 # 116
+            title: "⚡️UNSOLICITED ADIVCE TO UKRAINIANS ⚡️ "
+          germanys_support:
+            thread_id: 1536647930005831680 # 117
+            title: "Germany’s support for Ukraine…"
+          speaking_with_ahmed_ghappour:
+            thread_id: 1537569955721449472 # 120
+            title: "Speaking with Ahmed Ghappour"
+          joining_space_without_shitstorm:
+            thread_id: 1537705983346081792 # 128
+            title: "Alona managed to join a space without causing a Twitter shitstorm"
+          palestine:
+            thread_id: 1537748304049672192 # 130
+            title: "Ukrainians being told they didn’t care about Palestine"
+          jelacee:
+            thread_id: 1548808938090528771 # 133
+            title: "A thread about one of Alona’s best friends Jelacee"
+          londongrad:
+            thread_id: 1570912187283308544 # 134
+            title: "A thread about Londongrad"
+          diabetis:
+            thread_id: 1538677301147316226 # 136
+            title: "The struggles of being diagnosed with Type-1 Diabetes at age 26"
+          boxing:
+            thread_id: 1538796493586501633 # 141
+            title: "✨ Indija / boxing"
+          skydiving:
+            thread_id: 1539185134435434498 # 143
+            title: "Day 118 - let’s end russia faster and go sky-diving"
+          namecalling_by_ukraine_supporters:
+            thread_id: 1539715880451448833 # 144
+            title: "A very outdated and incomplete list of things Alona has been recently called by Ukraine's \"supporters\""
+          pet_story:
+            thread_id: 1539806713318096898 # 146
+            title: "Favourite pet story"
+          previous_career:
+            thread_id: 1539815983791357952 # 147
+            title: "Alona’s reviews in her previous career"
+          recommended_artist:
+            thread_id: 1540740976414785541 # 166
+            title: "My recommended artist"
+          my_family:
+            thread_id: 1543635869843787779 # 179
+            title: "My family post full-scale russian invasion of Ukraine"
+          writing_skills:
+            thread_id: 1545493580575285251 # 182
+            title: "A thread on the writing skills"
+          work_ethic:
+            thread_id: 1549061711092715523 # 193
+            title: "Alona’s work ethic"
+          history_of_supporting_ukraine:
+            thread_id: 1548030808627089408 # 197
+            title: "Alona’s history supporting Ukraine"
+          viktor_grudakov:
+            thread_id: 1556047694417858577 # 210
+            title: "A thread on Viktor Grudakov and his ZSU design"
+          kseniia:
+            thread_id: 1556063235308396545 # 212
+            title: "A short thread on Alona’s friend, Kseniia"
+          how_to_support_me:
+            thread_id: 1558923045682790403 # 215
+            title: "What does Alona do and how can you support her work"
+          the_only_time_i_cried:
+            thread_id: 1557037596160712704 # 216
+            title: "The only time Alona cried"
+          martial_arts:
+            thread_id: 1557818242026151938 # 226
+            title: "Alona’s training in martial arts"
+          why_alona_tweets:
+            thread_id: 1557838455413129219 # 228
+            title: "Why Alona tweets"
+          about_denis:
+            thread_id: 1559102710217166848 # 236
+            title: "A mini-thread about Denis @betelgeuse1922"
+          throwback_to_2014:
+            thread_id: 1559766867652345856 # 237
+            title: "Throwback to 2014"
 
       1000_cuts: # 3
         thread_id: 1536666333940789251
