@@ -84,3 +84,28 @@ Luckily these idiots can't hide pages for real and I know where to start, Americ
 
 | [![](/media/1587760049505681408/3_1587832412125405185.jpg)](/media/1587760049505681408/3_1587832412125405185.jpg) |
 | :-: |
+
+AND I FOUND THE COVER FOR IT 
+(that's a different Jason)
+[www.amazon.de: Hola, Amigo: Around Central America & Beyond](https://www.amazon.de/-/en/Jason-Smart/dp/1985145294)
+
+| [![](/media/1587760049505681408/3_1587835314265067525.png)](/media/1587760049505681408/3_1587835314265067525.png) |
+| :-: |
+
+But let's move on to the strangest news from 2021 Kyiv. October. Russian military is getting closer to the borders. American Intelligence Services are panicking but no one listens. All of a sudden biggest Ukrainian media in English is getting shut down by a new owner.
+
+I talked to people from Kyiv Post. They told, the paper got a lot of enemies over the years, from Prysyazhnyuk to Venediktova, but the previous owners kept the journalistic integrity.
+
+OK, I just broke Twitter. New tweets don't appear in the thread. So click this tweet to continue the story.
+
+Kivan, an all-powerful real estate mogul decided that's too much for him. He called the executives and tells them to fire everyone because Kyiv Post is closed forever. 
+He lied. The new CEO appeared the same month. New chief editor in December. Kivan simply clicked "reset".
+
+I don't want to say the new team of executives is bad or something. I would quote one of their former colleagues: 
+They are 100% dependent on Kivan financially and otherwise. 
+It seems right and at least explains this headline.
+
+| [![](/media/1587760049505681408/3_1587849771598872576.png)](/media/1587760049505681408/3_1587849771598872576.png) |
+| :-: |
+
+Did someone call for a morally questionable American with anger management issues? Oh, hello, Kyiv Post! Jay Jay is now the loudest, the smiliest, and the most well-known asset of this renewed newsroom. Brilliant!
