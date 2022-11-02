@@ -109,3 +109,14 @@ It seems right and at least explains this headline.
 | :-: |
 
 Did someone call for a morally questionable American with anger management issues? Oh, hello, Kyiv Post! Jay Jay is now the loudest, the smiliest, and the most well-known asset of this renewed newsroom. Brilliant!
+
+How does Jason use this power? Lol. 
+1) He gives a lot of air time to russians; 
+2) His favorites are really shady - Ponomarev is JJ's most recent sweetheart and this guy should never be trusted;
+3) He harasses people online using Kyiv Post as a cover.
+
+Guess I need some conclusion for this thread. Meet Jayson Jay Smart, a typical political parasite, who can lay low just to turn it into epic fantasy later. I would never bother to even touch this shit but he got into place, where cynical opportunists become a weapon.
+
+I don't think he is evil, just stupid, immoral and self-obsessed. It's an exploit for actual bad actors, who bring him another exclusive and fulfill his desire to be important. We can't afford it anymore and Jason should not be trusted.
+
+If you have any extra information, contact me. Thread over.
