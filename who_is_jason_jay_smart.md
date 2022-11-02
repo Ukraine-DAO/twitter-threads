@@ -53,3 +53,34 @@ I asked a lot of people. I asked the guys who worked with Navalny during this pe
 
 Does that mean, he lies and never worked where he worked? No. Of course, he did. But as his colleague tells: 
 "Consequently, every promotion he ever got, built his own personal legend and ego, till you see who is out there now".
+
+Maybe I spoke with the wrong people. Probably, so. In russian opposition at that time, you could see a clear distinction between West-focused opposition and those who worked for the local audience.
+
+I know that it's childish to have preferences but I never liked the west side. On every great example like Kara-Murza, who did a great job, there was always someone like Kasparov, who lost any connection with russian reality years ago.
+
+These guys felt at home during dinners and keynotes but not on the streets. Natalia Arno, Jay-Jay's boss at the time, was always one of those.
+It's not an ultimate test, but isn't it strange that a guy obsessed with politics like me barely heard about her?
+
+Well, I am not the audience. The "About us" page of her current Free Russia Foundation tells: 
+We provide actionable analysis and in-depth expertise to the decision-makers in support of a smarter, sustainable Russia policy.
+Sounds cool but what the fuck does that even mean?
+
+Based on the info from my sources and the fact, that Arno chose not to answer me after reading messages, she is on Jason's side and they are probably still in contact.
+
+But Jason got a raise. You can read about his glorious deads on LinkedIn. What you can't read is that it was USAID kicking him out. There's also nothing about his IRI tenure in Cambodia. Did he run out of bullet points or this was ehm... Too short-term?
+
+| [![](/media/1587760049505681408/3_1587822527941853190.png)](/media/1587760049505681408/3_1587822527941853190.png) |
+| :-: |
+
+So this natural fighter for democracy needs to move on. And what he chooses? Fight for human rights? Become a firefighter? Join Radiohead? No, he decides to work for a company that rigs elections. Welcome to Cambridge Analytica, Mr. Smart. Great choice.
+
+Don't think that was something huge, more of a project for the CV because from that moment Smart shoved BIG DATA in every possible sentence. That was a smart move - in a post-2016 world every corrupt politician from Latin America dreamed of a 'Trump move'.
+
+| [![](/media/1587760049505681408/3_1587831145324060679.jpg)](/media/1587760049505681408/3_1587831145324060679.jpg) |
+| :-: |
+
+If (when) Jay pisses me off again, I will make part 2 about his Latin adventures. It can't be a coincidence that he just ignores the country names, right? 😉😉😉
+Luckily these idiots can't hide pages for real and I know where to start, American Political Services dot com.
+
+| [![](/media/1587760049505681408/3_1587832412125405185.jpg)](/media/1587760049505681408/3_1587832412125405185.jpg) |
+| :-: |
