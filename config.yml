@@ -97,6 +97,9 @@ root:
           raypaxful:
             thread_id: 1560339270476365831 # 241
             title: "A mini-thread on @raypaxful"
+          use_cases:
+            thread_id: 1590771284694241282
+            title: Ukraine DAO use cases
 
         reuters:
           title: Reuters
