@@ -33,6 +33,7 @@ Collection of threads by Alona Shevchenko and a few other authors.
   * [Interview with @cryptovladzia](ukraine_dao/interview_with_cryptovladzia.md) (by [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng))
   * [How FreeRossDAO helped create Ukraine DAO](ukraine_dao/freerossdao_helped_create_ukraine_dao.md) (by [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng))
   * [A mini-thread on @raypaxful](ukraine_dao/raypaxful.md) (by [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng))
+  * [Ukraine DAO use cases](ukraine_dao/use_cases.md) (by [UkraineDAO.ETH](https://twitter.com/Ukraine_DAO))
 * [Reuters](reuters/): About russian propaganda agency Reuters.
   * [Reuters is russian propaganda agency](reuters/main.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))
   * [Reuters memes](reuters/memes.md) (by [Альона Шевченко](https://twitter.com/cryptodrftng))

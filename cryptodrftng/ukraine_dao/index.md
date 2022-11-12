@@ -32,3 +32,4 @@ Threads about Ukraine DAO
 * [Interview with @cryptovladzia](interview_with_cryptovladzia.md) (by [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng))
 * [How FreeRossDAO helped create Ukraine DAO](freerossdao_helped_create_ukraine_dao.md) (by [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng))
 * [A mini-thread on @raypaxful](raypaxful.md) (by [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng))
+* [Ukraine DAO use cases](use_cases.md) (by [UkraineDAO.ETH](https://twitter.com/Ukraine_DAO))
