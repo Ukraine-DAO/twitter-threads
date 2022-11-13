@@ -152,3 +152,4 @@ Collection of threads by Alona Shevchenko and a few other authors.
 * [A Pussyriot case study and why the #visaban needs to be implemented](pussyriot_3.md) (by [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng))
 * [A poignant story from a Mariupol resident](story_from_mariupol_resident.md) (by [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng))
 * [Mriya Report hosting belarussian \"opposition\"](mriya_report_hosting_belarussian_opposition.md) (by [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng))
+* [Making sure your Ukraine coverage is Ukraine-centered](listen_to_ukrainians_about_ukraine.md) (by [mariya mykhaylova 🇺🇦](https://twitter.com/marymykhaylova))
