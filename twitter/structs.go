@@ -123,8 +123,8 @@ type Entities struct {
 }
 
 type TextEntity struct {
-	Start uint `json:"start"`
-	End   uint `json:"end"`
+	Start uint16 `json:"start"`
+	End   uint16 `json:"end"`
 }
 
 type EntityURL struct {

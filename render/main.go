@@ -90,8 +90,8 @@ var (
 )
 
 type replacement struct {
-	start uint
-	end   uint
+	start uint16
+	end   uint16
 	text  string
 }
 
@@ -101,7 +101,7 @@ func applyReplacements(s string, rs []replacement) string {
 		return rs[i].start < rs[j].start
 	})
 	ss := strings.Split(s, "")
-	prev := uint(0)
+	prev := uint16(0)
 	for _, repl := range rs {
 		if repl.start < prev {
 			// Either a duplicate or some bug
