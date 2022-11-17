@@ -258,7 +258,7 @@ func parseThread(name string, thread common.Thread, state state.ThreadState, med
 				if qt.ID != rt.ID {
 					continue
 				}
-				copied := qt
+				copied := twitter.Tweet{TweetNoIncludes: qt}
 				for _, u := range t.Includes.Users {
 					if u.ID == copied.AuthorID {
 						copied.Includes.Users = []twitter.TwitterUser{u}
