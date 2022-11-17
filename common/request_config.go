@@ -44,5 +44,6 @@ func (c RequestConfig) Equal(other RequestConfig) bool {
 	}
 	return setEqual(c.Expansions, other.Expansions) &&
 		setEqual(c.TweetFields, other.TweetFields) &&
+		setEqual(c.MediaFields, other.MediaFields) &&
 		setEqual(c.CustomFlags, other.CustomFlags)
 }
