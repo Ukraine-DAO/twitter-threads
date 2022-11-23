@@ -1478,3 +1478,33 @@ russia will cease to exist for all of this.
     </p>
     &mdash; <a href="https://twitter.com/maksymeristavi/status/1579281976129126401">Link</a>
 </blockquote>
+
+126/ Tonight russians shelled a maternity hospital in Vilniansk, Zaporizhzhia oblast, killing a newborn.
+
+That's the 438th child, killed by russian aggression in Ukraine in 2022 (by official figures - heavily underestimating the real ones)
+[#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Ukraine 🇺🇦 <br />
+    Russia murdered a newborn child in Vilntansk, Zaporizhzhia Oblast 💔. Russian missile hit a local hospital maternity ward. The total number of strike victims is not established yet. <br />
+    World, please, do something finally💔 https://t.co/CvJaihw3ml<br />
+    </p>
+    &mdash; <a href="https://twitter.com/tweet4anna/status/1595285010696773638">Link</a>
+</blockquote>
+
+127/ Komyshuvakha, Zaporizhzhia Oblast 💔
+
+[@maksymeristavi](https://twitter.com/maksymeristavi) 🫂
+
+[#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    “all we worked 50 years for is gone in a second. i still don’t understand how we end up surviving under this rubble”<br />
+    <br />
+    nina is 74yo ukrainian woman from small town komyshuvakha in my zaporizhzhia region. a russian rocket obliterated her family home this week<br />
+    @suspilne_news https://t.co/wXh30AS87C<br />
+    </p>
+    &mdash; <a href="https://twitter.com/maksymeristavi/status/1595503290699157525">Link</a>
+</blockquote>
