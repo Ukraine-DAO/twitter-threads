@@ -1504,3 +1504,17 @@ cc: [@berlin_bridge](https://twitter.com/berlin_bridge) 🫂
     </p>
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1595477064605368320">Link</a>
 </blockquote>
+
+131/ Merkel: “It was not a surprise. 
+
+The Minsk agreements were destroyed. 
+
+After the meeting between Biden and Putin, I wanted to create a separate European format for talks with Putin." [#Germany](https://twitter.com/hashtag/Germany) [#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    If you knew russia&#39;s war was coming WHY DIDN&#39;T YOU DO SOMETHING TO STOP IT?<br />
+    Whether psychological self-protection or cynical revisionism, this is staggering from the former &#39;leader of the free world&#39;. Merkel flatly refuses to accept responsibility for her &amp; her govt&#39;s (in)actions https://t.co/EUYrpGoJV2<br />
+    </p>
+    &mdash; <a href="https://twitter.com/berlin_bridge/status/1596087560681492486">Link</a>
+</blockquote>
