@@ -1484,3 +1484,23 @@ cc: [@berlin_bridge](https://twitter.com/berlin_bridge) 🫂
     </p>
     &mdash; <a href="https://twitter.com/berlin_bridge/status/1580309548748791808">Link</a>
 </blockquote>
+
+129/ 💔 [#StandWithDeutschland](https://twitter.com/hashtag/StandWithDeutschland)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    так жалко німця(((((((((((((((( https://t.co/LFZmLRu3ZG<br />
+    </p>
+    &mdash; <a href="https://twitter.com/_vsv_/status/1595841531789062144">Link</a>
+</blockquote>
+
+130/ “germany cynically hoped for a rapid russian victory for economic reasons” - 🧵
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    1/ &#34;Germany cynically hoped for a rapid russian victory for economic reasons&#34;<br />
+    <br />
+    This is true. Anyone who followed the news in Jan-Feb will remember this. https://t.co/njJd2T7oct<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1595477064605368320">Link</a>
+</blockquote>
