@@ -23,3 +23,31 @@ Here are some slides from it. I was just a kid back then so no one took it serio
 This is why it was so annoying to me to see people celebrating when [#Putin](https://twitter.com/hashtag/Putin) said he was withdrawing troops. I know how that pathetic creature operates, he doesn’t have the decency in him to say one word of truth. If he ANNOUNCES he is withdrawing troops - prepare for an ATTACK.
 
 Now as I watch all this horror unfold, the most painful thing is that doesn’t “shock” me. It’s an expected result of something could’ve been prevented by ordinary people speaking up, but it wasn’t because they thought their voice didn’t matter or they were scared.
+
+[@BielskaOlya](https://twitter.com/BielskaOlya), I literally once had an argument with a French friend who was trying to convince me about persuade me about the problems of russian speakers in Eastern Ukraine 🤦‍♀️
+
+Even the fact that I was from there and spoke russian half the time wasn't convincing enough.
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @cryptodrftng Same here. I studied in France in 2014 and tried to explain to people that putin invaded my city. That “separatist movement” was non existent and its just russian disinfo. No one cared…<br />
+    </p>
+    &mdash; <a href="https://twitter.com/BielskaOlya/status/1596205235583582211">Link</a>
+</blockquote>
+
+[@BielskaOlya](https://twitter.com/BielskaOlya), I usually had two words to explain this "unbreakable love": 
+
+🚩 Greed
+
+🚩 Fear 
+
+Recently [@IlvesToomas](https://twitter.com/IlvesToomas) added another one to my vocab:
+
+🚩 Orientalism
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @cryptodrftng I don’t understand this unbreakable love of Germans and French with russians and “great russian culture” (forgetting that it’s a culture of genocide of its subjugated neighbors). Hard to explain. I know very few French who openly hate putin. And I love them with all my heart. ❤️<br />
+    </p>
+    &mdash; <a href="https://twitter.com/BielskaOlya/status/1596208348743217152">Link</a>
+</blockquote>
