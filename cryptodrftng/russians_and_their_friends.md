@@ -985,3 +985,14 @@ JFC, they are really all the same.
     </p>
     &mdash; <a href="https://twitter.com/ServiceSsu/status/1581178855477620737">Link</a>
 </blockquote>
+
+❗️russian opposition is an oxymoron
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    &gt; we called the russian servicemen to surrender and that was a mistake.<br />
+    <br />
+    russian opposition opposing what? https://t.co/tw7Ki2dZsX<br />
+    </p>
+    &mdash; <a href="https://twitter.com/avaritiaprima/status/1595527690953580545">Link</a>
+</blockquote>
