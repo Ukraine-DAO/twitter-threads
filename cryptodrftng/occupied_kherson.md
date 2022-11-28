@@ -176,3 +176,12 @@ Don't worry about us, the situation is difficult, but we hanging in there, waiti
     </p>
     &mdash; <a href="https://twitter.com/OlenaHalushka/status/1528466690929041414">Link</a>
 </blockquote>
+
+📌 [#Kherson](https://twitter.com/hashtag/Kherson) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Kherson 💔 https://t.co/qW6U9XSSWk<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1597060503142289408">Link</a>
+</blockquote>

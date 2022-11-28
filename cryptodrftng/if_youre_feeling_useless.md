@@ -1518,3 +1518,27 @@ After the meeting between Biden and Putin, I wanted to create a separate Europea
     </p>
     &mdash; <a href="https://twitter.com/berlin_bridge/status/1596087560681492486">Link</a>
 </blockquote>
+
+132/ “I was riding Berlin's U3 subway line one April evening earlier this year when I noticed the shocking name of a station along the route: Onkel Toms Hütte, or Uncle Tom's Cabin.” [@mvenk82](https://twitter.com/mvenk82)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Willkommen in Deutschland, 2022 https://t.co/tZ3eOZplBr<br />
+    </p>
+    &mdash; <a href="https://twitter.com/berlin_bridge/status/1596986536285069312">Link</a>
+</blockquote>
+
+133/ 💬 [@cybersoroka](https://twitter.com/cybersoroka) “Corruption is an ironclad excuse for gatekeeping as:
+• it’s impossible to overcome
+• it’s unavoidable for any country that trades with Russia”
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Merkel’s myth from 2008 lives its own mindless life.<br />
+    Corruption is an ironclad excuse for gatekeeping as:<br />
+    • it’s impossible to overcome<br />
+    • it’s unavoidable for any country that trades with Russia<br />
+    At least Ukraine and Georgia wanted to escape it while EU’s G7 actively pursued it. https://t.co/vsDw259Ser<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cybersoroka/status/1597024836873637888">Link</a>
+</blockquote>

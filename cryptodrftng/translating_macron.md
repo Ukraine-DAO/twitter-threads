@@ -180,3 +180,12 @@ Translation: "Emmanuel Macron loses all credibility because of worrying too much
 
 | [![](/media/1563422043311288321/3_1580509691460952064.jpg)](/media/1563422043311288321/3_1580509691460952064.jpg) |
 | :-: |
+
+[@nastasiaKlimash](https://twitter.com/nastasiaKlimash) merci for les vatniks🫶
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Okay, I feel like I stumbled upon a snake pit of French-speaking les vatniks https://t.co/BWsFItXo1m<br />
+    </p>
+    &mdash; <a href="https://twitter.com/nastasiaKlimash/status/1596996158710513664">Link</a>
+</blockquote>

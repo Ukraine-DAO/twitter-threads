@@ -184,3 +184,26 @@ Your regular
 ✨FUCKING BULLSHIT FROM LONDONGRAD✨ [#Londongrad](https://twitter.com/hashtag/Londongrad)
 
 [bylinetimes.com: Evgeny Lebedev: The Ersatz Kremlin Critic – Byline Times](https://bylinetimes.com/2022/03/09/evgeny-lebedev-the-ersatz-kremlin-critic/)
+
+[#Londongrad](https://twitter.com/hashtag/Londongrad) strikes again
+
+[@RussianEmbassy](https://twitter.com/RussianEmbassy)  [@BBCNews](https://twitter.com/BBCNews)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Why is this fascist still allowed to roam around UK freely as ambassador/spymaster at the Russian embassy in London?<br />
+    He should be declare persona non grata together with a third of embassy staff who are GRU and SVR agents/officers.<br />
+    <br />
+    https://t.co/Pvos4nBPAF<br />
+    </p>
+    &mdash; <a href="https://twitter.com/oculusfiles/status/1596942463469383680">Link</a>
+</blockquote>
+
+[@RussianEmbassy](https://twitter.com/RussianEmbassy)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    &#34;Azov militants deserve execution, but death not by firing squad but by hanging, because they are not real soldiers. They deserve a humiliating death&#34; — Embassy of the Russian Federation in the UK https://t.co/Vih3ZbS5kJ<br />
+    </p>
+    &mdash; <a href="https://twitter.com/Lyla_lilas/status/1553362895223853058">Link</a>
+</blockquote>
