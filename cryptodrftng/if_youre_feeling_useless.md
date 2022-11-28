@@ -1542,3 +1542,15 @@ After the meeting between Biden and Putin, I wanted to create a separate Europea
     </p>
     &mdash; <a href="https://twitter.com/cybersoroka/status/1597024836873637888">Link</a>
 </blockquote>
+
+134/ “Blödeln scheinheilig rum.”
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    bravo, @dieterschnaas: <br />
+    &#34;Russland quält Frauen, Kinder und Alte in der Ukraine, will sie erfrieren und hungern sehen. Ein Völkermord in Zeitlupe. Und wir? Schweigen schulterzuckend. Blicken nach Katar. Tadeln die Fifa. Blödeln scheinheilig rum.&#34;<br />
+    <br />
+    [collage by yours truly] https://t.co/wQTWZlimYK<br />
+    </p>
+    &mdash; <a href="https://twitter.com/motytchak/status/1597192846146441217">Link</a>
+</blockquote>
