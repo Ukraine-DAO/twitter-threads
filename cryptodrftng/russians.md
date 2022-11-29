@@ -1508,3 +1508,18 @@ That's the 438th child, killed by russian aggression in Ukraine in 2022 (by offi
     </p>
     &mdash; <a href="https://twitter.com/maksymeristavi/status/1595503290699157525">Link</a>
 </blockquote>
+
+128/ A poet and laureat of numerous literary awards, Volodymyr Vakulenko authored 13 books, for children in particular. He was also an activist who took part in the Revolution of Dignity.
+
+Kidnapped in March. 
+
+Entry no. 319 in the register from the mass grave.
+
+[#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    DNA examination confirmed that a body found in Izyum mass grave belonged to a writer Volodymyr Vakulenko. He was missing since Russians occupied Izyum. &#39;Remember him next time you want to offer Ukrainians and Russians another cultural dialogue&#39;, film director Iryna Tsilyk wrote https://t.co/vIYJjBaUTL<br />
+    </p>
+    &mdash; <a href="https://twitter.com/olgatokariuk/status/1597286581286866944">Link</a>
+</blockquote>
