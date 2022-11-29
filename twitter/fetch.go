@@ -91,6 +91,9 @@ func FetchTweets(ids []string, config common.RequestConfig) ([]Tweet, error) {
 	defer resp.Body.Close()
 
 	if resp.StatusCode == http.StatusTooManyRequests {
+		if body, err := io.ReadAll(resp.Body); err == nil {
+			log.Printf("Throttled:\n%s", string(body))
+		}
 		return nil, ErrThrottled
 	}
 
