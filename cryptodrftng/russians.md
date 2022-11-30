@@ -1523,3 +1523,38 @@ Entry no. 319 in the register from the mass grave.
     </p>
     &mdash; <a href="https://twitter.com/olgatokariuk/status/1597286581286866944">Link</a>
 </blockquote>
+
+129/ In Izyum, russians cut off a boy’s genitals before executing him; raped and brutally killed an underage girl. 
+
+[#genocideofukrainians](https://twitter.com/hashtag/genocideofukrainians) [#armukrainenow](https://twitter.com/hashtag/armukrainenow) 
+[#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1597726542372950018?s=46&t=nKm7OrT37JYhuXx8hcmQ2g)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    📌 In Izyum, russians cut off a boy’s genitals before executing him; raped and brutally killed an underage girl. <br />
+    <br />
+    #genocideofukrainians #armukrainenow <br />
+    #russianwarcrimes<br />
+    129/ https://t.co/uWdRmnDhF6<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1597726542372950018">Link</a>
+</blockquote>
+
+130/ July 2022
+
+“More than 1,500 new graves appeared near Mariupol. Already decomposed remains of people lie on local beaches”
+
+[#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#genocideofukrainians](https://twitter.com/hashtag/genocideofukrainians) [#armukrainenow](https://twitter.com/hashtag/armukrainenow) [#russianculture](https://twitter.com/hashtag/russianculture) 
+
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    July 2022<br />
+    <br />
+    “More than 1,500 new graves appeared near Mariupol. Already decomposed remains of people lie on local beaches”<br />
+    <br />
+    #russianwarcrimes #genocideofukrainians #armukrainenow #russianculture <br />
+    130/ https://t.co/XIMbeAFnsv<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1597728594364858368">Link</a>
+</blockquote>
