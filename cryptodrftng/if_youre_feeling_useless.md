@@ -1554,3 +1554,11 @@ After the meeting between Biden and Putin, I wanted to create a separate Europea
     </p>
     &mdash; <a href="https://twitter.com/motytchak/status/1597192846146441217">Link</a>
 </blockquote>
+
+135/ 💭 [@LermeyMelon](https://twitter.com/LermeyMelon)
+
+"Those nasty Ukrainians bullying poor innocent russians."
+
+[@dwnews](https://twitter.com/dwnews) 
+
+[www.dw.com: Russian communities in Germany face hostility](https://www.dw.com/en/germanys-russian-community-faces-harassment-and-hostility/a-61055867)

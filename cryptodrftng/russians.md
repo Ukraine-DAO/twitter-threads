@@ -1558,3 +1558,17 @@ Entry no. 319 in the register from the mass grave.
     </p>
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1597728594364858368">Link</a>
 </blockquote>
+
+131/ 97% of russian targets are civilian. 
+
+[#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    ⚡️Defense Minister: 97% of Russian targets are civilian.<br />
+    <br />
+    Russia has launched over 16,000 missile attacks at Ukraine over the past nine months, Ukraine&#39;s Defense Minister Oleksii Reznikov said on Nov. 28. He added that civilian targets account for 97%.<br />
+    https://t.co/j83Q4tswnw<br />
+    </p>
+    &mdash; <a href="https://twitter.com/KyivIndependent/status/1597264193102966785">Link</a>
+</blockquote>
