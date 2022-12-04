@@ -1572,3 +1572,18 @@ Entry no. 319 in the register from the mass grave.
     </p>
     &mdash; <a href="https://twitter.com/KyivIndependent/status/1597264193102966785">Link</a>
 </blockquote>
+
+132/ [@EmmanuelMacron](https://twitter.com/EmmanuelMacron) clearly wants for this to be happening to French people too
+
+[#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow) 
+[#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate)
+[#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Russians executed civilians in Luhansk region, Ukraine. Publicly and demonstratively, for the whole world to see.<br />
+    <br />
+    I don’t understand why Ukraine isn’t given new tanks and missiles to punish this absolute evil. Russian evil. https://t.co/39q9e7MFkP<br />
+    </p>
+    &mdash; <a href="https://twitter.com/sternenko/status/1599309556823097345">Link</a>
+</blockquote>
