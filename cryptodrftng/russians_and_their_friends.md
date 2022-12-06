@@ -996,3 +996,14 @@ JFC, they are really all the same.
     </p>
     &mdash; <a href="https://twitter.com/avaritiaprima/status/1595527690953580545">Link</a>
 </blockquote>
+
+[#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F) 
+
+🔗 [newsvo.ru: В Ленинградской области на учебных стрельбах погиб мобилизованный из Белозерского района | newsvo.ru — новости Вологодской области](https://newsvo.ru/news/149178)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Што блять, лол https://t.co/7Rpl4CBPvk<br />
+    </p>
+    &mdash; <a href="https://twitter.com/pozyvnoy_esenin/status/1600082952339296257">Link</a>
+</blockquote>
