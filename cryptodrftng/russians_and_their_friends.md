@@ -1007,3 +1007,14 @@ JFC, they are really all the same.
     </p>
     &mdash; <a href="https://twitter.com/pozyvnoy_esenin/status/1600082952339296257">Link</a>
 </blockquote>
+
+Pavel Filatiev saga continues [#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F)
+
+
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Russian war criminal,who managed to escape to France and got a book deal in 13 countries for his &#34;memoirs&#34; is now suing the russian foundation who helped him to escape to keep the money for himself(and not the russian charity supposedly helping Ukrainian refugees as was promised) https://t.co/lf0vDipYeN<br />
+    </p>
+    &mdash; <a href="https://twitter.com/MDekhtyaruk/status/1600425066734518273">Link</a>
+</blockquote>
