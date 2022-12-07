@@ -1562,3 +1562,24 @@ After the meeting between Biden and Putin, I wanted to create a separate Europea
 [@dwnews](https://twitter.com/dwnews) 
 
 [www.dw.com: Russian communities in Germany face hostility](https://www.dw.com/en/germanys-russian-community-faces-harassment-and-hostility/a-61055867)
+
+136/ Germany strikes again, Episode #6164748392 [#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    ⚡Journalist and CEO of the Institute of Mass Information Oksana Romaniuk refuses to receive the German prize at the same time as the Russian<br />
+    </p>
+    &mdash; <a href="https://twitter.com/Svidomi_En/status/1600238212076621824">Link</a>
+</blockquote>
+
+137/ Guys.
+
+What's wrong with them? Seriously.
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Together with her, the Johann-Philipp-Palm-Award for Freedom of Speech and the Press was to be awarded to Russian Alexei Venediktov, the founder of the Ekho Moskvy radio.<br />
+    &#34;I cannot imagine how I could physically stand on the same stage and share the same award with Venediktov.<br />
+    </p>
+    &mdash; <a href="https://twitter.com/Svidomi_En/status/1600238214869983233">Link</a>
+</blockquote>
