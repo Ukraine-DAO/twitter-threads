@@ -1018,3 +1018,17 @@ Pavel Filatiev saga continues [#тупарусня](https://twitter.com/hashtag/
     </p>
     &mdash; <a href="https://twitter.com/MDekhtyaruk/status/1600425066734518273">Link</a>
 </blockquote>
+
+aawwww what a “sUpErPoWeR” 🥰
+[#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Russian culture and infrastructure example<br />
+    They have repaired toilet at the end of a bus line in Novosibirsk, 3rd largest city in Russia. Repairs-installed doors and treated with an antiseptic.<br />
+    The final sentence - &#34;Our drivers must work in acceptable conditions&#34;.<br />
+    @IlvesToomas<br />
+    /1 https://t.co/DfmD0Tpkmr https://t.co/PMI51Gensw<br />
+    </p>
+    &mdash; <a href="https://twitter.com/drikssdrikss/status/1600518966836969472">Link</a>
+</blockquote>
