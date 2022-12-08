@@ -1583,3 +1583,23 @@ What's wrong with them? Seriously.
     </p>
     &mdash; <a href="https://twitter.com/Svidomi_En/status/1600238214869983233">Link</a>
 </blockquote>
+
+138/ [#Germany](https://twitter.com/hashtag/Germany) [#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0) [@TimothyDSnyder](https://twitter.com/TimothyDSnyder)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    A snippet of why Germany especially needs to re-examine its role here: https://t.co/gNnUViZtCv<br />
+    </p>
+    &mdash; <a href="https://twitter.com/marlowc2324/status/1600703408381792256">Link</a>
+</blockquote>
+
+139/ Thank you so much [@marlowc2324](https://twitter.com/marlowc2324) for posting this 
+Many of my conversations with Germans showed me they just didn’t see me as an equal human being. Not all of them, but many, and here’s one of the reasons why.
+[#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0) [#germanyv](https://twitter.com/hashtag/germanyv)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Why Germany has allowed its shame of being responsible for Soviet deaths to only translate to russia https://t.co/6pXu7HG3dQ<br />
+    </p>
+    &mdash; <a href="https://twitter.com/marlowc2324/status/1600706699689885698">Link</a>
+</blockquote>
