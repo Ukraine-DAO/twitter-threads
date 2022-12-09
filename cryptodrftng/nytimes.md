@@ -180,3 +180,14 @@ Rare good news in this 🧵
     </p>
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1578467525712805889">Link</a>
 </blockquote>
+
+📌 [@nytimes](https://twitter.com/nytimes)  
+
+[@betelgeuse1922](https://twitter.com/betelgeuse1922) [@radioevrazia](https://twitter.com/radioevrazia)  comments? 👀
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    This morning NYT reported that Moscow has erected “digital barricades” and blocked access to social media. The author fails to give any examples. I’m here in Moscow and can Tweet, visit Facebook, Instagram, WhatsApp, and Telegram. https://t.co/dYu7EvUti4<br />
+    </p>
+    &mdash; <a href="https://twitter.com/loffredojeremy/status/1600540890946322433">Link</a>
+</blockquote>
