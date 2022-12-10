@@ -1593,13 +1593,30 @@ What's wrong with them? Seriously.
     &mdash; <a href="https://twitter.com/marlowc2324/status/1600703408381792256">Link</a>
 </blockquote>
 
-139/ Thank you so much [@marlowc2324](https://twitter.com/marlowc2324) for posting this 
-Many of my conversations with Germans showed me they just didn’t see me as an equal human being. Not all of them, but many, and here’s one of the reasons why.
-[#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0) [#germanyv](https://twitter.com/hashtag/germanyv)
+139/ "German anger over its energy crisis" has to be the most tragicomical thing ever
+
+[#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0) [#germany](https://twitter.com/hashtag/germany) 
+
+🔗 [www.washingtonpost.com: Russian disinformation is demonizing Ukrainian refugees](https://www.washingtonpost.com/technology/2022/12/08/russian-disinfo-ukrainian-refugees-germany/)
+
+| [![](/media/1563607266191781890/3_1600963609429004315.jpg)](/media/1563607266191781890/3_1600963609429004315.jpg) |
+| :-: |
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
-    Why Germany has allowed its shame of being responsible for Soviet deaths to only translate to russia https://t.co/6pXu7HG3dQ<br />
+    How a major Russian disinformation campaign is trying to demonise Ukrainian refugees in Europe  https://t.co/1qaYa5h9YG<br />
     </p>
-    &mdash; <a href="https://twitter.com/marlowc2324/status/1600706699689885698">Link</a>
+    &mdash; <a href="https://twitter.com/ianbirrell/status/1600765336911228928">Link</a>
+</blockquote>
+
+140/ A bit more whitewashing of war criminals from Germany:
+
+“Serebrennikov shows his play in a theater in Hamburg, where a poor soldier of an aggressor was captured in a village, where the inhabits are also poor, ruthless but at the end "brothers"
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @VitscheBerlin @maksymeristavi @cryptodrftng Serebrennikov shows his play in a theater in Hamburg, where a poor soldier of an aggressor was captured in a village, where the inhabits are also poor, ruthless but at the end &#34;brothers&#34;<br />
+    https://t.co/Xw1auXS9yx<br />
+    </p>
+    &mdash; <a href="https://twitter.com/mishakosmikov/status/1601543585421463554">Link</a>
 </blockquote>
