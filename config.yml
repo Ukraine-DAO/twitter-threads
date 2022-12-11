@@ -535,6 +535,9 @@ root:
       listen_to_ukrainians_about_ukraine:
         thread_id: 1545229771117735936
         title: Making sure your Ukraine coverage is Ukraine-centered
+      russian_opposition:
+        thread_id: 1601942975655088134
+        title: Denis is being very naive and confused about the existence of russian opposition
 
     kapparov:
       title: Threads by Madi Kapparov
