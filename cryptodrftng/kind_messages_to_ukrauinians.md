@@ -881,3 +881,18 @@ Thank you, [@abstractedaway](https://twitter.com/abstractedaway) 🥺
     </p>
     &mdash; <a href="https://twitter.com/abstractedaway/status/1578560630067724288">Link</a>
 </blockquote>
+
+[@TankGirljunkie](https://twitter.com/TankGirljunkie) ❤️💛
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @MindyNL79 In no particular order<br />
+    @cryptodrftng <br />
+    @ndboulton <br />
+    @BobtheFella <br />
+    @KvotheTheArcane <br />
+    @NogTheCat <br />
+    These guys have all been amazing, each in their own different way. Whatever way though, each of them has made my life better, and I&#39;m incredibly grateful for them all 💙💛<br />
+    </p>
+    &mdash; <a href="https://twitter.com/TankGirljunkie/status/1601828811577999360">Link</a>
+</blockquote>
