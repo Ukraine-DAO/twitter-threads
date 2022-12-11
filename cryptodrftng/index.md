@@ -153,3 +153,4 @@ Collection of threads by Alona Shevchenko and a few other authors.
 * [A poignant story from a Mariupol resident](story_from_mariupol_resident.md) (by [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng))
 * [Mriya Report hosting belarussian \"opposition\"](mriya_report_hosting_belarussian_opposition.md) (by [Альона ꑭ Шевченко](https://twitter.com/cryptodrftng))
 * [Making sure your Ukraine coverage is Ukraine-centered](listen_to_ukrainians_about_ukraine.md) (by [mariya mykhaylova 🇺🇦](https://twitter.com/marymykhaylova))
+* [Denis is being very naive and confused about the existence of russian opposition](russian_opposition.md) (by [Alona Shevchenko](https://twitter.com/cryptodrftng))
