@@ -224,3 +224,27 @@ You shouldn’t support him.
     </p>
     &mdash; <a href="https://twitter.com/MuKappa/status/1568553096942436352">Link</a>
 </blockquote>
+
+Here's russian opposition in one tweet for [@betelgeuse1922](https://twitter.com/betelgeuse1922) ⬇️ 
+
+
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    russians during genocides of other nations they carry out themselves: 🙂🙂🙂<br />
+    <br />
+    russians when they experience a minor inconvenience: 🚨😫😫😫 POOR ME!! I AM A MARTYR! EVERYONE FEEL SORRY FOR ME IMMEDIATELY, THIS IS NOT A DRILL!!!!<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1568533325576273920">Link</a>
+</blockquote>
+
+“The "opposition" figures in russia rose to prominence either through populism or direct criticism of putin. None offer real solutions.” - [@MuKappa](https://twitter.com/MuKappa) 
+
+
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    - The &#34;opposition&#34; figures in russia rose to prominence either through populism or direct criticism of putin. None offer real solutions. Real opposition in russia cannot emerge or survive due to the deeply entrenched views of russian imperialism and exceptionalism. 5/<br />
+    </p>
+    &mdash; <a href="https://twitter.com/MuKappa/status/1602014823067287552">Link</a>
+</blockquote>
