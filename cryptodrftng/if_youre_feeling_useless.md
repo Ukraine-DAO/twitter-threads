@@ -1620,3 +1620,17 @@ What's wrong with them? Seriously.
     </p>
     &mdash; <a href="https://twitter.com/mishakosmikov/status/1601543585421463554">Link</a>
 </blockquote>
+
+141/  [@berlin_bridge](https://twitter.com/berlin_bridge) is based as usual 
+
+[#germanyfundsgenocide](https://twitter.com/hashtag/germanyfundsgenocide) [#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Jessica Berlin @berlin_bridge again spot on!<br />
+    Really worth reading!  &#34;We need an international investigation of Germany&#39;s Russia ties&#34;<br />
+    Geopolitics expert Jessica Berlin on the reasons Germany won&#39;t investigate its Moscow connection<br />
+    https://t.co/nSH3QuJnxY<br />
+    </p>
+    &mdash; <a href="https://twitter.com/virtaava/status/1602215184134770690">Link</a>
+</blockquote>
