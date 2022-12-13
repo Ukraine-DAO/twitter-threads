@@ -1046,3 +1046,12 @@ aawwww what a “sUpErPoWeR” 🥰
     </p>
     &mdash; <a href="https://twitter.com/Nasredd90887104/status/1600430109793521665">Link</a>
 </blockquote>
+
+російський фемінізм - такий самий оксюморон як і російська опозиція 🦄🛸 [#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Матір російського фемінізму остаточно розплавило https://t.co/lk6TIrv95o<br />
+    </p>
+    &mdash; <a href="https://twitter.com/pan_sodom/status/1602462109933133827">Link</a>
+</blockquote>
