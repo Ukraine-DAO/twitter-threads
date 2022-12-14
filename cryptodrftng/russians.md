@@ -1587,3 +1587,17 @@ Entry no. 319 in the register from the mass grave.
     </p>
     &mdash; <a href="https://twitter.com/sternenko/status/1599309556823097345">Link</a>
 </blockquote>
+
+133/ Children's torture chamber.
+
+I seriously don't think they can go any lower. 
+[#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    ⚡️Ombudsman: Children&#39;s torture chamber found in liberated Kherson.<br />
+    <br />
+    Ukrainian authorities discovered a room that Russians used to detain and torture children during the occupation of Kherson, Dmytro Lubinets, the Human Rights Commissioner of the Verkhovna Rada, said on Dec. 14.<br />
+    </p>
+    &mdash; <a href="https://twitter.com/KyivIndependent/status/1603037980817506315">Link</a>
+</blockquote>

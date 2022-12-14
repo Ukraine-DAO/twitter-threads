@@ -1034,3 +1034,16 @@ This kind of nonsense you can only get away with if you’re russian 🦄 [twitt
 
 Heroic fight  ✊
 [#SpecialFeministOperation](https://twitter.com/hashtag/SpecialFeministOperation) [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1600269521918431232)
+
+*yawn* [@Gagosian](https://twitter.com/Gagosian) [@ashleyoverbeek](https://twitter.com/ashleyoverbeek) please fact check your sources and correct the article 🙏
+
+russian cultural appropriation must stop.
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Hi @ashleyoverbeek , sorry, but your article https://t.co/t4Oc3rtoYF is a bit misinformed:<br />
+    1) Tolokonnikova didn&#39;t found @Ukraine_DAO <br />
+    2) a lot of the raised funds were transferred to @ComeBackAlive, who are focusing on helping the military, not just civilians https://t.co/7KPWZ25J4b<br />
+    </p>
+    &mdash; <a href="https://twitter.com/imax9000/status/1603109385110278148">Link</a>
+</blockquote>
