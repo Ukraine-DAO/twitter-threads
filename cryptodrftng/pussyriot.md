@@ -1029,3 +1029,8 @@ Sickening 🤢 Why platform this, [@TheLastWord](https://twitter.com/TheLastWord
     </p>
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1573581690609569793">Link</a>
 </blockquote>
+
+This kind of nonsense you can only get away with if you’re russian 🦄 [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1600268658122510341)
+
+Heroic fight  ✊
+[#SpecialFeministOperation](https://twitter.com/hashtag/SpecialFeministOperation) [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1600269521918431232)
