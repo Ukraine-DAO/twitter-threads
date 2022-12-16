@@ -1055,3 +1055,18 @@ aawwww what a “sUpErPoWeR” 🥰
     </p>
     &mdash; <a href="https://twitter.com/pan_sodom/status/1602462109933133827">Link</a>
 </blockquote>
+
+Beautiful coffin, [@JayinKyiv](https://twitter.com/JayinKyiv) 💞
+
+And a great addition to this tweet - [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1550545171963453446?s=46&t=cdAdpN4p6s8t4i_AZgU8xw)
+
+[#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    You had to live in Russia for 25 years..<br />
+    <br />
+    BUT CHECK OUT THIS BADASS COFFIN YOU GET!! https://t.co/puYpFYaPFt https://t.co/7yHrtRRzD3<br />
+    </p>
+    &mdash; <a href="https://twitter.com/JayinKyiv/status/1603816585885515776">Link</a>
+</blockquote>
