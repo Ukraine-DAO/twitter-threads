@@ -81,3 +81,20 @@ Neither am I actually, I barely know anything about them😂 The NFT side of the
     </p>
     &mdash; <a href="https://twitter.com/karlprosser/status/1535499982492430337">Link</a>
 </blockquote>
+
+Half a year later, he's not stopped.
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Please report for targeted harassment:<br />
+    <br />
+    @UkrainesGrains<br />
+    @HansWorldTravls<br />
+    @BruckenRuski<br />
+    <br />
+    - today he is slandering from the last account - @BruckenRuski<br />
+    <br />
+    Since early June he won&#39;t leave me alone. His name is Hans. He is German. https://t.co/SnWodtQY5l<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1603930572568793088">Link</a>
+</blockquote>
