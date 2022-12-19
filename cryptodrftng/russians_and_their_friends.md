@@ -1070,3 +1070,18 @@ And a great addition to this tweet - [twitter.com/cryptodrftng/s…](https://twi
     </p>
     &mdash; <a href="https://twitter.com/JayinKyiv/status/1603816585885515776">Link</a>
 </blockquote>
+
+[#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F)
+
+ "A new Kremlin propaganda video encourages middle-aged 🇷🇺 men to  join the genocidal invasion of Ukraine in order to buy their daughters new iPhones" 🤢
+
+I want to emphasise that this is absolutely normal in their "culture".
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    A new Kremlin propaganda video encourages middle-aged Russian men to  join the genocidal invasion of Ukraine in order to buy their daughters new iPhones<br />
+    <br />
+    https://t.co/RDFoVc8HSD<br />
+    </p>
+    &mdash; <a href="https://twitter.com/Biz_Ukraine_Mag/status/1604775982782717953">Link</a>
+</blockquote>
