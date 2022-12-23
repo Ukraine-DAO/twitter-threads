@@ -1085,3 +1085,12 @@ I want to emphasise that this is absolutely normal in their "culture".
     </p>
     &mdash; <a href="https://twitter.com/Biz_Ukraine_Mag/status/1604775982782717953">Link</a>
 </blockquote>
+
+[#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F) via [@atLakeNATO](https://twitter.com/atLakeNATO)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Level of delusional- 🗑🇷🇺 https://t.co/QZNM5tKgX5<br />
+    </p>
+    &mdash; <a href="https://twitter.com/atLakeNATO/status/1606189964215128064">Link</a>
+</blockquote>
