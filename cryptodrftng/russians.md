@@ -1601,3 +1601,35 @@ I seriously don't think they can go any lower.
     </p>
     &mdash; <a href="https://twitter.com/KyivIndependent/status/1603037980817506315">Link</a>
 </blockquote>
+
+134/ A question for [@mbk_center](https://twitter.com/mbk_center): 
+
+❓How many of the 54 torture chambers did putin ever visit?
+
+A question for everyone else:
+
+❓Do you understand now what Ukrainians mean when we say 🇷🇺 opposition doesn’t exist?
+
+[#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate) [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    54 torture chambers were discovered on the deoccupied territories after the russians retreated<br />
+    <br />
+    russia means terrorism<br />
+    </p>
+    &mdash; <a href="https://twitter.com/anastasiashpyt/status/1606398450228240385">Link</a>
+</blockquote>
+
+135/ ❗️Here’s another “opposition hero” [@navalny](https://twitter.com/navalny) worrying that Ukrainians are not being killed with the most modern missiles.
+
+[@betelgeuse1922](https://twitter.com/betelgeuse1922), this is who you support (🔗 - [twitter.com/betelgeuse1922…](https://twitter.com/betelgeuse1922/status/1601904272832188416?s=46&t=ZLPtVVFR05q07BDYdZRZig) )
+
+Please respond to the issues I raised here - [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1601955766113820673?s=46&t=ZLPtVVFR05q07BDYdZRZig)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    7/13 Secondly, and most importantly, we are pounding the Ukrainian energy system with missiles invented (and often made) back in the Soviet Union.<br />
+    </p>
+    &mdash; <a href="https://twitter.com/navalny/status/1606242386698330112">Link</a>
+</blockquote>

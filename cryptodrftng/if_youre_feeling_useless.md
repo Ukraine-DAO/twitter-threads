@@ -1653,3 +1653,16 @@ What's wrong with them? Seriously.
     </p>
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1606493243566350338">Link</a>
 </blockquote>
+
+143/ [@bctallis](https://twitter.com/bctallis) 🧵 with analysis of entry 1
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    “This journey to #Washington from #Zelenskiy, it is an act of desperation.&#34; <br />
+    <br />
+    Disgraceful from #Germany’s main, public-funded news ‘analysis’ show . <br />
+    -@tagesthemen &amp; Host @HelgeFuhst highlight this view from their Washington correspondent @gudrun_engel <br />
+    -why? Short🧵 https://t.co/2pkiqCs4D2<br />
+    </p>
+    &mdash; <a href="https://twitter.com/bctallis/status/1605825461837234177">Link</a>
+</blockquote>
