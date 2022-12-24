@@ -1634,3 +1634,22 @@ What's wrong with them? Seriously.
     </p>
     &mdash; <a href="https://twitter.com/virtaava/status/1602215184134770690">Link</a>
 </blockquote>
+
+142/ Today in our regular section 🇩🇪 SLAVA DEUTSCHLAND 🇩🇪 - commentary about [@ZelenskyyUa](https://twitter.com/ZelenskyyUa)'s visit to Washington 
+ 
+
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Today in our regular section 🇩🇪 SLAVA DEUTSCHLAND 🇩🇪<br />
+    <br />
+    @tagesthemen @HelgeFuhst @gudrun_engel<br />
+    <br />
+    💭 @bctallis:<br />
+    <br />
+    &#34;Disgraceful from Germany’s main, public-funded news ‘analysis’ show&#34;<br />
+    <br />
+     #нікчемчина https://t.co/Cz1thbZVGg<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1606493243566350338">Link</a>
+</blockquote>
