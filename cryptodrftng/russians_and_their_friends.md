@@ -1113,3 +1113,12 @@ I want to emphasise that this is absolutely normal in their "culture".
     </p>
     &mdash; <a href="https://twitter.com/icertainlynot/status/1605293035025203200">Link</a>
 </blockquote>
+
+[#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F) Саратов едішн
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Після затирання на чат міста - Енгельсу ми з дівчиною пійшли гуляти по ньому та Саратова. Тут ви бачите ізби у центрі міста. Також ми посилили якесь нездорове кохання росіян до аніме у крінжовіших формах та проявах. Верогідно це якийсь внутрішній ескіпізм https://t.co/Jw11b1TMb1<br />
+    </p>
+    &mdash; <a href="https://twitter.com/SymkinM/status/1607200278062694400">Link</a>
+</blockquote>
