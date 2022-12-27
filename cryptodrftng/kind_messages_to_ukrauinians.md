@@ -896,3 +896,8 @@ Thank you, [@abstractedaway](https://twitter.com/abstractedaway) 🥺
     </p>
     &mdash; <a href="https://twitter.com/TankGirljunkie/status/1601828811577999360">Link</a>
 </blockquote>
+
+Messages like this keep me going ❤️‍🩹
+
+| [![](/media/1572769240926789633/3_1607512539436388352.jpg)](/media/1572769240926789633/3_1607512539436388352.jpg) |
+| :-: |
