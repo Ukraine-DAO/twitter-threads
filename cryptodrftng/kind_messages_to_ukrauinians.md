@@ -901,3 +901,79 @@ Messages like this keep me going ❤️‍🩹
 
 | [![](/media/1572769240926789633/3_1607512539436388352.jpg)](/media/1572769240926789633/3_1607512539436388352.jpg) |
 | :-: |
+
+[@JacksonSteger](https://twitter.com/JacksonSteger) ❤️ 
+
+One of my favourite conversations - [ukraine-dao.notion.site: Campfire by Cabin](https://ukraine-dao.notion.site/Campfire-by-Cabin-b342e9b35bf4420abb305aa66f6ea027)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    When we recorded last Friday, I was blown away by @cryptodrftng &#39;s courage &amp; resourcefulness. <br />
+    <br />
+    Alona, you left me feeling so inspired. Keep doing you.<br />
+    <br />
+    I&#39;m donating $20 to ukrainedao.eth for every RT that the original Cabin tweet gets, up to $500. I encourage others to join me. https://t.co/qfjqFFjvx5<br />
+    </p>
+    &mdash; <a href="https://twitter.com/JacksonSteger/status/1524477050815352832">Link</a>
+</blockquote>
+
+100/ I learned so much from [@MuchnikYev](https://twitter.com/MuchnikYev) of [@Ukraine_DAO](https://twitter.com/Ukraine_DAO)’s Legal Pod this year, she’s a huge inspiration and a role model for me ❤️
+
+🎧 Here’s a great podcast with her: [twitter.com/muchnikyev/sta…](https://twitter.com/muchnikyev/status/1511182778578001924?s=46&t=mWNPUJVgKlwrEA9IIy8zvg)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @cryptodrftng @revrfg @ndboulton @MuKappa @ExpatCrypto3 @rizzn @LvivNightingale @SarahAshtonLV You have our total support. You’ve gone above and beyond for a cause that many have grown weary from or have totally abandoned. I’m inspired by your tenacity and unabated support for #Ukraine ***Thank you for walking your talk.<br />
+    </p>
+    &mdash; <a href="https://twitter.com/MuchnikYev/status/1541445567900880896">Link</a>
+</blockquote>
+
+101/ another constant source of inspiration - [@maksymeristavi](https://twitter.com/maksymeristavi) ❤️‍🔥
+
+he’s an amazing person and i’m very grateful to get to know him this year
+
+🎙he also hosts [@ukrainianspaces](https://twitter.com/ukrainianspaces) - one of the best [#UkrainianVoices](https://twitter.com/hashtag/UkrainianVoices) spaces
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    spending time with a fellow ukrainian these days is a therapy. @cryptodrftng is inspiration for being unapologetically ukrainian. her tireless work for ukraine is legendary. was honor to share this space with you 🫂🫡 https://t.co/jYjGdi43LC<br />
+    </p>
+    &mdash; <a href="https://twitter.com/maksymeristavi/status/1549815496329109504">Link</a>
+</blockquote>
+
+102/ [@ManuAlzuru](https://twitter.com/ManuAlzuru) trusted me to be a keynote speaker at [@eth_barcelona](https://twitter.com/eth_barcelona) and made sure that Ukraine & [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) (🇺🇦,🇺🇦) were a priority at the conference - I’m forever grateful for that ❤️‍🔥
+
+🔗 - [twitter.com/ukraine_dao/st…](https://twitter.com/ukraine_dao/status/1554323355670659072?s=46&t=mWNPUJVgKlwrEA9IIy8zvg)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Manu is an amazing friend and my role model for using #Web3ForGood 💙💛 His support for Ukraine has been unwavering.<br />
+    <br />
+    We love you, @ManuAlzuru. Your team&#39;s @eth_barcelona is a huge inspiration for all of us ❤️ https://t.co/peP5KfwB9n https://t.co/hH9FnngYj0<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1570192193406775296">Link</a>
+</blockquote>
+
+103/ One of my favourite followers of [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) - the Ukrainian Air Force [@KpsZSU](https://twitter.com/KpsZSU) 💙💛 
+
+They are absolute heroes:
+
+Ukrainian helicopter pilots flew food, water and weapons to the Azovstal defenders in Mariupol knowing that 90% (!!!) of them would not return.
+
+[#ArmUkraineNow](https://twitter.com/hashtag/ArmUkraineNow)
+
+| [![](/media/1572769240926789633/3_1607946440176816128.jpg)](/media/1572769240926789633/3_1607946440176816128.jpg) |
+| :-: |
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Happy Ukrainian Air Force Day 🥳<br />
+    <br />
+    @KpsZSU are our heroes 😍<br />
+    <br />
+    Did I tell you we need fighter jets? 👀<br />
+    <br />
+    🎞 Here&#39;s a snippet of my presentation about @Ukraine_DAO at @eth_barcelona https://t.co/lxDe8A2TW2<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1556196621192404992">Link</a>
+</blockquote>
