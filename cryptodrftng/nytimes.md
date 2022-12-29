@@ -191,3 +191,12 @@ Rare good news in this 🧵
     </p>
     &mdash; <a href="https://twitter.com/loffredojeremy/status/1600540890946322433">Link</a>
 </blockquote>
+
+Walter Duranty is dead, but his spirit persists ✊ [@nytimes](https://twitter.com/nytimes)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Disappointed that @NYTimes has declared that “both sides have hard line positions.” There is nothing “hard line” about Ukraine wanting to be whole, free, and at peace. It is their right under international law.  https://t.co/jDUnXtCk50<br />
+    </p>
+    &mdash; <a href="https://twitter.com/RTPerson3/status/1608180769154809856">Link</a>
+</blockquote>
