@@ -1666,3 +1666,15 @@ What's wrong with them? Seriously.
     </p>
     &mdash; <a href="https://twitter.com/bctallis/status/1605825461837234177">Link</a>
 </blockquote>
+
+144/ [#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0) все ще нікчемчина🇩🇪
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    A senior German intelligence officer arrested on suspicion of spying for #Russia had access to a trove of top-secret information about the war in #Ukraine as well as knowledge of how it was collected by the U.S. and its allies.<br />
+    @WSJ <br />
+    1/2<br />
+    https://t.co/OA2NK7ZAbI<br />
+    </p>
+    &mdash; <a href="https://twitter.com/KramarenkoMari3/status/1608570859601682432">Link</a>
+</blockquote>
