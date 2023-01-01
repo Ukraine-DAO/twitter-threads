@@ -1122,3 +1122,17 @@ I want to emphasise that this is absolutely normal in their "culture".
     </p>
     &mdash; <a href="https://twitter.com/SymkinM/status/1607200278062694400">Link</a>
 </blockquote>
+
+[#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F) - Удівітєльний брєд 🧐
+
+| [![](/media/1576551020024320000/3_1609586128289415171.jpg)](/media/1576551020024320000/3_1609586128289415171.jpg) |
+| :-: |
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @Alexey1789 Удівітєльний брєд - це думати, що когось в Україні цікавить ваше «дохєра ценноє мненіє». <br />
+    <br />
+    Шо ви нам ще розкажете? 😂 https://t.co/eBhOAw1DkE<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1609572419009757184">Link</a>
+</blockquote>
