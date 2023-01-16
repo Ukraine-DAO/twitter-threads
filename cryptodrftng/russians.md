@@ -1633,3 +1633,33 @@ Please respond to the issues I raised here - [twitter.com/cryptodrftng/s…](htt
     </p>
     &mdash; <a href="https://twitter.com/navalny/status/1606242386698330112">Link</a>
 </blockquote>
+
+136/ Dnipro 💔
+
+[#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians)  [#armukrainenow](https://twitter.com/hashtag/armukrainenow)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    The woman pulled out of the rubble in Dnipro is Kateryna Zelenskaya. She is deaf and couldn&#39;t call for help. Rescuers continue searching for her one-year-old son and husband. At the moment, the number of victims of the Russian attack is 40 innocent people. https://t.co/c5NuGkOCVJ<br />
+    </p>
+    &mdash; <a href="https://twitter.com/maria_avdv/status/1614941737880883200">Link</a>
+</blockquote>
+
+137/ Dnipro 💔
+
+[#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#armukrainenow](https://twitter.com/hashtag/armukrainenow)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    💭 My friend @i_ce from Dnipro:<br />
+    <br />
+    &#34;The name of the area hit in Dnipro is Peremoha [Victory]. I grew up there. <br />
+    <br />
+    Lots of friends in the neighboring houses.<br />
+    <br />
+    So, the Victory was ours and will be ours, but rusnya will soon vanish&#34;<br />
+    <br />
+    #russiaisaterroriststate https://t.co/3VkmNES5CU<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1614290520762888193">Link</a>
+</blockquote>
