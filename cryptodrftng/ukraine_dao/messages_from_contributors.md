@@ -718,3 +718,12 @@ Dima is based 🔥
     </p>
     &mdash; <a href="https://twitter.com/GicAriana/status/1572449005111476226">Link</a>
 </blockquote>
+
+"- 7 followers. Joined yesterday.
+ 
+- Joined yesterday, fucked off today." 
+
+[#UKDQuotes](https://twitter.com/hashtag/UKDQuotes)
+
+| [![](/media/1572454265087557632/3_1617515165817180160.jpg)](/media/1572454265087557632/3_1617515165817180160.jpg) |
+| :-: |
