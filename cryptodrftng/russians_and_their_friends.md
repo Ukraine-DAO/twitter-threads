@@ -1148,3 +1148,20 @@ I want to emphasise that this is absolutely normal in their "culture".
     </p>
     &mdash; <a href="https://twitter.com/atLakeNATO/status/1615257032814383104">Link</a>
 </blockquote>
+
+[#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F) [@meowasfuckk](https://twitter.com/meowasfuckk) спасібо за ваше нєравнодушиє 💞✨
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    УКРАІНЦЬі, ХОХЛЬі, УКРОПЬі, братья🤌🏻🫂<br />
+    <br />
+    Давайтє вмєсте пожелаєм ім смєрті, чтоб нє бьіть равнодушньімі сволочамі🫴🏻✨️<br />
+    <br />
+    Пусть на всякій случяй сдохнут всє🥹🥰<br />
+    <br />
+    Dead russian is a new sexy✨️<br />
+    <br />
+    #хтивийпонеділок #sexymonday https://t.co/hstc21sL3k<br />
+    </p>
+    &mdash; <a href="https://twitter.com/meowasfuckk/status/1617452739335979008">Link</a>
+</blockquote>
