@@ -977,3 +977,14 @@ Ukrainian helicopter pilots flew food, water and weapons to the Azovstal defende
     </p>
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1556196621192404992">Link</a>
 </blockquote>
+
+104/ [@rizzn](https://twitter.com/rizzn) 🫂
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Proud to call Alona my friend... and not just because she&#39;s turned into a historically significant power broker on an international stage, but because she&#39;s one of the kindest and most genuine people I know.<br />
+    <br />
+    I&#39;m always bragging on her to anyone who&#39;ll hear me. https://t.co/dtnQyHiPaZ<br />
+    </p>
+    &mdash; <a href="https://twitter.com/rizzn/status/1620660841132752896">Link</a>
+</blockquote>
