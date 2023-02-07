@@ -1178,3 +1178,14 @@ I want to emphasise that this is absolutely normal in their "culture".
     </p>
     &mdash; <a href="https://twitter.com/maxfras/status/1617644776760954882">Link</a>
 </blockquote>
+
+[#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F) - розпові вчительке про UK governmen 
+
+Reference to entry 57/ - 🔗 [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1570486484649615362?s=46&t=nzAY0aaauyqaiKok70tkQQ)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Wake up babe, new розпові вчительке just dropped https://t.co/dXgcST58xP https://t.co/laRHTgEXJs<br />
+    </p>
+    &mdash; <a href="https://twitter.com/avaritiaprima/status/1623013519816896535">Link</a>
+</blockquote>
