@@ -1189,3 +1189,19 @@ Reference to entry 57/ - 🔗 [twitter.com/cryptodrftng/s…](https://twitter.co
     </p>
     &mdash; <a href="https://twitter.com/avaritiaprima/status/1623013519816896535">Link</a>
 </blockquote>
+
+[#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F) 
+
+Ще сніжинки не довирізали (🔗 [twitter.com/cryptodrftng/s…](https://twitter.com/cryptodrftng/status/1601273471094300672?s=46&t=XSLRuEeJCi4V9DcV_ROTnA)) , вже знову карточки 
+
+cc: [@podviaznikov](https://twitter.com/podviaznikov)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    1/5<br />
+    Подробнее рассказываем о кампании «Свободу Навальному» в карточках!<br />
+    <br />
+    Чтобы помогать Навальному, нужно бороться с Путиным, чтобы бороться с Путиным, нужно в том числе говорить о Навальном. Эти вещи взаимосвязаны. https://t.co/JCJG7uyNFH<br />
+    </p>
+    &mdash; <a href="https://twitter.com/teamnavalny/status/1615343452090425345">Link</a>
+</blockquote>
