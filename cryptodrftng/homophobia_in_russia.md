@@ -48,3 +48,13 @@ racism and xenophobia are russia."
 
  🌈🇺🇦
 [instagram.com: Військові ЛГБТІК+ (@lgbtiqmilitary) • Instagram photos and videos](https://instagram.com/lgbtiqmilitary)
+
+Update from [@endaomentdotorg](https://twitter.com/endaomentdotorg) 🇺🇦❤️🏳️‍🌈
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    It&#39;s here! Check out our 🌎 𝟮𝟬𝟮𝟮 𝗜𝗺𝗽𝗮𝗰𝘁 𝗥𝗲𝗽𝗼𝗿𝘁 for a snapshot of our ecosystem&#39;s growth and development over the past year, with highlights from our generous donors and hardworking @EndaomentOrgs → https://t.co/mY6NldFVWN<br />
+    #EndaomentImpact #ConsciousCrypto https://t.co/KWbSjuV7tW<br />
+    </p>
+    &mdash; <a href="https://twitter.com/endaomentdotorg/status/1623433836913909761">Link</a>
+</blockquote>
