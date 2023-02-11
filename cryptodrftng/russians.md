@@ -1663,3 +1663,12 @@ Please respond to the issues I raised here - [twitter.com/cryptodrftng/s…](htt
     </p>
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1614290520762888193">Link</a>
 </blockquote>
+
+138/ [#russianwarcrimea](https://twitter.com/hashtag/russianwarcrimea) Kakhovka, the Kherson Oblast
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    &#34;Had a new client today. He is from Kakhovka. With tears in his eyes, he talked about the horrors that the occupants put civilians through: they shoot pets in front of their owners, keep people in basements with hands tied and beat, torture, cut off their ears, electrocute...&#34; https://t.co/SBXuxx7cAi<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1624257650656440320">Link</a>
+</blockquote>
