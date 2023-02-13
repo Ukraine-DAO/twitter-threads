@@ -1205,3 +1205,23 @@ cc: [@podviaznikov](https://twitter.com/podviaznikov)
     </p>
     &mdash; <a href="https://twitter.com/teamnavalny/status/1615343452090425345">Link</a>
 </blockquote>
+
+[#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F) 
+
+"Воздєржітєсь от уніженія рускіх" - Іл'я Яшин
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Кто в єтот момент истории постоит за русский многострадальньій народ? Кто хотя бьі на секунду задумьівался о его ранах, боли и от том, как коварньій злодей Путин овладел его сознанием? Аки Саруман ведет он в бой своих орков без души и ума. Можем ли мьі назьівать их русскими? https://t.co/vPuW4tHy2p<br />
+    </p>
+    &mdash; <a href="https://twitter.com/bloombeary/status/1625186087516749840">Link</a>
+</blockquote>
+
+100/ [@bloombeary](https://twitter.com/bloombeary) ви нє моглі би помочь пєрєдать Іл'є мою запіску?🕊
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @betelgeuse1922 I have a New Year note for him 😂 https://t.co/8JLF1rMzZG<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1609198377933365248">Link</a>
+</blockquote>
