@@ -1672,3 +1672,16 @@ Please respond to the issues I raised here - [twitter.com/cryptodrftng/s…](htt
     </p>
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1624257650656440320">Link</a>
 </blockquote>
+
+139/ A russian shooting a wounded soldier of the Armed Forces of Ukraine
+
+[#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Лишаю посилання на відео для збереження і розповсюдження<br />
+    <br />
+    https://t.co/z6qVTHvPHk<br />
+    </p>
+    &mdash; <a href="https://twitter.com/necyryl/status/1625410178685313024">Link</a>
+</blockquote>
