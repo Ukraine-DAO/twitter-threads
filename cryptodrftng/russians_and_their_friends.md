@@ -1225,3 +1225,16 @@ cc: [@podviaznikov](https://twitter.com/podviaznikov)
     </p>
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1609198377933365248">Link</a>
 </blockquote>
+
+101/ [#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F)
+
+ [@pyshni](https://twitter.com/pyshni), ето хєйтспіч))
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Почєму єхать убівать укрАінцев НА УкрАінє нє зашквар - об&#39;ясняєм на карточках<br />
+    <br />
+    ДАННОЄ СООБЩЄНІЄ/МАТЄРІАЛ ВИСРАНО/ВИРИГАНО ЙОБАНОЮ БЕЗВОЛЬНОЮ ЗАЛУПОЮ, ЯКА ССИТЬ БУТИ В РОСІЇ, АЛЕ З ДУЖЕ ВУМНИМ ЄБАЛОМ РОЗКАЖЕ ВАМ, ЧТО НЄ ВСЄ РУССКІЄ ТАКІЄ І ВООБЩЄ У НІХ ЄСТЬ ПРІЧІНИ УБІВАТЬ ХОХ*ОВ<br />
+    </p>
+    &mdash; <a href="https://twitter.com/pyshni/status/1574041867280318464">Link</a>
+</blockquote>
