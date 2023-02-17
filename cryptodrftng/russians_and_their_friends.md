@@ -1238,3 +1238,20 @@ cc: [@podviaznikov](https://twitter.com/podviaznikov)
     </p>
     &mdash; <a href="https://twitter.com/pyshni/status/1574041867280318464">Link</a>
 </blockquote>
+
+102/ [#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F) продовжує нестримні протести проти війни.
+
+Протести:
+
+| [![](/media/1576551020024320000/3_1626548496714158080.jpg)](/media/1576551020024320000/3_1626548496714158080.jpg) |
+| :-: |
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    &#34;but not all Russians want war!!!111&#34;<br />
+    <br />
+    and the ones who do not want draw small pacifics. now compare this to the scale of anti-Vietnam War protests featuring MLK and Neil Armstrong <br />
+     https://t.co/Gk7eiOxjOY https://t.co/tWRjcquHkQ<br />
+    </p>
+    &mdash; <a href="https://twitter.com/radiowestin/status/1626468900887056384">Link</a>
+</blockquote>
