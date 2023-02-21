@@ -1685,3 +1685,13 @@ Please respond to the issues I raised here - [twitter.com/cryptodrftng/s…](htt
     </p>
     &mdash; <a href="https://twitter.com/necyryl/status/1625410178685313024">Link</a>
 </blockquote>
+
+140/ [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes)  
+i'm sorry i can't say anything else here
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    This is the hand of a teenage girl whom russian terrorist missile killed today in Kherson. Ukrainian girls are murdered, raped and kidnapped, they hide in the shelters from russian bombs, their dads and brothers are killed on the frontlines. The world has to stop terrorist russia https://t.co/xavujGdnBO<br />
+    </p>
+    &mdash; <a href="https://twitter.com/OlenaHalushka/status/1628057398979006467">Link</a>
+</blockquote>
