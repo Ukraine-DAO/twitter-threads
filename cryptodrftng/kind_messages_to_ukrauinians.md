@@ -988,3 +988,15 @@ Ukrainian helicopter pilots flew food, water and weapons to the Azovstal defende
     </p>
     &mdash; <a href="https://twitter.com/rizzn/status/1620660841132752896">Link</a>
 </blockquote>
+
+105/ Thank you, [@RobinFSuburbia](https://twitter.com/RobinFSuburbia) 💙💛
+
+✨Being Ukrainian is a superpower ✨
+[#UkraineWillWin](https://twitter.com/hashtag/UkraineWillWin)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @cryptodrftng @bellingcat @Timmi_Allen It baffles me how you manage to both deal with this shit and catalogue it so well. Keep fighting the good fight @cryptodrftng<br />
+    </p>
+    &mdash; <a href="https://twitter.com/RobinFSuburbia/status/1627783085482815491">Link</a>
+</blockquote>

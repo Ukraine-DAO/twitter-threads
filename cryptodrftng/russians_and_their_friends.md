@@ -1255,3 +1255,20 @@ cc: [@podviaznikov](https://twitter.com/podviaznikov)
     </p>
     &mdash; <a href="https://twitter.com/radiowestin/status/1626468900887056384">Link</a>
 </blockquote>
+
+103/ [#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F) 
+
+«"not-so-bad" russians are now CANCELLING Navalny, for doing bare minimum like recognizing international borders of a sovereign country.
+
+They are calling him, wait for it, TRANSUKRAINIAN.» - [@aljooperator](https://twitter.com/aljooperator)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    &#34;not-so-bad&#34; russians are now CANCELLING Navalny, for doing bare minimum like recognizing international borders of a sovereign country.<br />
+    <br />
+    They are calling him, wait for it, TRANSUKRAINIAN.<br />
+    <br />
+    What a sight 😌. So many levels. https://t.co/nS4BFL2CTe<br />
+    </p>
+    &mdash; <a href="https://twitter.com/aljooperator/status/1627967361058844672">Link</a>
+</blockquote>
