@@ -180,3 +180,8 @@ On October 25 Rusich posted their desires of the measures to be taken in Ukraine
 
 All the property of former Ukraine must also be divided among the soldiers.
 The soldiers must be compensated for their risks in the war, and the measly 200k per month (not much can be bought) is not very motivating."
+
+Rusich finally admits that they took part in the full scale invasion of Ukraine since day one, February 24, 2022. Source: [t.me: ДШРГ Русич](https://t.me/dshrg2/642)
+
+| [![](/media/1570714344899645444/3_1628640353669480448.png)](/media/1570714344899645444/3_1628640353669480448.png) |
+| :-: |
