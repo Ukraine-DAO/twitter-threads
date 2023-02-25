@@ -1256,19 +1256,22 @@ cc: [@podviaznikov](https://twitter.com/podviaznikov)
     &mdash; <a href="https://twitter.com/radiowestin/status/1626468900887056384">Link</a>
 </blockquote>
 
-103/ [#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F) 
-
-«"not-so-bad" russians are now CANCELLING Navalny, for doing bare minimum like recognizing international borders of a sovereign country.
-
-They are calling him, wait for it, TRANSUKRAINIAN.» - [@aljooperator](https://twitter.com/aljooperator)
+103/ standard [#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
-    &#34;not-so-bad&#34; russians are now CANCELLING Navalny, for doing bare minimum like recognizing international borders of a sovereign country.<br />
+    In one tweet, a russian “liberal” has tried to prove me that russians are “reflecting” on repressions, Holodomor, conquests but he also told me, a Ukrainian, that I’m “exaggerating the horrors of russian history” HAHAHAH. <br />
     <br />
-    They are calling him, wait for it, TRANSUKRAINIAN.<br />
-    <br />
-    What a sight 😌. So many levels. https://t.co/nS4BFL2CTe<br />
+    Make your own conclusions from this. https://t.co/5efuAFxOJV<br />
     </p>
-    &mdash; <a href="https://twitter.com/aljooperator/status/1627967361058844672">Link</a>
+    &mdash; <a href="https://twitter.com/YuliaTymosha/status/1628652589817511937">Link</a>
 </blockquote>
+
+104/ [#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F) "Як вирахувати русню: демонстрація українців = беспорядок і переполох. Ну точно ж, вони так у себе у болоті тихо відсиджуються" 
+
+"How to spot русня: demonstrate that Ukrainians = disorder & chaos. Of course, they sit quietly in their swamp."
+
+via [@NatalyaTessa](https://twitter.com/NatalyaTessa)
+
+| [![](/media/1576551020024320000/3_1629572086220963841.jpg)](/media/1576551020024320000/3_1629572086220963841.jpg) | [![](/media/1576551020024320000/3_1629572086187413513.jpg)](/media/1576551020024320000/3_1629572086187413513.jpg) |
+| :-: | :-: |
