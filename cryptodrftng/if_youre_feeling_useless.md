@@ -1593,51 +1593,44 @@ What's wrong with them? Seriously.
     &mdash; <a href="https://twitter.com/marlowc2324/status/1600703408381792256">Link</a>
 </blockquote>
 
-139/ "German anger over its energy crisis" has to be the most tragicomical thing ever
-
-[#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0) [#germany](https://twitter.com/hashtag/germany) 
-
-🔗 [www.washingtonpost.com: Russian disinformation is demonizing Ukrainian refugees](https://www.washingtonpost.com/technology/2022/12/08/russian-disinfo-ukrainian-refugees-germany/)
-
-| [![](/media/1563607266191781890/3_1600963609429004315.jpg)](/media/1563607266191781890/3_1600963609429004315.jpg) |
-| :-: |
+139/ Thank you so much [@marlowc2324](https://twitter.com/marlowc2324) for posting this 
+Many of my conversations with Germans showed me they just didn’t see me as an equal human being. Not all of them, but many, and here’s one of the reasons why.
+[#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0) [#germanyv](https://twitter.com/hashtag/germanyv)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
-    How a major Russian disinformation campaign is trying to demonise Ukrainian refugees in Europe  https://t.co/1qaYa5h9YG<br />
+    Why Germany has allowed its shame of being responsible for Soviet deaths to only translate to russia https://t.co/6pXu7HG3dQ<br />
     </p>
-    &mdash; <a href="https://twitter.com/ianbirrell/status/1600765336911228928">Link</a>
+    &mdash; <a href="https://twitter.com/marlowc2324/status/1600706699689885698">Link</a>
 </blockquote>
 
-140/ A bit more whitewashing of war criminals from Germany:
+140/ [#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0) - все як звичайно 
 
-“Serebrennikov shows his play in a theater in Hamburg, where a poor soldier of an aggressor was captured in a village, where the inhabits are also poor, ruthless but at the end "brothers"
+[#slavadeutschland](https://twitter.com/hashtag/slavadeutschland) 🕊🤦‍♀️
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
-    @VitscheBerlin @maksymeristavi @cryptodrftng Serebrennikov shows his play in a theater in Hamburg, where a poor soldier of an aggressor was captured in a village, where the inhabits are also poor, ruthless but at the end &#34;brothers&#34;<br />
-    https://t.co/Xw1auXS9yx<br />
+    As I am posting, the bombs are exploding killing civilians, a pro-Russian March passes me by in #Berlin, #Russian imperial flags, #German flags, posters FRIENDSHIP and NO WEAPONS TO #Ukraine. A Ukrainian refugee watches, tears in her eyes. Her son is a target back home in #Kyiv. https://t.co/qbuLlNPXL6 https://t.co/sQQJHlEuJd<br />
     </p>
-    &mdash; <a href="https://twitter.com/mishakosmikov/status/1601543585421463554">Link</a>
+    &mdash; <a href="https://twitter.com/ZarinaZabrisky/status/1614264990713937921">Link</a>
 </blockquote>
 
-141/  [@berlin_bridge](https://twitter.com/berlin_bridge) is based as usual 
+141/ [#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0) - все ще так само нікчемно, як вчора 
 
-[#germanyfundsgenocide](https://twitter.com/hashtag/germanyfundsgenocide) [#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0)
+[#slavadeutschland](https://twitter.com/hashtag/slavadeutschland)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
-    Jessica Berlin @berlin_bridge again spot on!<br />
-    Really worth reading!  &#34;We need an international investigation of Germany&#39;s Russia ties&#34;<br />
-    Geopolitics expert Jessica Berlin on the reasons Germany won&#39;t investigate its Moscow connection<br />
-    https://t.co/nSH3QuJnxY<br />
+    German energy policy in its purest form:<br />
+    <br />
+    Police rolling around in mud attempting to protect a mine that serves almost exactly the same amount of energy (37 TWh in 2022) as Germany is turning off in a few weeks from its world-class nuclear fleet (30TWh).<br />
+    <br />
+    https://t.co/zEcVJbi2zv<br />
     </p>
-    &mdash; <a href="https://twitter.com/virtaava/status/1602215184134770690">Link</a>
+    &mdash; <a href="https://twitter.com/energybants/status/1614738800609042437">Link</a>
 </blockquote>
 
-142/ Today in our regular section 🇩🇪 SLAVA DEUTSCHLAND 🇩🇪 - commentary about [@ZelenskyyUa](https://twitter.com/ZelenskyyUa)'s visit to Washington 
- 
-
+142/ [#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -1654,27 +1647,62 @@ What's wrong with them? Seriously.
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1606493243566350338">Link</a>
 </blockquote>
 
-143/ [@bctallis](https://twitter.com/bctallis) 🧵 with analysis of entry 1
+143/ [@radiowestin](https://twitter.com/radiowestin) 💯 
+
+It’s weird to me when people talk about how Germany after WWII “started from square 1” and what “a long way it went”.
+
+ It really didn’t. 
+
+To me it looks more like:
+
+ “We’ve been told we shouldn’t commit genocide. So this time we will just fund it.” 🕊☮️
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
-    “This journey to #Washington from #Zelenskiy, it is an act of desperation.&#34; <br />
+    German Nazism stems from German imperialism, things Russians do now - stem from Russian imperialism, never properly addressed since Ivan the Terrible<br />
     <br />
-    Disgraceful from #Germany’s main, public-funded news ‘analysis’ show . <br />
-    -@tagesthemen &amp; Host @HelgeFuhst highlight this view from their Washington correspondent @gudrun_engel <br />
-    -why? Short🧵 https://t.co/2pkiqCs4D2<br />
+    it&#39;s not &#39;intrinsic&#39; as in &#39;genetic&#39;, but adopted to the deepest depth https://t.co/HP4Dq6RoWe<br />
     </p>
-    &mdash; <a href="https://twitter.com/bctallis/status/1605825461837234177">Link</a>
+    &mdash; <a href="https://twitter.com/radiowestin/status/1628996234638655490">Link</a>
 </blockquote>
 
-144/ [#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0) все ще нікчемчина🇩🇪
+144/ “Why is it not always remembered that Ukraine was the center of Hitler’s ideology?
+
+Why is it not always remembered that Ukrainians were intended slaves of Germany?”
+
+[@TimothyDSnyder](https://twitter.com/TimothyDSnyder)
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
-    A senior German intelligence officer arrested on suspicion of spying for #Russia had access to a trove of top-secret information about the war in #Ukraine as well as knowledge of how it was collected by the U.S. and its allies.<br />
-    @WSJ <br />
-    1/2<br />
-    https://t.co/OA2NK7ZAbI<br />
+    Dr Timothy Snyder about Germany’s historical responsibility for Ukraine, 2017<br />
+    <br />
+    @TimothyDSnyder https://t.co/Vga4neSo9N https://t.co/XIat4hrOtp<br />
     </p>
-    &mdash; <a href="https://twitter.com/KramarenkoMari3/status/1608570859601682432">Link</a>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1615932226788593666">Link</a>
+</blockquote>
+
+145/ “Why is it not always remembered that Ukrainians were understood racially by Nazi ideology?
+
+Why is it not always remembered that if you want to understand the Holocaust, we have to start with Ukraine?”
+
+[@TimothyDSnyder](https://twitter.com/TimothyDSnyder)
+
+| [![](/media/1563607266191781890/3_1629503083918000129.jpg)](/media/1563607266191781890/3_1629503083918000129.jpg) |
+| :-: |
+
+146/ [@TimothyDSnyder](https://twitter.com/TimothyDSnyder) “On Germany's Historical Responsibility Towards Ukraine”
+
+2017
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    ❗️ESSENTIAL TO WATCH ❗️<br />
+    <br />
+    @TimothyDSnyder On Germany&#39;s Historical Responsibility Towards Ukraine <br />
+    <br />
+    #UkrainianCulture @Ukraine_DAO (🇺🇦,🇺🇦) #UKDFactCheck<br />
+    <br />
+    https://t.co/HFQLbBwOIu<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1603465563862626304">Link</a>
 </blockquote>
