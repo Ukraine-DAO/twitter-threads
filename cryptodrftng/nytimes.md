@@ -200,3 +200,10 @@ Walter Duranty is dead, but his spirit persists ✊ [@nytimes](https://twitter.c
     </p>
     &mdash; <a href="https://twitter.com/RTPerson3/status/1608180769154809856">Link</a>
 </blockquote>
+
+- Знову?
+- Знову. 
+
+[@nytimes](https://twitter.com/nytimes) 🤮
+
+[www.nytimes.com: Opinion | America Is In Over Its Head](https://www.nytimes.com/2023/03/02/opinion/ukraine-aid-united-states-nato.html)
