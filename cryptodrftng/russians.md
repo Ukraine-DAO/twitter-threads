@@ -1695,3 +1695,32 @@ i'm sorry i can't say anything else here
     </p>
     &mdash; <a href="https://twitter.com/OlenaHalushka/status/1628057398979006467">Link</a>
 </blockquote>
+
+141/ The below is a screenshot from a video circulating online at the moment. It shows a Ukrainian POW shot on the spot for saying "Слава Україні" ("Glory to Ukraine")
+
+Passed it to our partners from Starling Lab, they capture and store evidence of war crimes like this on… [twitter.com/i/web/status/1…](https://twitter.com/i/web/status/1632755557068165122)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Сподіваюсь, держава відзначить цього солдата, і ми дізнаємось його ім‘я. <br />
+    Слава Україні. https://t.co/4bkeBX5VE1<br />
+    </p>
+    &mdash; <a href="https://twitter.com/sternenko/status/1632740292011995138">Link</a>
+</blockquote>
+
+142/ [@Ukraine_DAO](https://twitter.com/Ukraine_DAO) helps Project "
+Dokaz of the [@Stanford](https://twitter.com/Stanford)-backed Starling Lab document russian war crimes on blockchain.
+
+The evidence collected by our team on the ground in Kharkiv has been submitted to [@IntlCrimCourt](https://twitter.com/IntlCrimCourt) as part of the first cryptographic dossier submission in the… [twitter.com/i/web/status/1…](https://twitter.com/i/web/status/1632764949301800962)
+
+| [![](/media/1566189007976939523/3_1632764943354281986.jpg)](/media/1566189007976939523/3_1632764943354281986.jpg) |
+| :-: |
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    2/4 @Ukraine_DAO (🇺🇦,🇺🇦) helps Project Dokaz of the @Stanford-backed Starling Lab document russian war crimes on blockchain.<br />
+    <br />
+    The evidence collected by our team in Kharkiv has been submitted to @IntlCrimCourt as part of the first cryptographic dossier submission in the world. https://t.co/JcQLQZbORs<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1631524239093161984">Link</a>
+</blockquote>
