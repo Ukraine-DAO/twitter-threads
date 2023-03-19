@@ -1000,3 +1000,14 @@ Ukrainian helicopter pilots flew food, water and weapons to the Azovstal defende
     </p>
     &mdash; <a href="https://twitter.com/RobinFSuburbia/status/1627783085482815491">Link</a>
 </blockquote>
+
+106/ [@YehorBrailian](https://twitter.com/YehorBrailian) 🫂 
+
+🎙[@Ukraine_DAO](https://twitter.com/Ukraine_DAO) Talks Podcast on UK - Ukraine relations: [open.spotify.com: The UK - Ukraine Relations w/ Yehor Brailian, Ministry of Defence Info Agency - ArmyInform](https://open.spotify.com/episode/3loya8ZmNNDKYRA6RitYYO?si=noNwaW7FRKSAXNI7TNeijA)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @cryptodrftng @armyinformcomua Alona and her team are doing a great work. We have to promote the Ukrainian history, culture and language. If there were such cool encounters between the UK and Ukraine, why not to discuss this on Twitter.<br />
+    </p>
+    &mdash; <a href="https://twitter.com/YehorBrailian/status/1607834023115587587">Link</a>
+</blockquote>
