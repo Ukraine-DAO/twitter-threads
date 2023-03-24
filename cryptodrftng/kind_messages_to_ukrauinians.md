@@ -1011,3 +1011,13 @@ Ukrainian helicopter pilots flew food, water and weapons to the Azovstal defende
     </p>
     &mdash; <a href="https://twitter.com/YehorBrailian/status/1607834023115587587">Link</a>
 </blockquote>
+
+107/ Collecting messages like this helps to cope with bad mental health days 🫂
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @cryptodrftng Thank you SO MUCH! This practice was new to us 👀<br />
+    Thank you for sharing information<br />
+    </p>
+    &mdash; <a href="https://twitter.com/donkotleone/status/1639335678885470208">Link</a>
+</blockquote>
