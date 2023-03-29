@@ -1706,3 +1706,12 @@ Why is it not always remembered that if you want to understand the Holocaust, we
     </p>
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1603465563862626304">Link</a>
 </blockquote>
+
+147/ [#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    шматок польщі? https://t.co/85iJFDnBtc<br />
+    </p>
+    &mdash; <a href="https://twitter.com/nemapovnovazhen/status/1640815412374913024">Link</a>
+</blockquote>
