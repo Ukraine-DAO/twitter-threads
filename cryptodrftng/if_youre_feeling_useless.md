@@ -1715,3 +1715,9 @@ Why is it not always remembered that if you want to understand the Holocaust, we
     </p>
     &mdash; <a href="https://twitter.com/nemapovnovazhen/status/1640815412374913024">Link</a>
 </blockquote>
+
+148/ [#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0)
+
+"Merkel receives the highest possible German award" 
+
+[www.deutschlandfunk.de: Verdienstorden - Merkel bekommt höchstmögliche deutsche Auszeichnung](https://www.deutschlandfunk.de/merkel-bekommt-hoechstmoegliche-deutsche-auszeichnung-100.html)
