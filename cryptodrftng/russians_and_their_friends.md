@@ -1300,3 +1300,16 @@ Second, ELVES? Do they seriously call us ELVES?"
     </p>
     &mdash; <a href="https://twitter.com/fermerzpolissia/status/1635669104567656450">Link</a>
 </blockquote>
+
+107/ [#тупарусня](https://twitter.com/hashtag/%D1%82%D1%83%D0%BF%D0%B0%D1%80%D1%83%D1%81%D0%BD%D1%8F)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Over 9 years of invasion. 407 days of the full-scale genocidal war.<br />
+    <br />
+    The &#34;anti-war&#34; russians like @ponny1  still haven&#39;t figured out that no one cares what russians support 🤌<br />
+    <br />
+    cc: @atLakeNATO https://t.co/aA73a3eLki<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1643870580003729409">Link</a>
+</blockquote>
