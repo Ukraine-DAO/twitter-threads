@@ -1724,3 +1724,14 @@ The evidence collected by our team on the ground in Kharkiv has been submitted t
     </p>
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1631524239093161984">Link</a>
 </blockquote>
+
+143/ Askania Nova 😭😭😭  [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Invaders killed animals in Askania Nova nature reserve — Nikolaevsky Vanyok<br />
+    <br />
+     Until now, the Ukrainian administration has worked in the biosphere reserve, despite the occupation, but on March 20, the occupiers added the reserve to the Russian register and appointed their… https://t.co/uDONbEkVvH https://t.co/4FPIiU1XyN<br />
+    </p>
+    &mdash; <a href="https://twitter.com/Lyla_lilas/status/1644436790755880986">Link</a>
+</blockquote>
