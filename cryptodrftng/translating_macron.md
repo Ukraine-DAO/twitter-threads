@@ -189,3 +189,12 @@ Translation: "Emmanuel Macron loses all credibility because of worrying too much
     </p>
     &mdash; <a href="https://twitter.com/nastasiaKlimash/status/1596996158710513664">Link</a>
 </blockquote>
+
+дякую пані [@nichvydycia](https://twitter.com/nichvydycia) і [@KhaterDiana](https://twitter.com/KhaterDiana), програла
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    все інше фільтрує офіс президента Франції, щоб воно не звучало занадто дико https://t.co/ekdzFrl4Aq<br />
+    </p>
+    &mdash; <a href="https://twitter.com/nichvydycia/status/1645117426617466881">Link</a>
+</blockquote>
