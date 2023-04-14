@@ -1735,3 +1735,33 @@ The evidence collected by our team on the ground in Kharkiv has been submitted t
     </p>
     &mdash; <a href="https://twitter.com/Lyla_lilas/status/1644436790755880986">Link</a>
 </blockquote>
+
+144/ “Look how russian POWs live in Ukraine, don't forget these people came here to kill us” - [@YevYevhenii](https://twitter.com/YevYevhenii) 
+
+[#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Look how Russian POWs live in Ukraine, don&#39;t forget these people came here to kill us https://t.co/D4ofsnuOgn<br />
+    </p>
+    &mdash; <a href="https://twitter.com/YevYevhenii/status/1646604138984230936">Link</a>
+</blockquote>
+
+145/ “russians forcefully deported over 100,000 Ukrainian children from East of Ukraine to russia for "medical treatment"
+
+[#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians)
+[#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) 
+[#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate)
+
+🔗 [sprotyv.mod.gov.ua/2023/04/12/ros…](https://sprotyv.mod.gov.ua/2023/04/12/rosiyany-vyvezly-ponad-100-tys-ditej-zi-shodu-ukrayiny-na-likuvannya/)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    🚨 russians forcefully deported over 100,000 Ukrainian children from East of Ukraine to russia for &#34;medical treatment&#34;<br />
+    <br />
+    #GenocideOfUkrainians #russianwarcrimes #russiaisaterroriststate <br />
+    <br />
+    https://t.co/vXVpEmk1F1 https://t.co/d8XS9Y23mF<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1646185937750179840">Link</a>
+</blockquote>
