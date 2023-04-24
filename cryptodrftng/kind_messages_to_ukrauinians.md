@@ -1021,3 +1021,12 @@ Ukrainian helicopter pilots flew food, water and weapons to the Azovstal defende
     </p>
     &mdash; <a href="https://twitter.com/donkotleone/status/1639335678885470208">Link</a>
 </blockquote>
+
+108/ З'явився фанат. [@h_kolfyeld](https://twitter.com/h_kolfyeld)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    @cryptodrftng Я ваш фанат.<br />
+    </p>
+    &mdash; <a href="https://twitter.com/h_kolfyeld/status/1650351252453335040">Link</a>
+</blockquote>
