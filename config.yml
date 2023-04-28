@@ -539,55 +539,6 @@ root:
         thread_id: 1601942975655088134
         title: Denis is being very naive and confused about the existence of russian opposition
 
-    kapparov:
-      title: Threads by Madi Kapparov
-      it_is_genocide: # 40
-        thread_id: 1530586056805974016
-        title: How to check if it's really genocide and whether peace in Ukraine can be reached through diplomatic negotiations with russia.
-      navalny: 1568057388887859205
-      fate_of_russia_1:
-        thread_id: 1534196125217202177
-        title: "On the fate of russia: part 1"
-      fate_of_russia_2:
-        thread_id: 1536171045677326337
-        title: "On the fate of russia: part 2"
-      fate_of_russia_3:
-        thread_id: 1539705664771182593
-        title: "On the fate of russia: part 3"
-      on_russophobia:
-        thread_id: 1532242908979597314
-        title: On Russophobia, a Healthy Response to Aggressive Colonialism
-      first_chechen_war:
-        thread_id: 1529912581766451202
-        title: Rebirth of Russian Colonialism - First Chechen War
-      second_chechen_war:
-        thread_id: 1530874126491066369
-        title: A Cautionary Tale on Why Russia Cannot be Trusted - Second Chechen War
-      language_as_weapon:
-        thread_id: 1523742039501770753
-        title: Russian Language as a Political Weapon
-      russkyi_mir:
-        thread_id: 1523740248920199168
-        title: Russkyi mir - Русский мир
-      patriarch_kirill_explains_invasion:
-        thread_id: 1528985861152546816
-        title: Patriarch Kirill’s Explanation of the Russian Invasion of Ukraine
-      protests_in_karakalpakstan:
-        thread_id: 1544777095301169152
-        title: On the Protests in Karakalpakstan, Uzbekistan
-      rusich:
-        thread_id: 1570714344899645444
-        title: DShRG Rusich - ДШРГ Русич
-      russian_imperial_movement:
-        thread_id: 1561818421968441346
-        title: Russian Imperial Movement - Русское Имперское Движениe
-      nazism:
-        thread_id: 1574051168074047489
-        title: Nazism is mainstream in russia
-      russia_will_lose:
-        thread_id: 1578101488139833353
-        title: The russians will lose this war, but I do not think it is a matter of months
-
     in_ukrainian:
       title: Threads in Ukrainian
       soft_assimilation:
