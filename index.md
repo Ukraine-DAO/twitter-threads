@@ -14,4 +14,3 @@ Selected Twitter threads, in a more readable shape and preserved for posterity.
 * [Russians In Ireland](russians_in_ireland.md) (by [Anton Dykyi 🇺🇦 🇬🇧](https://twitter.com/AntonDykyi))
 * [On attack against Kama and russian media tactics](on_kama_and_russian_tactics.md) (by [Fellafucius](https://twitter.com/Slushy_buck))
 * [Don't trust russians to serve as translators](dont_trust_russians_to_translate.md) (by [Ketkin](https://twitter.com/Ketkin_biophys))
-* [russian culture is a dishonour culture](dishonour_culture.md) (by [Just a Bunnї](https://twitter.com/Bunnyrabert))
