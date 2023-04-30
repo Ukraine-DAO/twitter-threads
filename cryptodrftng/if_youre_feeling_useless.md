@@ -1721,3 +1721,14 @@ Why is it not always remembered that if you want to understand the Holocaust, we
 "Merkel receives the highest possible German award" 
 
 [www.deutschlandfunk.de: Verdienstorden - Merkel bekommt höchstmögliche deutsche Auszeichnung](https://www.deutschlandfunk.de/merkel-bekommt-hoechstmoegliche-deutsche-auszeichnung-100.html)
+
+149/ [#нікчемчина](https://twitter.com/hashtag/%D0%BD%D1%96%D0%BA%D1%87%D0%B5%D0%BC%D1%87%D0%B8%D0%BD%D0%B0) strikes again
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Внесла невеликі поправки в заголовок. <br />
+    <br />
+    ✅ Додам цю статтю в мій 🧵 про нікчемчину - https://t.co/W5NclsTd4D https://t.co/ubuGDRz4pV https://t.co/hfnaBrDpVe<br />
+    </p>
+    &mdash; <a href="https://twitter.com/cryptodrftng/status/1652603099696054272">Link</a>
+</blockquote>
