@@ -1765,3 +1765,18 @@ The evidence collected by our team on the ground in Kharkiv has been submitted t
     </p>
     &mdash; <a href="https://twitter.com/cryptodrftng/status/1646185937750179840">Link</a>
 </blockquote>
+
+146/ [eyesonrussia.org: Eyes on Russia Map](https://eyesonrussia.org)
+
+[#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate)  [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes) [@Cen4infoRes](https://twitter.com/Cen4infoRes) [#UKDFactCheck](https://twitter.com/hashtag/UKDFactCheck)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    Russia&#39;s full-scale invasion has devastated Ukraine&#39;s education system.   <br />
+    <br />
+    In our new film, we explain how, through open source, we&#39;re able to investigate, verify &amp; map incidents - including hundreds of damaged &amp; destroyed kindergartens, schools, colleges &amp; universities. <br />
+    <br />
+    See… https://t.co/H6sukdOTWK https://t.co/uMJ6Lnb0vM<br />
+    </p>
+    &mdash; <a href="https://twitter.com/Cen4infoRes/status/1658417934069293057">Link</a>
+</blockquote>
