@@ -1780,3 +1780,17 @@ The evidence collected by our team on the ground in Kharkiv has been submitted t
     </p>
     &mdash; <a href="https://twitter.com/Cen4infoRes/status/1658417934069293057">Link</a>
 </blockquote>
+
+147/ Dnipro, civilian hospital 
+
+[#GenocideOfUkrainians](https://twitter.com/hashtag/GenocideOfUkrainians) [#russiaisaterroriststate](https://twitter.com/hashtag/russiaisaterroriststate)  [#russianwarcrimes](https://twitter.com/hashtag/russianwarcrimes)
+
+<blockquote class="twitter-tweet">
+    <p lang="en" dir="ltr">
+    м. Дніпро, цивільна лікаря.<br />
+    Геноцид Української Нації.<br />
+    #stoprussia<br />
+    Telegram - https://t.co/GLExONwd4u https://t.co/M6lb3ycEnt<br />
+    </p>
+    &mdash; <a href="https://twitter.com/Shtirlitz53/status/1662019102758535168">Link</a>
+</blockquote>
